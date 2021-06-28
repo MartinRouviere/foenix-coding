@@ -1,32 +1,53 @@
 .navbar-foenix {
   display: flex;
-  width: 100%;
+  // width: 100%;
   justify-content: space-between;
-  padding: 0 100px 0 50px;
+  padding: 32px;
   height: 80px;
   align-items: center;
-  background-color: transparent;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.05);
   //added this to account for gradient background in home-page
-  position: absolute;
-  z-index: 10000;
+  // position: absolute;
+  // z-index: 10000;
   //end of c
 
   @include for-medium-devices-down {
+    box-shadow: none;
     padding: 20px 40px 0 20px;
+    border-radius: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background: transparent;
   }
 
   @include for-phone-only {
     padding: 20px 30px 0 20px;
   }
 }
+.navbar-wrapper {
+  padding: 48px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  @include for-medium-devices-down {
+    padding: 0;
+    position: relative;
+    z-index: unset;
+  }
+}
+
 
 .navbar-title {
   color: #051B28;
-  font-size: 1rem;
+  font-size: 14px;
   &:after {
     display: block;
     content: '';
-    border-bottom: solid 2px #DFA740;
+    border-bottom: solid 2px $orange;
     transform: scaleX(0);
     transition: transform 0.25s ease-in-out;
   }
@@ -76,11 +97,11 @@
   align-items: center;
 }
 
-.mid-screen-min {
-  @include for-small-devices-up {
-    width: 450px;
-  }
-}
+// .mid-screen-min {
+//   @include for-small-devices-up {
+//     width: 450px;
+//   }
+// }
 
 .navbar-right {
   display: flex;
@@ -94,7 +115,7 @@
 // }
 
 .navbar-logo {
-  width: 50px;
+  width: 40px;
 }
 
 .small-chevron {
@@ -255,7 +276,6 @@
 }
 
 .printers-text {
-  padding-left: 30px !important;
   font-size: 12px !important;
   margin: 10px 0 !important;
 }
@@ -265,7 +285,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 10px 0 0 !important;
+  padding: 0 24px !important;
   &:hover {
     background: #F6F9FC;
   }

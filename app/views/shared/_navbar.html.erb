@@ -1,158 +1,177 @@
-<div class="navbar-foenix">
-  <div class="navbar-left">
-    <%= link_to root_path do %>
-      <%= image_tag "logo.png", alt: "Foenix Coding", class: "navbar-logo nav-left" %>
-    <% end %>
-    <div class="d-flex p-3 justify-content-between mid-screen-min" >
-      <div class="navbar-item hidden">
-        <a href="#" role="button" id="productsDropdown"
-        class=
-        <% if params[:action] == 'fxone_standard' || params[:action] == 'fxone_remote' || params[:action] == 'fxone_plus' || params[:action] == 'software' || params[:action] == 'inks_and_consumables'  %>
-          "navbar-title nav-left navbar-title-underline"
-        <% else %>
-          "navbar-title nav-left"
-        <% end %>
-         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <%= t("navbar.products") %> <i class="fas fa-chevron-down small-chevron"></i>
-        </a>
-        <div class="dropdown-menu" aria-labelledby="productsDropdown">
-          <ul class="dropdown-menu-ul">
-            <li class="printers-menu">
-              <a href="#" style="pointer-events: none;">
-                <%= image_tag 'icon-1.png' %><%= t("navbar.printers") %>
-              </a>
-              <%= link_to fxone_standard_path, class: "#{ params[:action] == 'fxone_standard' ? 'navbar-dropdown-item-active printers-text-container mt-1' : 'printers-text-container mt-1' }" do %>
-                <span class="printers-text"><%= t("navbar.printer_one") %></span><i class="fas fa-angle-right"></i>
-              <% end %>
-              <%= link_to fxone_remote_path, class: "#{ params[:action] == 'fxone_remote' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
-                <span class="printers-text"><%= t("navbar.printer_two") %></span><i class="fas fa-angle-right"></i>
-              <% end %>
-              <%= link_to fxone_plus_path, class: "#{ params[:action] == 'fxone_plus' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
-                <span class="printers-text"><%= t("navbar.printer_three") %></span><i class="fas fa-angle-right"></i>
-              <% end %>
-            </li>
-            <li class="<%= params[:action] == 'software' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to software_path do %>
-                <%= image_tag 'icon-2.png' %><%= t("navbar.software") %>
-              <% end %>
-            </li>
-            <li class="<%= params[:action] == 'inks_and_consumables' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to inks_and_consumables_path do %>
-                <%= image_tag 'icon-3.png' %><%= t("navbar.inks") %>
-              <% end %>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="navbar-item hidden">
-        <a href="#" role="button" id="serviceDropdown"
-        class=
-        <% if params[:action] == 'distributor' || params[:action] == 'cost_of_ownership' || params[:action] == 'faq'  %>
-          "navbar-title nav-left navbar-title-underline"
-        <% else %>
-          "navbar-title nav-left"
-        <% end %>
-        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <%= t("navbar.services") %> <i class="fas fa-chevron-down small-chevron"></i>
-        </a>
-        <div class="dropdown-menu" aria-labelledby="serviceDropdown">
-          <ul class="dropdown-menu-ul">
-            <li class="<%= params[:action] == 'distributor' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to distributor_path do %>
-                <%= image_tag 'icon-4.png' %><%= t("navbar.distributors") %>
-              <% end %>
-            </li>
-            <li class="<%= params[:action] == 'cost_of_ownership' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to cost_of_ownership_path do %>
-                <%= image_tag 'icon-5.png' %><%= t("navbar.cost") %>
-              <% end %>
-              </li>
-            <li class="<%= params[:action] == 'faq' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to faq_path do %>
-                <%= image_tag 'icon-6.png' %><%= t("navbar.FAQ") %>
-              <% end %>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="navbar-item hidden">
-        <a href="#" role="button" id="companyDropdown"
-        class=
-        <% if params[:action] == 'about' || params[:action] == 'index'   %>
-          "navbar-title nav-left navbar-title-underline"
-        <% else %>
-          "navbar-title nav-left"
-        <% end %>
-        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <%= t("navbar.company") %> <i class="fas fa-chevron-down small-chevron"></i>
-        </a>
-        <div class="dropdown-menu" aria-labelledby="companyDropdown">
-          <ul class="dropdown-menu-ul">
-            <li class="<%= params[:action] == 'about' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to about_path do %>
-                <%= image_tag 'icon-7.png' %><%= t("navbar.about") %>
-              <% end %>
-            </li>
-            <li class="<%= params[:controller] == 'jobs' && params[:action] == 'index' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to jobs_path do %>
-                <%= image_tag 'icon-8.png' %><%= t("navbar.careers") %>
-              <% end %>
-            </li>
-            <li class="<%= params[:controller] == 'posts' && params[:action] == 'index' ? 'navbar-dropdown-item-active' : '' %>">
-              <%= link_to posts_path do %>
-                <%= image_tag 'icon-9.png' %><%= t("navbar.news") %>
-              <% end %>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="navbar-right hidden">
-    <div class="navbar-item">
-      <% if user_signed_in? %>
-        <%= link_to( t('navbar.logout'), destroy_user_session_path, method: :delete, class: "navbar-title nav-right m-0" ) %>
-      <% else %>
-        <%= link_to t('navbar.login'), new_user_session_path, class: "navbar-title nav-right m-0"  %>
+<div class="navbar-wrapper">
+  <div class="navbar-foenix">
+    <div class="navbar-left">
+      <%= link_to root_path do %>
+        <%= image_tag "logo.png", alt: "Foenix Coding", class: "navbar-logo nav-left mr-4" %>
       <% end %>
+      <div class="d-flex justify-content-between" >
+        <div class="navbar-item hidden mr-4">
+          <a href="#" role="button" id="productsDropdown"
+          class=
+          <% if params[:action] == 'fxone_standard' || params[:action] == 'fxone_remote' || params[:action] == 'fxone_plus' || params[:action] == 'software' || params[:action] == 'inks_and_consumables'  %>
+            "navbar-title nav-left navbar-title-underline"
+          <% else %>
+            "navbar-title nav-left"
+          <% end %>
+           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <%= t("navbar.products") %> <i class="fas fa-chevron-down small-chevron"></i>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="productsDropdown">
+            <ul class="dropdown-menu-ul">
+              <li class="printers-menu">
+                <a href="#" style="pointer-events: none;">
+                  <%= t("navbar.printers") %>
+                </a>
+                <%= link_to fxone_standard_path, class: "#{ params[:action] == 'fxone_standard' ? 'navbar-dropdown-item-active printers-text-container mt-1' : 'printers-text-container mt-1' }" do %>
+                  <span class="printers-text"><%= t("navbar.printer_one") %></span>
+                <% end %>
+                <%= link_to fxone_remote_path, class: "#{ params[:action] == 'fxone_remote' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                  <span class="printers-text"><%= t("navbar.printer_two") %></span>
+                <% end %>
+                <%= link_to fxone_plus_path, class: "#{ params[:action] == 'fxone_plus' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                  <span class="printers-text"><%= t("navbar.printer_three") %></span>
+                <% end %>
+              </li>
+              <li class="<%= params[:action] == 'software' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to software_path do %>
+                  <%= t("navbar.software") %>
+                <% end %>
+              </li>
+              <li class="<%= params[:action] == 'inks_and_consumables' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to inks_and_consumables_path do %>
+                  <%= t("navbar.inks") %>
+                <% end %>
+              </li>
+              <li class="printers-menu">
+                <a href="#" style="pointer-events: none;">
+                  <%= t("navbar.printers") %>
+                </a>
+                <%= link_to fxone_standard_path, class: "#{ params[:action] == 'fxone_standard' ? 'navbar-dropdown-item-active printers-text-container mt-1' : 'printers-text-container mt-1' }" do %>
+                  <span class="printers-text"><%= t("navbar.printer_one") %></span>
+                <% end %>
+                <%= link_to fxone_remote_path, class: "#{ params[:action] == 'fxone_remote' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                  <span class="printers-text"><%= t("navbar.printer_two") %></span>
+                <% end %>
+                <%= link_to fxone_plus_path, class: "#{ params[:action] == 'fxone_plus' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                  <span class="printers-text"><%= t("navbar.printer_three") %></span>
+                <% end %>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="navbar-item hidden mr-4">
+          <a href="#" role="button" id="serviceDropdown"
+          class=
+          <% if params[:action] == 'distributor' || params[:action] == 'cost_of_ownership' || params[:action] == 'faq'  %>
+            "navbar-title nav-left navbar-title-underline"
+          <% else %>
+            "navbar-title nav-left"
+          <% end %>
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <%= t("navbar.services") %> <i class="fas fa-chevron-down small-chevron"></i>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="serviceDropdown">
+            <ul class="dropdown-menu-ul">
+              <li class="<%= params[:action] == 'distributor' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to distributor_path do %>
+                  <%= t("navbar.distributors") %>
+                <% end %>
+              </li>
+              <li class="<%= params[:action] == 'cost_of_ownership' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to cost_of_ownership_path do %>
+                  <%= t("navbar.cost") %>
+                <% end %>
+                </li>
+              <li class="<%= params[:action] == 'faq' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to faq_path do %>
+                  <%= t("navbar.FAQ") %>
+                <% end %>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="navbar-item hidden">
+          <a href="#" role="button" id="companyDropdown"
+          class=
+          <% if params[:action] == 'about' || params[:action] == 'index'   %>
+            "navbar-title nav-left navbar-title-underline"
+          <% else %>
+            "navbar-title nav-left"
+          <% end %>
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <%= t("navbar.company") %> <i class="fas fa-chevron-down small-chevron"></i>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="companyDropdown">
+            <ul class="dropdown-menu-ul">
+              <li class="<%= params[:action] == 'about' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to about_path do %>
+                  <%= t("navbar.about") %>
+                <% end %>
+              </li>
+              <li class="<%= params[:controller] == 'jobs' && params[:action] == 'index' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to jobs_path do %>
+                  <%= t("navbar.careers") %>
+                <% end %>
+              </li>
+              <li class="<%= params[:controller] == 'posts' && params[:action] == 'index' ? 'navbar-dropdown-item-active' : '' %>">
+                <%= link_to posts_path do %>
+                  <%= t("navbar.news") %>
+                <% end %>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="navbar-item">
-      <%= link_to t("navbar.contact"), contact_path, class: "#{params[:action] == 'contact' ? 'navbar-title nav-right navbar-title-underline' : 'navbar-title nav-right' }"  %>
+    <div class="navbar-right hidden">
+      <div class="navbar-item">
+        <% if user_signed_in? %>
+          <%= link_to( t('navbar.logout'), destroy_user_session_path, method: :delete, class: "navbar-title nav-right m-0" ) %>
+        <% else %>
+          <%= link_to t('navbar.login'), new_user_session_path, class: "navbar-title nav-right m-0"  %>
+        <% end %>
+      </div>
+      <div class="navbar-item">
+        <%= link_to t("navbar.contact"), contact_path, class: "primary-button"  %>
+      </div>
+    </div>
+    <div id="mobile-navbar">
+      <i class="fas fa-bars" onclick="openNav()"></i>
     </div>
   </div>
-  <div id="mobile-navbar">
-    <i class="fas fa-bars" onclick="openNav()"></i>
-  </div>
+
 </div>
+
+
 <div id="mobile-menu" onclick="closeNav()">
   <div id="mobile-links">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <ul style="width: 92%;">
-      <li class="first-mobile-link"><span><%= image_tag 'icon-1.png' %><%= t("navbar.printers") %></span></li>
+      <li class="first-mobile-link"><span><%= t("navbar.printers") %></span></li>
       <li class="printers-menu mobile-printers-menu">
         <%= link_to fxone_standard_path, class: 'printers-text-container mt-1' do %>
-          <span class="printers-text"><%= t("navbar.printer_one") %></span><i class="fas fa-angle-right"></i>
+          <span class="printers-text"><%= t("navbar.printer_one") %></span>
         <% end %>
         <%= link_to fxone_remote_path, class: 'printers-text-container' do %>
-          <span class="printers-text"><%= t("navbar.printer_two") %></span><i class="fas fa-angle-right"></i>
+          <span class="printers-text"><%= t("navbar.printer_two") %></span>
         <% end %>
         <%= link_to fxone_plus_path, class: 'printers-text-container' do %>
-          <span class="printers-text"><%= t("navbar.printer_three") %></span><i class="fas fa-angle-right"></i>
+          <span class="printers-text"><%= t("navbar.printer_three") %></span>
         <% end %>
       </li>
-      <li class="each-mobile-link"><%= image_tag 'icon-2.png' %><a href="/software"><%= t('navbar.software') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'icon-3.png' %><a href="/inks_and_consumables"><%= t('navbar.inks') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'icon-4.png' %><a href="/distributor"><%= t('navbar.distributors') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'icon-5.png' %><a href="/cost_of_ownership"><%= t('navbar.cost') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'icon-6.png' %><a href="/faq"><%= t('navbar.faq') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'icon-7.png' %><a href="/about"><%= t('navbar.about') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'icon-8.png' %><a href="/jobs"><%= t('navbar.careers') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'icon-9.png' %><a href="/posts"><%= t('navbar.news') %></a></li>
-      <li class="each-mobile-link"><%= image_tag 'contact.png' %><a href="/contact"><%= t('navbar.contact') %></a></li>
+      <li class="each-mobile-link"><a href="/software"><%= t('navbar.software') %></a></li>
+      <li class="each-mobile-link"><a href="/inks_and_consumables"><%= t('navbar.inks') %></a></li>
+      <li class="each-mobile-link"><a href="/distributor"><%= t('navbar.distributors') %></a></li>
+      <li class="each-mobile-link"><a href="/cost_of_ownership"><%= t('navbar.cost') %></a></li>
+      <li class="each-mobile-link"><a href="/faq"><%= t('navbar.faq') %></a></li>
+      <li class="each-mobile-link"><a href="/about"><%= t('navbar.about') %></a></li>
+      <li class="each-mobile-link"><a href="/jobs"><%= t('navbar.careers') %></a></li>
+      <li class="each-mobile-link"><a href="/posts"><%= t('navbar.news') %></a></li>
+      <li class="each-mobile-link"><a href="/contact"><%= t('navbar.contact') %></a></li>
       <% if user_signed_in? %>
-        <li class="each-mobile-link"><%= image_tag 'login.png' %><a href="/users/sign_out" data-method="delete"><%= t('navbar.logout') %></a></li>
+        <li class="each-mobile-link"><a href="/users/sign_out" data-method="delete"><%= t('navbar.logout') %></a></li>
       <% else %>
-        <li class="each-mobile-link"><%= image_tag 'login.png' %><a href="/users/sign_in"><%= t('navbar.login') %></a></li>
+        <li class="each-mobile-link"><a href="/users/sign_in"><%= t('navbar.login') %></a></li>
       <% end %>
     </ul>
   </div>
