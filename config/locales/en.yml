@@ -10,7 +10,7 @@ en:
     posts: Posts
     login: Login
     logout: Logout
-    contact: Contact
+    contact: Contact Us
     printers: Printers
     printer_one: FX ONE Standard
     printer_two: FX ONE Remote
@@ -25,6 +25,9 @@ en:
     news: News & Events
     privacy_policy: Privacy Policy
     cookie_policy: Cookie Policy
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | UK
 
   cookie_bar:
     content: By using this website, you agree to our
@@ -204,14 +207,14 @@ en:
     and_many_more: And many more
 
   newsletter:
-    card_title: Come work with us
-    card_text: We are always looking for talented new friends that share our vision to push industry forward
+    card_title: Join us, we're hiring!
+    card_text: Ready for a career change and want to work in a start-up with great ambitions? Join us!
     title: Get the latest newsletter
     text: Sign up to receive email updates on new product announcements, technical updates, show we will attend and more.
-    button: Subscribe
-    placeholder: laurenberry@example.com
+    button: View Openings
+    placeholder: Enter your email to subscribe
     unsubscribe: You can unsubscribe at any time.
-    privacy: Privacy Policy
+    privacy: Read our privacy policy
 
   about:
     first_section_text: Clear Returns

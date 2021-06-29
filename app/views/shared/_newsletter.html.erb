@@ -1,24 +1,26 @@
 <div class="about-sixth-section-wrapper">
   <div class="container">
     <div class="about-sixth-section">
-      <div class="about-sixth-section-right">
-        <p><%= t("newsletter.title") %></p>
-        <p class="norm_line_height_para"><%= t("newsletter.text") %></p>
+      <div class="about-sixth-section-left py-0 pl-0 pr-md-5 pb-5 pb-md-0">
+        <p class="text-white"><%= t("newsletter.title") %></p>
+        <p class="text-white small-text mb-2"><%= t("newsletter.text") %></p>
         <%= form_tag subscribe_path, method: :post, class: 'about-form' do %>
           <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('newsletter.placeholder') }"
           %>
-          <%= submit_tag "#{ t('newsletter.button') }", class: "about-form-button" %>
-        <% end %>
-        <p class="paragraph-text" style="font-size: 10px !important;"><%= t("newsletter.unsubscribe") %> <a href="/privacy_policy" class="privacy-link"><span style="color: #F3A300"><%= t("newsletter.privacy") %></span></a></p>
-      </div>
-      <div class="about-sixth-section-left">
-        <div class="about-button-card" style="background-image: url('<%= cl_image_path("Button_nqsfuo.png") %>'); position: relative;">
-          <p class="m-0"><%= t("newsletter.card_title") %></p>
-          <p class="m-0 norm_line_height_para"><%= t("newsletter.card_text") %></p>
-          <%= link_to jobs_path, class: "rel-link" do  %>
+          <%= button_tag class: "about-form-button" do %>
+            <i class="fas fa-paper-plane"></i>
           <% end %>
+        <% end %>
+        <p class="paragraph-text text-white mb-0" style="font-size: 10px !important;"><%= t("newsletter.unsubscribe") %> <a href="/privacy_policy" class="privacy-link"><span style="color: #FF7A00"><%= t("newsletter.privacy") %></span></a></p>
+      </div>
+      <div class="about-sixth-section-right d-flex newsletter-jobs">
+        <div class="about-button-card mr-4">
+          <p class="mb-4 text-white"><%= t("newsletter.card_title") %></p>
+          <p class="m-0 text-white small-text"><%= t("newsletter.card_text") %></p>
         </div>
+        <%= link_to "#{ t("newsletter.button") }", jobs_path, class: "btn primary-button small-text", style: 'width: 218px' %>
       </div>
     </div>
   </div>
 </div>
+
