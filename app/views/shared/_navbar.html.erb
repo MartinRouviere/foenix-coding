@@ -145,35 +145,37 @@
 
 <div id="mobile-menu" onclick="closeNav()">
   <div id="mobile-links">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    <ul style="width: 92%;">
-      <li class="first-mobile-link"><span><%= t("navbar.printers") %></span></li>
-      <li class="printers-menu mobile-printers-menu">
-        <%= link_to fxone_standard_path, class: 'printers-text-container mt-1' do %>
-          <span class="printers-text"><%= t("navbar.printer_one") %></span>
+    <div class="position-relative w-100 p-4">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <ul style="width: 92%;">
+        <li class="first-mobile-link"><span><%= t("navbar.printers") %></span></li>
+        <li class="printers-menu mobile-printers-menu">
+          <%= link_to fxone_standard_path, class: 'printers-text-container mt-1' do %>
+            <span class="printers-text"><%= t("navbar.printer_one") %></span>
+          <% end %>
+          <%= link_to fxone_remote_path, class: 'printers-text-container' do %>
+            <span class="printers-text"><%= t("navbar.printer_two") %></span>
+          <% end %>
+          <%= link_to fxone_plus_path, class: 'printers-text-container' do %>
+            <span class="printers-text"><%= t("navbar.printer_three") %></span>
+          <% end %>
+        </li>
+        <li class="each-mobile-link"><a href="/software"><%= t('navbar.software') %></a></li>
+        <li class="each-mobile-link"><a href="/inks_and_consumables"><%= t('navbar.inks') %></a></li>
+        <li class="each-mobile-link"><a href="/distributor"><%= t('navbar.distributors') %></a></li>
+        <li class="each-mobile-link"><a href="/cost_of_ownership"><%= t('navbar.cost') %></a></li>
+        <li class="each-mobile-link"><a href="/faq"><%= t('navbar.faq') %></a></li>
+        <li class="each-mobile-link"><a href="/about"><%= t('navbar.about') %></a></li>
+        <li class="each-mobile-link"><a href="/jobs"><%= t('navbar.careers') %></a></li>
+        <li class="each-mobile-link"><a href="/posts"><%= t('navbar.news') %></a></li>
+        <li class="each-mobile-link"><a href="/contact"><%= t('navbar.contact') %></a></li>
+        <% if user_signed_in? %>
+          <li class="each-mobile-link"><a href="/users/sign_out" data-method="delete"><%= t('navbar.logout') %></a></li>
+        <% else %>
+          <li class="each-mobile-link"><a href="/users/sign_in"><%= t('navbar.login') %></a></li>
         <% end %>
-        <%= link_to fxone_remote_path, class: 'printers-text-container' do %>
-          <span class="printers-text"><%= t("navbar.printer_two") %></span>
-        <% end %>
-        <%= link_to fxone_plus_path, class: 'printers-text-container' do %>
-          <span class="printers-text"><%= t("navbar.printer_three") %></span>
-        <% end %>
-      </li>
-      <li class="each-mobile-link"><a href="/software"><%= t('navbar.software') %></a></li>
-      <li class="each-mobile-link"><a href="/inks_and_consumables"><%= t('navbar.inks') %></a></li>
-      <li class="each-mobile-link"><a href="/distributor"><%= t('navbar.distributors') %></a></li>
-      <li class="each-mobile-link"><a href="/cost_of_ownership"><%= t('navbar.cost') %></a></li>
-      <li class="each-mobile-link"><a href="/faq"><%= t('navbar.faq') %></a></li>
-      <li class="each-mobile-link"><a href="/about"><%= t('navbar.about') %></a></li>
-      <li class="each-mobile-link"><a href="/jobs"><%= t('navbar.careers') %></a></li>
-      <li class="each-mobile-link"><a href="/posts"><%= t('navbar.news') %></a></li>
-      <li class="each-mobile-link"><a href="/contact"><%= t('navbar.contact') %></a></li>
-      <% if user_signed_in? %>
-        <li class="each-mobile-link"><a href="/users/sign_out" data-method="delete"><%= t('navbar.logout') %></a></li>
-      <% else %>
-        <li class="each-mobile-link"><a href="/users/sign_in"><%= t('navbar.login') %></a></li>
-      <% end %>
-    </ul>
+      </ul>
+    </div>
   </div>
 </div>
 <script>
