@@ -10,3 +10,14 @@ $gray: #0E0000;
 $light-gray: #F4F4F4;
 
 $black-blue: #0E1B26;
+
+.text-orange {
+  color: $orange;
+}
+
+.link-orange {
+  color: $orange;
+  &:hover {
+    color: $orange;
+  }
+}

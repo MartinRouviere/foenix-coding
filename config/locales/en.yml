@@ -123,76 +123,33 @@ en:
     title_span2: Reliable
     title_span3: Versatile
     title_span4: Consistent
-    title_description: FX ONE is a plug-and-play industrial inkjet Printer for all types of production lines.
+    title_description: The FX ONE Printer is a High Resolution compact inkjet printer for printing lot numbers, use by dates, text, logos and barcodes onto all materials such as cartons, trays, bottles, plastic bags, foil, food packages, cans, extrusions and virtually any product.
     #SECOND SECTION
-    title_second: High quality product traceability
-    title_second_description: FX ONE takes your product traceability to a new level by printing in any language, any font and in high resolution on any product
-    second_column_title: Code Anything
-    second_column_title_description: Lorem ipsum dolor sit amet, consectetur.
-    second_column_one: Text
-    second_column_two: Use by date
-    second_column_three: Time
-    second_column_four: Lot number
-    second_column_five: Logo
-    second_column_six: Barcodes
-    second_column_one_one: QR Codes
-    second_column_two_two: Counter
-    second_column_three_three: Shift
-    second_column_four_four: Variable Data
-    second_column_five_five: External Data
-    second_column_title_two: On Any Substrates
-    second_column_title_two_description: ddd
-    second_column_two_one: Glass
-    second_column_two_two: Plastic
-    second_column_two_three: Metal
-    second_column_two_four: Carton
-    second_column_two_five: PVC
-    second_column_two_six: Rubber
-    second_column_two_seven: Egg
-    second_column_two_one_one: Wood
-    second_column_two_two_two: Timber
-    second_column_two_three_three: Plasterboard
-    second_column_two_four_four: Carpet
-    second_column_two_five_five: Films/foils
-    second_column_two_six_six: Paper
-    second_column_two_seven_seven: Pipes
+    title_second: A new generation of maintenance free inkjet printers
+    title_second_description: MADE IN THE UK
+    second_section_one_title: Packaging & Coding
+    second_section_one_description: small or large print for your primary and secondary packaging
+    second_section_two_title: For all industries
+    second_section_two_description: High Resolution & High Adhesion marking solution for every industry
+    second_section_three_title: FX APP Software
+    second_section_three_description: Advanced printer management & Printing Processes Optimization
     #THIRD SECTION
-    home_video_title: Printer
-    home_video_text: Helping businesses improve efficiency and lower production costs
-    tabs_title: One printer with tons of features
-    tabs_one: Savings
-    tabs_one_title: Reduced print costs - typically from 50% to 80%
-    tabs_one_description: You are in control of your cost per print. Easily calculate your printing costs with our intuitive software and see how much you could be saving.
-    tabs_one_desc_two: "Printing with micro ink droplets and a sealed ink cartridge gives low cost per print with no ink wastage. Additional cost savings can be obtained using the ink saver mode. In addition to low cost per print our technology substantially reduces operating costs."
-    tabs_one_bottom: Clear and transparent returns on investment
-    tabs_two: Simplicity
-    tabs_two_title: Zero Downtime, No Maintenance
-    tabs_two_description: FX ONE printers are manufactured with minimal components to give maximum reliability. No pumps, no valves, no compressed air, no droplet charging and no air filters means low maintenance and fewer problems.
-    tabs_two_desc_two: The Piezo technology used in the Foenix printer only needs a single sealed ink cartridge and does not require additional make-up solvent. This substantially reduces operating costs.
-    tabs_two_desc_three: Easily create messages with just a few clicks with no expertise required through our intuitive Interface that anyone can use.
-    tabs_two_bottom: Robust and reliable design
-    tabs_three: Flexibility
-    tabs_three_title: To suit all production types
-    tabs_three_description: "Effortless installation: mount your FX ONE printer in minutes on your production line. "
-    tttwo: Never stop printing even when changing the cartridge.
-    ttthree: Printer can be swapped between production lines in less than 5 min.
-    ttfour: "Print small & large text with the same printer: 2mm up to 18mm"
-    ttfive: From 1 to 8 lines of text.
-    ttsix: "High Resolution print: 180 dpi."
-    ttseven: Message creation in any font and in any language.
-    tabs_three_bottom: Endless opportunities
-    tabs_four: Connectivity
-    tabs_four_title: One software to manage all your printers.
-    tabs_four_description: "Ethernet, USB and RS232 connectivity are available for networking so multiple Foenix printers can be managed from one place:"
-    tabs_four_two: monitor progress, track fault, change settings and more.
-    tabs_four_three: "Full integration with our DLL (Dynamic Link Library) can be used by a third party developer to incorporate into their own applications."
-    tabs_four_four: "Integrate to a factory network system or connect to industrial scanners, encoders, check weighers or other equipment as required."
-    tabs_four_bottom: Limitless information
-    printer: Printer
-    fxone_subtext: Helping businesses improve efficiency and lower production costs
+    third_section_title: What is coding and marking?
+    third_section_description: Coding and marking is printing variable information on products during manufacturing process.
+    first_image: Manufacturing, Batch & Date Codes
+    second_image: Barcoding
+    third_image: Branding & Product Information
+    fourth_image: Traceability Track & Trace
+    third_section_statement_one: Foenix Coding understands how important an uninterrupted production line is.
+    third_section_statement_two: We have made it our mission to develop the most reliable printer on the market.
     #FOURTH SECTION
-    fourth_title: Trusted by businesses from all industries
-    fourth_description: From emerging businesses with 1 small production line to multinational corporations with the most demanding applications, use the FX ONE printer to lower your coding and marking costs, prevent downtime, automate manual processes and improve product quality with high resolution coding.
+    box_coding_title: Box Coding
+    box_coding_description: The most typical application is the coding of boxes. With the FX ONE Standard and FX ONE Plus no need for expensive labels anymore. Use the FX ONE printer for high resolution printing directly onto cartons, trays, sacks or other products on a production line to eliminate the need for costly pre-printed packaging or expensive labels. Short batch runs and customer requirements for personalised text, graphics and barcodes are easily achieved.
+    product_coding_title: Product Coding
+    product_coding_description: Typical applications are the coding of individual packaging like bottles, small boxes, drums, cans, jars, packs, bags, foil, etc. Most of our customers for product coding are typically companies looking for an alternative to the CIJ (Continuous Ink Jet). Price, simplicity and low maintenance are the motivation factors. In this market we always use the FX ONE Remote printer, a truly multifunctional printer for all industries including food, beverage, pharmaceutical and electronics. The FX ONE is also ideal for marking extrusions, printing on webbing and other industrial applications.
+    fifth_section_title_html: "Designed for <span class='text-orange'>Industrial</span> use & <span class='text-orange'>Low Cost</span> inkjet printing"
+    fifth-section_description_one: Over the past few years Foenix has invested heavily in developing a range of maintenance free industrial inkjet printers. These coders are specifically designed for industrial use in sectors such as food, beverage, automotive, construction, converting, medical devices, pharmaceutical, electronics and chemical.
+    fifth-section_description_two: Thanks to the clever design, the FX ONE inkjet printers have a remarkably low ink usage and therefore offer one of the lowest cost per print on the market. Reduced print costs - typically from 50% to 80%
     food: Food
     cosmetics: Cosmetics
     extrusion: Extrusion
@@ -205,6 +162,14 @@ en:
     industrial_parts: Industrial parts
     chemicals: Chemicals
     and_many_more: And many more
+    inks_title: Wide range of inks
+    inks_description: We offer High Adhesion and High Contrast inks to suit most applications. Different inks enable printing onto non-porous materials (plastic, glass, metal...) or porous surfaces (cardboard, wood, gypsum...). Wide range of colours available as well as UV readable and UV Curable inks.
+    become_distributor_title: Become a Foenix Coding distributor
+    become_distributor_description: We are currently inviting companies to join our international distributor network
+    eight_section_title_one: Powerful Software Smart Controller
+    eight_section_description_one: The FX APP Software is available on PC and on our bespoke FX ONE Touch Controller. The FX ONE Touch Controller is designed to control one or more FX ONE printer models. The controller allows for message creation, storage and printer management in a small, robust housing. It can be mounted in a fixed position at a convenient location and is portable so can be easily moved from one printer to another. The interface has been designed to be easy to use and matches that of the PC version.
+    eight_section_title_two: Free Trial & Test prints
+    eight_section_description_two_html: "If you are based in the UK, you can get a free, seven-day trial. During the free trial, you’ll have access to all the printer functionality and will be able to monitor the cost per print and quickly see how much money you could save using our printer.<br><br>For a first hand demonstration of the simplicity and quality of the FX ONE printer contact us today!<br><small>*Free trial is subject to availability.</small><br><br>Wherever you are in the world you can send us a sample of your product and we will carry out High Resolution test prints."
 
   newsletter:
     card_title: Join us, we're hiring!
