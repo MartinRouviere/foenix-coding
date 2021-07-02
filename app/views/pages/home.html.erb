@@ -11,7 +11,7 @@
       <h1 class="show-mobile"><%= t("home.mobile_title") %>  <span id="span_scroll" class="animated" data-array="<%= [t("home.title_span2"), t("home.title_span3"), t("home.title_span1")].to_json %>"><span class="animated-span"><%= t("home.title_span2") %></span></span></h1>
       <!-- MOBILE TITLE -->
       <p><%= t("home.title_description") %></p>
-      <p class="btn primary-button small-text text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+      <p class="btn primary-button text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
     </div>
     <div class="product-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1625055883/hero-illustration_2x_4_copy_y7cfde.png' %>)">
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
@@ -100,8 +100,8 @@
         <div class="col-12 col-sm-6">
           <h2 class="text-white"><%= t("home.box_coding_title") %></h2>
           <p class="text-white mb-4"><%= t("home.box_coding_description") %></p>
-          <%= link_to 'Learn more', '#', class: 'btn secondary-button small-text mr-4' %>
-          <p class="btn primary-button small-text text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+          <%= link_to 'Learn more', '#', class: 'btn secondary-button mr-4' %>
+          <p class="btn primary-button text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
 
         </div>
       </div>
@@ -109,11 +109,11 @@
         <div class="col-12 col-sm-6">
           <h2 class="text-white"><%= t("home.product_coding_title") %></h2>
           <p class="text-white mb-4"><%= t("home.product_coding_description") %></p>
-          <%= link_to 'Learn more', '#', class: 'btn secondary-button small-text mr-4' %>
-          <p class="btn primary-button small-text text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+          <%= link_to 'Learn more', '#', class: 'btn secondary-button mr-4' %>
+          <p class="btn primary-button text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
         </div>
         <div class="col-12 col-sm-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625128572/fsi-1_h95eg4.png", class: "w-100 mt-4 mt-md-0", alt: "Product coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625128577/fsi-2_cflsou.png", class: "w-100 mb-4 mb-md-0", alt: "Product coding") %>
         </div>
       </div>
     </div>
@@ -126,11 +126,11 @@
             <h2 class="text-white text-center mb-3"><%= t("home.fifth_section_title_html") %></h2>
             <p class="small-text text-white text-center"><%= t("home.fifth-section_description_one") %></p>
             <%= link_to '#', class: 'link-orange' do %>
-              <p class="text-orange small-text">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
+              <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
             <p class="small-text text-white text-center"><%= t("home.fifth-section_description_two") %></p>
             <%= link_to '#', class: 'link-orange' do %>
-              <p class="text-orange small-text">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
+              <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
         </div>
@@ -226,7 +226,7 @@
         <div class="col-12 col-md-6">
           <h2 class="text-white mb-4"><%= t("home.inks_title") %></h2>
           <p class="text-white mb-5"><%= t("home.inks_description") %></p>
-          <%= link_to 'Learn more', '#', class: 'btn secondary-button small-text mr-4' %>
+          <%= link_to 'Learn more', '#', class: 'btn secondary-button mr-4' %>
         </div>
       </div>
     </div>
@@ -238,7 +238,7 @@
           <h4 class="font-weight-normal text-white"><%= t("home.become_distributor_title") %></h4>
           <p class="mb-3 mb-md-0 text-white small-text"><%= t("home.become_distributor_description") %></p>
         </div>
-        <%= link_to 'Get Started', '#', class: 'btn primary-button small-text ml-0 ml-md-5' %>
+        <%= link_to 'Get Started', '#', class: 'btn primary-button ml-0 ml-md-5' %>
       </div>
     </div>
     <div class="max-width">
@@ -247,7 +247,7 @@
           <h2 class=""><%= t("home.eight_section_title_one") %></h2>
           <p class="mb-4"><%= t("home.eight_section_description_one") %></p>
           <%= link_to '#', class: 'link-orange' do %>
-            <p class="text-orange small-text">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
+            <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
         <div class="col-12 col-md-6">
@@ -262,7 +262,7 @@
           <h2 class=""><%= t("home.eight_section_title_two") %></h2>
           <p class="mb-4"><%= t("home.eight_section_description_two_html") %></p>
           <%= link_to '#', class: 'link-orange' do %>
-            <p class="text-orange small-text">Book a Demo <i class="fas fa-arrow-right ml-2"></i></p>
+            <p class="text-orange">Book a Demo <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
       </div>

@@ -207,11 +207,6 @@
     font-size: 50px;
   }
 
-  & p {
-    font-weight: 300;
-    font-size: 16px;
-  }
-
   @include for-phone-only {
     width: 100%;
     padding-left: 20px;
@@ -223,9 +218,6 @@
       width: 65%;
     }
 
-    & p {
-      font-size: 16px;
-    }
   }
 }
 
@@ -261,9 +253,6 @@
   }
   & p {
     color: #747B89;
-    @include for-small-devices-down {
-      font-size: 12px;
-    }
   }
 
   @include for-small-devices-down {
