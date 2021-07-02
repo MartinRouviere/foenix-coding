@@ -1,9 +1,9 @@
 //*= require trix
 // Graphical variables
+@import "config/mixins";
 @import "config/fonts";
 @import "config/colors";
 @import "config/bootstrap_variables";
-@import "config/mixins";
 
 // External libraries
 @import "bootstrap/scss/bootstrap";
@@ -25,3 +25,5 @@
 //     font-size: 32px;
 //   }
 // }
+
+

@@ -16,7 +16,11 @@ $black-blue: #0E1B26;
 }
 
 .link-orange {
+  font-size: 12px !important;
   color: $orange;
+  p {
+    font-size: 12px !important;
+  }
   &:hover {
     color: $orange;
   }

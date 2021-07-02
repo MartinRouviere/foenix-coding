@@ -2,35 +2,36 @@
 // @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
 
 // Define fonts for body and headers
-$body-font: "Manrope", "Helvetica", "sans-serif";
-$headers-font: "Manrope", "Helvetica", "sans-serif";
-
-@font-face {
-  font-family: "Manrope";
-  src: asset-url('manrope-regular.woff') format('woff');
-  font-weight: normal;
-}
-@font-face {
-  font-family: "Manrope";
-  src: asset-url('manrope-semibold.woff') format('woff');
-  font-weight: 500;
-}
-@font-face {
-  font-family: "Manrope";
-  src: asset-url('manrope-bold.woff') format('woff');
-  font-weight: bold;
-}
+// $body-font: "Manrope", "Helvetica", "sans-serif";
+// $headers-font: "Manrope", "Helvetica", "sans-serif";
 
 // @font-face {
 //   font-family: "Manrope";
-//   src: asset-url('manrope-extrabold.woff') format('woff');
-//   font-weight: 600;
+//   src: asset-url('manrope-regular.woff') format('woff');
+//   font-weight: normal;
+// }
+// @font-face {
+//   font-family: "Manrope";
+//   src: asset-url('manrope-semibold.woff') format('woff');
+//   font-weight: 500;
+// }
+// @font-face {
+//   font-family: "Manrope";
+//   src: asset-url('manrope-bold.woff') format('woff');
+//   font-weight: bold;
 // }
 
-h1,h2,h3,p {
-  font-family: 'Manrope', 'Helvetica', sans-serif;
+@font-face {
+   font-family: 'Gilroy';
+   src: font-url('gilroy/gilroy-regular.ttf') format('ttf');
+   font-weight: normal;
 }
 
-body {
-  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+$body-font: "Gilroy", "Helvetica", "sans-serif";
+$headers-font: "Gilroy", "Helvetica", "sans-serif";
+
+p {
+  @include for-small-devices-down {
+    font-size: 14px;
+  }
 }
