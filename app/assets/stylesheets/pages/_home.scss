@@ -151,7 +151,7 @@
   // border-bottom: 1px solid #EECDB5;
   transition: filter(2s);
   margin: 0px;
-  top: 4px;
+  top: 0px;
   transition: top 0.3s linear;
   left: 10px;
 }
@@ -250,9 +250,6 @@
     @include for-small-devices-down {
       font-size: 14px;
     }
-  }
-  & p {
-    color: #747B89;
   }
 
   @include for-small-devices-down {
@@ -749,7 +746,7 @@
 
 .fifth-section {
   background: #2A2A2A;
-  padding: 0px 80px 100px;
+  padding: 0px 80px 150px;
   @include for-small-devices-down {
     padding: 0px 0px 100px;
   }
