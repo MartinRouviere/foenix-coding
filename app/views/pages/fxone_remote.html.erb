@@ -3,23 +3,54 @@
 <% content_for :meta_image, cl_image_path("fxone-remote-graphic-1_rq5ho4.png", width: 400, alt: "FX ONE remote printer") %>
 
 <div class="fxone-wrapper">
-  <%= cl_image_tag("bigpill_dhcpkm.png", :quality=>"auto", class: "fxone-big-pill-remote") %>
-  <%= cl_image_tag("inks_little_pill_pahv4x.png", :quality=>"auto", class: "fxone-little-pill") %>
+  <div class="first-section" style="overflow-x: unset;">
+    <div class="first-section-text">
+      <h1 class="w-100"><span><%= cl_image_tag("fxone-logo_zjjdvc.png", class: "fxone-logo") %></span> <%= t("fxone_remote.first_section_title") %></h1>
+      <p><%= t("fxone_remote.first_section_text") %></p>
+      <p class="btn primary-button text-white mb-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+      <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
+    </div>
+    <div class="product-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1625055883/hero-illustration_2x_4_copy_y7cfde.png' %>)">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleCaptions" data-slide-to="0"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="1" class="active"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+            </ol>
+            <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </div>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625227236/fxremote3_z6kkeq.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625227227/fxremote1_zuqupk.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625227231/fxremote2_luumrq.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="first-section fxone-first-section-background first-section-remote" style="padding-bottom: 0px;">
     <%= cl_image_tag("fxone-remote-graphic-1_rq5ho4.png", class: "first-section-image remote-image", style: "max-width: 800px;", alt: "FX ONE remote printer") %>
     <div class="first-section-text">
       <h1 class="w-100"><span><%= cl_image_tag("fxone-logo_zjjdvc.png", class: "fxone-logo") %></span> <%= t("fxone_remote.first_section_title") %></h1>
-      <p class="responsive-text-small grey"><%= t("fxone_remote.first_section_text") %></p>
+      <p><%= t("fxone_remote.first_section_text") %></p>
       <div class="btn-holder">
         <div class="play-btn" data-toggle="modal" data-target=".bd-example-modal-lg">
           <i class="fas fa-play orange"></i>
           <p><%= t("home.play") %></p>
         </div>
-        <%= link_to "/fxone_remote_brochure.pdf", target: "_blank", class: "nodec" do %>
-          <div class="download-btn">
-            <p><%= t("home.download") %></p>
-          </div>
-        <% end %>
       </div>
     </div>
   </div>
