@@ -2,6 +2,49 @@
   overflow: hidden;
 }
 
+.grid-container {
+  padding: 50px 50px 0;
+  // overflow: hidden !important;
+}
+
+.remote-pop {
+  width: 80vw;
+  position: absolute;
+  left: calc(50% - 40vw);
+  top: -90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 10px 26px rgba(0,0,0,0.8);
+  border-radius: 5px;
+  background: #1B1B1B;
+  padding: 36px 32px;
+  @include for-small-devices-down {
+    padding: 16px;
+    top: -80px;
+    h4 {
+      font-size: 14px;
+    }
+  }
+  & p {
+    color: #747B89;
+  }
+
+  @include for-phone-only {
+    width: 90vw;
+  }
+}
+
+.minus-margin {
+  // margin-bottom: -100px;
+}
+
+.fxone-third-section {
+  background: #2A2A2A;
+  padding: 150px 50px 100px;
+}
+
 .fxone-first-section-background {
   background: linear-gradient(#EBEFF6, #F6F7FA);
 }
@@ -153,32 +196,27 @@
 
 .fxone-card {
   background: #FFF;
-  border-radius: 10px;
-  border: 3px solid #fafafa;
+  border-radius: 4px;
+  // border: 3px solid #fafafa;
   // padding: 0 16px 16px 0;
   position: relative;
   z-index: 4;
-  margin: 15px 0;
-  height: 210px;
+  margin: 16px 0;
+  min-height: 150px;
   transition: 0.3s;
-  box-shadow: 0px 8px 30px rgba(149, 156, 169, 0.30), -1px -1px 30px rgba(156, 173, 198, 0.30);
-  &:hover {
-    box-shadow: 0px 8px 5px rgba(149, 156, 169, 0.25), -1px -1px 10px rgba(156, 173, 198, 0.30);
-  }
-  padding-bottom: 16px;
-  p {
-    padding: 0 16px;
+  // box-shadow: 0px 8px 30px rgba(149, 156, 169, 0.30), -1px -1px 30px rgba(156, 173, 198, 0.30);
+  // &:hover {
+  //   box-shadow: 0px 8px 5px rgba(149, 156, 169, 0.25), -1px -1px 10px rgba(156, 173, 198, 0.30);
+  // }
+  padding-right: 16px;
+  h6, p {
+    line-height: 16px;
   }
   @include for-medium-devices-down {
     margin: 10px 0;
-    height: 260px;
-  }
-  @include for-small-devices-down {
-    height: 240px;
   }
   @include for-phone-only {
     margin: 10px 0;
-    height: 185px;
   }
 }
 
@@ -212,22 +250,17 @@
   top: -100px;
 }
 
+.fxone-fifth-section-content-wrapper {
+  background: #1B1B1B;
+  padding: 48px 48px 24px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
 .fxone-fifth-section-content {
   position: relative;
-  margin: 30px 0;
-  background-color: #FFF;
-  padding: 32px 10px;
   display: flex;
   justify-content: space-evenly;
-  border-radius: 5px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  width: 70%;
-  @include for-large-devices-down {
-    width: 80%;
-  }
-  @include for-medium-devices-down {
-    width: 100%;
-  }
   @include for-phone-only {
     flex-direction: column;
   }

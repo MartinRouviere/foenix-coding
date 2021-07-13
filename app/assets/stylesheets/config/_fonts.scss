@@ -74,7 +74,7 @@ h2, h3, h4, h5, h6, a {
   font-family: 'Gilroy-Bold' !important;
 }
 
-p, {
+p, li {
   font-family: 'Gilroy-Medium' !important;
   @include for-small-devices-down {
     font-size: 14px;
