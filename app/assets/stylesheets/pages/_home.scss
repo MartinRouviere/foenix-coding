@@ -5,14 +5,14 @@
 
 .product-carousel {
   max-width: 800px;
-  width: 50%;
+  width: 72%;
   margin-top: -28px;
   position: relative;
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   .carousel-item {
-    padding: 30px;
+    padding: 60px;
   }
   @include for-medium-devices-down {
     width: 85%;
