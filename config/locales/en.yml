@@ -271,20 +271,75 @@ en:
     first_section_title: REMOTE
     first_section_text: The new FX ONE inkjet printer is one of the lowest cost per code and lowest maintenance small character printers. It offers a real alternative to code your products.
     second_section_title: Overview
+    grid_title_one: The best alternative to CIJ printing
+    grid_description_one_html: "The FX ONE Remote has been designed as a very simple ink jet printer but with the ability to print from one to eight lines of code and input your own font styles and graphics.
+                                <br>
+                                <br>
+                                The FX ONE Remote provides a real alternative to complex CIJ printers at a very affordable price:
+                                <ul>
+                                  <li>Lowest cost per print on the market</li>
+                                  <li>High Resolution printing</li>
+                                  <li>Designed for Zero maintenance</li>
+                                  <li>Flexible, allowing print in any direction</li>
+                                  <li>Multi line printing at no extra cost</li>
+                                  <li>Does not require additional make-up solvent</li>
+                                </ul>"
+    grid_link_one: Get a quick quotation
+    grid_title_two: Perfect for extrusion & web-fed applications
+    grid_description_two_html: "The FX ONE is a modular inkjet coder for industrial use. It is  ideal for marking extrusions, printing on webbing and other industrial applications.
+                            <br>
+                            The FX ONE Printer is programmed for continuous repeat printing at defined intervals on an extrusion line.
+                            <br>
+                            <br>
+                            Get total control for repeat printing across a web of material. Multiple FX ONE printers can be mounted across a web to print identical or different
+                             messages. The Touch Controller mounted remotely can be connected to an encoder or any type of device for print activation."
+    grid_link_two: Get a Print sample
+    grid_title_three: Easy Installation & Operation
+    grid_description_three_html: "The FX ONE Remote printer can be easily fitted in most machines or limited spaces.
+                                  <br>
+                                  <br>
+                                  Print both sides of your product but only use one Touch Controller. Whether you are printing two sides of a box or both sides of a larger product, having a single controller simplifies the inputting of the messages by the operator.
+                                  Easily print identical or different messages on both sides of the product.
+                                  <br>
+                                  <br>
+                                  A large colour graphic Touch Screen and WYSIWYG display combined with pictorial action keys makes message editing and programming really easy."
+    grid_link_three: Get a quick quotation
+    grid_title_four: Consistent print performance
+    grid_description_four_html: "An auto shutter on the print head ensures the print remains perfect in continuous or intermittent applications and harsh environments, without operator intervention.
+                                <br>
+                                <br>
+                                This shutter can be manually or automatically closed during periods of non-use of the FX ONE. When the shutter is closed it gives better protection to the print head against physical damage and ink drying inside the print head.
+                                <br>
+                                <br>
+                                Better protection against hostile environments:
+                                <br>
+                                The shutter-open-time can be as short as 5 seconds. This means that the shutter will be open for only 5 seconds, during the printing. Immediately after, it will close and protect the printhead against draft, humidity, dust and other contamination in the air."
+    grid_title_five: Clean ink management for perfect printing
+    grid_description_five_html: "The easy-flow oil or solvent based ink is in a sealed ink cartridge to ensure no waste, no contamination and no mess. Replacing the cartridge takes seconds while still printing.
+                                <br>
+                                The printer can be programmed for auto purging and cleaning giving 100% uptime."
+    grid_link_five: Learn More
+    grid_title_six: Full integration capability
+    grid_description_six_html: "The Foenix FX APP Software suite gives full integration capability for networking printers, accessing databases, creating messages off line, connecting to industrial scanners, bar code readers, verifiers and other production equipment.
+                                <br>
+                                Message selection can be manual or secure using a bar code reader."
+    grid_link_six: Learn More
+    cards_section_description: A new generation of
+    cards_section_description_two: maintenance free ink jet printers
     first_card_title: High Resolution Coding & Marking
     first_card_text: 1 to 8 lines of print, with 2-18mm print height.
     second_card_title: Pc Connectivity
-    second_card_text: Via USB cable or Ethernet for direct message creation or factory network system.
+    second_card_text: Via USB cable, RS485 or Ethernet for direct message creation or factory network system.
     third_card_title: Graphics, Logos & Barcodes
-    third_card_text: Easily import JPEG & BMP graphics using FX App.
+    third_card_text: Easily import JPEG, PNG & BMP graphics using the FX App.
     fourth_card_title: Simple Screen & Keyboard
     fourth_card_text: For local control of printer speed and direction, and message delay.
     fifth_card_title: Out of the Box Installation
     fifth_card_text: With minimal components for maximum reliability.
     sixth_card_title: 1D & 2D Barcodes
     sixth_card_text: High resolution printing of 1D and 2D barcodes (QR Codes – data matrix) to include variable data.
-    seventh_card_title: 2 Years Warranty
-    seventh_card_text: Extend it for one, two or three more years
+    seventh_card_title: 2 Years Warranty*
+    seventh_card_text_html: Extended warranty available<br>*Terms and conditions apply
     eigth_card_title: Touch Controller
     eigth_card_text: Simple interactive windows programming with FX App. Reliable printing in one click.
     ninth_card_title: Networking
@@ -297,7 +352,17 @@ en:
     twelfth_card_text: For encoders, external alarms and alternative product detection devices.
     thirteenth_card_title: Ink Saver Mode
     thirteenth_card_text: Reduce ink consumption by up to 75%
-    fourth_section_title: Specification
+    pop_title: APP Software
+    pop_title_two: For all your product coding application
+    pop_text_one: Networking & print analytics
+    pop_text_two: Simple interactive windows programming
+    pop_text_three: 'Availability on PC & 7" Touch screen controller'
+    pop_text_four: Multi language support
+    pop_text_five: Full integration with our DLL
+    pop_text_six: Advanced printer management
+    pop_link: Learn More
+    fourth_section_title: Technical Specifications
+    fifth_section_main_title: FX ONE REMOTE
     fifth_section_left_title: Features
     fifth_section_left_one: Prints in any orientation
     fifth_section_left_two: 1 to 8 lines of print
@@ -328,6 +393,27 @@ en:
     fifth_section_right_eleven: Various colours
     fifth_section_right_title_three: Electrical
     fifth_section_right_twelve: 90-260 VAC to 24VDC power supply included
+    fifth_section_message: Foenix Coding Ltd continously improves products and software. Specifications are subject to change.
+    build_to_last: Build to last
+    build_to_last_description: Carbon fibre construction and a solid component
+    build_to_last_description_two: group means it will be yours for years to come
+    discover: Discover the FX ONE range
+    shared_tech: Shared Technology
+    shared_tech_text_one: Our FX ONE Printers are built in a modular way with very few components.
+    shared_tech_text_two: FX ONE parts are 100% interchangeable, between similar machines and between models.
+    shared_tech_text_three: The only difference between the models is the location of the print head. The FX ONE Standard has the print head incorporated in the control unit and the FX ONE Remote & FX ONE Plus have a remote print head connected to the control unit with a flexible conduit.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: The smart solution for high
+    fx_one_standard_sub_two: resolution package printing
+    fx_one_standard_text: High resolution printing directly onto cartons, trays
+    fx_one_standard_text_two: and sacks on a production line to eliminate the need
+    fx_one_standard_text_three: for costly pre-printed packaging or expensive labels.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: The smart way to save
+    fx_one_plus_sub_two: on label printing
+    fx_one_plus_text: Large character printer up to 72mm print height.
+    fx_one_plus_text_two: The perfect alternative to expensive, complex
+    fx_one_plus_text_three: and limited labelling systems.
     sixth_section_title: Reliable, Powerful, Versatile
     sixth_section_left_sub_title_one: No costly maintenance contracts
     sixth_section_left_sub_text_one: Foenix printers are manufactured with minimal components to give maximum reliability. No pumps, no valves, no compressed air, no droplet charging and no air filters means low maintenance.
