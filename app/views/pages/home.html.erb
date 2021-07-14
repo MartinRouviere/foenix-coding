@@ -1,7 +1,9 @@
 <% content_for :meta_title, "#{t('seo.home_page.title')}" %>
 <% content_for :meta_description, "#{t('seo.home_page.description')}" %>
+
+
 <div class="home">
-  <div class="first-section" style="overflow-x: unset;">
+  <div class="first-section max-width" style="overflow-x: unset;">
     <div class="first-section-text">
       <!-- WEB TITLE -->
       <h1 class="hide-mobile m-0"><%= t("home.title") %></h1>
@@ -49,94 +51,98 @@
       </div>
     </div>
   </div>
-  <div class="second-section">
-    <div class="second-section-one">
-      <h4 class="font-weight-normal text-center"><%= t("home.title_second") %></h4>
-      <div class="d-flex align-items-center justify-content-center w-100">
-        <%= image_tag 'uk.png', class: 'home-uk' %>
-        <h6 class="mb-0"><%= t("home.title_second_description") %></h6>
+  <div class="bg-white">
+    <div class="second-section max-width">
+      <div class="second-section-one">
+        <h4 class="font-weight-normal text-center"><%= t("home.title_second") %></h4>
+        <div class="d-flex align-items-center justify-content-center w-100">
+          <%= image_tag 'uk.png', class: 'home-uk' %>
+          <h6 class="mb-0"><%= t("home.title_second_description") %></h6>
+        </div>
       </div>
-    </div>
-    <div class="second-section-two">
-      <div class="second-section-two-text max-width">
-        <div class="col-12 col-md-3 mb-5 mb-md-0">
-          <h2 class="pr-5"><%= t("home.second_section_one_title") %></h2>
-          <p><%= t("home.second_section_one_description") %></p>
-        </div>
-        <div class="col-12 col-md-3 mb-5 mb-md-0">
-          <h2 class="pr-5"><%= t("home.second_section_two_title") %></h2>
-          <p><%= t("home.second_section_two_description") %></p>
-        </div>
-        <div class="col-12 col-md-3">
-          <h2 class="pr-5"><%= t("home.second_section_three_title") %></h2>
-          <p><%= t("home.second_section_three_description") %></p>
+      <div class="second-section-two">
+        <div class="second-section-two-text max-width">
+          <div class="col-12 col-md-3 mb-5 mb-md-0">
+            <h2 class="pr-5"><%= t("home.second_section_one_title") %></h2>
+            <p><%= t("home.second_section_one_description") %></p>
+          </div>
+          <div class="col-12 col-md-3 mb-5 mb-md-0">
+            <h2 class="pr-5"><%= t("home.second_section_two_title") %></h2>
+            <p><%= t("home.second_section_two_description") %></p>
+          </div>
+          <div class="col-12 col-md-3">
+            <h2 class="pr-5"><%= t("home.second_section_three_title") %></h2>
+            <p><%= t("home.second_section_three_description") %></p>
+          </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="third-section">
-    <div class="third-section-one max-width">
-      <h2 class="text-white text-center"><%= t("home.third_section_title") %></h2>
-      <p class="text-white text-center"><%= t("home.third_section_description") %></p>
-      <div class="row m-0 py-5">
-        <div class="col-6 col-lg-3 mb-4 mb-lg-0 position-relative">
-          <div class="bg-white pt-4 border-radius">
-            <p class="bold coding-marking-text"><%= t("home.first_image") %></p>
-            <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070028/hts-1_amswww.png' %>
+  <div class="dark-bg">
+    <div class="third-section max-width">
+      <div class="third-section-one max-width">
+        <h2 class="text-white text-center"><%= t("home.third_section_title") %></h2>
+        <p class="text-white text-center"><%= t("home.third_section_description") %></p>
+        <div class="row m-0 py-5">
+          <div class="col-6 col-lg-3 mb-4 mb-lg-0 position-relative">
+            <div class="bg-white pt-4 border-radius">
+              <p class="bold coding-marking-text"><%= t("home.first_image") %></p>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070028/hts-1_amswww.png' %>
+            </div>
+          </div>
+          <div class="col-6 col-lg-3 mb-4 mb-lg-0 position-relative">
+            <div class="bg-white pt-4 border-radius">
+              <p class="bold coding-marking-text"><%= t("home.second_image") %></p>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070033/hts-2_oj4pvy.png' %>
+            </div>
+          </div>
+          <div class="col-6 col-lg-3 position-relative">
+            <div class="bg-white pt-4 border-radius">
+              <p class="bold coding-marking-text"><%= t("home.third_image") %></p>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070038/hts-3_iwm2ie.png' %>
+            </div>
+          </div>
+          <div class="col-6 col-lg-3 position-relative">
+            <div class="bg-white pt-4 border-radius">
+              <p class="bold coding-marking-text"><%= t("home.fourth_image") %></p>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070043/hts-4_p5romj.png' %>
+            </div>
           </div>
         </div>
-        <div class="col-6 col-lg-3 mb-4 mb-lg-0 position-relative">
-          <div class="bg-white pt-4 border-radius">
-            <p class="bold coding-marking-text"><%= t("home.second_image") %></p>
-            <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070033/hts-2_oj4pvy.png' %>
-          </div>
-        </div>
-        <div class="col-6 col-lg-3 position-relative">
-          <div class="bg-white pt-4 border-radius">
-            <p class="bold coding-marking-text"><%= t("home.third_image") %></p>
-            <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070038/hts-3_iwm2ie.png' %>
-          </div>
-        </div>
-        <div class="col-6 col-lg-3 position-relative">
-          <div class="bg-white pt-4 border-radius">
-            <p class="bold coding-marking-text"><%= t("home.fourth_image") %></p>
-            <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070043/hts-4_p5romj.png' %>
-          </div>
-        </div>
+        <p class="text-white text-center mb-0"><%= t("home.third_section_statement_one") %></p>
+        <p class="text-white text-center"><%= t("home.third_section_statement_two") %></p>
       </div>
-      <p class="text-white text-center mb-0"><%= t("home.third_section_statement_one") %></p>
-      <p class="text-white text-center"><%= t("home.third_section_statement_two") %></p>
     </div>
   </div>
-  <div class="fourth-section">
-    <div class="max-width">
-      <div class="row m-0 pb-5">
-        <div class="col-12 col-sm-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625128572/fsi-1_h95eg4.png", class: "w-100 mb-4 mb-md-0", alt: "Box coding") %>
-        </div>
-        <div class="col-12 col-sm-6">
-          <h2 class="text-white"><%= t("home.box_coding_title") %></h2>
-          <p class="text-white mb-4"><%= t("home.box_coding_description") %></p>
-          <%= link_to 'Learn more', '#', class: 'btn secondary-button button-width mr-3' %>
-          <p class="btn primary-button button-width text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+  <div class="dark-bg">
+    <div class="fourth-section max-width">
+        <div class="row m-0 pb-5">
+          <div class="col-12 col-sm-6">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625128572/fsi-1_h95eg4.png", class: "w-100 mb-4 mb-md-0", alt: "Box coding") %>
+          </div>
+          <div class="col-12 col-sm-6">
+            <h2 class="text-white"><%= t("home.box_coding_title") %></h2>
+            <p class="text-white mb-4"><%= t("home.box_coding_description") %></p>
+            <%= link_to 'Learn more', '#', class: 'btn secondary-button button-width mr-3' %>
+            <p class="btn primary-button button-width text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
 
+          </div>
         </div>
-      </div>
-      <div class="row m-0 pt-5 column-reverse">
-        <div class="col-12 col-sm-6">
-          <h2 class="text-white"><%= t("home.product_coding_title") %></h2>
-          <p class="text-white mb-4"><%= t("home.product_coding_description") %></p>
-          <%= link_to 'Learn more', '#', class: 'btn secondary-button button-width mr-3' %>
-          <p class="btn primary-button button-width text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+        <div class="row m-0 pt-5 column-reverse">
+          <div class="col-12 col-sm-6">
+            <h2 class="text-white"><%= t("home.product_coding_title") %></h2>
+            <p class="text-white mb-4"><%= t("home.product_coding_description") %></p>
+            <%= link_to 'Learn more', '#', class: 'btn secondary-button button-width mr-3' %>
+            <p class="btn primary-button button-width text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+          </div>
+          <div class="col-12 col-sm-6">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625128577/fsi-2_cflsou.png", class: "w-100 mb-4 mb-md-0", alt: "Product coding") %>
+          </div>
         </div>
-        <div class="col-12 col-sm-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625128577/fsi-2_cflsou.png", class: "w-100 mb-4 mb-md-0", alt: "Product coding") %>
-        </div>
-      </div>
     </div>
   </div>
-  <div class="fifth-section">
-    <div class="max-width">
+  <div class="dark-bg">
+    <div class="fifth-section max-width">
       <div class="row m-0 justify-content-center">
         <div class="col-12 col-md-5">
           <div class="d-flex flex-column justify-content-center align-items-center">
@@ -234,8 +240,8 @@
       </div>
     </div>
   </div>
-  <div class="seventh-section">
-    <div class="max-width">
+  <div class="dark-bg">
+    <div class="seventh-section max-width">
       <div class="row align-items-center column-reverse">
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626171543/wi-1_fonenx.png", class: "w-100", alt: "Wide range of inks") %>
@@ -248,7 +254,7 @@
       </div>
     </div>
   </div>
-  <div class="eigth-section">
+  <div class="eigth-section max-width">
     <div class="eigth-section-one">
       <div class="d-block d-md-flex justify-content-between align-items-center w-100">
         <div class="">
@@ -258,7 +264,7 @@
         <%= link_to 'Get Started', '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
       </div>
     </div>
-    <div class="max-width">
+    <div class="max-width pt-5">
       <div class="row m-0 pb-5">
         <div class="col-12 col-md-6">
           <h2 class=""><%= t("home.eight_section_title_one") %></h2>
