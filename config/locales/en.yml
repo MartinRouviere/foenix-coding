@@ -436,7 +436,36 @@ en:
 
   fxone_standard:
     first_section_title: STANDARD
-    first_section_text: Print in High resolution directly onto cartons, trays and sacks on a production line to eliminate the need for costly pre-printed packaging or expensive labels.
+    full_title: FX ONE STANDARD
+    first_section_text: High resolution printing directly onto cartons, trays and sacks on a production line to eliminate the need for costly pre-printed packaging or expensive labels.
+    grid_title_one: The smart solution for high resolution package printing
+    grid_description_one_html: "The new FX ONE Standard offers unbelievable print quality in a fully featured compact printer. It can be used as a simple stand alone easy to program printer or integrated into a full production network system. No need for expensive labels: Use the FX ONE Standard for high resolution printing directly onto cartons, trays, sacks or other products on a production line to eliminate the need for costly pre-printed packaging or expensive labels."
+    grid_link_one: Get a Print sample
+    grid_title_two: Save time, Save Money
+    grid_description_two_html: "No need for complicated startup and shutdown procedures. Simply switch off the machine at the end of the day and on again the next.
+                            <br>
+                            The FX ONE printer has been designed with minimal components to give maximum reliability. No pumps, no valves, no compressed air and with a single PCB means low maintenance and no no costly maintenance contracts.
+                            <br>
+                            <br>
+                            Reduced print costs - monitor and manage cost per print to easily reduce ink consumption by 75%. Printing with micro ink droplets and a sealed ink cartridge gives low cost per print with no ink wastage.
+                            The easy-flow oil based ink is in a sealed ink 110ml cartridge to ensure no waste, no contamination and no mess. Replacing the cartridge takes seconds while still printing. The printer can be programmed for auto purging and cleaning."
+    grid_link_two: Get a quick quotation
+    grid_title_three: Production versatility
+    grid_description_three_html: "The compact and innovative industrial design of the FX ONE enables you to move the printer to different locations in minutes. Just unplug it and move it. It works seamlessly with its large touchscreen, and all the printing functions can easily be controlled. Just hit the print button and start printing on anything.
+                                  <br>
+                                  <br>
+                                  The FX ONE printers can be linked to give printing on both sides of a carton with the same or different messages. High resolution printing combined with the ability to import any font styles, graphics and print in any languages will enhance your product image."
+    grid_title_four: Full integration capability
+    grid_description_four_html: "The Foenix FX APP Software suite gives full integration capability for networking printers, accessing databases, creating messages off line, connecting to industrial scanners, bar code readers, verifiers and other production equipment.
+                                <br>
+                                Message selection can be manual or secure using a bar code reader."
+    grid_link_four: Learn More
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: The smart alternative
+    fx_one_remote_sub_two: to CIJ printing
+    fx_one_remote_text: The FX ONE Remote inkjet printer is one of the lowest cost
+    fx_one_remote_text_two: per code and lowest maintenance small character printers.
+    fx_one_remote_text_three: It offers a real alternative to code your products.
     second_section_title: Overview
     first_card_title: High Resolution Coding & Marking
     first_card_text: 1 to 8 lines of print, with 2-18mm print height.

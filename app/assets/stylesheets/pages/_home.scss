@@ -39,7 +39,7 @@
 }
 
 .carousel-indicators .active {
-  background-image: linear-gradient(to bottom right, $orange, $orange);
+  background-image: linear-gradient(to bottom right, $orange, $orange) !important;
   height: 16px;
   width: 16px;
   border-radius: 50%;
@@ -208,6 +208,7 @@
 
   @include for-medium-devices-down {
     margin-bottom: 0px;
+    margin-right: 0px;
   }
 
   & h1 {

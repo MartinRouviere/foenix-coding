@@ -29,7 +29,7 @@
   }
 }
 .navbar-wrapper {
-  padding: 48px 48px 0;
+  // padding: 48px 48px 0;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -37,6 +37,45 @@
     padding: 0;
     position: relative;
     z-index: unset;
+  }
+}
+
+.dark-nav {
+  background: #2A2A2A;
+  .navbar-item:hover a, i {
+    text-decoration: none;
+    color: #FFFFFF !important;
+  }
+  .dropdown-menu-ul li:hover {
+    background-color: #353535;
+  }
+  .printers-text-container:hover {
+    background: #353535;
+  }
+  .navbar-foenix {
+    background: #2A2A2A;
+    border: 1px solid #353535;
+    a, i {
+      color: #FFFFFF;
+      &:hover {
+        color: #FFFFFF;
+        i {
+          color: #FFFFFF;
+        }
+      }
+    }
+  }
+  .dropdown-menu {
+    background: #2A2A2A;
+    .printers-menu {
+      background: #2A2A2A !important;
+    }
+    .navbar-dropdown-item-active {
+      background: #444444 !important;
+    }
+    .navbar-dropdown-item-active span {
+      color: #FFFFFF !important;
+    }
   }
 }
 
