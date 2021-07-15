@@ -2,314 +2,391 @@
 <% content_for :meta_description, "#{t('seo.fxone_standard.description')}" %>
 <% content_for :meta_image, cl_image_path("fxone-standard-graphic-1_wieclv.png", width: 400, alt: "FX ONE STANDARD printer") %>
 
-<div class="fxone-wrapper fxone-standard">
-  <div class="first-section fxone-first-section-background fxone-standard-back">
-    <%= cl_image_tag("inks_big_pill_dqob2a.png", :quality=>"auto", class: "fxone-big-pill fxone-standard-big-pill show-mobile") %>
+<div class="fxone-wrapper fxone-standard dark-bg">
+  <div class="first-section max-width dark-bg" style="overflow-x: unset;">
     <div class="first-section-text">
-      <h1 class="w-100"><span><%= cl_image_tag("fxone-logo_zjjdvc.png", class: "fxone-logo") %></span> <%= t("fxone_standard.first_section_title") %></h1>
-      <p class="responsive-text-small grey inks-card-text"><%= t("fxone_standard.first_section_text") %></p>
-      <div class="btn-holder">
-        <div class="play-btn" data-toggle="modal" data-target=".bd-example-modal-lg">
-          <i class="fas fa-play orange"></i>
-          <p><%= t("home.play") %></p>
-        </div>
-        <%= link_to "/fxone_standard_brochure.pdf", target: "_blank", class: "nodec" do %>
-          <div class="download-btn">
-            <p><%= t("home.download") %></p>
-          </div>
-        <% end %>
-      </div>
+      <h1 class="w-100 text-white"><span><%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626355155/fxow_eusevg.png", class: "fxone-logo") %></span> <%= t("fxone_standard.first_section_title") %></h1>
+      <p class="text-white" style="width: 90%;"><%= t("fxone_standard.first_section_text") %></p>
+      <p class="btn primary-button text-white mb-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+      <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
     </div>
-    <%= cl_image_tag("fxone-standard-graphic-1_wieclv.png", :quality=>"auto", class: "first-section-image", style: "max-width: 800px;", alt: "FX ONE printer and TOUCH controller") %>
-  </div>
-  <div class="ownership-second-section-wrapper fxone-second-section-wrapper" style="padding-top: 15vh;">
-    <%= image_tag 'square-dots.png', class: 'fxone-dots fxone-stand-dots hide-mobile' %>
-    <div data-aos="fade-up" data-aos-duration="2000">
-      <%= image_tag 'fxone-icon-1.png', class: 'about-icon' %>
-    </div>
-    <h2 class="text-center" data-aos="fade-up" data-aos-duration="2000"><%= t("fxone_standard.second_section_title") %></h2>
-  </div>
-  <div class="fxone-third-section-wrapper">
-    <%= cl_image_tag("fxone-standard-slant-with-pill_sxthpz.png", :quality=>"auto", class: "fxone-standard-slant") %>
-    <%= cl_image_tag("fxone-standard-block_eczfgs.png", :quality=>"auto", class: "fxone-standard-block") %>
-    <div class="container">
-      <div class="row justify-content-center fxone-cards">
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-1.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.first_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.first_card_text") %></p>
+    <div class="product-carousel dark-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626350474/bgpc_u6csti.png' %>)">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleCaptions" data-slide-to="0"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="1" class="active"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+            </ol>
+            <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
           </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-2.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.second_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.second_card_text") %></p>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626351569/fxos-3_hqdbur.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-3.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.third_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.third_card_text") %></p>
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626351570/fxos-1_qwyn84.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-4.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.fourth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.fourth_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-5.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.fifth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.fifth_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-6.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.sixth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.sixth_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-7.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.seventh_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.seventh_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-8.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.eigth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.eigth_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'software-icon-4.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.ninth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.ninth_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-10.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.tenth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.tenth_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-11.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.eleventh_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.eleventh_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-12.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.twelfth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.twelfth_card_text") %></p>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 fxone-card-container">
-          <div class="fxone-card">
-            <div class="d-flex align-items-start">
-              <%= image_tag 'fxone-card-icon-13.png', class: 'about-icon square-card-icon' %>
-              <h6 class="inks-card-header mt-4"><%= t("fxone_standard.thirteenth_card_title") %></h6>
-            </div>
-            <p class="paragraph-text inks-card-text mt-3"><%= t("fxone_standard.thirteenth_card_text") %></p>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626351893/fxos-2_tvqh5m.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="fxone-fourth-section-wrapper">
-    <div class="container">
-      <div class="fxone-fourth-section-header">
-        <div data-aos="fade-up" data-aos-duration="2000">
-          <%= image_tag 'fxone-icon-2.png', class: 'about-icon' %>
+
+  <div class="first-section max-width dark-bg">
+    <div class="">
+      <div class="row m-0 py-5">
+        <div class="col-12 col-md-6">
+          <h2 class="text-white"><%= t("fxone_standard.grid_title_one") %></h2>
+          <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_one_html") %></p>
+          <%= link_to '#', class: 'link-orange' do %>
+            <p class="text-orange bold"><%= t("fxone_standard.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
+          <% end %>
         </div>
-        <h2 class="text-center" data-aos="fade-up" data-aos-duration="2000"><%= t("fxone_remote.fourth_section_title") %></h2>
+        <div class="col-12 col-md-6">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356627/fxosg-1_gnmcps.png", class: "w-100", alt: "Product coding") %>
+        </div>
       </div>
-      <div class="about-section fxone-section">
-        <div class="about-first-section-left">
-          <%= cl_image_tag("stan-lhs_o7wbl4.png", :quality=>"auto", class: "about-graphic about-graphic-two", alt: "FX ONE standard printer side view") %>
+      <div class="row m-0 py-5 column-reverse">
+        <div class="col-12 col-md-6">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356628/fxosg-2_cssapd.png", class: "w-100", alt: "Box coding") %>
         </div>
-        <div class="about-first-section-right">
-          <%= cl_image_tag("stand-rhs_eesu1p.png", :quality=>"auto", class: "about-graphic about-graphic-two", alt: "FX ONE standard printer front view") %>
+        <div class="col-12 col-md-6">
+          <h2 class="text-white"><%= t("fxone_standard.grid_title_two") %></h2>
+          <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_two_html") %></p>
+          <%= link_to '#', class: 'link-orange' do %>
+            <p class="text-orange bold"><%= t("fxone_standard.grid_link_two") %> <i class="fas fa-arrow-right ml-2"></i></p>
+          <% end %>
+        </div>
+      </div>
+      <div class="row m-0 py-5">
+        <div class="col-12 col-md-6">
+          <h2 class="text-white"><%= t("fxone_standard.grid_title_three") %></h2>
+          <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_three_html") %></p>
+        </div>
+        <div class="col-12 col-md-6">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356627/fxosg-3_puozmu.png", class: "w-100", alt: "Product coding") %>
+        </div>
+      </div>
+      <div class="row m-0 py-5 column-reverse">
+        <div class="col-12 col-md-6">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356627/fxosg-4_oyekr0.png", class: "w-100", alt: "Box coding") %>
+        </div>
+        <div class="col-12 col-md-6">
+          <h2 class="text-white"><%= t("fxone_standard.grid_title_four") %></h2>
+          <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_four_html") %></p>
+          <%= link_to '#', class: 'link-orange' do %>
+            <p class="text-orange bold"><%= t("fxone_standard.grid_link_four") %> <i class="fas fa-arrow-right ml-2"></i></p>
+          <% end %>
         </div>
       </div>
     </div>
   </div>
-  <div class="fxone-fifth-section-wrapper">
-    <%= cl_image_tag("mobile-slant_kd8uj1.png", :quality=>"auto", class: "fxone-mobile-slant show-mobile") %>
-    <%= cl_image_tag("fourth-section-top-half_yshdpy.png", :quality=>"auto", class: "fxone-fourth-section-background hide-mobile") %>
-    <div class="container">
-      <div class="about-section fxone-section d-flex justify-content-center">
+
+  <div class="first-section grid-container dark-bg">
+    <div class="max-width">
+      <p class="text-center mb-4 text-white"><%= t("fxone_remote.second_section_title").upcase %></p>
+      <h2 class="text-center mb-0 text-white"><%= t("fxone_remote.cards_section_description") %></h2>
+      <h2 class="text-center mb-5 text-white"><%= t("fxone_remote.cards_section_description_two") %></h2>
+      <div class="row m-0 justify-content-center fxone-cards">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-1.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.first_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.first_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-2.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.tenth_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.tenth_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-3.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.third_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.third_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-4.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.sixth_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.sixth_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-5.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.eigth_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.eigth_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-6.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.second_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.second_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-7.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.twelfth_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.twelfth_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-8.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.ninth_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.ninth_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-9.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.fifth_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.fifth_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-10.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.seventh_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.seventh_card_text_html") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-11.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.eleventh_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.eleventh_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="fxone-card charcoal-bg">
+            <div class="d-flex align-items-start">
+              <%= image_tag 'gi-12.png', class: 'square-card-icon' %>
+              <div class="">
+                <h6 class="mt-4 text-white"><%= t("fxone_remote.thirteenth_card_title") %></h6>
+                <p class="small-text text-white"><%= t("fxone_remote.thirteenth_card_text") %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="d-flex justify-content-center align-items-center mt-5">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626366994/fxossi_hjsjsb.png", class: "w-50 mt-5 minus-margin", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="fxone-third-section position-relative bg-white">
+    <div class="max-width px-3 px-md-5">
+      <div class="remote-pop">
+        <div class="d-block d-md-flex justify-content-between align-items-center w-100">
+          <div class="flex-grow-1">
+            <div class="d-flex align-items-center justify-content-start mb-3">
+
+              <h3 class="font-weight-normal text-white mb-0"><%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626185426/fxt-1_vt9xhq.png", class: "mr-2", style: "height: 21px; position: relative; top: -2px", alt: "FX") %><%= t("fxone_remote.pop_title") %><span class="ml-2" style="font-size: 22px"><%= t("fxone_remote.pop_title_two") %></span></h3>
+            </div>
+            <div class="row m-0">
+              <div class="col-12 col-md-6">
+                <div class="mr-5">
+                  <p class="mb-3 mb-md-0 text-white s-medium-text"><i class="far fa-check-circle text-orange mr-2"></i><%= t("fxone_remote.pop_text_one") %></p>
+                  <p class="mb-3 mb-md-0 text-white s-medium-text"><i class="far fa-check-circle text-orange mr-2"></i><%= t("fxone_remote.pop_text_two") %></p>
+                  <p class="mb-3 mb-md-0 text-white s-medium-text"><i class="far fa-check-circle text-orange mr-2"></i><%= t("fxone_remote.pop_text_three") %></p>
+                </div>
+              </div>
+              <div class="col-12 col-md-6">
+                <div class="">
+                  <p class="mb-3 mb-md-0 text-white s-medium-text"><i class="far fa-check-circle text-orange mr-2"></i><%= t("fxone_remote.pop_text_four") %></p>
+                  <p class="mb-3 mb-md-0 text-white s-medium-text"><i class="far fa-check-circle text-orange mr-2"></i><%= t("fxone_remote.pop_text_five") %></p>
+                  <p class="mb-3 mb-md-0 text-white s-medium-text"><i class="far fa-check-circle text-orange mr-2"></i><%= t("fxone_remote.pop_text_six") %></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
+        </div>
+      </div>
+      <h2 class="mt-5 mb-4"><%= t("fxone_remote.fourth_section_title") %></h2>
+      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626367397/fxosts_z1b2mb.png", class: "w-100", alt: "Technical specifications") %>
+      <div class="fxone-fifth-section-content-wrapper my-5 standard-tech-specs">
         <div class="fxone-fifth-section-content">
-          <%= image_tag 'square-dots.png', class: 'fxone-dots-back hide-mobile' %>
           <div class="fxone-fifth-section-left">
-            <p class="bold small-text"><%= t("fxone_remote.fifth_section_left_title") %></p>
-            <ul style="padding-left: 16px;">
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_one") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_two") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_three") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_four") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_five") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_six") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_seven") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_eight") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_nine") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_ten") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_eleven") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_twelve") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_thirteen") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_fourteen") %></li>
+            <h2 class=""><%= t("fxone_standard.full_title") %></h2>
+            <p class="bold  mb-2 mt-5"><%= t("fxone_remote.fifth_section_left_title") %></p>
+            <ul class="pl-3">
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_one") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_two") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_three") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_four") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_five") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_six") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_seven") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_eight") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_nine") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_ten") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_eleven") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_twelve") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_thirteen") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_left_fourteen") %></li>
             </ul>
+            <p class="v-small-text "><%= t("fxone_remote.fifth_section_message") %></p>
           </div>
           <div class="fxone-fifth-section-right">
-            <p class="bold small-text"><%= t("fxone_remote.fifth_section_right_title_one") %></p>
-            <ul style="padding-left: 16px;">
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_one") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_two") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_three") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_four") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_five") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_six") %></li>
+            <div class="d-flex align-items-center justify-content-start w-100 mb-3">
+              <%= image_tag 'uk.png', class: 'home-uk' %>
+              <h6 class="mb-0 "><%= t("home.title_second_description") %></h6>
+            </div>
+            <p class="bold  mb-2 mt-5"><%= t("fxone_remote.fifth_section_right_title_one") %></p>
+            <ul class="pl-3">
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_one") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_two") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_three") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_four") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_five") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_six") %></li>
             </ul>
-            <p class="bold small-text"><%= t("fxone_remote.fifth_section_right_title_two") %></p>
-            <ul style="padding-left: 16px;">
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_seven") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_eight") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_ten") %></li>
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_eleven") %></li>
+            <p class="bold  mb-2"><%= t("fxone_remote.fifth_section_right_title_two") %></p>
+            <ul class="pl-3">
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_seven") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_eight") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_nine") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_ten") %></li>
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_eleven") %></li>
             </ul>
-            <p class="bold small-text"><%= t("fxone_remote.fifth_section_right_title_three") %></p>
-            <ul style="padding-left: 16px;">
-              <li class="paragraph-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_twelve") %></li>
+            <p class="bold  mb-2"><%= t("fxone_remote.fifth_section_right_title_three") %></p>
+            <ul class="pl-3">
+              <li class=" small-text" style="line-height: 25px !important"><%= t("fxone_remote.fifth_section_right_twelve") %></li>
             </ul>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="fxone-sixth-section-wrapper">
-    <%#= cl_image_tag("fourth-section-middle_yezkil.png", :quality=>"auto", class: "fxone-fourth-section-background") %>
-    <div class="container">
-      <div class="fxone-sixth-section-header">
-        <div data-aos="fade-up" data-aos-duration="2000">
-          <%= image_tag 'fxone-icon-3.png', class: 'about-icon' %>
-        </div>
-        <h2 class="fxone-remote-sixth-section-title text-center" data-aos="fade-up" data-aos-duration="2000"><%= t("fxone_remote.sixth_section_title") %></h2>
-      </div>
-      <div class="about-section fxone-section fxone-sixth-section-content">
-        <div class="about-first-section-left">
-          <div class="fxone-sixth-section-check">
-            <%= image_tag 'foenix-check.png', width: 20 %>
-            <div>
-              <p class="bold s-medium-text mb-1"><%= t("fxone_remote.sixth_section_left_sub_title_one") %></p>
-              <p class="s-medium-text grey" style="line-height: 25px !important"><%= t("fxone_remote.sixth_section_left_sub_text_one") %></p>
+
+  <div class="bg-white d-flex flex-column justify-content-center align-items-center pb-5">
+    <h2 class="mb-4"><%= t("fxone_remote.build_to_last") %></h2>
+    <p class="mb-0"><%= t("fxone_remote.build_to_last_description") %></p>
+    <p class="mb-0"><%= t("fxone_remote.build_to_last_description_two") %></p>
+  </div>
+  <div class="bg-white pb-5">
+    <div class="max-width py-5 px-3 px-md-5">
+      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626376396/fxosbtl_iuhhp1.png", class: "w-100", style: 'border-radius: 6px;', alt: "build to last") %>
+    </div>
+  </div>
+  <div class="bg-white pb-5">
+    <div class="max-width px-3 px-md-5">
+      <h1 class="text-center mb-4"><%= t("fxone_remote.discover") %></h1>
+      <div class="row m-0">
+        <div class="col-12 px-0">
+          <div class="shared-tech charcoal-bg px-4 px-md-5 py-4 mb-4">
+            <div class="d-flex align-items-center justify-content-start w-100 mb-4 mb-md-0 mt-3">
+              <%= image_tag 'uk.png', class: 'home-uk mr-4' %>
+              <h6 class="mb-0 text-white"><%= t("home.title_second_description") %></h6>
             </div>
-          </div>
-          <div class="fxone-sixth-section-check">
-            <%= image_tag 'foenix-check.png', width: 20 %>
-            <div>
-              <p class="bold s-medium-text mb-1"><%= t("fxone_remote.sixth_section_left_sub_title_two") %></p>
-              <p class="s-medium-text grey" style="line-height: 25px !important"><%= t("fxone_remote.sixth_section_left_sub_text_two") %></p>
-            </div>
-          </div>
-          <div class="fxone-sixth-section-check">
-            <%= image_tag 'foenix-check.png', width: 20 %>
-            <div>
-              <p class="bold s-medium-text mb-1"><%= t("fxone_remote.sixth_section_left_sub_title_three") %></p>
-              <p class="s-medium-text grey" style="line-height: 25px !important"><%= t("fxone_remote.sixth_section_left_sub_text_three") %></p>
+            <div class="">
+              <h1 class="text-white mb-0"><%= t("fxone_remote.shared_tech") %></h1>
+              <p class="mb-0 text-white"><%= t("fxone_remote.shared_tech_text_one") %></p>
+              <p class="mb-0 text-white"><%= t("fxone_remote.shared_tech_text_two") %></p>
+              <p class="mb-0 text-white"><%= t("fxone_remote.shared_tech_text_three") %></p>
+              <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626258473/fxor-1_b1dj2y.png", class: "shared-tech-image", alt: "shared technology") %>
             </div>
           </div>
         </div>
-        <div class="about-first-section-right">
-          <div class="fxone-sixth-section-check">
-            <%= image_tag 'foenix-check.png', width: 20 %>
-            <div>
-              <p class="bold s-medium-text mb-1"><%= t("fxone_remote.sixth_section_right_sub_title_one") %></p>
-              <p class="s-medium-text grey" style="line-height: 25px !important"><%= t("fxone_remote.sixth_section_right_sub_text_one") %></p>
-            </div>
+        <div class="col-12 col-lg-6 pt-3 pl-0 pr-0 pr-lg-3">
+          <div class="bg-white fx-standard-border fxone-range ml-lg-1">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626261126/fxor-3_xo5t1s.png", class: "mb-5 fxone-range-img-one", alt: "FX ONE Plus") %>
+            <h1 class="text-center grey mb-0 mt-5"><%= t("fxone_remote.fx_one_plus") %></h1>
+            <h4 class="text-center grey  mb-0"><%= t("fxone_remote.fx_one_plus_sub") %></h4>
+            <h4 class="text-center grey  mb-4"><%= t("fxone_remote.fx_one_plus_sub_two") %></h4>
+            <p class="text-center grey mb-0"><%= t("fxone_remote.fx_one_plus_text") %></p>
+            <p class="text-center grey mb-0"><%= t("fxone_remote.fx_one_plus_text_two") %></p>
+            <p class="text-center grey mb-4"><%= t("fxone_remote.fx_one_plus_text_three") %></p>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
           </div>
-          <div class="fxone-sixth-section-check">
-            <%= image_tag 'foenix-check.png', width: 20 %>
-            <div>
-              <p class="bold s-medium-text mb-1"><%= t("fxone_remote.sixth_section_right_sub_title_two") %></p>
-              <p class="s-medium-text grey" style="line-height: 25px !important"><%= t("fxone_remote.sixth_section_right_sub_text_two") %></p>
-            </div>
-          </div>
-          <div class="fxone-sixth-section-check">
-            <%= image_tag 'foenix-check.png', width: 20 %>
-            <div>
-              <p class="bold s-medium-text mb-1"><%= t("fxone_remote.sixth_section_right_sub_title_three") %></p>
-              <p class="s-medium-text grey" style="line-height: 25px !important"><%= t("fxone_remote.sixth_section_right_sub_text_three") %></p>
-            </div>
-          </div>
-          <div class="fxone-sixth-section-check">
-            <%= image_tag 'foenix-check.png', width: 20 %>
-            <div>
-              <p class="bold s-medium-text mb-1"><%= t("fxone_remote.sixth_section_left_sub_title_four") %></p>
-              <p class="s-medium-text grey" style="line-height: 25px !important"><%= t("fxone_remote.sixth_section_left_sub_text_four") %></p>
-            </div>
+        </div>
+        <div class="col-12 col-lg-6 pt-5 pt-lg-3 pr-0 pl-0 pl-lg-3">
+          <div class="black-bg fxone-range mr-lg-1">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626369972/fxosfxr_msqbht.png", class: "mb-5 fxone-range-img-one", alt: "FX ONE Standard") %>
+            <h1 class="text-center text-white mb-0 mt-5"><%= t("fxone_standard.fx_one_remote") %></h1>
+            <h4 class="text-center text-white mb-0"><%= t("fxone_standard.fx_one_remote_sub") %></h4>
+            <h4 class="text-center text-white mb-4"><%= t("fxone_standard.fx_one_remote_sub_two") %></h4>
+            <p class="text-center mb-0 light-grey"><%= t("fxone_standard.fx_one_remote_text") %></p>
+            <p class="text-center mb-0 light-grey"><%= t("fxone_standard.fx_one_remote_text_two") %></p>
+            <p class="text-center mb-4 light-grey"><%= t("fxone_standard.fx_one_remote_text_three") %></p>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="fxone-seventh-section-wrapper">
-    <%= image_tag 'square-dots.png', class: 'fxone-seventh-section-dots' %>
-    <%= cl_image_tag("fourth-section-bottom-half_j9e2d7.png", :quality=>"auto", class: "fxone-fourth-section-background hide-mobile") %>
-    <div class="container">
-      <div class="about-section" style="padding-top: 100px;">
-        <div class="about-fifth-section-left mobile-center fxone-no-padding mx-auto" data-aos="fade-up" data-aos-duration="2000" style="text-align: center; width: 80%">
-          <%= image_tag 'fxone-icon-4.png', class: 'about-icon' %>
-          <h2 class=""><%= t("fxone_standard.seventh_section_title") %></h2>
-          <p class="responsive-text-small "><%= t("fxone_standard.seventh_section_text") %></p>
-          <%= cl_image_tag("fxone-remote-graphic-4_lo5sz0.png", :quality=>"auto", class: "about-graphic about-graphic-two show-mobile") %>
-        </div>
-      </div>
-      <div style="height: 80px;"></div>
-      <!-- <div class="fxone-seventh-section-video-container">
-        <div class="fxone-seventh-section-video">
-          <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/oMW-QEs1zmc?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-      </div> -->
-    </div>
-  </div>
+
+
+
   <div id="modal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-cont" id="modal-cont">
