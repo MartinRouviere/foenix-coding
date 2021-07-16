@@ -2,23 +2,131 @@
 <% content_for :meta_description, "#{t('seo.fxone_plus.description')}" %>
 <% content_for :meta_image, cl_image_path("fxone-plus_fvkcao.png.png", width: 400, alt: "FX ONE Plus printer") %>
 
-<div class="fxone-wrapper fxone-plus">
-  <%= cl_image_tag("inks_big_pill_dqob2a.png", :quality=>"auto", class: "fxone-big-pill fxone-standard-big-pill show-mobile") %>
-  <div class="first-section fxone-first-section-background fxone-plus-sect">
-    <%= image_tag 'square-dots.png', class: 'fxone-plus-dots hide-mobile' %>
-    <%= cl_image_tag("inks_little_pill_pahv4x.png", :quality=>"auto", class: "fxone-plus-little-pill hide-mobile", alt: "FX ONE Plus printer") %>
-      <div class="first-section-text">
-        <h1 class="w-100"><span><%= cl_image_tag("fxone-logo_zjjdvc.png", class: "fxone-logo") %></span> <%= t("fxone_plus.first_section_title") %></h1>
-        <p class="paragraph-text"><%= t("fxone_plus.first_section_text") %><br><%= t("fxone_plus.first_section_text_two") %></p>
-      </div>
-      <div class="no-padding-mobile first-section-image" style="position: relative; display: flex; justify-content: center; align-items: center">
-        <%= cl_image_tag("fxone-plus_fvkcao.png", :quality=>"auto", class: "fxone-plus-graphic", style: "width: 100%; max-width: 800px;;") %>
-        <div class="coming-soon" style="background-image: url('<%= cl_image_path "coming-soon-background_wjcoct.png" %>')">
-          <p class="coming-soon-text"><%= t("fxone_plus.coming_soon") %></p>
+<div class="plus-bg">
+  <div class="first-section pb-5 max-width plus-bg" style="overflow-x: unset;">
+    <div class="first-section-text">
+      <h1 class="w-100 grey"><%= t("fxone_plus.first_section_title") %></h1>
+      <p class="grey mb-4" style="width: 90%;"><%= t("fxone_plus.first_section_text") %></p>
+      <%= form_tag subscribe_path, method: :post, class: 'about-form', style: 'width: 90%;' do %>
+          <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
+          %>
+          <%= button_tag class: "about-form-button" do %>
+            <i class="fas fa-paper-plane"></i>
+          <% end %>
+        <% end %>
+    </div>
+    <div class="product-carousel dark-carousel">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="no-padding-mobile" style="position: relative; display: flex; justify-content: center; align-items: center">
+              <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626445713/fxone-plus_fvkcao_beusqa.png", class: "first-section-image fxone-plus-graphic", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+              <div class="coming-soon">
+                <p class="coming-soon-text text-orange"><%= t("fxone_plus.coming_soon") %></p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
+    </div>
+  </div>
+
+  <div class="first-section pb-0 max-width plus-bg">
+    <div class="">
+      <div class="row m-0 py-5 column-reverse">
+        <div class="col-12 col-md-6">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626448137/fxop72_ilivef.png", class: "w-100", alt: "72 mm") %>
+        </div>
+        <div class="col-12 col-md-6">
+          <h2 class="grey"><%= t("fxone_plus.grid_title_one") %></h2>
+          <p class="mb-4 grey"><%= t("fxone_plus.grid_description_one_html") %></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-width plus-bg px-5 pb-5">
+    <div class="bg-white p-4 border-radius">
+      <h2 class="grey text-center pb-5"><%= t("fxone_plus.huge_cost_savings") %></h2>
+    </div>
+  </div>
+
+  <div class="max-width plus-bg p-5">
+    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626448756/fxopc_wcqscw.png", class: "w-100", alt: "crate") %>
+  </div>
+
+  <div class="max-width plus-bg p-5 d-flex justify-content-center align-items-center">
+    <div class="plus-newsletter dark-bg mb-5">
+      <p class="text-center text-orange bold"><%= t('fxone_plus.plus_newsletter_title') %> </p>
+      <h2 class="text-center text-white mb-0"><%= t('fxone_plus.plus_newsletter_description') %> </h2>
+      <h2 class="text-center text-white mb-5"><%= t('fxone_plus.plus_newsletter_description_two') %> </h2>
+      <div style="width: 392px;">
+        <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
+          <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
+          %>
+          <%= button_tag class: "about-form-button" do %>
+            <i class="fas fa-paper-plane"></i>
+          <% end %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="plus-bg pt-5 pb-5">
+    <div class="max-width px-3 px-md-5 pb-5 mb-5">
+      <h1 class="text-center text-white mb-4"><%= t("fxone_remote.discover") %></h1>
+      <div class="row m-0">
+        <div class="col-12 px-0">
+          <div class="shared-tech px-4 px-md-5 py-4 mb-4 bg-white">
+            <div class="d-flex align-items-center justify-content-start w-100 mb-4 mb-md-0 mt-3">
+              <%= image_tag 'uk.png', class: 'home-uk mr-4' %>
+              <h6 class="mb-0"><%= t("home.title_second_description") %></h6>
+            </div>
+            <div class="">
+              <h1 class="mb-0"><%= t("fxone_remote.shared_tech") %></h1>
+              <p class="mb-0"><%= t("fxone_remote.shared_tech_text_one") %></p>
+              <p class="mb-0"><%= t("fxone_remote.shared_tech_text_two") %></p>
+              <p class="mb-0"><%= t("fxone_remote.shared_tech_text_three") %></p>
+              <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626258473/fxor-1_b1dj2y.png", class: "shared-tech-image", alt: "shared technology") %>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 pt-3 pl-0 pr-0 pr-lg-3">
+          <div class="dark-bg fxone-range mr-lg-1">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626258476/fxor-2_f2sb74.png", class: "mb-5 fxone-range-img-one", alt: "FX ONE Standard") %>
+            <h1 class="text-center text-white mb-0 mt-5"><%= t("fxone_remote.fx_one_standard") %></h1>
+            <h4 class="text-center text-white mb-0"><%= t("fxone_remote.fx_one_standard_sub") %></h4>
+            <h4 class="text-center text-white mb-4"><%= t("fxone_remote.fx_one_standard_sub_two") %></h4>
+            <p class="text-center mb-0 light-grey"><%= t("fxone_remote.fx_one_standard_text") %></p>
+            <p class="text-center mb-0 light-grey"><%= t("fxone_remote.fx_one_standard_text_two") %></p>
+            <p class="text-center mb-4 light-grey"><%= t("fxone_remote.fx_one_standard_text_three") %></p>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 pt-5 pt-lg-3 pr-0 pl-0 pl-lg-3">
+          <div class="black-bg fxone-range mr-lg-1">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626369972/fxosfxr_msqbht.png", class: "mb-5 fxone-range-img-two", alt: "FX ONE Standard") %>
+            <h1 class="text-center text-white mb-0 mt-5"><%= t("fxone_standard.fx_one_remote") %></h1>
+            <h4 class="text-center text-white mb-0"><%= t("fxone_standard.fx_one_remote_sub") %></h4>
+            <h4 class="text-center text-white mb-4"><%= t("fxone_standard.fx_one_remote_sub_two") %></h4>
+            <p class="text-center mb-0 light-grey"><%= t("fxone_standard.fx_one_remote_text") %></p>
+            <p class="text-center mb-0 light-grey"><%= t("fxone_standard.fx_one_remote_text_two") %></p>
+            <p class="text-center mb-4 light-grey"><%= t("fxone_standard.fx_one_remote_text_three") %></p>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
+
+
+
+
 <%= render 'shared/newsletter' %>
 
 <script>
