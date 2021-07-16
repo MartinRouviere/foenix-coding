@@ -498,10 +498,30 @@ en:
 
 
   fxone_plus:
-    first_section_title: PLUS
-    first_section_text: "Coming Soon: Large character printer up to 72mm print height."
+    first_section_title: FX ONE PLUS
+    first_section_text: Large character printer up to 72mm print height. The perfect alternative to expensive, complex and limited labelling systems.
     first_section_text_two: "The perfect alternative to expensive, complex and limited labelling systems."
-    coming_soon: Coming Soon...
+    coming_soon: COMING SOON
+    grid_title_one: The smart way to save on label printing
+    grid_description_one_html: "The FX ONE Plus large character inkjet printer puts the user in control of cost per print for label printing.
+                               <br>
+                               <br>
+                               The Windows based software was especially designed with label printing in mind, an area where controlling the cost per print is paramount. By printing directly onto boxes instead of using labels, the cost efficiency increases dramatically.
+                               <br>
+                               <br>
+                               The FX ONE Plus offers further integration flexibility and can link with databases, allows full remote control by existing production management software and offers full networking capability including WiFi.
+                               <br>
+                               <br>
+                               Designed for low cost coding and marking on to cartons and boxes, a true alternative to a label printer.
+                               No need for complicated startup and shutdown procedures. Simply switch off the machine at the end of the day and on again the next.
+                               <br>
+                               <br>
+                               In addition to cartons, you can print on papers, wood, fabric, EPS, foam, concrete, etc..."
+    huge_cost_savings: Huge cost savings by replacing labels and pre-printed packaging by high resolution printing directly onto cartons – ideal for boxes, sacks, trays, wooden pallets and others
+    plus_newsletter_title: FOENIX NEWSLETTER
+    plus_newsletter_description: Be the first to know when
+    plus_newsletter_description_two: we launch the FX ONE Plus
+    placeholder: Enter your email & get updates about the launch
 
   software:
     first_section_title_one: FX TOUCH CONTROLLER
