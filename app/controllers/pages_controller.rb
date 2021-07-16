@@ -24,6 +24,9 @@ class PagesController < ApplicationController
   def cost_of_ownership
   end
 
+  def printers
+  end
+
   def fxone_remote
   end
 
