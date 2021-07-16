@@ -267,6 +267,12 @@ en:
     second_section_title: Savings/ROI Calculator
     second_section_text: Easily control your cost per print and the number of print per cartridge. It has never been easier to keep your cost down! Save up to 75% of ink  with our Ink saver mode
 
+  printers:
+    title: FX ONE SERIES
+    text: The Foenix range of ink jet printers are all designed as industrial inkjet printers for coding and marking solutions.
+          The main design criteria for each printer is ease of use, low maintenance, cost effectiveness and offers ultra high resolution printing.
+    coming_soon: COMING SOON
+
   fxone_remote:
     first_section_title: REMOTE
     first_section_text: The new FX ONE inkjet printer is one of the lowest cost per code and lowest maintenance small character printers. It offers a real alternative to code your products.
@@ -621,6 +627,9 @@ en:
     home_page:
       title: "Foenix Coding: Coding and Marking made easy"
       description: Industrial Marking and Coding printers to print in high resolutions on every material. Foenix Coding Coding and Marking, industrial inkjet, FX One remote printer, FX One standard printer
+    printers:
+      title: "FX ONE Series: The Foenix range of ink jet printers"
+      description: The Foenix range of ink jet printers are all designed as industrial inkjet printers for coding and marking solutions.
     fxone_standard:
       title: "FX ONE Standard: High Resolution printer for all your case coding application"
       description: Print in high resolution with our inkjet printers on cardboard boxes. No costly maintenance contracts and one of the lowest costs per print in the market. Xaar printer, piezo inkjet, Large Character Printers, non-contact printing, case coding, product coding, industrial printers, print use by date, print best before date, print barcode
