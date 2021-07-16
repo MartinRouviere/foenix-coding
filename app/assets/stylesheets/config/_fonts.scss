@@ -2,80 +2,109 @@
 // @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
 
 @font-face {
-   font-family: 'Gilroy-UltraLight';
-   src: font-url('gilroy/gilroy-ultralight.ttf') format('ttf');
+   font-family: 'Gilroy';
+   src: asset-url('fonts/gilroy/gilroy-ultralight.ttf'), format('ttf'),
+        asset-url('fonts/gilroy/gilroy-ultralight.eot'), format('embedded-opentype'),
+        asset-url('fonts/gilroy/gilroy-ultralight.woff2'), format('woff2'),
+        asset-url('fonts/gilroy/gilroy-ultralight.woff'), format('woff'),
+        asset-url('fonts/gilroy/gilroy-ultralight.svg'), format('svg');
+
    font-weight: 200;
 }
 
 @font-face {
-   font-family: 'Gilroy-Light';
-   src: font-url('gilroy/gilroy-light.ttf') format('ttf');
+   font-family: 'Gilroy';
+   src: asset-url('fonts/gilroy/gilroy-light.ttf'), format('ttf'),
+        asset-url('fonts/gilroy/gilroy-light.eot'), format('embedded-opentype'),
+        asset-url('fonts/gilroy/gilroy-light.woff2'), format('woff2'),
+        asset-url('fonts/gilroy/gilroy-light.woff'), format('woff'),
+        asset-url('fonts/gilroy/gilroy-light.svg'), format('svg');
+
    font-weight: 300;
 }
 
 @font-face {
-   font-family: 'Gilroy-Regular';
-   src: font-url('gilroy/gilroy-regular.ttf') format('ttf');
+   font-family: 'Gilroy';
+   src: asset-url('fonts/gilroy/gilroy-regular.ttf'), format('ttf'),
+        asset-url('fonts/gilroy/gilroy-regular.eot'), format('embedded-opentype'),
+        asset-url('fonts/gilroy/gilroy-regular.woff2'), format('woff2'),
+        asset-url('fonts/gilroy/gilroy-regular.woff'), format('woff'),
+        asset-url('fonts/gilroy/gilroy-regular.svg'), format('svg');
+
    font-weight: 400;
 }
 
 @font-face {
-   font-family: 'Gilroy-Medium';
-   src: font-url('gilroy/gilroy-medium.ttf') format('ttf');
+   font-family: 'Gilroy';
+   src: asset-url('fonts/gilroy/gilroy-medium.ttf'), format('ttf'),
+        asset-url('fonts/gilroy/gilroy-medium.eot'), format('embedded-opentype'),
+        asset-url('fonts/gilroy/gilroy-medium.woff2'), format('woff2'),
+        asset-url('fonts/gilroy/gilroy-medium.woff'), format('woff'),
+        asset-url('fonts/gilroy/gilroy-medium.svg'), format('svg');
+
    font-weight: 500;
 }
 
 @font-face {
-   font-family: 'Gilroy-Bold';
-   src: font-url('gilroy/gilroy-bold.ttf') format('ttf');
+   font-family: 'Gilroy';
+   src: asset-url('fonts/gilroy/gilroy-bold.ttf'), format('ttf'),
+        asset-url('fonts/gilroy/gilroy-bold.eot'), format('embedded-opentype'),
+        asset-url('fonts/gilroy/gilroy-bold.woff2'), format('woff2'),
+        asset-url('fonts/gilroy/gilroy-bold.woff'), format('woff'),
+        asset-url('fonts/gilroy/gilroy-bold.svg'), format('svg');
+
    font-weight: 700;
 }
 
 @font-face {
-   font-family: 'Gilroy-ExtraBold';
-   src: font-url('gilroy/gilroy-extrabold.otf') format('otf');
+   font-family: 'Gilroy';
+   src: asset-url('fonts/gilroy/gilroy-extrabold.otf'), format('opentype'),
+        asset-url('fonts/gilroy/gilroy-extrabold.eot'), format('embedded-opentype'),
+        asset-url('fonts/gilroy/gilroy-extrabold.woff2'), format('woff2'),
+        asset-url('fonts/gilroy/gilroy-extrabold.woff'), format('woff'),
+        asset-url('fonts/gilroy/gilroy-extrabold.svg'), format('svg');
    font-weight: 900;
 }
 
-$body-font: "Gilroy-Regular", "Helvetica", "sans-serif";
-$headers-font: "Gilroy-ExtraBold", "Helvetica", "sans-serif";
+$body-font: "Gilroy", "Helvetica", "sans-serif";
+$headers-font: "Gilroy", "Helvetica", "sans-serif";
 
 // FONT WEIGHTS
 
 .ultra-light {
-  font-family: "Gilroy-UltraLight", "Helvetica", "sans-serif" !important;
+  font-family: "Gilroy", "Helvetica", "sans-serif" !important;
 }
 
 .light {
-  font-family: "Gilroy-Light", "Helvetica", "sans-serif" !important;
+  font-family: "Gilroy", "Helvetica", "sans-serif" !important;
 }
 
 .regular {
-  font-family: "Gilroy-Regular", "Helvetica", "sans-serif" !important;
+  font-family: "Gilroy", "Helvetica", "sans-serif" !important;
 }
 
 .medium {
-  font-family: "Gilroy-Medium", "Helvetica", "sans-serif" !important;
+  font-family: "Gilroy", "Helvetica", "sans-serif" !important;
 }
 
 .bold {
-  font-family: "Gilroy-Bold", "Helvetica", "sans-serif" !important;
+  font-family: "Gilroy", "Helvetica", "sans-serif" !important;
 }
 
 .extra-bold {
-  font-family: "Gilroy-ExtraBold", "Helvetica", "sans-serif" !important;
+  font-family: "Gilroy", "Helvetica", "sans-serif" !important;
 }
 
 h1 {
-  font-family: 'Gilroy-ExtraBold' !important;
+  font-family: 'Gilroy' !important;
 }
 
 h2, h3, h4, h5, h6, a {
-  font-family: 'Gilroy-Bold' !important;
+  font-family: 'Gilroy' !important;
 }
 
 p, li {
-  font-family: 'Gilroy-Medium' !important;
+  font-family: 'Gilroy' !important;
   @include for-small-devices-down {
     font-size: 14px;
   }
