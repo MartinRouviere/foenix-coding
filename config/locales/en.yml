@@ -199,13 +199,32 @@ en:
 
   inks_and_consumables:
     first_section_text: Large Ink Cartridges
-    first_section_text_two: Up to 15 million characters
-    first_card_title: Production friendly inks
-    first_card_text: For applications in the food, beverage, cosmetics, household goods, industrial and extrusion markets, we have high quality controlled inks that are virtually odourless and are not M.E.K based. We also offer coloured inks.
-    second_card_title: Sealed ink cartridge
-    second_card_text: An integral and replaceable ink cartridge maintains a clean ink system free of contamination. Our inks have an excellent adhesion and contrast on a wide range of porous and non-porous materials such as carton, metal, glass, paper, wood, and many plastics. Our inks offers outstanding performance under most common application conditions.
-    third_section_title: HDPVC Inks
-    third_section_text: We now offer a High Adhesion Ink Specifically designed for PVC extrusion application. Get unprecedented print quality on PVC pipes.
+    first_section_text_two: The FX ONE printer is compatible with many different types of ink making it the most versatile printer on the market. Print on any substrate and up to 15 million characters per cartridge
+    inks_card_title_one_html: "High Adhesion<span class='text-orange'>.</span>"
+    inks_card_text_one: High Adhesion Ink specifically designed for PVC extrusion application. Get unprecedented print quality on PVC pipes.
+    inks_card_title_two_html: "Wide Range of Inks<span class='text-orange'>.</span>"
+    inks_card_text_two: Different inks enable printing onto non-porous materials (plastic, glass, metal) or porous surfaces (cardboard, wood, gypsum). Wide range of colours available as well as UV readable and UV Curable inks.
+    inks_card_title_three_html: "High Contrast<span class='text-orange'>.</span>"
+    inks_card_text_three: Highest contrast on darker products thanks to our range of pigmented ink. Make sure your codes stand out on both dark and light substrates.
+    grid_title_one: Sealed ink cartridge
+    grid_text_one: An integral and replaceable ink cartridge maintains a clean ink system free of contamination. Our inks have an excellent adhesion and contrast on a wide range of porous and non-porous materials such as carton, metal, glass, paper, wood, and many plastics. Our inks offer outstanding performance under most common application conditions.
+    grid_title_two: Production friendly inks
+    grid_text_two: For applications in the food, beverage, cosmetics, household goods, industrial and extrusion markets, we have high quality controlled inks that are virtually odourless and are not M.E.K based. We also offer coloured inks.
+    grid_title_three: HDPVC Inks for PVC pipes extrusion
+    grid_text_three: We now offer a High Adhesion Ink specifically designed for PVC extrusion application. Get unprecedented print quality on PVC pipes.
+    grid_title_four: Simple ink system
+    grid_text_four: The ink supply is contained in a convenient cartridge system which slots into the rear of the machine. Replacement of the ink cartridge is simple and clean and can be completed in a few seconds without interrupting the print process. Never miss a print and always get a High Resolution print quality that fits with your product image
+    lowest_ink_title: Lowest Ink usage on the market
+    lowest_ink_text: Whether you are looking for an inkjet printer for case coding or product marking, the investment in printing is no longer just about the printer price. Consumables and maintenance have become the main factors to determine your cost of ownership. Thanks to the clever design, the piezo inkjet printers have a remarkably low ink usage and therefore offer a very low cost per print.
+    special_ink_title: You need a special ink?
+    special_ink_title_two: We can help!
+    special_ink_text_one: Oil Based Inks
+    special_ink_text_two: Solvent Based Inks
+    special_ink_text_three: Pigmented Inks
+    special_ink_text_four: UV Curable && UV Readable Inks
+    stay_informed_title: Stay informed of our latest ink development
+    stay_informed_text: Sign up to be the first to know when we launch a new ink.
+
 
   distributor:
     first_section_title: Global Reach
