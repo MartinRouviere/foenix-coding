@@ -3,51 +3,157 @@
 <% content_for :meta_image, cl_image_path("inks-and-cons_wzglxn", width: 400, alt: "FX ONE INKS AND CONSUMABLES") %>
 
 <div class="inks-wrapper">
-  <div class="first-section fxone-first-section-background" style="overflow-x: unset;">
-    <%= cl_image_tag("inks_big_pill_dqob2a.png", :quality=>"auto", class: "inks-big-pill") %>
+  <div class="first-section pb-5 max-width" style="overflow-x: unset;">
     <div class="first-section-text">
       <h1 class="w-100"><%= t("inks_and_consumables.first_section_text") %></h1>
-      <h3 class="w-100 inks-fifth-section-subtext"><%= t("inks_and_consumables.first_section_text_two") %></h3>
+      <p class="mb-4" style="width: 90%;"><%= t("inks_and_consumables.first_section_text_two") %></p>
+      <div class="d-flex align-items-center justify-content-start w-100">
+        <%= image_tag 'uk.png', class: 'home-uk' %>
+        <h6 class="mb-0"><%= t("home.title_second_description") %></h6>
+      </div>
     </div>
-    <%= cl_image_tag("inks-and-cons_wzglxn.png", class: "first-section-image", style: "max-width: 700px;", alt: "FXONE ONE ink cartridges") %>
-  </div>
-  <div class="inks-second-section-wrapper">
-    <%= image_tag 'about-dots.png', class: 'inks-dots-mobile show-mobile' %>
-    <%= cl_image_tag("inks_little_pill_pahv4x.png", :quality=>"auto", class: "inks-little-pill") %>
-    <div class="container">
-      <div class="inks-section">
-        <div class="inks-first-section-left" data-aos="fade-right" data-aos-duration="2000">
-          <div class="inks-card pb-3" style="margin: 0 0 0 auto">
-            <%= image_tag 'inks-card-icon-1.png', class: 'about-icon square-card-icon' %>
-            <p class="inks-card-header px-3"><%= t("inks_and_consumables.first_card_title") %></p>
-            <p class="paragraph-text inks-card-text px-3"><%= t("inks_and_consumables.first_card_text") %></p>
-          </div>
-        </div>
-        <div class="inks-first-section-right" data-aos="fade-left" data-aos-duration="2000">
-          <%= image_tag 'square-dots.png', class: 'inks-dots hide-small' %>
-          <div class="inks-card pb-3" style="margin: 0 auto 0 0">
-            <%= image_tag 'inks-card-icon-2.png', class: 'about-icon square-card-icon' %>
-            <p class="inks-card-header px-3"><%= t("inks_and_consumables.second_card_title") %></p>
-            <p class="paragraph-text inks-card-text px-3"><%= t("inks_and_consumables.second_card_text") %></p>
+    <div class="product-carousel dark-carousel">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="no-padding-mobile" style="position: relative; display: flex; justify-content: center; align-items: center">
+              <%= cl_image_tag("inks-and-cons_wzglxn.png", class: "first-section-image fxone-plus-graphic", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="inks-third-section-wrapper">
-    <%= cl_image_tag("slant-background_xuvpqk.png", :quality=>"auto", class: "inks-slant hide-mobile") %>
-    <%= cl_image_tag("mobile-slant_kd8uj1.png", :quality=>"auto", class: "inks-slant show-mobile") %>
-    <div class="inks-section">
-      <%= cl_image_tag("gif_r2eybt.gif", class: "inks-gif") %>
-      <div class="inks-third-section-right mobile-center" data-aos="fade-up" data-aos-duration="2000">
-        <%= image_tag 'inks-icon-1.png', class: 'about-icon' %>
-        <h2 class="inks-fifth-section-text"><%= t("inks_and_consumables.third_section_title") %></h2>
-        <p class="inks-fifth-section-text inks-fifth-section-subtext"><%= t("inks_and_consumables.third_section_text") %></p>
+
+  <div class="max-width p-5">
+    <div class="row m-0">
+      <div class="col-4">
+        <div class="inks-card">
+          <h2><%= t("inks_and_consumables.inks_card_title_one_html") %></h2>
+          <p class="s-medium-text"><%= t("inks_and_consumables.inks_card_text_one") %></p>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="inks-card">
+          <h2><%= t("inks_and_consumables.inks_card_title_two_html") %></h2>
+          <p class="s-medium-text"><%= t("inks_and_consumables.inks_card_text_two") %></p>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="inks-card">
+          <h2><%= t("inks_and_consumables.inks_card_title_three_html") %></h2>
+          <p class="s-medium-text"><%= t("inks_and_consumables.inks_card_text_three") %></p>
+        </div>
       </div>
     </div>
-    <div class="jc">
-      <%= cl_image_tag("inks-pipes_nfyp2g.png", :quality=>"auto", class: "inks-btm") %>
+  </div>
+
+  <div class="max-width p-5">
+    <div class="row m-0 py-5 column-reverse align-items-center">
+      <div class="col-12 col-md-6">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626691186/iacsc_psnef9.png", class: "w-100", alt: "Box coding") %>
+      </div>
+      <div class="col-12 col-md-6">
+        <h2 class=""><%= t("inks_and_consumables.grid_title_one") %></h2>
+        <p class="mb-4"><%= t("inks_and_consumables.grid_text_one") %></p>
+      </div>
+    </div>
+    <div class="row m-0 py-5 align-items-center">
+      <div class="col-12 col-md-6">
+        <h2 class=""><%= t("inks_and_consumables.grid_title_two") %></h2>
+        <p class="mb-0"><%= t("inks_and_consumables.grid_text_two") %></p>
+      </div>
+      <div class="col-12 col-md-6">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626691199/iacpfc_ksr228.png", class: "w-100", alt: "Product coding") %>
+      </div>
     </div>
   </div>
+
+  <div class="max-width py-5 px-3 px-md-5">
+    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626692167/iacmi_i9zfzf.png", class: "w-100", alt: "build to last") %>
+  </div>
+
+  <div class="max-width p-5">
+    <div class="row m-0 py-5 column-reverse align-items-center">
+      <div class="col-12 col-md-6">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626692905/iacgi3_ldzjxn.png", class: "w-100", alt: "Box coding") %>
+      </div>
+      <div class="col-12 col-md-6">
+        <h2 class=""><%= t("inks_and_consumables.grid_title_three") %></h2>
+        <p class="mb-4"><%= t("inks_and_consumables.grid_text_three") %></p>
+      </div>
+    </div>
+    <div class="row m-0 py-5 align-items-center">
+      <div class="col-12 col-md-6">
+        <h2 class=""><%= t("inks_and_consumables.grid_title_four") %></h2>
+        <p class="mb-0"><%= t("inks_and_consumables.grid_text_four") %></p>
+      </div>
+      <div class="col-12 col-md-6">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626692905/iacgi4_iispul.png", class: "w-100", alt: "Product coding") %>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg pt-5">
+    <div class="max-width p-5">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 col-md-5">
+          <div class="d-flex flex-column justify-content-center align-items-center">
+            <h4 class="text-orange text-center mb-3"><%= t("inks_and_consumables.lowest_ink_title") %></h4>
+            <p class="small-text text-white text-center"><%= t("inks_and_consumables.lowest_ink_text") %></p>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg">
+    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626699363/iacdb_xmigzg.png", class: "w-100", alt: "Product coding") %>
+  </div>
+
+  <div class="dark-bg py-5">
+    <div class="max-width px-5 pb-5">
+      <div class="row m-0 justify-content-center pb-5">
+        <div class="col-12">
+          <div class="d-flex flex-column justify-content-center align-items-center">
+            <h4 class="text-white text-center mb-0"><%= t("inks_and_consumables.special_ink_title") %></h4>
+            <h4 class="text-white text-center mb-4"><%= t("inks_and_consumables.special_ink_title_two") %></h4>
+            <div class="d-flex justify-content-center mb-4 pb-2">
+              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_one") %></span>
+              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_two") %></span>
+              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_three") %></span>
+              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_four") %></span>
+            </div>
+            <%= link_to "#{ t("navbar.contact") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="dark-bg d-flex justify-content-center align-items-center">
+    <div class="plus-newsletter max-width p-5 bg-white mb-5">
+      <h2 class="text-center mb-4"><%= t('inks_and_consumables.stay_informed_title') %> </h2>
+      <p class="text-center mb-5"><%= t('inks_and_consumables.stay_informed_text') %> </p>
+      <div style="width: 392px;">
+        <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
+          <%= text_field_tag :email, params[:email], class: "form-control about-form-input stay-informed-input", placeholder: "#{ t('fxone_plus.placeholder') }"
+          %>
+          <%= button_tag class: "about-form-button" do %>
+            <i class="fas fa-paper-plane"></i>
+          <% end %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+
+
+
 </div>
+
+
+
 <%= render 'shared/newsletter' %>
