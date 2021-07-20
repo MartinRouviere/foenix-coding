@@ -1,6 +1,33 @@
 .ownership-wrapper {
   overflow: hidden;
+  .first-section-text {
+    width: unset;
+    max-width: 60%;
+  }
+  .ownership-carousel {
+    max-width: 800px !important;
+    width: 100% !important;
+    margin: auto !important;
+    .carousel-item {
+      padding: 0 !important;
+    }
+  }
+  @include for-small-devices-down {
+    .fxone-fifth-section-left, .fxone-fifth-section-right {
+      width: 100%;
+    }
+    .fxone-fifth-section-content {
+      flex-direction: column;
+    }
+  }
 }
+
+.cos-blur-background {
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
 
 .ownership-first-section-wrapper {
   position: relative;
@@ -11,7 +38,6 @@
 }
 
 .ownership-second-section-wrapper {
-  background: linear-gradient(#F6F7FA, #FFFFFF);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -25,7 +51,6 @@
 }
 
 .ownership-third-section-wrapper {
-  background-color: #FFFFFF;
   display: flex;
   justify-content: center;
   align-items: center;
