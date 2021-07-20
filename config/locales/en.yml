@@ -549,16 +549,14 @@ en:
     placeholder: Enter your email & get updates about the launch
 
   software:
-    first_section_title_one: FX TOUCH CONTROLLER
-    first_section_title_two: "Programming without training: control your printer with just a touch through our smart FX Touch Controller."
-    first_section_text_one: Programming without training
-    first_section_text_two: control your printer with just a touch through our smart FX Touch Controller.
+    first_section_title_one: FX TOUCH Controller
+    first_section_text_one: Control your printer with just a touch. Besides the usual functions like barcodes, counters, logos, date, time, shift etc the FX ONE printer comes with PC software and network connectivity as a standard.
+    first_section_text_two: Foenix Coding understands the Art of Simplicity and creates a simple and cost effective printer that is exactly suited to the customers specifications.
     first_section_text_three: We paid a lot of attention to the user interface design of the FX APP to simplify the workflow of your daily projects.
     first_section_text_four: The FX APP running on the FX Touch Controller is also available as a PC software so you can control your printer from any computer.
-
-    second_section_title: FX APP
-    second_section_text: The ultimate tool to always have your production in control and reduce your costs.
-    second_section_text2: Foenix FX APP enables you to design messages in record time through its user friendly interface.
+    second_section_title: FX APP Software
+    second_section_text: The ultimate tool to always have your production in control and reduce your costs. Our FX APP can be run on the Foenix Controller as well as the PC offering integration flexibility and can link with databases, allowing full remote control by existing production management software with full networking capability.
+    second_section_text_two: Foenix FX APP enables you to design messages in record time through its user friendly interface.
     second_section_check_one: Simple interactive windows programming
     second_section_check_two: Unlimited message storage
     second_section_check_three: Ink saver print mode
@@ -592,6 +590,34 @@ en:
     third_section_right_text_six: Support external alarms, beacons, encoders
     third_section_right_text_seven: Auto programming with barcode reader
     third_section_final_text: Touchscreen interface that simplifies every action with the FX APP. Easy setup and navigation remove the need for training and delivers a hassle-free, intuitive printing experience.
+
+    extremely_simple: Extremely simple to use
+    extremely_simple_text: We paid a lot of attention to the user interface design of the FX APP to simplify the workflow of your daily projects. Easy setup and navigation remove the need for training and deliver a hassle-free, intuitive printing experience.
+    extremely_simple_button: Request access to the FX APP
+    grid_title_one: Multi-language support
+    grid_description_one: Software translated in 19 languages and you can print in any language
+    grid_title_two: Keep your costs down
+    grid_description_two: Easily control your cost per print and the number of prints per cartridge. It has never been easier to keep your cost down!
+    grid_title_three: Networking & Integration
+    grid_description_three_html: "The FX APP gives full integration capability for networking printers, accessing databases, creating messages off line, connecting to industrial scanners, bar code readers, verifiers and other production equipment.
+                                 <br>
+                                 <br>
+                                 Advanced printer management:
+                                 <br>
+                                 Maximize uptime by managing production across multiple Foenix printers from one place. Monitor progress, track fault and gain insights with print analytics."
+    grid_title_four: Foenix firmware
+    grid_description_four: Printers that get even better over time. Make your FX ONE printer even more capable with performance enhancements and added functionality in every firmware update.
+    grid_title_five: Full Integration With Our DLL
+    grid_description_five_html: "What is a DLL?
+                                <br>
+                                <br>
+                                A DLL (Dynamic Link Library) is a set of software functions that can be used by a third party developer to incorporate into their own applications. The Foenix DLL provides a set of functions that allows the FX ONE printer to be controlled via the FX APP application or Foenix Touch Controller.
+                                The library makes the communication process to the printer much simpler for the developer as it takes care of the actual protocol used. The developer then uses a relatively simple mechanism to monitor printers, load messages and transmit data."
+    grid_title_six: Preventing user errors in print settings
+    grid_description_six: No more errors, thanks to the automatic configuration of print settings through the handheld reader. A barcode scanner can be used to select a message to print, or to populate fields in a message by scanning corresponding barcodes. Less manual intervention means fewer coding mistakes.
+    newsletter_title: Receive our latest software updates
+    newsletter_description: Sign up to be the first to know when an update is available
+
     fourth_section_title_one: Multi-language support
     fourth_section_text_one: Software translated in 19 languages and you can print in any languange
     fourth_section_title_two: Keep your costs down
