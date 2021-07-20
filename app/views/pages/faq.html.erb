@@ -2,141 +2,151 @@
 <% content_for :meta_description, "#{t('seo.faq.description')}" %>
 
 <div class="faq-page">
-  <%= cl_image_tag("inks_big_pill_dqob2a.png", :quality=>"auto", class: "faq-pill") %>
-  <%= cl_image_tag("inks_little_pill_pahv4x.png", :quality=>"auto", class: "faq-pill-bottom") %>
-  <h1 class="text-center black-blue zindex2 responsive-header"><%= t('faq.title') %></h1>
-  <div class="space-20"></div>
-  <p class="text-center mx-auto mb-5 light-gray-thin-text responsive-text-small lh-30 zindex2 w-50-m-80"><%= t('faq.tagline') %> <a href="/contact"><%= t('faq.contact') %></a></p>
-  <div class="space-40"></div>
-  <div class="container">
+  <div class="first-section max-width" style="overflow-x: unset;">
+    <div class="first-section-text pl-0 m-0">
+      <h1 class="w-100 mb-4"><%= t("faq.title") %></h1>
+      <p><%= t('faq.tagline') %> <a class="text-orange no-decoration" href="/contact"><%= t('faq.contact') %><i class="fas fa-arrow-right ml-2"></i></a></p>
+    </div>
+    <div class="product-carousel">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626803524/faqmi_arlfok.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-width px-3 px-sm-5 pb-5">
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-1">
         <p class="m-0 black-blue"><%= t('faq.title1') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody1">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc1') %><a target="_blank" href="https://www.youtube.com/watch?v=oMW-QEs1zmc"><%= t("faq.desc1vid") %></a><%= t('faq.desc1end') %></p>
+        <p class=""><%= t('faq.desc1') %><a class="text-orange no-decoration" target="_blank" href="https://www.youtube.com/watch?v=oMW-QEs1zmc"><%= t("faq.desc1vid") %></a><%= t('faq.desc1end') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-2">
         <p class="m-0 black-blue"><%= t('faq.title2') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody2">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc2') %>!</p>
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc2end') %></p>
+        <p class=""><%= t('faq.desc2') %>!</p>
+        <p class=""><%= t('faq.desc2end') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-3">
         <p class="m-0 black-blue"><%= t('faq.title3') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody3">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc3') %></p>
+        <p class=""><%= t('faq.desc3') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-4">
         <p class="m-0 black-blue"><%= t('faq.title4') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody4">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc4_1') %>! <br><%= t('faq.desc4_2') %> <br><%= t('faq.desc4_3') %><br><%= t('faq.desc4_4') %>:</p>
+        <p class=""><%= t('faq.desc4_1') %>! <br><%= t('faq.desc4_2') %> <br><%= t('faq.desc4_3') %><br><%= t('faq.desc4_4') %>:</p>
         <ul>
-          <li><p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc4_5') %></p></li>
-          <li><p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc4_6') %></p></li>
-          <li><p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc4_7') %></p></li>
+          <li><p class=""><%= t('faq.desc4_5') %></p></li>
+          <li><p class=""><%= t('faq.desc4_6') %></p></li>
+          <li><p class=""><%= t('faq.desc4_7') %></p></li>
         </ul>
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc4_8') %> <a href="/contact"><%= t('faq.desc4_9') %></a> <%= t('faq.desc4_10') %></p>
+        <p class=""><%= t('faq.desc4_8') %> <a class="text-orange no-decoration" href="/contact"><%= t('faq.desc4_9') %></a> <%= t('faq.desc4_10') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-5">
         <p class="m-0 black-blue"><%= t('faq.title5') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody5">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc5') %></p>
+        <p class=""><%= t('faq.desc5') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-6">
         <p class="m-0 black-blue"><%= t('faq.title6') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody6">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc6_1') %>! <%= t('faq.desc6_2') %><br><%= t('faq.desc6_3') %></p>
-        <p class="light-gray-thin-text responsive-text-small italic"><%= t('faq.desc6_4') %></p>
+        <p class=""><%= t('faq.desc6_1') %>! <%= t('faq.desc6_2') %><br><%= t('faq.desc6_3') %></p>
+        <p class=" italic"><%= t('faq.desc6_4') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-7">
         <p class="m-0 black-blue"><%= t('faq.title7') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody7">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc7') %></p>
+        <p class=""><%= t('faq.desc7') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-8">
         <p class="m-0 black-blue"><%= t('faq.title8') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody8">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc8_1') %><br><%= t('faq.desc8_2') %><br><%= t('faq.desc8_3') %><br><%= t('faq.desc8_4') %></p>
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc8_5') %><br><%= t('faq.desc8_6') %><br><%= t('faq.desc8_7') %><br><%= t('faq.desc8_8') %></p>
+        <p class=""><%= t('faq.desc8_1') %><br><%= t('faq.desc8_2') %><br><%= t('faq.desc8_3') %><br><%= t('faq.desc8_4') %></p>
+        <p class=""><%= t('faq.desc8_5') %><br><%= t('faq.desc8_6') %><br><%= t('faq.desc8_7') %><br><%= t('faq.desc8_8') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-9">
         <p class="m-0 black-blue"><%= t('faq.title9_1') %>: <%= t('faq.title9_2') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody9">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc9') %></p>
+        <p class=""><%= t('faq.desc9') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-10">
         <p class="m-0 black-blue"><%= t('faq.title10') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody10">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc10') %></p>
+        <p class=""><%= t('faq.desc10') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-11">
         <p class="m-0 black-blue"><%= t('faq.title11') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody11">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc11_1') %><br><%= t('faq.desc11_2') %></p>
+        <p class=""><%= t('faq.desc11_1') %><br><%= t('faq.desc11_2') %></p>
 
       </div>
     </div>
@@ -144,33 +154,39 @@
       <div class="faq-card-head" id="faqTrigger-12">
         <p class="m-0 black-blue"><%= t('faq.title12') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody12">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc12_1') %><br><%= t('faq.desc12_2') %></p>
+        <p class=""><%= t('faq.desc12_1') %><br><%= t('faq.desc12_2') %></p>
       </div>
     </div>
     <div class="faq-card">
       <div class="faq-card-head" id="faqTrigger-13">
         <p class="m-0 black-blue"><%= t('faq.title13') %></p>
         <div class="arrow-box">
-          <i class="fas fa-chevron-down small-chevron m-0 yellow-arrow"></i>
+          <i class="fas fa-plus"></i>
         </div>
       </div>
       <div class="faq-card-body" id="faqBody13">
-        <p class="light-gray-thin-text responsive-text-small"><%= t('faq.desc13_1') %><br><%= t('faq.desc13_2') %></p>
+        <p class=""><%= t('faq.desc13_1') %><br><%= t('faq.desc13_2') %></p>
       </div>
     </div>
   </div>
-
-  <div class="space-100"></div>
 </div>
 
 <script>
   document.querySelectorAll('.faq-card-head').forEach((trigger) => {
     trigger.addEventListener('click', () => {
+      document.getElementById(`faqBody${trigger.id.split('-')[1]}`)
       document.getElementById(`faqBody${trigger.id.split('-')[1]}`).classList.toggle('faq-card-open')
+      if (document.getElementById(`faqBody${trigger.id.split('-')[1]}`).classList.contains('faq-card-open')) {
+        trigger.lastElementChild.firstElementChild.classList.remove('fa-plus')
+        trigger.lastElementChild.firstElementChild.classList.add('fa-minus')
+      } else {
+        trigger.lastElementChild.firstElementChild.classList.remove('fa-minus')
+        trigger.lastElementChild.firstElementChild.classList.add('fa-plus')
+      }
     })
   })
 </script>

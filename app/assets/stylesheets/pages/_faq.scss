@@ -1,8 +1,18 @@
+.faq-page {
+  .first-section {
+    padding-bottom: 0 !important;
+  }
+  .carousel-item {
+    padding: 0;
+  }
+}
+
+
 .faq-card {
-  width: 90%;
+  width: 100%;
   padding: 10px 20px;
   background-color: #fff;
-  border-radius: 2px;
+  border-radius: 6px;
   box-shadow: 0px 15px 40px rgba(0,0,0,0.1);
   margin: 20px auto;
   position: relative;
@@ -46,15 +56,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #FCEFDA;
-  border-radius: 50px;
   position: absolute;
   right: 0;
-}
-.yellow-arrow {
-  color: #F4B75E;
-  padding-top: 2px;
-  font-size: 16px;
 }
 
 .faq-card-open {
@@ -64,15 +67,6 @@
   padding-top: 20px;
   margin-top: 5px;
 }
-
-.faq-page {
-  padding: 150px 0px 0 0px;
-  background: linear-gradient(#EDEFF4, white);
-  position: relative;
-  overflow: hidden;
-  @include absCenterColumn;
-}
-
 
 .light-gray-thin-text {
   font-weight: 300;
