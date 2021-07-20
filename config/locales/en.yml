@@ -230,8 +230,41 @@ en:
     first_section_title: Global Reach
     first_section_text: Wherever you are in the world, one of our distributors are close by. We are present on every continent and offer support in your language and time zone.
     second_section_title: Foenix has distributors in
-    third_section_title: Interested in joining the Foenix Coding Family?
-    third_section_text:  We are excited to have a growing network of distribution partners marketing Foenix products around the world. We are currently inviting companies to join our international distributor network to promote our new range of printers to new markets.  Fill in this form and we will be in touch shortly to discuss this opportunity. We are pleased to offer free in-house training to our new distributors.
+    why_partner_title: Why partner with
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: 'WHAT MAKES FOENIX CODING DIFFERENT FROM THE COMPETITION?
+                           <br>
+                           Foenix Coding is still a "Start-up" run by a firm core of people who know the products, the company and the customers throughout.
+                           <br>
+                           <br>
+                           When working with Foenix Coding you can expect the following:'
+    first_list_one: Competitive pricing compared to direct competitors
+    first_list_two: Attractive margins for distributors
+    first_list_three: Flexibility in procedures
+    first_list_four: Flexibility in production time
+    first_list_five: Flexibility in delivery time
+    second_list_one: Personal approach
+    second_list_two: Directors actively involved
+    second_list_three: Support for exhibitions
+    second_list_four: Support for test prints
+    second_list_five: Support for training programs
+    second_list_six: Technology updates
+    third_list_one: "Technical competence: having printers in more than 60 countries means we have seen almost every application"
+    third_list_two: Flexible R&D team that can react fast to specific customer needs
+    third_list_three: "Expert knowledge: The restricted product range results in expert knowledge"
+    partnership_title: Path to Partnership
+    partnership_text: We are excited to have a growing network of distribution partners marketing Foenix products around the world. We are currently inviting companies to join our international distributor network to promote our new range of printers to new markets.  Fill up this form and we’ll be in touch shortly to discuss this opportunity
+    step_one: STEP 1
+    step_one_title: Apply
+    step_one_text: If you are interested to discuss this opportunity, we would be pleased to hear more from your company and your goals
+    step_two: STEP 2
+    step_two_title: Get a Demo Printer
+    step_two_text: To test the performances of the equipment but also our reactivity and the support you will be getting from us
+    step_three: STEP 3
+    step_three_title: Start Selling
+    step_three_text: Our goal is to make it easy for our business partners to focus on developing new prospects and develop their business.
+
+
 
   distributor_countries:
     uk: UK

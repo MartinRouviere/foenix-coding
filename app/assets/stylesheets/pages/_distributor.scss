@@ -12,17 +12,12 @@
   position: relative;
   padding-top: 200px;
   padding-bottom: 150px;
-  background: linear-gradient(#EBEFF6, #F6F7FA);
   @include for-small-devices-down {
     padding-bottom: 50px;
   }
   @include for-phone-only {
     padding-top: 150px;
   }
-}
-
-.distributor-second-section-wrapper {
-  background: linear-gradient(#F6F7FA, #FFFFFF);
 }
 
 .distributor-third-section-wrapper {
@@ -313,21 +308,21 @@
   margin-top: 200px;
 }
 
-.container-countries {
-  margin: 0 auto;
-  @include for-small-devices-down {
-    margin: 0 10px;
-  }
-  @include for-medium-devices-up {
-    max-width: 720px;
-  }
-  @include for-large-devices-up {
-    max-width: 960px;
-  }
-  @include for-xlarge-devices-up {
-    max-width: 1140px;
-  }
-}
+// .container-countries {
+//   margin: 0 auto;
+//   @include for-small-devices-down {
+//     margin: 0 10px;
+//   }
+//   @include for-medium-devices-up {
+//     max-width: 720px;
+//   }
+//   @include for-large-devices-up {
+//     max-width: 960px;
+//   }
+//   @include for-xlarge-devices-up {
+//     max-width: 1140px;
+//   }
+// }
 
 .distributor-countries-web {
   display: flex;
