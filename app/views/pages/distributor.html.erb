@@ -2,19 +2,17 @@
 <% content_for :meta_description, "#{t('seo.distributors.description')}" %>
 
 <div class="distributor-wrapper">
-  <div class="first-section fxone-first-section-background mobile-column">
-      <div class="first-section-text">
+  <div class="first-section mobile-column max-width">
+      <div class="first-section-text m-0 pl-0">
         <h1 class="w-100"><%= t("distributor.first_section_title") %></h1>
-        <p class="paragraph-text"><%= t("distributor.first_section_text") %></p>
-        <%= image_tag 'square-dots.png', class: 'distributor-dots' %>
+        <p class=""><%= t("distributor.first_section_text") %></p>
       </div>
-        <%#= cl_image_tag("distributor-continents_l9lnki.png", :quality=>"auto", class: "distributor-graphic") %>
-        <%= image_tag 'map-animation.gif', class: 'first-section-image map-gif' %>
+      <%= image_tag 'map-animation.gif', class: 'first-section-image map-gif' %>
   </div>
-  <div class="distributor-second-section-wrapper">
+  <div class="max-width p-5">
     <div class="container-countries">
       <div class="distributor-second-section">
-        <h2 class="mobile-margin-bottom"><%= t("distributor.second_section_title") %>:</h2>
+        <h2 class="mb-4"><%= t("distributor.second_section_title") %>:</h2>
         <div class="distributor-countries-container">
           <%#= render 'shared/distributor_countries' %>
           <div class="distributor-countries-web">
@@ -22,12 +20,12 @@
               <% @countries.each do |country| %>
                 <div class="country-card" style="width: 20%;">
                   <%= image_tag url_for(country.photo) %>
-                  <p class="paragraph-text"><%= country.name %></p>
+                  <p class=""><%= country.name %></p>
                 </div>
               <% end %>
               <div class="country-card hide-mobile" style="width: 20%;">
                 <%= image_tag 'distributor-plus-icon.png' %>
-                <p class="paragraph-text"><%= t("distributor_countries.be_the_next") %></p>
+                <p class=""><%= t("distributor_countries.be_the_next") %></p>
               </div>
             </div>
           </div>
@@ -36,85 +34,124 @@
               <% @countries.each do |country| %>
                 <div class="country-card" style="width: 33.33%;">
                   <%= image_tag url_for(country.photo) %>
-                  <p class="paragraph-text"><%= country.name %></p>
+                  <p class=""><%= country.name %></p>
                 </div>
               <% end %>
               <div class="country-card" style="width: 33.33%;">
                 <%= image_tag 'distributor-plus-icon.png' %>
-                <p class="paragraph-text"><%= t("distributor_countries.be_the_next") %></p>
+                <p class=""><%= t("distributor_countries.be_the_next") %></p>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="distributor-see-more">
-        <div id="see-more" class="see-more-button">
-          <p>See more</p>
+        <div id="see-more" class="secondary-button d-sm-none">
+          <p class="mb-0">See more</p>
         </div>
-        <div id="see-less" class="see-more-button d-none">
-          <p>See less</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="distributor-third-section-wrapper">
-    <%#= cl_image_tag("about-little-pill-sliced_z6varw.png", :quality=>"auto", class: "distributor-pill") %>
-    <%= cl_image_tag("distributor-slant_hgpm00.png", :quality=>"auto", class: "distributor-slant") %>
-    <div class="container">
-      <%= image_tag 'square-dots.png', class: 'distributor-dots-two' %>
-      <div class="distributor-section distributor-contact">
-        <div class="distributor-contact-us-form">
-          <%= simple_form_for :send_email, url: send_email_path, method: :post do |f| %>
-            <div class="contact-form-name">
-              <div class="row">
-                <div class="col-12">
-                  <%= f.input :first_name, label: false, placeholder:'First Name and Last Name', input_html: { class: "contact-first-name" } %>
-                </div>
-              </div>
-            </div>
-            <%= f.input :email, label: false, placeholder:'Email' %>
-            <%= f.input :country, as: :string, label: false, placeholder:'Country' %>
-            <%= f.input :message, as: :text, label: false, placeholder:'Type your message here', input_html: { class: "contact-message" } %>
-            <div class="g-recaptcha" style="margin-top: 20px;" data-sitekey="6Leq5_IUAAAAABljypFOmp3MNhP-UOUDLzmEkGy3
-" data-callback="enableBtn"></div>
-            <%= f.button :button, 'Submit', type: :submit,  class: "contact-form-button mt20", id: "button1", disabled: true %>
-          <% end %>
-        </div>
-        <div class="distributor-interested" data-aos="fade-up" data-aos-duration="2000">
-          <%= image_tag 'distributor-icon-1.png', class: 'about-icon' %>
-          <h2><%= t("distributor.third_section_title") %></h2>
-          <p class="responsive-text-small"><%= t("distributor.third_section_text") %></p>
+        <div id="see-less" class="secondary-button d-none d-sm-none">
+          <p class="mb-0">See less</p>
         </div>
       </div>
     </div>
   </div>
-  <div class="distributor-third-section-mobile">
-    <%= cl_image_tag("distributor-mobile_uhqrlt.png", :quality=>"auto", class: "distributor-slant-mobile") %>
-    <%= image_tag 'distributor-icon-1.png', class: 'distributor-icon-mobile' %>
-  </div>
-  <div class="distributor-third-section-mobile-two">
-    <div class="distributor-interested">
-      <h2><%= t("distributor.third_section_title") %></h2>
-      <p class="responsive-text-small"><%= t("distributor.third_section_text") %></p>
-    </div>
-    <div class="distributor-contact-us-form">
-      <%= simple_form_for :send_email, url: send_email_path, method: :get do |f| %>
-        <div class="contact-form-name">
-          <div class="row">
-            <div class="col-12">
-              <%= f.input :first_name, label: false, placeholder:'first name', input_html: { class: "contact-first-name" } %>
-            </div>
+
+  <div class="dark-bg pt-5">
+    <div class="max-width px-5 pt-5">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 col-md-6">
+          <div class="d-flex flex-column justify-content-center align-items-center">
+            <h2 class="text-center text-white mb-0"><%= t("distributor.why_partner_title") %></h2>
+            <h2 class="text-center text-white mb-3"><%= t("distributor.why_partner_title_two") %></h2>
+            <p class="text-white text-center"><%= t("distributor.why_partner_text_html") %></p>
           </div>
         </div>
-        <%= f.input :email, label: false, placeholder:'email' %>
-        <%= f.input :country, as: :string, label: false, placeholder:'country' %>
-        <%= f.input :message, as: :text, label: false, placeholder:'type your message here', input_html: { class: "contact-message" } %>
-        <div class="g-recaptcha" style="margin-top: 20px;" data-sitekey="6Leq5_IUAAAAABljypFOmp3MNhP-UOUDLzmEkGy3
-        " data-callback="enableBtn"></div>
-        <%= f.button :button, 'Submit', type: :submit,  class: "contact-form-button mt20", id: "button1", disabled: true %>
-      <% end %>
+      </div>
+    </div>
+
+    <div class="max-width p-5">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 col-md-6 col-lg-4 mb-sm-3 mt-sm-3 mb-5 mb-lg-0">
+          <div class="charcoal-bg border-radius p-4 h-100 d-flex justify-content-center align-items-center">
+            <ul class="mb-0 py-2">
+              <li class="text-center text-white mb-4"><%= t("distributor.first_list_one") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.first_list_two") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.first_list_three") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.first_list_four") %></li>
+              <li class="text-center text-white mb-0"><%= t("distributor.first_list_five") %></li>
+            </ul>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mb-sm-3 mt-sm-3 mb-5 mb-lg-0">
+          <div class="charcoal-bg border-radius p-4 h-100 d-flex justify-content-center align-items-center">
+            <ul class="mb-0 py-2">
+              <li class="text-center text-white mb-4"><%= t("distributor.second_list_one") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.second_list_two") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.second_list_three") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.second_list_four") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.second_list_five") %></li>
+              <li class="text-center text-white mb-0"><%= t("distributor.second_list_six") %></li>
+            </ul>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mb-sm-3 mt-sm-3 mb-5 mb-lg-0">
+          <div class="charcoal-bg border-radius p-4 h-100 d-flex justify-content-center align-items-center">
+            <ul class="mb-0 py-2">
+              <li class="text-center text-white mb-4"><%= t("distributor.third_list_one") %></li>
+              <li class="text-center text-white mb-4"><%= t("distributor.third_list_two") %></li>
+              <li class="text-center text-white mb-0"><%= t("distributor.third_list_three") %></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="max-width p-5">
+      <div class="row m-0 justify-content-center py-5">
+        <div class="col-12 col-md-6">
+          <div class="d-flex flex-column justify-content-center align-items-center">
+            <h2 class="text-white text-center mb-3"><%= t("distributor.partnership_title") %></h2>
+            <p class="text-white text-center"><%= t("distributor.partnership_text") %></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="max-width p-5">
+      <div class="row m-0 justify-content-center pb-5">
+        <div class="col-12 col-sm-6 col-lg-4 mb-5 mb-lg-0 pl-lg-0 pr-lg-5">
+          <div class="">
+            <p class="text-white text-center s-medium-text"><%= t("distributor.step_one") %></p>
+            <h2 class="text-white text-center mb-3"><%= t("distributor.step_one_title") %></h2>
+            <p class="text-white text-center"><%= t("distributor.step_one_text") %></p>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-4 mb-5 mb-lg-0 px-lg-0">
+          <div class="">
+            <p class="text-white text-center s-medium-text"><%= t("distributor.step_two") %></p>
+            <h2 class="text-white text-center mb-3"><%= t("distributor.step_two_title") %></h2>
+            <p class="text-white text-center"><%= t("distributor.step_two_text") %></p>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-4 mb-5 mb-lg-0 pr-lg-0 pl-lg-5">
+          <div class="">
+            <p class="text-white text-center s-medium-text"><%= t("distributor.step_three") %></p>
+            <h2 class="text-white text-center mb-3"><%= t("distributor.step_three_title") %></h2>
+            <p class="text-white text-center"><%= t("distributor.step_three_text") %></p>
+          </div>
+        </div>
+        <div class="col-12 py-5">
+          <div class="d-flex justify-content-center align-items-center">
+            <%= link_to 'Get Started', 'https://docs.google.com/forms/d/1AGOa9K9bNEt4Kam8g3usEivz7i02cxDmqJL6B9plR_g/edit', class: "primary-button", target: "_blank" %>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
+
+
 </div>
 
 <%= render 'shared/newsletter' %>

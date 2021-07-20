@@ -5,11 +5,13 @@
   padding: 12px 22px;
   border: none;
   font-size: 12px !important;
+  cursor: pointer;
   p {
     font-size: 12px !important;
   }
   &:hover {
     text-decoration: none;
+    color: #1B1B1B;
   }
 }
 
