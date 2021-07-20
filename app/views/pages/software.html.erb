@@ -1,226 +1,294 @@
-<% content_for :meta_title, "#{t('software.first_section_title_one')} | #{t('software.first_section_title_two')}" %>
-<% content_for :meta_description, "#{t('software.first_section_text_two')}" %>
+<% content_for :meta_title, "#{t('software.first_section_title_one')} | #{t('software.first_section_text_one')}" %>
+<% content_for :meta_description, "#{t('software.first_section_text_one')} #{t('software.first_section_text_two')}" %>
 <% content_for :meta_image, cl_image_path("software-graphic-1_ayt9zv", width: 400, alt: "FX ONE TOUCH controller") %>
 
 <div class="software-wrapper">
-  <%= cl_image_tag("bigpill_dhcpkm.png", :quality=>"auto", class: "software-big-pill") %>
-  <%= cl_image_tag("littlepill_nmf0vp.png", :quality=>"auto", class: "software-little-pill") %>
-  <div class="first-section fxone-first-section-background" style="padding-bottom: 0px;">
-    <div class="first-section-text software-first-section-text">
-      <div class="software-first-title">
-        <h1><%= t("software.first_section_title_one") %></h1>
-        <p class="responsive-text-small no-margin-mobile p-0"><%= t("software.first_section_text_one") %>: <%= t("software.first_section_text_two") %><br><%= t("software.first_section_text_three") %><br><%= t("software.first_section_text_four") %></p>
-      </div>
+  <div class="first-section max-width" style="overflow-x: unset;">
+    <div class="first-section-text">
+      <h1 class="w-100"><%= t("software.first_section_title_one") %></h1>
+      <p class="m-0"><%= t("software.first_section_text_one") %></p>
+      <p><%= t("software.first_section_text_two") %></p>
     </div>
-    <%= cl_image_tag("software-graphic-1_elwb7o.png", class: "first-section-image show-mobile software-graphic-mobile", alt: "FX ONE TOUCH controller") %>
-    <%= cl_image_tag("software-graphic-1_elwb7o.png", class: "first-section-image hide-mobile", style: "max-width: 800px;", alt: "FX ONE TOUCH controller") %>
-  </div>
-  <div class="software-second-section-wrapper" style="padding-top: 0px;">
-    <div class="container">
-      <div class="inks-section software-section">
-        <div class="inks-first-section-left software-first-section-left software-check-display">
-          <div>
-            <h2><%= t("software.second_section_title") %></h2>
-            <p class="responsive-text-small" style="width: 70%"><%= t("software.second_section_text") %><br><%= t("software.second_section_text2") %></p>
-          </div>
-          <div>
-            <div class="fxone-sixth-section-check">
-              <%= image_tag 'foenix-check.png', width: 30 %>
-              <p class="responsive-text-small" style="line-height: 30px !important;"><%= t("software.second_section_check_one") %></p>
-            </div>
-            <div class="fxone-sixth-section-check">
-              <%= image_tag 'foenix-check.png', width: 30 %>
-              <p class="responsive-text-small" style="line-height: 30px !important;"><%= t("software.second_section_check_two") %></p>
-            </div>
-            <div class="fxone-sixth-section-check">
-              <%= image_tag 'foenix-check.png', width: 30 %>
-              <p class="responsive-text-small" style="line-height: 30px !important;"><%= t("software.second_section_check_three") %></p>
-            </div>
-            <div class="fxone-sixth-section-check">
-              <%= image_tag 'foenix-check.png', width: 30 %>
-              <p class="responsive-text-small" style="line-height: 30px !important;"><%= t("software.second_section_check_four") %></p>
-            </div>
-            <div class="fxone-sixth-section-check">
-              <%= image_tag 'foenix-check.png', width: 30 %>
-              <p class="responsive-text-small" style="line-height: 30px !important;"><%= t("software.second_section_check_five") %></p>
-            </div>
-            <div class="fxone-sixth-section-check">
-              <%= image_tag 'foenix-check.png', width: 30 %>
-              <p class="responsive-text-small" style="line-height: 30px !important;"><%= t("software.second_section_check_six") %></p>
-            </div>
+    <div class="product-carousel">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleCaptions" data-slide-to="0"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="2" class="active"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+            </ol>
+            <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
           </div>
         </div>
-        <div class="inks-first-section-right software-first-section-right">
-          <div class="software-card-left">
-            <div class="software-card">
-              <%= image_tag 'software-card-icon-1.png', class: 'about-icon mt-3' %>
-              <div class="software-card-text-container">
-                <p><%= t("software.second_section_card_one") %></p>
-              </div>
-            </div>
-            <div class="software-card">
-              <%= image_tag 'software-card-icon-3.png', class: 'about-icon mt-3' %>
-              <div class="software-card-text-container">
-                <p><%= t("software.second_section_card_three") %></p>
-              </div>
-            </div>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626706647/sfci4_hmpbay.png", class: "first-section-image", style: "max-width: 800px;", alt: "FX Touch Controller") %>
           </div>
-          <div class="software-card-right">
-            <div class="software-card no-margin-top-mobile">
-              <%= image_tag 'software-card-icon-2.png', class: 'about-icon mt-3' %>
-              <div class="software-card-text-container">
-                <p><%= t("software.second_section_card_two") %></p>
-              </div>
-            </div>
-            <div class="software-card">
-              <%= image_tag 'software-card-icon-4.png', class: 'about-icon mt-3' %>
-              <div class="software-card-text-container">
-                <p><%= t("software.second_section_card_four") %></p>
-              </div>
-            </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626706650/sfci5_cgiqag.png", class: "first-section-image", style: "max-width: 800px;", alt: "FX Touch Controller") %>
+          </div>
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626706648/sfci1_j7flo9.png", class: "first-section-image", style: "max-width: 800px;", alt: "FX Touch Controller") %>
+          </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626706648/sfci2_ch3p4a.png", class: "first-section-image", style: "max-width: 800px;", alt: "FX Touch Controller") %>
+          </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626706649/sfci3_zujzth.png", class: "first-section-image", style: "max-width: 800px;", alt: "FX Touch Controller") %>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="software-section-third-wrapper">
-    <%= cl_image_tag("software-slant_p9xw4z.png", :quality=>"auto", class: "software-slant hide-mobile") %>
-    <%= cl_image_tag("software-mobile-slant_giq09v.png", :quality=>"auto", class: "software-slant show-mobile") %>
-    <div class="container">
-      <%= cl_image_tag("software-whole_uv3nvo.png", :quality=>"auto", class: "software-graphic-2 hide-mobile", alt: "FX ONE TOUCH controller front and side view") %>
-      <%= cl_image_tag("software-lhs_qbvtzk.png", :quality=>"auto", class: "software-graphic-2 show-mobile", alt: "FX ONE TOUCH controller front and side view") %>
-      <%= cl_image_tag("software-rhs_k89feh.png", :quality=>"auto", class: "software-graphic-2 show-mobile software-graphic-side", alt: "FX ONE TOUCH controller front and side view") %>
-      <div class="fxone-fifth-section-content software-fifth-section-content" style="width: 100%; margin: 0px; padding: 64px 10px;">
-          <%= cl_image_tag("dots-dots_mwj7rq.png", :quality=>"auto", class: "software-cards-little-pill") %>
-          <div class="fxone-fifth-section-left" style="padding: 0px 40px;">
-            <h2 style="margin-bottom: 25px;"><%= t("software.third_section_left_title") %></h2>
-            <p class="bold one-rem-text"><%= t("software.third_section_left_sub_title") %></p>
-            <ul style="padding-left: 16px;">
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_one") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_two") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_three") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_four") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_five") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_six") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_seven") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_eight") %></li>
-            </ul>
-            <p class="one-rem-text grey-text pl-3" style="font-size: 12px !important; line-height: 18px !important;"><%= t("software.third_section_left_text_nine") %></p>
+  <div class="max-width p-5">
+    <div class="inks-section software-section">
+      <div class="inks-first-section-right software-first-section-right">
+        <div class="software-card-left">
+          <div class="software-card">
+            <%= image_tag 'software-card-icon-1.png', class: 'about-icon mt-3' %>
+            <div class="software-card-text-container">
+              <p><%= t("software.second_section_card_one") %></p>
+            </div>
           </div>
-          <div class="fxone-fifth-section-right software-fifth-section-right" style="padding: 0px 40px;">
-            <h2 style="margin-bottom: 25px;"><%= t("software.third_section_right_title") %></h2>
-            <p class="bold one-rem-text"><%= t("software.third_section_right_sub_title") %></p>
-            <ul style="padding-left: 16px;">
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_one") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_two") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_three") %></li>
-            </ul>
-            <p class="bold one-rem-text"><%= t("software.third_section_right_title_two") %></p>
-            <ul style="padding-left: 16px;">
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_four") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_five") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_six") %></li>
-              <li class="responsive-text-small grey" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_seven") %></li>
-            </ul>
+          <div class="software-card">
+            <%= image_tag 'software-card-icon-3.png', class: 'about-icon mt-3' %>
+            <div class="software-card-text-container">
+              <p><%= t("software.second_section_card_three") %></p>
+            </div>
           </div>
+        </div>
+        <div class="software-card-right">
+          <div class="software-card no-margin-top-mobile">
+            <%= image_tag 'software-card-icon-2.png', class: 'about-icon mt-3' %>
+            <div class="software-card-text-container">
+              <p><%= t("software.second_section_card_two") %></p>
+            </div>
+          </div>
+          <div class="software-card">
+            <%= image_tag 'software-card-icon-4.png', class: 'about-icon mt-3' %>
+            <div class="software-card-text-container">
+              <p><%= t("software.second_section_card_four") %></p>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="container">
-        <div class="inks-section software-third-section-bottom" style="padding: 130px 0px;">
-          <div class="inks-first-section-left software-first-section-left no-padding-mobile">
-            <%= cl_image_tag("software-graphic-3_l0wrfp.png", :quality=>"auto", class: "software-graphic about-graphic-two", alt: "FX ONE TOUCH controller") %>
+      <div class="inks-first-section-left software-first-section-left software-check-display">
+        <div>
+          <h2><%= t("software.second_section_title") %></h2>
+          <p class="s-medium-text"><%= t("software.second_section_text") %><br><br><%= t("software.second_section_text_two") %></p>
+        </div>
+        <div>
+          <div class="d-flex align-items-center mb-2">
+            <i class="far fa-check-circle mr-2"></i>
+            <p class="s-medium-text mb-0"><%= t("software.second_section_check_one") %></p>
           </div>
-          <div class="inks-first-section-right d-flex justify-content-center" style="padding: 16px 100px 16px 16px;">
-            <p class="responsive-text-small"><%= t("software.third_section_final_text") %></p>
+          <div class="d-flex align-items-center mb-2">
+            <i class="far fa-check-circle mr-2"></i>
+            <p class="s-medium-text mb-0"><%= t("software.second_section_check_two") %></p>
+          </div>
+          <div class="d-flex align-items-center mb-2">
+            <i class="far fa-check-circle mr-2"></i>
+            <p class="s-medium-text mb-0"><%= t("software.second_section_check_three") %></p>
+          </div>
+          <div class="d-flex align-items-center mb-2">
+            <i class="far fa-check-circle mr-2"></i>
+            <p class="s-medium-text mb-0"><%= t("software.second_section_check_four") %></p>
+          </div>
+          <div class="d-flex align-items-center mb-2">
+            <i class="far fa-check-circle mr-2"></i>
+            <p class="s-medium-text mb-0"><%= t("software.second_section_check_five") %></p>
+          </div>
+          <div class="d-flex align-items-center">
+            <i class="far fa-check-circle mr-2"></i>
+            <p class="s-medium-text mb-0"><%= t("software.second_section_check_six") %></p>
           </div>
         </div>
       </div>
     </div>
   </div>
-    <!-- <div class="about-third-section-wrapper software-fourth-section-wrapper" style="background-image: url('<%= cl_image_path "software-slant-2_cay6k1.png" %>')"> -->
-  <div class="about-third-section-wrapper software-fourth-section-wrapper">
-    <%= cl_image_tag("mobile-slant_kd8uj1.png", class: "software-slant-two show-mobile") %>
-    <%= cl_image_tag("software-slant-2_vbxnyd.png", class: "software-slant-two hide-mobile") %>
-    <%= cl_image_tag("software-slant-2-big_cdry4n.png", class: "software-slant-two-big") %>
-    <%= cl_image_tag("software-slant-2-loop_lzixx9.png", class: "software-slant-two-loop") %>
-    <%= image_tag 'about-dots.png', class: 'software-dots hide-mobile' %>
-    <div class="container" style="position: relative;">
-      <div class="software-fourth-section-text">
-        <%= image_tag 'software-icon-1.png', class: 'about-icon' %>
-        <h2 class="text-center"><%= t("software.fourth_section_title_one") %></h2>
-        <p class="responsive-text-small text-center"><%= t("software.fourth_section_text_one") %></p>
+
+  <div class="dark-bg">
+    <div class="max-width p-5">
+      <h2 class="text-white my-5 mb-4"><%= t("fxone_remote.fourth_section_title") %></h2>
+      <div class="py-5">
+        <%= cl_image_tag("software-whole_uv3nvo.png", :quality=>"auto", class: "software-graphic-2 hide-mobile", alt: "FX ONE TOUCH controller front and side view") %>
+        <%= cl_image_tag("software-lhs_qbvtzk.png", :quality=>"auto", class: "software-graphic-2 show-mobile", alt: "FX ONE TOUCH controller front and side view") %>
+        <%= cl_image_tag("software-rhs_k89feh.png", :quality=>"auto", class: "software-graphic-2 show-mobile software-graphic-side", alt: "FX ONE TOUCH controller front and side view") %>
       </div>
-      <div class="software-fourth-section-graphics-container">
-        <%= cl_image_tag("software-graphic-4_weomrk.png", :quality=>"auto", class: "software-fourth-section-graphics") %>
-        <%= cl_image_tag("software-graphic-5_jro1yk.png", :quality=>"auto", class: "software-fourth-section-graphics") %>
-      </div>
-      <div class="software-fourth-section-text">
-        <%= image_tag 'software-icon-2.png', class: 'about-icon' %>
-        <h2 class="text-center"><%= t("software.fourth_section_title_two") %></h2>
-        <p class="responsive-text-small text-center"><%= t("software.fourth_section_text_two") %><br><%= t("software.fourth_section_text_two_two") %></p>
-      </div>
-      <div class="software-fourth-section-graphics-container">
-        <%= cl_image_tag("software-graphic-6_x590cd.png", :quality=>"auto", class: "software-fourth-section-graphics") %>
-        <%= cl_image_tag("software-graphic-7_cbcawg.png", :quality=>"auto", class: "software-fourth-section-graphics") %>
-        <%= image_tag("square-grey-dots.png", class: "software-grey-dots hide-mobile") %>
-      </div>
-      <div class="software-fourth-section-text">
-        <%= image_tag 'software-icon-5.jpg', class: 'about-icon' %>
-        <h2 class="text-center"><%= t("software.fourth_section_title_three") %></h2>
-        <p class="responsive-text-small text-center"><%= t("software.fourth_section_text_three") %></p>
-      </div>
-      <div class="container">
-        <div class="inks-section software-third-section-bottom mobile-column">
-          <div class="inks-first-section-left software-first-section-left no-padding-mobile no-margin-mobile">
-            <%= cl_image_tag("software-graphic-8_rmajqc.png", :quality=>"auto", class: "w-100 mobile-margin-bottom graphic-shadow") %>
-          </div>
-          <div class="inks-first-section-right mobile-center">
-            <h2><%= t("software.fourth_section_title_four") %></h2>
-            <p class="responsive-text-small"><%= t("software.fourth_section_text_four") %><br><%= t("software.fourth_section_text_four_two") %></p>
-          </div>
+      <div class="fxone-fifth-section-content software-fifth-section-content w-100 m-0 pt-5">
+        <div class="fxone-fifth-section-left" style="padding: 0 40px 0 0;">
+          <h2 class="text-white" style="margin-bottom: 25px;"><%= t("software.third_section_left_title") %></h2>
+          <p class="text-white bold one-rem-text"><%= t("software.third_section_left_sub_title") %></p>
+          <ul style="padding-left: 16px;">
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_one") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_two") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_three") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_four") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_five") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_six") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_seven") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_left_text_eight") %></li>
+          </ul>
+          <p class="text-white pl-3" style="font-size: 12px !important; line-height: 18px !important;"><%= t("software.third_section_left_text_nine") %></p>
+        </div>
+        <div class="fxone-fifth-section-right software-fifth-section-right" style="padding: 0px 40px;">
+          <h2 class="text-white" style="margin-bottom: 25px;"><%= t("software.third_section_right_title") %></h2>
+          <p class="text-white bold one-rem-text"><%= t("software.third_section_right_sub_title") %></p>
+          <ul style="padding-left: 16px;">
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_one") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_two") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_three") %></li>
+          </ul>
+          <p class="text-white bold one-rem-text"><%= t("software.third_section_right_title_two") %></p>
+          <ul style="padding-left: 16px;">
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_four") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_five") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_six") %></li>
+            <li class="text-white" style="line-height: 25px !important;margin-bottom: 8px;"><%= t("software.third_section_right_text_seven") %></li>
+          </ul>
         </div>
       </div>
-      <div class="container">
-        <div class="inks-section software-fifth-section" style="padding-top: 80px;">
-          <div class="about-fifth-section-left mobile-center">
-            <h2 style="padding-left: 16px;"><%= t("software.fourth_section_title_five") %></h2>
-            <p class="responsive-text-small about-fifth-section-text" style="padding-left: 16px;"><%= t("software.fourth_section_text_five") %></p>
-            <%#= link_to '#', class: 'btn software-button' do %>
-             <!--  <div class="d-flex align-items-center">
-                <p><%#= t("software.button" ) %></p>
-                <i class="fas fa-arrow-right"></i>
-              </div> -->
-            <%# end %>
-          </div>
-          <div class="about-fifth-section-right no-padding-mobile">
-            <%= cl_image_tag("software-graphic-9_geqo96.png", :quality=>"auto", class: "about-graphic about-graphic-two mobile-margin-left") %>
-          </div>
-        </div>
+      <div class="d-flex align-items-center justify-content-center w-100 pt-5">
+        <%= image_tag 'uk.png', class: 'home-uk' %>
+        <h6 class="mb-0 text-white"><%= t("home.title_second_description") %></h6>
       </div>
-      <div class="container">
-        <div class="inks-section software-third-section-bottom mobile-reverse">
-          <div class="inks-first-section-left software-first-section-left no-padding-mobile">
-            <%= cl_image_tag("software-graphic-10_zfwsgt.png", :quality=>"auto", class: "w-100 mobile-margin-bottom graphic-shadow") %>
-          </div>
-          <div class="inks-first-section-right mobile-center">
-            <h2><%= t("software.fourth_section_title_six") %></h2>
-            <p class="responsive-text-small"><%= t("software.fourth_section_text_six") %><br><%= t("software.fourth_section_text_six_two") %></p>
+    </div>
+  </div>
+
+  <div class="py-5">
+    <div class="max-width p-5">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 col-md-5">
+          <div class="d-flex flex-column justify-content-center align-items-center">
+            <h2 class="text-center mb-3"><%= t("software.extremely_simple") %></h2>
+            <p class="text-center"><%= t("software.extremely_simple_text") %></p>
+            <%= link_to "#{t('software.extremely_simple_button')}", "#", class: 'primary-button' %>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="software-fifth-section-wrapper" >
-    <div class="container">
-      <div class="software-fourth-section-text no-padding-mobile" style="padding-top: 0px;">
-        <%= image_tag 'software-icon-4.png', class: 'about-icon' %>
-        <h2 class="text-center"><%= t("software.fifth_section_title_one") %></h2>
-        <p class="responsive-text-small text-center"><%= t("software.fifth_section_sub_title") %></p>
-        <p class="responsive-text-small text-center mobile-margin-bottom"><%= t("software.fifth_section_text_one") %></p>
-        <h2 class="text-center" style="margin-top: 40px;"><%= t("software.fifth_section_title_two") %></h2>
-        <p class="responsive-text-small text-center"><%= t("software.fifth_section_text_two") %></p>
-        <%= cl_image_tag("software-graphic-11_ip0jy4.png", class: "software-middle-graphic") %>
+
+  <div class="max-width px-5 pb-5">
+    <div class="product-carousel software-carousel">
+      <div id="softwareCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#softwareCarousel" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#softwareCarousel" data-slide-to="0"></li>
+              <li data-target="#softwareCarousel" data-slide-to="1" class="active"></li>
+              <li data-target="#softwareCarousel" data-slide-to="2"></li>
+            </ol>
+            <a class="carousel-control-next" href="#softwareCarousel" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </div>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc3_un5jj6.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc1_z0l2dv.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc2_ftgdb7.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+
+  <div class="max-width p-5">
+    <div class="row m-0 py-5 align-items-center">
+      <div class="col-12 col-md-5">
+        <h2 class="pt-5 mt-4"><%= t("software.grid_title_one") %></h2>
+        <p class="mb-0"><%= t("software.grid_description_one") %></p>
+      </div>
+      <div class="col-12 col-md-7">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626777630/swg1_juczgh.png", class: "w-100", alt: "Product coding") %>
+      </div>
+    </div>
+    <div class="row m-0 py-5 align-items-center column-reverse">
+      <div class="col-12 col-md-7">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626777631/swg2_vhhtsw.png", class: "w-100", alt: "Box coding") %>
+      </div>
+      <div class="col-12 col-md-5">
+        <h2 class="pt-5 mt-4"><%= t("software.grid_title_two") %></h2>
+        <p class="mb-4"><%= t("software.grid_description_two") %></p>
+      </div>
+    </div>
+    <div class="row m-0 py-5 align-items-center">
+      <div class="col-12 col-md-5">
+        <h2 class="pt-5 mt-4"><%= t("software.grid_title_three") %></h2>
+        <p class="mb-0"><%= t("software.grid_description_three_html") %></p>
+      </div>
+      <div class="col-12 col-md-7">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626777629/swg3_bdgtp3.png", class: "w-100", alt: "Product coding") %>
+      </div>
+    </div>
+    <div class="row m-0 py-5 align-items-center column-reverse">
+      <div class="col-12 col-md-7">
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626777629/swg4_hwddjn.png", class: "w-100", alt: "Box coding") %>
+      </div>
+      <div class="col-12 col-md-5">
+        <h2 class="pt-5 mt-4"><%= t("software.grid_title_four") %></h2>
+        <p class="mb-4"><%= t("software.grid_description_four") %></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg">
+    <div class="max-width p-5">
+      <div class="row m-0 py-5 align-items-center column-reverse">
+        <div class="col-12 col-md-6">
+          <%= cl_image_tag("software-graphic-11_ip0jy4.png", class: "w-100", alt: "Box coding") %>
+        </div>
+        <div class="col-12 col-md-6">
+          <h2 class="pt-5 mt-4 text-white"><%= t("software.grid_title_five") %></h2>
+          <p class="mb-0 text-white"><%= t("software.grid_description_five_html") %></p>
+        </div>
+      </div>
+      <div class="row m-0 py-5 align-items-center">
+        <div class="col-12 col-md-6">
+          <h2 class="pt-5 mt-4 text-white"><%= t("software.grid_title_six") %></h2>
+          <p class="mb-0 text-white"><%= t("software.grid_description_six") %></p>
+        </div>
+        <div class="col-12 col-md-6">
+          <%= cl_image_tag("software-graphic-9_geqo96.png", class: "w-100", alt: "Product coding") %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg pb-5">
+    <div class="max-width p-5 d-flex justify-content-center align-items-center">
+      <div class="plus-newsletter charcoal-bg my-5">
+        <h2 class="text-center text-white mb-3 px-3 px-md-5"><%= t('software.newsletter_title') %> </h2>
+        <p class="text-center text-white mb-5"><%= t('software.newsletter_description') %> </p>
+        <div style="width: 392px;">
+          <%= form_tag subscribe_path, method: :post, class: 'about-form w-100 pb-5' do %>
+            <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
+            %>
+            <%= button_tag class: "about-form-button" do %>
+              <i class="fas fa-paper-plane"></i>
+            <% end %>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 <%= render 'shared/newsletter' %>
