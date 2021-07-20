@@ -2,28 +2,119 @@
 <% content_for :meta_description, "#{t('seo.cost_of_ownership.description')}" %>
 <% content_for :meta_image, cl_image_path("Piggy_1_al3kec", width: 400, alt: "FX ONE cost of ownership") %>
 
-<%= cl_image_tag("about-big-pill-sliced_mpxusz.png", :quality=>"auto", class: "ownership-big-pill hide-mobile") %>
-<%= cl_image_tag("about-little-pill-sliced_z6varw.png", :quality=>"auto", class: "ownership-little-pill") %>
-<div class="ownership-wrapper">
-  <div class="first-section fxone-first-section-background mobile-column">
-      <div class="first-section-text" id="cost-text">
-        <h1 class="responsive-header w-100"><%= t("cost_of_ownership.first_section_title") %> <br> <%= t("cost_of_ownership.first_section_sub_title") %> <span><%= cl_image_tag("fxone-logo_zjjdvc.png", class: "fxone-logo-right") %></span></h1>
-        <p class="responsive-text-small grey"><%= t("cost_of_ownership.first_section_text") %></p>
+
+<div class="ownership-wrapper dark-bg">
+  <div class="first-section max-width dark-bg" style="overflow-x: unset;">
+    <div class="first-section-text m-0">
+      <h2 class="w-100 text-white pl-4"><%= t("cost_of_ownership.first_section_title") %></h2>
+      <div class="bg-white border-radius p-4">
+        <p class="bold mb-0"><%= t("cost_of_ownership.first_section_sub_title") %></p>
+        <p class=""><%= t("cost_of_ownership.first_section_text_html") %></p>
       </div>
-      <%= cl_image_tag("Piggy_1_al3kec.png", :quality=>"auto", class: "first-section-image", style: "max-width: 800px;", alt: "FXONE printer costs") %>
-  </div>
-  <div class="ownership-second-section-wrapper">
-    <div data-aos="fade-up" data-aos-duration="2000">
-      <%= image_tag 'ownership-icon-1.png', class: 'about-icon' %>
     </div>
-    <h2 class="ownership-second-section-text text-center" data-aos="fade-up" data-aos-duration="2000"><%= t("cost_of_ownership.second_section_title") %></h2>
-    <p class="responsive-text-small ownership-second-section-text text-center" data-aos="fade-up" data-aos-duration="2000"><%= t("cost_of_ownership.second_section_text") %></p>
+    <div class="product-carousel dark-carousel ownership-carousel">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-item active">
+          <%= cl_image_tag("Piggy_1_al3kec.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg pt-5">
+    <div class="max-width px-5">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 col-md-8">
+          <div class="d-flex flex-column justify-content-center align-items-center">
+            <h2 class="text-center text-white mb-4"><%= t("cost_of_ownership.inkjet_printer_title") %></h2>
+            <p class="text-white text-center"><%= t("cost_of_ownership.inkjet_printer_text_html") %></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="max-width p-5">
+      <div class="cos-blur-background border-radius d-flex justify-content-center align-items-center p-5" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626797772/coogb_hhmct1.png' %>)">
+        <div class="plus-newsletter charcoal-bg my-5">
+          <h2 class="text-center text-white mb-3 px-3 px-md-5"><%= t('cost_of_ownership.newsletter_title') %> </h2>
+          <h2 class="text-center text-white mb-4"><%= t('cost_of_ownership.newsletter_description_html') %> </h2>
+          <div style="width: 392px;">
+            <%= form_tag subscribe_path, method: :post, class: 'about-form w-100 pb-4' do %>
+              <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
+              %>
+              <%= button_tag class: "about-form-button" do %>
+                <i class="fas fa-paper-plane"></i>
+              <% end %>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg">
+    <div class="max-width p-5">
+      <div class="charcoal-bg border-radius cos-lists w-100 m-0 p-3 p-md-5">
+        <h2 class="text-white text-center" style="margin-bottom: 25px;"><%= t("cost_of_ownership.list_title") %></h2>
+        <div class="fxone-fifth-section-content">
+          <div class="fxone-fifth-section-left pr-lg-5">
+            <ul class="pl-3">
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_one") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_two") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_three") %></li>
+              <li class="text-white mb-4"><%= t("cost_of_ownership.list_left_four") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_five") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_six") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_seven") %></li>
+              <li class="text-white mb-4"><%= t("cost_of_ownership.list_left_eight") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_nine") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_ten") %></li>
+              <li class="text-white mb-4"><%= t("cost_of_ownership.list_left_eleven") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_left_twelve") %></li>
+            </ul>
+          </div>
+          <div class="fxone-fifth-section-right pl-3 pl-md-5">
+            <ul class="pl-3">
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_one") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_two") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_three") %></li>
+              <li class="text-white mb-4"><%= t("cost_of_ownership.list_right_four") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_five") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_six") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_seven") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_eight") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_nine") %></li>
+              <li class="text-white mb-4"><%= t("cost_of_ownership.list_right_ten") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_eleven") %></li>
+              <li class="text-white mb-1"><%= t("cost_of_ownership.list_right_twelve") %></li>
+            </ul>
+          </div>
+        </div>
+        <div class="d-flex justify-content-center align-items-center">
+          <%= link_to 'Contact Sales', '#', class: "primary-button" %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ownership-second-section-wrapper pt-5 mt-5">
+    <div class="col-12 col-md-6">
+      <h2 class="text-white text-center mb-4"><%= image_tag 'onsi.png', width: 40, class: "mr-3" %><%= t("cost_of_ownership.second_section_title") %></h2>
+      <p class="text-white text-center"><%= t("cost_of_ownership.second_section_text") %></p>
+    </div>
   </div>
   <div class="ownership-third-section-wrapper">
     <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1579863319/cost_cqw53z.png", :quality=>"auto", id: "ownership-slider", class: "ownership-slider hide-mobile shadowed") %>
     <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1579864520/ownership-slider-mobile_bqwnnj.png", :quality=>"auto", id: "ownership-slider-mobile", class: "ownership-slider show-mobile shadowed") %>
     <div class="coming-soon" style="background-image: url('<%= cl_image_path "coming-soon-background_wjcoct.png" %>')">
       <p class="coming-soon-text"><%= t("fxone_plus.coming_soon") %></p>
+    </div>
+  </div>
+  <div class="d-flex align-items-center justify-content-center w-100 py-5">
+    <div class="col-12 pb-5">
+      <p class="text-white text-center"><%= t("cost_of_ownership.second_section_text_two_html") %></p>
     </div>
   </div>
 </div>

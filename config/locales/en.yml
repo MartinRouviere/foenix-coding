@@ -264,8 +264,6 @@ en:
     step_three_title: Start Selling
     step_three_text: Our goal is to make it easy for our business partners to focus on developing new prospects and develop their business.
 
-
-
   distributor_countries:
     uk: UK
     indonesia: Indonesia
@@ -313,11 +311,62 @@ en:
     be_the_next: Be the next one
 
   cost_of_ownership:
-    first_section_title: Save time & Save money
-    first_section_sub_title: With the
-    first_section_text: "Helping businesses improve efficiency: Avoid getting locked into expensive inkjet printers that will drain your budget over time by checking warranty details, service terms, maintenance/repairs costs, ink & consumables costs. Gain the confidence to choose the most cost-effective solution for your business. Calculate the total cost of ownership of your printer before making a decision"
+    first_section_title: Cost-effective solutions
+    first_section_sub_title: THE FX ONE PRINTERS REDUCE COST PER PRINT
+    first_section_text_html: "Cost per print is determined by 3 factors: the purchasing price of the printer, the ink cost and the monthly maintenance cost. Foenix Coding has designed a simple ink jet printer with cost reductions as a priority.
+                              The FX ONE inkjet printer has been developed with simplicity in mind and does not contain moving parts nor pumps nor valves. The ink feed is based on capillarity and gravity and there is no need for compressed air.
+                              The control is mastered by 1 single PCB that is connected to the print head with 1 single data cable.
+                              <br>
+                              Thanks to the simplicity and the absence of moving parts, NO monthly or annual maintenance is required. By using much less components than others, the FX ONE printer has a very competitive purchase price.
+                              The Xaar print-technology allows ink deposits as small as 40 pico litre per drop (that is 0.000000040ml), resulting in massive ink savings. Additionally every FX ONE printer has an ink saving mode that reduces the cost per print even more.
+                              <br>
+                              Besides the usual function like barcodes, counters, logos, date, time, shift etc the FX ONE printer comes with PC software and network connectivity as a standard.
+                              <br>
+                              Foenix Coding understands the Art of Simplicity and has created a simple and cost effective printer that is exactly suited to the customer specifications."
+    inkjet_printer_title: How to choose an inkjet printer
+    inkjet_printer_text_html: "We know choosing an inkjet printer is not easy. There are plenty of different technologies, manufacturers and models availble.
+                             <br>
+                             <br>
+                             Each application has different requirements. You need first to understand well your application, this will save you a lot of time and disappointment.
+                             <br>
+                             Download our Free Guide to compare Foenix printers vs competition."
+    newsletter_title: Receive our Free Guide to help you choose your inkjet printer
+    newsletter_description_html: "CIJ vs TIJ vs <span class='text-orange'>FX ONE</span>"
+    list_title: "Each question can determine if the FX ONE printer will be suitable for your project:"
+    list_left_one: What is the product?
+    list_left_two: What is the size of the product?
+    list_left_three: What is the product/packaging made of?
+    list_left_four: What is the product used for?
+    list_left_five: What is the conveyor/product speed?
+    list_left_six: Is the product well supported at the point of print?
+    list_left_seven: What is the product temperature at time of print?
+    list_left_eight: Is there any requirement for withstanding weather?
+    list_left_nine: Where is the print requirement top/side/below
+    list_left_ten: Which direction is the product line running to the print head?
+    list_left_eleven: What is the size of the print area and where the print is to be applied?
+    list_left_twelve: What equipment are you now using to apply print if anything?
+    list_right_one: Which colour ink is required?
+    list_right_two: What is the colour of the material/pack?
+    list_right_three: Is the print surface porous or non-porous?
+    list_right_four: What is the required drying time?
+    list_right_five: What is the message?
+    list_right_six: What is the message height?
+    list_right_seven: How many characters?
+    list_right_eight: What is the character height?
+    list_right_nine: How many lines of print?
+    list_right_ten: How many prints per minute/hour?
+    list_right_eleven: Is the message continual on continual web materials or extrusions
+    list_right_twelve: What is the repeat length of message?
+
     second_section_title: Savings/ROI Calculator
-    second_section_text: Easily control your cost per print and the number of print per cartridge. It has never been easier to keep your cost down! Save up to 75% of ink  with our Ink saver mode
+    second_section_text: Easily control your cost per print and the number of print per cartridge. It has never been easier to keep your cost down! Save up to 75% of ink  with our Ink saver mode.
+    second_section_text_two_html: "Avoid getting locked into an expensive inkjet printer that will drain your budget over time.
+                             <br>
+                             Learn warranty details, service terms, maintenance/repairs costs, ink & consumables costs.
+                             <br>
+                             Gain the confidence to choose the most cost-effective solution for your business.
+                             <br>
+                             Calculate the total cost of ownership of your printer before taking a decision."
 
   printers:
     title: FX ONE SERIES
