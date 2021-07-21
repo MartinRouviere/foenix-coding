@@ -28,6 +28,7 @@ Rails.application.routes.draw do
     get '/fxone_plus', to: 'pages#fxone_plus'
     get '/faq', to: 'pages#faq'
     get '/software', to: 'pages#software'
+    get '/industry', to: 'pages#industry'
     get '/privacy_policy', to: 'pages#privacy_policy'
     get '/seen_cookie', to: 'pages#seen_cookie_message'
     get '/cookie_policy', to: 'pages#cookie_policy'

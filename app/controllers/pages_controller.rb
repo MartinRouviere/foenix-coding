@@ -42,6 +42,9 @@ class PagesController < ApplicationController
   def faq
   end
 
+  def industry
+  end
+
   def subscribe
     session[:return_to] ||= request.referer
     if params[:email].match(/\A([\w+\-].?)+@[a-z\d\-]+(\.[a-z]+)*\.[a-z]+\z/i)
