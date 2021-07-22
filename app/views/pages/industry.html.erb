@@ -1,0 +1,468 @@
+<% content_for :meta_title, "#{t('seo.industry.title')}" %>
+<% content_for :meta_description, "#{t('seo.industry.description')}" %>
+
+<div class="industry-wrapper">
+  <div class="max-width" style="overflow-x: unset;">
+    <div class="row m-0 justify-content-center">
+      <div class="col-12 col-md-11 col-lg-9 pt-5">
+        <div class="d-flex flex-column justify-content-center align-items-center py-5">
+          <h1 class="text-center mb-4"><%= t("industry.first_section_title") %></h1>
+          <p class="text-center mb-4"><%= t("industry.first_section_text") %></p>
+          <div class="d-flex justify-content center align-items-center">
+            <%= link_to "#{t('industry.first_section_button_one')}", '#', class: 'primary-button mr-5' %>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange mb-0"><%= t('industry.first_section_button_two') %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="background-image: linear-gradient(#F4F4F4 50%, #2A2A2A 50%);">
+    <div class="max-width p-5">
+      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626881158/indmi_gysqkh.png", class: "w-100 border-radius", alt: "build to last") %>
+    </div>
+  </div>
+  <div class="dark-bg">
+    <div class="max-width p-5">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 col-md-8 col-lg-8 py-5">
+          <div class="d-flex flex-column justify-content-center align-items-center py-5">
+            <h1 class="text-center text-white mb-0"><%= t("industry.trusted_title") %></h1>
+            <h1 class="text-center text-white mb-4"><%= t("industry.trusted_title_two") %></h1>
+            <p class="text-center text-white mb-4"><%= t("industry.trusted_text_html") %></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sixth-section pb-5">
+    <div class="max-width">
+      <div class="row ml-0 ml-md-5 mr-0 pl-0 pl-md-5 mb-4">
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'food.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.food") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'cosmetics.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.cosmetics") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'extrusion.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.extrusion") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'electronics.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.electronics") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'packaging.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.packaging") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'industrial.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.industrial") %></p>
+          </div>
+        </div>
+      </div>
+      <div class="row ml-0 mr-0 mr-md-5 pr-0 pr-md-5">
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'automotive.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.automotive") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'beverage.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.beverage") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'pharmaceutical.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.pharmaceutical") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'construction.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.construction") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'chemicals.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.chemicals") %></p>
+          </div>
+        </div>
+        <div class="col-4 col-md-2">
+          <div class="d-flex flex-direction-column justify-content-center align-items-center">
+            <%= image_tag 'more.png', width: 60, class: 'greyscale' %>
+            <p class="small-text text-white text-center mt-3"><%= t("home.and_many_more") %></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg pb-3">
+    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626886305/indwave_ntvgnc.png", class: "w-100", alt: "Product coding") %>
+  </div>
+
+  <div class="max-width py-5 px-3 px-md-5">
+    <div class="row m-0 justify-content-center">
+      <div class="col-12 p-0">
+        <h1 class="mb-4 pl-2"><%= t("industry.fd_title") %></h1>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_one") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_one") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_two") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_two") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_three") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_three") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_four") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_four") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_five") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_five") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_six") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_six") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_seven") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_seven") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_eight") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_eight") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_nine") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_nine") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_ten") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_ten") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_eleven") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_eleven") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_twelve") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_thirteen") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_thirteen") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_fourteen") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_fourteen") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_fifteen") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_sixteen") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_seventeen") %></p>
+          <p class="mb-0"><%= t("industry.fd_card_text_seventeen") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.fd_card_title_eighteen") %></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-width px-5 pb-5">
+    <div class="product-carousel software-carousel industry-carousel">
+      <div id="fdCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#fdCarousel" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#fdCarousel" data-slide-to="0"></li>
+              <li data-target="#fdCarousel" data-slide-to="1" class="active"></li>
+              <li data-target="#fdCarousel" data-slide-to="2"></li>
+            </ol>
+            <a class="carousel-control-next" href="#fdCarousel" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </div>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc3_un5jj6.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc1_z0l2dv.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc2_ftgdb7.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-width py-5 px-3 px-md-5">
+    <div class="row m-0 align-items-end">
+      <div class="col-12 col-lg-8">
+        <div class="row mx-0 justify-content-center">
+          <div class="col-12 p-0">
+            <h1 class="mb-0 pl-2"><%= t("industry.cp_title") %></h1>
+            <h1 class="mb-4 pl-2"><%= t("industry.cp_title_two") %></h1>
+          </div>
+          <div class="col-12 col-md-6 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+            <div class="bg-white border-radius px-3 py-2 h-100">
+              <p class="bold mb-1"><%= t("industry.cp_card_title_one") %></p>
+              <p class="mb-0"><%= t("industry.cp_card_text_one") %></p>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+            <div class="bg-white border-radius px-3 py-2 h-100">
+              <p class="bold mb-1"><%= t("industry.cp_card_title_two") %></p>
+              <p class="mb-0"><%= t("industry.cp_card_text_two") %></p>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+            <div class="bg-white border-radius px-3 py-2 h-100">
+              <p class="bold mb-1"><%= t("industry.cp_card_title_three") %></p>
+              <p class="mb-0"><%= t("industry.cp_card_text_three") %></p>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+            <div class="bg-white border-radius px-3 py-2 h-100">
+              <p class="bold mb-1"><%= t("industry.cp_card_title_four") %></p>
+              <p class="mb-0"><%= t("industry.cp_card_text_four") %></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-width px-5 pb-5">
+    <div class="product-carousel software-carousel industry-carousel">
+      <div id="cpCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#cpCarousel" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#cpCarousel" data-slide-to="0"></li>
+              <li data-target="#cpCarousel" data-slide-to="1" class="active"></li>
+              <li data-target="#cpCarousel" data-slide-to="2"></li>
+            </ol>
+            <a class="carousel-control-next" href="#cpCarousel" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </div>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc3_un5jj6.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc1_z0l2dv.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc2_ftgdb7.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-width py-5 px-3 px-md-5">
+    <div class="row m-0 justify-content-center">
+      <div class="col-12 p-0">
+        <h1 class="mb-4 pl-2"><%= t("industry.ind_title") %></h1>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_one") %></p>
+          <p class="mb-0"><%= t("industry.ind_card_text_one") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_two") %></p>
+          <p class="mb-0"><%= t("industry.ind_card_text_two") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_three") %></p>
+          <p class="mb-0"><%= t("industry.ind_card_text_three") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_four") %></p>
+          <p class="mb-0"><%= t("industry.ind_card_text_four") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_five") %></p>
+          <p class="mb-0"><%= t("industry.ind_card_text_five") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_six") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_seven") %></p>
+          <p class="mb-0"><%= t("industry.ind_card_text_seven") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_eight") %></p>
+          <p class="mb-0"><%= t("industry.ind_card_text_eight") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_nine") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_ten") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_eleven") %></p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-sm-2 mt-sm-2 mb-3 mb-lg-1 px-2">
+        <div class="bg-white border-radius px-3 py-2 h-100">
+          <p class="bold mb-1"><%= t("industry.ind_card_title_twelve") %></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-width px-5 pb-5">
+    <div class="product-carousel software-carousel industry-carousel">
+      <div id="indCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#indCarousel" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#indCarousel" data-slide-to="0"></li>
+              <li data-target="#indCarousel" data-slide-to="1" class="active"></li>
+              <li data-target="#indCarousel" data-slide-to="2"></li>
+            </ol>
+            <a class="carousel-control-next" href="#indCarousel" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </div>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc3_un5jj6.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc1_z0l2dv.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="carousel-item">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626774690/swbc2_ftgdb7.png", class: "first-section-image pb-4", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dark-bg py-5">
+    <div class="max-width py-5 px-3 px-md-5">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 px-0 pt-5">
+          <h1 class="mb-4 pl-2 text-white"><%= t("industry.tp_title") %></h1>
+        </div>
+        <%= render 'typical_applications' %>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+</div>
+
+<%= render 'shared/newsletter' %>
+

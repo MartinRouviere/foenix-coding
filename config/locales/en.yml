@@ -721,8 +721,140 @@ en:
     fifth_section_text_one: A DLL (Dynamic Link Library) is a set of software functions that can be used by a third party developer to incorporate into their own applications. The Foenix DLL described here provides a set of functions that allows a FX ONE printer to be controlled via the FXPro application or Foenix Touch Controller. The library makes the communication process to the printer much simpler for the developer as it takes care of the actual protocol used. The developer then uses a relatively simple mechanism to montior printers, load messages and transmit data.
     fifth_section_title_two: How Does a DLL Work?
     fifth_section_text_two: The DLL is used by the customers to communicate with the printer. The diagram below gives a basic overview showing how the DLL sits between the application and printer.
-
-
+  industry:
+    first_section_title: We provide solutions for all industries and every application
+    first_section_text: Emerging businesses with 1 small production line to multi-national corporations with the most demanding applications can all use the FX ONE printer to lower their coding and marking costs, prevent downtime, automate manual processes and improve product quality with high resolution coding.
+    first_section_button_one: Request Demo
+    first_section_button_two: Get Prices
+    trusted_title: Trusted by businesses
+    trusted_title_two: from all industries
+    trusted_text_html: "Foenix Coding has installed ink jet printers throughout the world in the food, beverage, pharmaceutical, industrial, electronics and construction industries.
+                  <br>
+                  Our customers include many of the large manufacturers in these sectors but equally important Foenix enjoy the custom of many small manufacturing companies world wide who equally appreciate the low cost, low maintenance concepts that are built into the printers."
+    fd_title: Food & Drink
+    fd_card_title_one: Bakery Products
+    fd_card_text_one: biscuits, cakes cookies...
+    fd_card_title_two: Cereal products
+    fd_card_text_two: breakfast cereals, pasta...
+    fd_card_title_three: Processed fruit and vegetables
+    fd_card_text_three: canned products, dried fruits...
+    fd_card_title_four: Confectionery
+    fd_card_text_four: chocolate, sweets, chewing gum...
+    fd_card_title_five: Snack products
+    fd_card_text_five: crisps, savoury snacks, chocolate...
+    fd_card_title_six: Fish and fish products
+    fd_card_text_six: canned fish, dried fish, retail cool boxes...
+    fd_card_title_seven: Dairy products
+    fd_card_text_seven: milk, yoghurt, cheese, cream...
+    fd_card_title_eight: Alcoholic beverages
+    fd_card_text_eight: wine, spirits, liquors...
+    fd_card_title_nine: Ground and husked products
+    fd_card_text_nine: flour, rice...
+    fd_card_title_ten: Meat
+    fd_card_text_ten: pre-packed, dried fresh, frozen...
+    fd_card_title_eleven: Coffee, cocoa, tea
+    fd_card_text_eleven: ground, individual packaging...
+    fd_card_title_twelve: Baby food
+    fd_card_title_thirteen: Ready meals
+    fd_card_text_thirteen: pizza, sandwiches...
+    fd_card_title_fourteen: Non-alcoholic beverages
+    fd_card_text_fourteen: water, lemonades, fruit juices...
+    fd_card_title_fifteen: Frozen products
+    fd_card_title_sixteen: Spices, essences, cooking and baking agents
+    fd_card_title_seventeen: Edible oils and similar products, hard fats
+    fd_card_text_seventeen: olive oil, butter, lard...
+    fd_card_title_eighteen: Tetra packs
+    cp_title: Cosmetics &
+    cp_title_two: Pharmaceutical
+    cp_card_title_one: Cosmetics and personal hygiene
+    cp_card_text_one: shampoo, soap, toothpaste, tissues...
+    cp_card_title_two: Beauty products
+    cp_card_text_two: perfume, hair products, make-up...
+    cp_card_title_three: Pharmaceutical products
+    cp_card_text_three: medicines, syrups, pills, cream tubes...
+    cp_card_title_four: Medical equipment
+    cp_card_text_four: face masks, syringes, bandages, dressing...
+    ind_title: Industrial
+    ind_card_title_one: Metal products
+    ind_card_text_one: finished or semi-finished parts, sub-assemblies...
+    ind_card_title_two: Automotive industry
+    ind_card_text_two: spare parts, car piping, car interior, rubber parts...
+    ind_card_title_three: Chemical products
+    ind_card_text_three: Industrial chemicals, detergents, cleaning products...
+    ind_card_title_four: Electronic equipment, sub-assemblies, components
+    ind_card_text_four: PCB boards, security cards...
+    ind_card_title_five: Building materials
+    ind_card_text_five: flooring, tiles, timbers, stones, wall panels, plaster boards...
+    ind_card_title_six: Fertilisers, pesticides and other products for plant treatment
+    ind_card_title_seven: Extrusion and web-fed products
+    ind_card_text_seven: plastic pipes, cables, sachet...
+    ind_card_title_eight: Garden, agriculture, forestry and fishery products
+    ind_card_text_eight: garden webbing...
+    ind_card_title_nine: Paints, dyes, colourants, inks, varnishes and similar products
+    ind_card_title_ten: Wood and paper products, pulp, unprocessed wood
+    ind_card_title_eleven: Furniture and furniture parts
+    ind_card_title_twelve: Oil products
+    tp_title: Typical Applications
+    tp1: Aerosol containers
+    tp2: Buckets
+    tp3: Foil
+    tp4: Tetra packs
+    tp5: Ampoules
+    tp6: Canisters
+    tp7: Glass jars
+    tp8: Trays deep drawn, pressed, folded
+    tp9: Bag-in-box
+    tp10: Cans plastic, metallic
+    tp11: Jugs
+    tp12: Tubes
+    tp13: Bags paper, plastic, metallic
+    tp14: Carboys, demijohns
+    tp15: Metal cans
+    tp16: Tubular bags/pouches
+    tp17: Bags form fill seal
+    tp18: Carton packages for liquid and pastes
+    tp19: Pouches
+    tp20: Wrap-around packs
+    tp21: Barrels
+    tp22: Cartridges
+    tp23: Pallets - loading unit
+    tp24: Wrappers (twisted, folded, sealed, shrink, stretch wrapper)
+    tp25: Baskets
+    tp26: Cases
+    tp27: Reels
+    tp28: Plaster boards
+    tp29: Blister packs
+    tp30: Composite Cans
+    tp31: Sacks paper, plastic, metallic
+    tp32: Toilet rolls
+    tp33: Bottles Glass
+    tp34: Crates
+    tp35: Side-sealed bags/pouches
+    tp36: Garden Webbing
+    tp37: Bottles Metallic
+    tp38: Cups
+    tp39: Sleeve-and-slide boxes
+    tp40: Book protectors
+    tp41: Bottles plastic
+    tp42: Drums
+    tp43: Spools
+    tp44: Strapping
+    tp45: Boxes cardboard, plastic
+    tp46: Etuis
+    tp47: Strapped packs
+    tp48: Wood
+    tp49: Floor covering
+    tp50: Flat-bottom bags
+    tp51: Tank containers
+    tp52: Flour sacks
+    tp53: Stones
+    tp54: Medical dressing
+    tp55: Security cards
+    tp56: Paving blocks
+    tp_button_one: Request a Free Trial
+    tp_button_one_msg: Try the FX ONE for 7 Days
+    tp_button_two: Get a Free Test print
+    tp_button_two_msg: On any of your products
 
   components:
     yellow_button: Learn More
@@ -784,12 +916,15 @@ en:
     faq:
       title: FAQ - Foenix Coding
       description: More information about the Foenix Coding range of printers and inks. Sauven ink cartridges, Sauven solvent ink, Sauven oil ink, print database, print codes, TIJ alternative, CIJ alternative
+    industry:
+      title: "Industry: Trusted by businesses from all industries"
+      description: We provide solutions for all industries and every application
     jobs:
       title: FOENIX CODING is growing
       description: We are always looking for talented new friends that share our vision to push industry forward
     posts:
       title: News & Events
-      description: Get the lastet News & Events
+      description: Get the latest News & Events
 
   news:
     latest: Latest Story
