@@ -1,117 +1,115 @@
-<div class="jobs-wrapper jobs-show-wrapper">
-  <%= cl_image_tag("inks_big_pill_dqob2a.png", class: "jobs-big-pill hide-mobile") %>
-  <%= cl_image_tag("inks_little_pill_pahv4x.png", class: "jobs-little-pill hide-mobile") %>
-  <div class="jobs-section">
-    <div class="job-content">
-      <div class="job-content-left hide-mobile">
-        <p class="s-medium-text mb-2"><%= t("jobs_show.roles_at") %></p>
-        <p class="s-medium-text main-body-text mb-2"><%= @job.location %></p>
-        <p class="s-medium-text main-body-text mb-2"><%= @job.job_type %></p>
-        <p class="s-medium-text main-body-text mb-2"><%= @job.team %></p>
-        <div class="job-social-links">
+<div class="jobs-wrapper py-5">
+  <div class="max-width py-5 px-3 px-lg-5">
+    <div class="row mt-0 mt-sm-5 mx-0">
+      <div class="col-3 job-content-left hide-mobile">
+        <h6 class="mb-3"><%= t("jobs_show.roles_at") %></h6>
+        <p class="mb-3"><i class="fas fa-map-marker-alt mr-2"></i><%= @job.location %></p>
+        <p class="mb-3"><i class="fas fa-clock mr-2"></i><%= @job.job_type %></p>
+        <p class="mb-3"><i class="fas fa-briefcase mr-2"></i><%= @job.team %></p>
+        <div class="job-social-links mb-4">
           <%= link_to "http://www.facebook.com/sharer/sharer.php?u=#{job_url(@job)}&t=#{@job.title}", target: "_blank" do %>
-            <i class="fab fa-facebook-square main-body-text mb-2 mr-2"></i>
+            <i class="fab fa-facebook-square mb-2 mr-2"></i>
           <% end %>
           <%= link_to "https://twitter.com/intent/tweet?text=#{@job.title}&url=#{job_url(@job)}", target: "_blank" do %>
-            <i class="fab fa-twitter main-body-text mb-2 mr-2"></i>
+            <i class="fab fa-twitter mb-2 mr-2"></i>
           <% end %>
           <%= link_to "http://www.linkedin.com/shareArticle?mini=true&url=#{job_url(@job)}&summary=#{@job.text1}=#{root_url}", target: "_blank" do %>
-            <i class="fab fa-linkedin main-body-text mb-2 mr-2"></i>
+            <i class="fab fa-linkedin mb-2 mr-2"></i>
           <% end %>
         </div>
-        <a href="mailto:sales@foenixcoding.com" class="btn apply-now-button"><%= t("jobs_show.apply_now") %></a>
+        <a href="mailto:sales@foenixcoding.com" class="primary-button"><%= t("jobs_show.apply_now") %></a>
       </div>
-      <div class="job-content-right">
-        <h2 style="letter-spacing: 1px;"><%= @job.title %></h2>
+      <div class="col-12 col-sm-9">
+        <h1 style="letter-spacing: 1px;"><%= @job.title %></h1>
         <div class="job-content-left show-mobile">
-          <p class="s-medium-text mb-2"><%= t("jobs_show.roles_at") %></p>
-          <p class="s-medium-text main-body-text mb-2"><%= @job.location %></p>
-          <p class="s-medium-text main-body-text mb-2">Full time*</p>
-          <p class="s-medium-text main-body-text mb-2">New Business*</p>
-          <div class="job-social-links">
-            <i class="fab fa-facebook-square main-body-text mb-2 mr-2"></i>
-            <i class="fab fa-twitter main-body-text mb-2 mr-2"></i>
-            <i class="fab fa-linkedin main-body-text mb-2 mr-2"></i>
+          <h6 class="mb-2"><%= t("jobs_show.roles_at") %></h6>
+          <p class="mb-2"><i class="fas fa-map-marker-alt mr-2"></i><%= @job.location %></p>
+          <p class="mb-2"><i class="fas fa-clock mr-2"></i><%= @job.job_type %></p>
+          <p class="mb-2"><i class="fas fa-briefcase mr-2"></i><%= @job.team %></p>
+          <div class="job-social-links mb-4">
+            <i class="fab fa-facebook-square mb-2 mr-2"></i>
+            <i class="fab fa-twitter mb-2 mr-2"></i>
+            <i class="fab fa-linkedin mb-2 mr-2"></i>
           </div>
-          <%= link_to "#{ t("jobs_show.apply_now" ) }", '#', class: 'btn apply-now-button' %>
+          <%= link_to "#{ t("jobs_show.apply_now" ) }", '#', class: 'primary-button' %>
         </div>
-        <div class="trix-text">
+        <div class="trix-text pb-5">
           <%= raw @job.text1 %>
           <%= raw @job.text2 %>
         </div>
         <% if @job.expectation1 != "" || @job.expectation2 != "" || @job.expectation3 != "" || @job.expectation4 != "" || @job.expectation5 != "" || @job.expectation6 != "" || @job.expectation7 != "" || @job.expectation8 != "" || @job.expectation9 != "" || @job.expectation10 != "" %>
-          <p class="s-medium-text"><%= t("jobs_show.you_will") %>:</p>
+          <p class="bold"><%= t("jobs_show.you_will") %>:</p>
         <% end %>
-        <ul style="padding-left: 16px;">
+        <ul class="pl-3 pb-4">
           <% unless @job.expectation1.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation1 %></li>
+            <li class="mb-2"><%= @job.expectation1 %></li>
           <% end %>
           <% unless @job.expectation2.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation2 %></li>
+            <li class="mb-2"><%= @job.expectation2 %></li>
           <% end %>
           <% unless @job.expectation3.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation3 %></li>
+            <li class="mb-2"><%= @job.expectation3 %></li>
           <% end %>
           <% unless @job.expectation4.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation4 %></li>
+            <li class="mb-2"><%= @job.expectation4 %></li>
           <% end %>
           <% unless @job.expectation5.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation5 %></li>
+            <li class="mb-2"><%= @job.expectation5 %></li>
           <% end %>
           <% unless @job.expectation6.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation6 %></li>
+            <li class="mb-2"><%= @job.expectation6 %></li>
           <% end %>
           <% unless @job.expectation7.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation7 %></li>
+            <li class="mb-2"><%= @job.expectation7 %></li>
           <% end %>
           <% unless @job.expectation8.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation8 %></li>
+            <li class="mb-2"><%= @job.expectation8 %></li>
           <% end %>
           <% unless @job.expectation9.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation9 %></li>
+            <li class="mb-2"><%= @job.expectation9 %></li>
           <% end %>
           <% unless @job.expectation10.blank? %>
-            <li class="main-body-text small-text"><%= @job.expectation10 %></li>
+            <li class="mb-2"><%= @job.expectation10 %></li>
           <% end %>
         </ul>
         <% if @job.responsibility1 != "" || @job.responsibility2 != "" || @job.responsibility3 != "" || @job.responsibility4 != "" || @job.responsibility5 != "" || @job.responsibility6 != "" || @job.responsibility7 != "" || @job.responsibility8 != "" || @job.responsibility9 != "" || @job.responsibility10 != "" %>
-          <p class="s-medium-text"><%= t("jobs_show.we_are_looking") %>:</p>
+          <p class="bold"><%= t("jobs_show.we_are_looking") %>:</p>
         <% end %>
-        <ul style="padding-left: 16px;">
+        <ul class="pl-3 pb-4">
           <% unless @job.responsibility1.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility1 %></li>
+            <li class="mb-2"><%= @job.responsibility1 %></li>
           <% end %>
           <% unless @job.responsibility2.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility2 %></li>
+            <li class="mb-2"><%= @job.responsibility2 %></li>
           <% end %>
           <% unless @job.responsibility3.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility3 %></li>
+            <li class="mb-2"><%= @job.responsibility3 %></li>
           <% end %>
           <% unless @job.responsibility4.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility4 %></li>
+            <li class="mb-2"><%= @job.responsibility4 %></li>
           <% end %>
           <% unless @job.responsibility5.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility5 %></li>
+            <li class="mb-2"><%= @job.responsibility5 %></li>
           <% end %>
           <% unless @job.responsibility6.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility6 %></li>
+            <li class="mb-2"><%= @job.responsibility6 %></li>
           <% end %>
           <% unless @job.responsibility7.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility7 %></li>
+            <li class="mb-2"><%= @job.responsibility7 %></li>
           <% end %>
           <% unless @job.responsibility8.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility8 %></li>
+            <li class="mb-2"><%= @job.responsibility8 %></li>
           <% end %>
           <% unless @job.responsibility9.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility9 %></li>
+            <li class="mb-2"><%= @job.responsibility9 %></li>
           <% end %>
           <% unless @job.responsibility10.blank? %>
-            <li class="main-body-text small-text"><%= @job.responsibility10 %></li>
+            <li class="mb-2"><%= @job.responsibility10 %></li>
           <% end %>
         </ul>
         <div class="apply-now-section">
-          <p class="main-body-text m-0"><%= t("jobs_show.we_look_forward") %></p>
-          <a href="mailto:sales@foenixcoding.com" class="btn apply-now-button"><%= t("jobs_show.apply_now") %></a>
+          <p class="mb-sm-0"><%= t("jobs_show.we_look_forward") %></p>
+          <a href="mailto:sales@foenixcoding.com" class="primary-button"><%= t("jobs_show.apply_now") %></a>
         </div>
 <!--         <p class="main-body-text" style="font-style: italic;">Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim, pulvinar lobortis nibh lacinia at. Vestibulum nec erat ut m</p> -->
       </div>
