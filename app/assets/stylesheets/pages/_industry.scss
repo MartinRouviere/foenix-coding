@@ -1,3 +1,15 @@
 .ta-card {
   min-height: 50px;
 }
+
+.ind-agua {
+  width: 80%;
+  padding-bottom: 48px;
+  @include for-medium-devices-down {
+    width: 100%;
+  }
+}
+
+.industry-carousel {
+  background-color: #1B1B1B;
+}
