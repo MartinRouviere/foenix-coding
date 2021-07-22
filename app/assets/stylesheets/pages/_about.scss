@@ -2,6 +2,13 @@
   overflow-x: hidden;
 }
 
+.about-title {
+  @include for-large-devices-up {
+    max-width: 216px !important;
+    width: 216px !important;
+  }
+}
+
 .about-first-section-container {
   max-width: 1600px;
   margin: 0 auto;
