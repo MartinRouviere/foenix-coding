@@ -2,105 +2,114 @@
 <% content_for :meta_description, "#{t('seo.jobs.description')}" %>
 
 <div class="jobs-wrapper">
-  <%= cl_image_tag("inks_big_pill_dqob2a.png", class: "jobs-big-pill hide-mobile") %>
-  <%= cl_image_tag("inks_little_pill_pahv4x.png", class: "jobs-little-pill hide-mobile") %>
-  <div class="jobs-section">
-    <div class="container">
-    <h1 class="jobs-header mt-5 responsive-header" style="letter-spacing: 1px;"><%= t("jobs.title") %></h1>
-      <p class="jobs-header jobs-header-text main-body-text"><%= t("jobs.tagline") %></p>
-      <div class="jobs-index-filter-button">
-        <div id="show-filter" class="see-more-button jobs-index-filter-button">
-          <p>Show Filter</p>
-        </div>
-        <div id="hide-filter" class="see-more-button jobs-index-filter-button d-none">
-          <p>Hide Filter</p>
+  <div class="first-section max-width px-5 py-0" style="overflow-x: unset;">
+    <div class="first-section-text pl-0 m-0">
+      <h1 class="w-100 mb-4"><%= t("jobs.title") %></h1>
+      <p><%= t('jobs.tagline') %></p>
+    </div>
+    <div class="product-carousel">
+      <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626977321/cmi_l9sfr2.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
         </div>
       </div>
-      <%= simple_form_for :search, url: jobs_path, method: "GET", html: { class: "jobs-search-form" } do |f| %>
-        <div class="search-bar">
-          <div class="input-holder">
-            <%= f.input :name, label: false %>
-            <i class="fas fa-search search-icon grey"></i>
-            <!-- <i class="fas fa-angle-down jobs-filter-down"></i> -->
-          </div>
-          <div class="input-holder">
-            <%= f.input :team, collection: @teams, label: false,  prompt: :translate %>
-            <i class="fas fa-user-friends search-icon grey"></i>
-            <i class="fas fa-angle-down jobs-filter-down show-mobile-imp"></i>
-          </div>
-          <div class="input-holder">
-            <%= f.input :country, collection: @countries, label: false,  prompt: :translate %>
-            <i class="fas fa-map-marker-alt search-icon grey"></i>
-            <i class="fas fa-angle-down jobs-filter-down show-mobile-imp"></i>
-          </div>
-          <div class="input-holder">
-            <%= f.input :job_type, collection: @types, label: false,  prompt: :translate %>
-            <i class="fas fa-list-ul search-icon grey"></i>
-            <i class="fas fa-angle-down jobs-filter-down show-mobile-imp"></i>
-          </div>
-        </div>
-        <div class="d-flex justify-content-center">
-          <%= f.submit "Search", class: "btn temp-button" %>
-          <%= link_to 'Clear', jobs_path, class: 'btn reverse-temp-button' %>
-        </div>
-      <% end %>
-      <p class="text-center grey main-body-text s-medium-text">
-        <% if params[:search] %>
-          <%= @results ? @results.length : @jobs.length %> roles
-          across <span style="font-weight: bold !important;"><%= params[:search][:country] != '' ? Country.find(params[:search][:country]).name : "all locations" %></span>
-          and <span style="font-weight: bold !important;"><%= params[:search][:team] != '' ? params[:search][:team] : "all teams" %></span>
-        <% else %>
-        <%= @jobs.length %> roles across <span style="font-weight: bold !important;">all locations</span> and <span style="font-weight: bold !important;">all teams</span>
-        <% end %>
-      </p>
-      <% if @results %>
-        <% @results.each do |job| %>
-          <%= link_to job_path(job), class: "text-decoration-none" do  %>
-            <% if policy(Job).create? %>
-              <%= link_to 'Edit', edit_admin_job_path(job), class: 'crud-links' %>
-              <%= link_to 'Delete', admin_job_path(job), method: :delete, data: { confirm: "Are you sure you want to delete the job '#{ job.title }'" }, class: 'crud-links' %>
-            <% end %>
-            <div class="job-card">
-              <div class="job-card-title">
-                <p class="m-0"><%= job.title %></p>
-              </div>
-              <div class="job-card-info-container">
-                <p class="m-0 job-card-info"><%= job.team %></p>
-                <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag" %>
-                  <span class="m-0 ml-3 grey"><%= job.location %></span>
-                </div>
-                <p class="m-0 job-card-info"><%= job.job_type %></p>
-              </div>
-            </div>
-          <% end %>
-        <% end %>
-      <% else %>
-        <% @jobs.each do |job| %>
-          <%= link_to job_path(job), class: "text-decoration-none" do  %>
-            <% if policy(Job).create? %>
-              <%= link_to 'Edit', edit_admin_job_path(job), class: 'crud-links' %>
-              <%= link_to 'Delete', admin_job_path(job), method: :delete, data: { confirm: "Are you sure you want to delete the job '#{ job.title }'" }, class: 'crud-links' %>
-            <% end %>
-            <div class="job-card">
-              <div class="job-card-title">
-                <p class="m-0"><%= job.title %></p>
-              </div>
-              <div class="job-card-info-container">
-                <p class="m-0 job-card-info"><%= job.team %></p>
-                <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag" %>
-                  <span class="m-0 ml-3 grey"><%= job.location %></span>
-                </div>
-                <p class="m-0 job-card-info"><%= job.job_type %></p>
-              </div>
-            </div>
-          <% end %>
-        <% end %>
-      <% end %>
-
-      <% if policy(Job).new? %>
-        <%= link_to "New Job", new_admin_job_path, class: "btn new-job-button" %>
-      <% end %>
     </div>
+  </div>
+  <div class="jobs-section max-width px-5">
+    <div class="jobs-index-filter-button">
+      <div id="show-filter" class="primary-button jobs-index-filter-button">
+        <p class="text-center mb-0">Show Filter</p>
+      </div>
+      <div id="hide-filter" class="secondary-button jobs-index-filter-button d-none">
+        <p class="text-center mb-0">Hide Filter</p>
+      </div>
+    </div>
+    <%= simple_form_for :search, url: jobs_path, method: "GET", html: { class: "jobs-search-form" } do |f| %>
+      <div class="search-bar">
+        <div class="input-holder">
+          <%= f.input :name, label: false %>
+          <i class="fas fa-search search-icon grey"></i>
+          <!-- <i class="fas fa-angle-down jobs-filter-down"></i> -->
+        </div>
+        <div class="input-holder">
+          <%= f.input :team, collection: @teams, label: false,  prompt: :translate %>
+          <i class="fas fa-user-friends search-icon grey"></i>
+          <i class="fas fa-angle-down jobs-filter-down show-mobile-imp"></i>
+        </div>
+        <div class="input-holder">
+          <%= f.input :country, collection: @countries, label: false,  prompt: :translate %>
+          <i class="fas fa-map-marker-alt search-icon grey"></i>
+          <i class="fas fa-angle-down jobs-filter-down show-mobile-imp"></i>
+        </div>
+        <div class="input-holder">
+          <%= f.input :job_type, collection: @types, label: false,  prompt: :translate %>
+          <i class="fas fa-list-ul search-icon grey"></i>
+          <i class="fas fa-angle-down jobs-filter-down show-mobile-imp"></i>
+        </div>
+      </div>
+      <div class="d-flex justify-content-center py-3">
+        <%= f.submit "Search", class: "primary-button mr-3" %>
+        <%= link_to 'Clear', jobs_path, class: 'secondary-button' %>
+      </div>
+    <% end %>
+    <p class="text-center grey main-body-text s-medium-text">
+      <% if params[:search] %>
+        <%= @results ? @results.length : @jobs.length %> roles
+        across <span style="font-weight: bold !important;"><%= params[:search][:country] != '' ? Country.find(params[:search][:country]).name : "all locations" %></span>
+        and <span style="font-weight: bold !important;"><%= params[:search][:team] != '' ? params[:search][:team] : "all teams" %></span>
+      <% else %>
+      <%= @jobs.length %> roles across <span style="font-weight: bold !important;">all locations</span> and <span style="font-weight: bold !important;">all teams</span>
+      <% end %>
+    </p>
+    <% if @results %>
+      <% @results.each do |job| %>
+        <%= link_to job_path(job), class: "text-decoration-none" do  %>
+          <% if policy(Job).create? %>
+            <%= link_to 'Edit', edit_admin_job_path(job), class: 'crud-links' %>
+            <%= link_to 'Delete', admin_job_path(job), method: :delete, data: { confirm: "Are you sure you want to delete the job '#{ job.title }'" }, class: 'crud-links' %>
+          <% end %>
+          <div class="job-card">
+            <div class="job-card-title">
+              <p class="m-0"><%= job.title %></p>
+            </div>
+            <div class="job-card-info-container">
+              <p class="m-0 job-card-info"><%= job.team %></p>
+              <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag" %>
+                <span class="m-0 ml-3 grey"><%= job.location %></span>
+              </div>
+              <!-- <p class="m-0 job-card-info"><%#= job.job_type %></p> -->
+            </div>
+          </div>
+        <% end %>
+      <% end %>
+    <% else %>
+      <% @jobs.each do |job| %>
+        <%= link_to job_path(job), class: "text-decoration-none" do  %>
+          <% if policy(Job).create? %>
+            <%= link_to 'Edit', edit_admin_job_path(job), class: 'crud-links' %>
+            <%= link_to 'Delete', admin_job_path(job), method: :delete, data: { confirm: "Are you sure you want to delete the job '#{ job.title }'" }, class: 'crud-links' %>
+          <% end %>
+          <div class="job-card">
+            <div class="job-card-title">
+              <p class="m-0"><%= job.title %></p>
+            </div>
+            <div class="job-card-info-container">
+              <p class="m-0 job-card-info"><%= job.team %></p>
+              <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag" %>
+                <span class="m-0 ml-3 grey"><%= job.location %></span>
+              </div>
+              <!-- <p class="m-0 job-card-info"><%#= job.job_type %></p> -->
+            </div>
+          </div>
+        <% end %>
+      <% end %>
+    <% end %>
+
+    <% if policy(Job).new? %>
+      <%= link_to "New Job", new_admin_job_path, class: "btn new-job-button" %>
+    <% end %>
   </div>
 </div>
 
