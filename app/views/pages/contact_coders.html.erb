@@ -1,0 +1,125 @@
+<% content_for :meta_title, "#{t('seo.contact_coders.title')}" %>
+<% content_for :meta_description, "#{t('seo.contact_coders.description')}" %>
+
+<div class="contact-coders-wrapper">
+  <div class="dark-bg pb-5">
+    <div class="max-width px-3 px-md-5" style="overflow-x: unset;">
+      <div class="row m-0 justify-content-center">
+        <div class="col-12 col-md-11 col-lg-8 pt-5">
+          <div class="d-flex flex-column justify-content-center align-items-center pt-5 pb-4">
+            <h1 class="text-center text-white mb-4"><%= t("contact_coders.first_section_title") %></h1>
+            <p class="text-center text-white mb-4"><%= t("contact_coders.first_section_text") %></p>
+            <div class="d-flex align-items-center justify-content-center w-100 mb-4 mb-md-0 mt-3">
+              <%= image_tag 'uk.png', class: 'home-uk mr-4' %>
+              <h6 class="mb-0 text-white"><%= t("home.title_second_description") %></h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="max-width px-3 px-md-5">
+      <div class="row m-0">
+        <div class="col-12 col-lg-6 pt-3 pl-0 pr-0 pr-lg-3 pb-3">
+          <div class="charcoal-bg fxone-range h-100">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627043832/ccgi1_xqjq0f.png", class: "mb-5 fxone-range-img-one", alt: "FX ONE Standard") %>
+            <div class="d-flex flex-column justify-content-between align-items-center h-100">
+              <h1 class="text-center text-white mb-0 mt-5"><%= t("contact_coders.codaprint_title") %></h1>
+              <h4 class="text-center text-white mb-4"><%= t("contact_coders.codaprint_sub_title") %></h4>
+              <p class="text-center mb-4 text-white"><%= t("contact_coders.codaprint_text") %></p>
+              <%= link_to '#', class: 'link-orange' do %>
+                <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+              <% end %>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 pt-5 pt-lg-3 pr-0 pl-0 pl-lg-3 pb-3">
+          <div class="black-bg fxone-range h-100">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627043832/ccgi2_emc1vv.png", class: "mb-5 fxone-range-img-one", alt: "FX ONE Standard") %>
+            <div class="d-flex flex-column justify-content-between align-items-center h-100">
+              <h1 class="text-center text-white mb-0 mt-5"><%= t("contact_coders.codamark_title") %></h1>
+              <h4 class="text-center text-white mb-4"><%= t("contact_coders.codamark_sub_title") %></h4>
+              <p class="text-center mb-4 text-white"><%= t("contact_coders.codamark_text") %></p>
+              <%= link_to '#', class: 'link-orange' do %>
+                <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+              <% end %>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 px-0">
+          <div class="bg-white fxone-range my-3 px-0">
+            <div class="row m-0 w-100">
+              <div class="col-12 col-lg-6">
+                <div class="d-flex flex-column justify-content-center align-items-center">
+                  <h1 class="text-center mb-0 mt-5"><%= t("contact_coders.handroller_title") %></h1>
+                  <h4 class="text-center mb-4"><%= t("contact_coders.handroller_sub_title") %></h4>
+                  <p class="text-center mb-4"><%= t("contact_coders.handroller_text") %></p>
+                  <%= link_to '#', class: 'link-orange' do %>
+                    <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+                  <% end %>
+                </div>
+              </div>
+              <div class="col-12 col-lg-6">
+                <div class="d-flex justify-content-center align-items-center h-100 position-relative">
+                  <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627046155/ccgi3_pqwkpa.png", class: "fxone-range-img-one mb-5 mb-lg-0", alt: "FX ONE Plus") %>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 px-0">
+          <div class="bg-white fxone-range my-3 px-0">
+            <div class="row m-0 w-100">
+              <div class="col-12 col-lg-6">
+                <div class="d-flex justify-content-center align-items-center h-100 position-relative">
+                  <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627046155/ccgi4_gobj52.png", class: "fxone-range-img-one mb-5 mb-lg-0", alt: "FX ONE Plus") %>
+                </div>
+              </div>
+              <div class="col-12 col-lg-6">
+                <div class="d-flex flex-column justify-content-center align-items-center">
+                  <h1 class="text-center mb-0 mt-5"><%= t("contact_coders.codapack_title") %></h1>
+                  <h4 class="text-center mb-4"><%= t("contact_coders.codapack_sub_title") %></h4>
+                  <p class="text-center mb-4"><%= t("contact_coders.codapack_text") %></p>
+                  <%= link_to '#', class: 'link-orange' do %>
+                    <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
+                  <% end %>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 px-0">
+          <div class="charcoal-bg border-radius px-4 px-md-5 py-5 mb-4 my-3">
+            <div class="row m-0 w-100">
+              <div class="col-12 col-lg-6">
+                <div class="">
+                  <h1 class="text-white mb-0"><%= t("contact_coders.baselock_title") %></h1>
+                  <h4 class="text-white mb-4"><%= t("contact_coders.baselock_sub_title") %></h4>
+                  <ul class="pl-3">
+                    <li class="text-white small-text"><%= t("contact_coders.baselock_text_one") %></li>
+                    <li class="text-white small-text"><%= t("contact_coders.baselock_text_two") %></li>
+                    <li class="text-white small-text"><%= t("contact_coders.baselock_text_three") %></li>
+                    <li class="text-white small-text"><%= t("contact_coders.baselock_text_four") %></li>
+                  </ul>
+                  <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627047164/ccgi6_ysftot.png", class: "w-100 pr-5 pt-3", alt: "FX ONE Plus") %>
+                </div>
+              </div>
+              <div class="col-12 col-lg-6">
+                <div class="d-flex justify-content-center align-items-center h-100 position-relative">
+                  <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627047165/ccgi5_ff40hs.png", class: "w-100", alt: "FX ONE Plus") %>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+
+</div>
+
+<%= render 'shared/newsletter' %>
+

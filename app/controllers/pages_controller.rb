@@ -45,6 +45,21 @@ class PagesController < ApplicationController
   def industry
   end
 
+  def contact_coders
+  end
+
+  def foenix_codaprint
+  end
+
+  def foenix_codamark
+  end
+
+  def foenix_codapack
+  end
+
+  def support
+  end
+
   def subscribe
     session[:return_to] ||= request.referer
     if params[:email].match(/\A([\w+\-].?)+@[a-z\d\-]+(\.[a-z]+)*\.[a-z]+\z/i)

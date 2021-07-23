@@ -880,6 +880,58 @@ en:
     tp_button_two: Get a Free Test print
     tp_button_two_msg: On any of your products
 
+  contact_coders:
+    first_section_title: Contact Coding & Marking Machines
+    first_section_text: Whilst ink jet printers are the future, the traditional low cost contact coding and marking printers are still widely used around the world as very cost effective solutions.
+                        Contact coders are ideal where a product requires infrequent message changing or the environment requires a non-electronic solution with zero maintenance.
+                        Foenix manufacture these printers for use with interchangeable rubber "Baselock" type together with either pre-impregnated Plastic-Ink rollers or various sealed ink cartridges.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: Continuous printing on all materials
+    codaprint_text: A unique printer for continuous repeat printing on to metal, plastic or porous materials including steel sheets, extruded film, plastic pipes and cardboard core windings.
+                    It uses a sealed ink cartridge for simplicity and cleanliness, with a choice of inks and colours; and is available with various repeat print lengths and a maximum 25mm print height.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: Multi-purpose price & code printer
+    codamark_text: A compact simple reciprocating printer that is ideal for printing best before dates on products on a production line with clear precise print quality.
+                   Sealed ink cartridges give fast drying of the print onto most surfaces including metal cans, glass jars and plastic pots This low cost stainless steel printer uses air, with no electrical requirements.
+                   It is ideal in harsh or wet environments for printing on the top, side or base of a product.
+    handroller_title: Codaprint Handroller
+    handroller_sub_title: Manual printing onto all surfaces
+    handroller_text: The Codaprint hand roller is for manual printing onto all surfaces with the same range of fast drying inks.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: Contact Coders & Plastic Ink Roller Printers
+    codapack_text: Solve your carton printing problems with codapack contact coders using plastic ink roller and baselock rubber type from Foenix Coding
+    baselock_title: Foenix Baselock
+    baselock_sub_title: Interchangeable rubber type for all contact coding machines
+    baselock_text_one: QUICK AND EASY TO CHANGE PRINT
+    baselock_text_two: EXTENSIVE RANGE OF TYPE STYLES
+    baselock_text_three: CUSTOMISED LOGOS
+    baselock_text_four: STYLES FOR ALL LANGUAGES
+
+  foenix_codaprint:
+    first_section_title:
+    first_section_text:
+
+
+
+  foenix_codamark:
+    first_section_title:
+    first_section_text:
+
+
+
+  foenix_codapack:
+    first_section_title:
+    first_section_text:
+
+
+
+  support:
+    first_section_title:
+    first_section_text:
+
+
+
+
   components:
     yellow_button: Learn More
 
@@ -949,6 +1001,21 @@ en:
     posts:
       title: News & Events
       description: Get the latest News & Events
+    contact_coders:
+      title: Contact Coding & Marking Machines - Foenix Coding
+      description: Whilst ink jet printers are the future, the traditional low cost contact coding and marking printers are still widely used around the world as very cost effective solutions.
+    foenix_codaprint:
+      title: "Foenix Codaprint: Continuous printing on all materials"
+      description: Reliable continuous printer from Foenix Coding for high and low speed marking on metal, plastic, glass, cardboard.
+    foenix_codamark:
+      title: "Foenix Codamark: Multi-purpose price & code printer"
+      description: Clear and precise product marking achieved efficiently and economically with the Codamark Pneumatic Reciprocating Printer.
+    foenix_codapack:
+      title: "Foenix Codapack: Contact Coders & Plastic Ink Roller Printers"
+      description: The Codapack printers all use replaceable pre-impregnated Plastic-Ink Rollers and interchangeable Baselock Type.
+    support:
+      title: Support - Foenix Coding
+      description: Support documentation & FX ONE user manuals
 
   news:
     latest: Latest Story
