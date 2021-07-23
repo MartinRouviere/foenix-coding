@@ -32,7 +32,11 @@ Rails.application.routes.draw do
     get '/privacy_policy', to: 'pages#privacy_policy'
     get '/seen_cookie', to: 'pages#seen_cookie_message'
     get '/cookie_policy', to: 'pages#cookie_policy'
-    get '/contact-coders', to: 'pages#home'
+    get '/contact_coders', to: 'pages#contact_coders'
+    get '/foenix_codaprint', to: 'pages#foenix_codaprint'
+    get '/foenix_codamark', to: 'pages#foenix_codamark'
+    get '/foenix_codapack', to: 'pages#foenix_codapack'
+    get '/support', to: 'pages#support_documentation'
     get '/inkjet-printer-old', to: 'pages#home'
   end
 end
