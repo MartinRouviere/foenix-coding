@@ -1,0 +1,209 @@
+<% content_for :meta_title, "#{t('seo.foenix_codamark.title')}" %>
+<% content_for :meta_description, "#{t('seo.foenix_codamark.description')}" %>
+
+<div class="codaprint-wrapper">
+  <div class="">
+    <div class="first-section max-width  px-3 px-md-5" style="overflow-x: unset;">
+      <div class="first-section-text mr-0">
+        <h1 class="mb-4"><%= t("foenix_codamark.first_section_title") %></h1>
+        <p class="mb-4"><%= t("foenix_codamark.first_section_text") %></p>
+        <%= link_to "#{ t("foenix_codaprint.get_prices") }", "#", class: "btn primary-button mr-3" %>
+        <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button black-button" %>
+      </div>
+      <div class="product-carousel">
+        <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
+          <div class="carousel-inner">
+            <div class="carousel-item p-0 active">
+              <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627311214/fncdm_big_ap6q1v.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="">
+    <div class="max-width px-3 px-md-5 pt-5 pb-0">
+      <div class="bg-white border-radius cos-lists w-100 m-0 pl-4 py-5 pr-5 mb-5 position-relative">
+        <h2 class="text-center mb-5"><%= t("foenix_codamark.phr_title") %></h2>
+        <div class="row m-0">
+          <div class="col-12 col-md-5 pr-lg-5">
+            <p class="mb-3 bold"><%= t("foenix_codamark.phr_sub_title_one") %></p>
+            <p class="mb-4 s-medium-text"><%= t("foenix_codamark.phr_text_one") %></p>
+            <p class="mb-3 bold"><%= t("foenix_codamark.phr_sub_title_two") %></p>
+            <p class="mb-4 s-medium-text"><%= t("foenix_codamark.phr_text_two") %></p>
+            <p class="mb-3 bold"><%= t("foenix_codamark.phr_sub_title_three") %></p>
+            <p class="mb-0 s-medium-text"><%= t("foenix_codamark.phr_text_three") %></p>
+          </div>
+          <div class="col-12 col-md-7 pl-3 pl-md-5">
+            <p class="mb-3 bold"><%= t("foenix_codamark.phr_sub_title_four") %></p>
+            <p class="mb-4 s-medium-text"><%= t("foenix_codamark.phr_text_four") %></p>
+            <p class="mb-3 bold"><%= t("foenix_codamark.phr_sub_title_five") %></p>
+            <div class="row m-0">
+              <div class="col-6">
+                <p class="mb-3 bold"><%= t("foenix_codamark.phr_sub_title_six") %></p>
+                <ul class="pl-3">
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_one") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_two") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_three") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_four") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_five") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_six") %></li>
+                </ul>
+              </div>
+              <div class="col-6">
+                <p class="mb-3 bold"><%= t("foenix_codamark.phr_sub_title_seven") %></p>
+                <ul class="pl-3">
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_one") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_two") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_three") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_four") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_one") %></li>
+                  <li class="s-medium-text"><%= t("foenix_codamark.phr_list_text_one") %></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="bg-white border-radius cos-lists w-100 m-0 pl-4 py-4 pr-5 position-relative">
+        <div class="row m-0">
+          <div class="col-12 col-lg-8 pr-lg-5">
+            <p class="mb-0 bold"><%= t("foenix_codaprint.ps_title_one") %></p>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627315394/fncdpm_tgazfr.png", class: "w-100", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          </div>
+          <div class="col-12 col-lg-4 pl-3 pl-md-5">
+            <p class="mb-4 bold"><%= t("foenix_codamark.ps_title_one") %></p>
+              <p class="mb-3 bold"><%= t("foenix_codamark.ps_sub_title_one") %></p>
+              <ul class="pl-5">
+                <li class="mb-2"><%= t("foenix_codamark.ps_bp_three") %></li>
+                <li class="mb-2"><%= t("foenix_codamark.ps_bp_four") %></li>
+              </ul>
+              <p class="mb-3 bold"><%= t("foenix_codamark.ps_sub_title_two") %></p>
+              <ul class="pl-5">
+                <li class="mb-2"><%= t("foenix_codamark.ps_bp_three") %></li>
+                <li class="mb-2"><%= t("foenix_codamark.ps_bp_four") %></li>
+              </ul>
+              <p class="mb-3 bold"><%= t("foenix_codamark.ps_sub_title_three") %></p>
+              <ul class="pl-5">
+                <li class="mb-2"><%= t("foenix_codamark.ps_bp_three") %></li>
+                <li class="mb-2"><%= t("foenix_codamark.ps_bp_four") %></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="">
+    <div class="max-width px-3 px-md-5">
+      <div class="row m-0">
+        <div class="col-6">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627319749/fncdmdi1_jatibs.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+        </div>
+        <div class="col-6">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627319749/fncdmdi2_e7t3vv.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="">
+    <div class="max-width px-3 px-md-5">
+      <div class="charcoal-bg border-radius cos-lists w-100 m-0 p-3 p-md-5">
+        <h2 class="text-white text-center" style="margin-bottom: 25px;"><%= t("foenix_codaprint.list_title") %></h2>
+        <div class="fxone-fifth-section-content">
+          <div class="row m-0 w-100">
+            <div class="col-12 col-sm-4">
+              <p class="text-white mb-3"><i class="far fa-check-circle text-orange mr-2"></i><%= t("foenix_codamark.list_one") %></p>
+              <div class="row m-0">
+                <div class="col-6 p-0">
+                  <ul class="pl-3">
+                    <li class="text-white"><%= t("foenix_codamark.list_bp_one") %></li>
+                    <li class="text-white"><%= t("foenix_codamark.list_bp_two") %></li>
+                    <li class="text-white"><%= t("foenix_codamark.list_bp_three") %></li>
+                  </ul>
+                </div>
+                <div class="col-6 p-0">
+                  <ul class="pl-3">
+                    <li class="text-white"><%= t("foenix_codamark.list_bp_four") %></li>
+                    <li class="text-white"><%= t("foenix_codamark.list_bp_five") %></li>
+                    <li class="text-white"><%= t("foenix_codamark.list_bp_six") %></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-sm-4">
+              <p class="text-white mb-5"><i class="far fa-check-circle text-orange mr-2"></i><%= t("foenix_codamark.list_two") %></p>
+              <p class="text-white mb-1"><i class="far fa-check-circle text-orange mr-2"></i><%= t("foenix_codamark.list_three") %></p>
+            </div>
+            <div class="col-12 col-sm-4">
+              <p class="text-white mb-5"><i class="far fa-check-circle text-orange mr-2"></i><%= t("foenix_codamark.list_four") %></p>
+              <p class="text-white mb-1"><i class="far fa-check-circle text-orange mr-2"></i><%= t("foenix_codamark.list_five") %></p>
+            </div>
+          </div>
+        </div>
+        <div class="d-flex align-items-center justify-content-center w-100 mb-3 mb-md-0 mt-5">
+          <%= image_tag 'uk.png', class: 'home-uk mr-4' %>
+          <h6 class="mb-0 text-white"><%= t("home.title_second_description") %></h6>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="">
+    <div class="max-width px-3 px-md-5 py-5">
+      <div class="col-12 px-0">
+        <div class="charcoal-bg border-radius px-4 px-md-5 py-5 mb-4 my-3">
+          <div class="row m-0 w-100">
+            <div class="col-12 col-lg-6">
+              <div class="">
+                <h1 class="text-white mb-0"><%= t("contact_coders.baselock_title") %></h1>
+                <h4 class="text-white mb-4"><%= t("contact_coders.baselock_sub_title") %></h4>
+                <ul class="pl-3">
+                  <li class="text-white small-text"><%= t("contact_coders.baselock_text_one") %></li>
+                  <li class="text-white small-text"><%= t("contact_coders.baselock_text_two") %></li>
+                  <li class="text-white small-text"><%= t("contact_coders.baselock_text_three") %></li>
+                  <li class="text-white small-text"><%= t("contact_coders.baselock_text_four") %></li>
+                </ul>
+                <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627047164/ccgi6_ysftot.png", class: "w-100 pb-5 pb-mb-0 pr-5 pt-3", alt: "FX ONE Plus") %>
+              </div>
+            </div>
+            <div class="col-12 col-lg-6">
+              <div class="d-flex justify-content-center align-items-center h-100 position-relative">
+                <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627047165/ccgi5_ff40hs.png", class: "w-100", alt: "FX ONE Plus") %>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="" style="background-image: linear-gradient(#F4F4F4 50%, #2A2A2A 50%);">
+    <div class="max-width px-3 px-md-5 py-5">
+      <div class="col-12 px-5">
+        <div class="charcoal-bg fncdp-card border-radius p-4 mb-4 my-4 mx-auto">
+          <div class="row m-0 w-100 justify-content-between">
+            <div class="col-12 col-lg-6">
+              <div class="">
+                <h1 class="text-white mb-0"><%= t("foenix_codamark.fncdp_title") %></h1>
+                <p class="text-white mb-4"><%= t("foenix_codamark.fncdp_text") %></p>
+                <%= link_to "#{ t("foenix_codaprint.fncdm_button") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
+              </div>
+            </div>
+            <div class="col-12 col-lg-5 pr-0">
+              <div class="d-flex justify-content-center align-items-center h-100 position-relative">
+                <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627321814/fncdp-small_w6s5mx.png", class: "fncdp-img alt-right", alt: "FX ONE Plus") %>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<%= render 'shared/newsletter' %>
+
