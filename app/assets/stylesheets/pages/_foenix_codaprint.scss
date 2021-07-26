@@ -1,0 +1,42 @@
+.cp-ink-img {
+  width: 100px;
+  position: absolute;
+  right: 10px;
+  top: -80px;
+  @include for-small-devices-down {
+    display: none;
+  }
+}
+
+.codaprint-printing {
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.fncdp-card {
+  // height: 240px;
+  width: 90%;
+  position: relative;
+  // margin-bottom: -112px !important;
+  @include for-medium-devices-down {
+    // margin-bottom: 0px !important;
+  }
+}
+
+.fncdp-img {
+  position: absolute;
+  right: -12px;
+  top: -120px;
+  width: 340px;
+  @include for-large-devices-down {
+    width: 300px;
+  }
+  @include for-medium-devices-down {
+    position: relative;
+    top: unset;
+    right: unset;
+    padding-top: 36px;
+  }
+}
+
