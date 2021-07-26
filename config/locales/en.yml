@@ -908,10 +908,66 @@ en:
     baselock_text_four: STYLES FOR ALL LANGUAGES
 
   foenix_codaprint:
-    first_section_title:
-    first_section_text:
-
-
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: Reliable continuous printer from Foenix Coding for high and low speed marking on metal, plastic, glass, cardboard. A simple contact coder for repeat printing of your product at high speed using fast drying sealed ink cartridges.
+    get_prices: Get Prices
+    cp_title: Continuous printing on all materials
+    cp_sub_title_one: Applications
+    cp_text_one: The Codaprint is used to apply identification marks, use by dates, recycle logos, customer product names etc... onto material which is continuously moving or indexing, and where a repeat print is required.
+                     Some typical applications are on extruded film, bag printing, steel sheets, plastic window extrusions, shrink wrap films, cardboard core windings, Gypsum board, edge pack board, backs of mirrors and paper.
+    cp_sub_title_two: Simple to install
+    cp_text_two: The Codaprint is easily mounted on a fixed bar across the material to be marked. Vertical adjustment on the unit gives print on/off positions. The printer is driven by frictional contact between the rubber tyres on the type drum and the material.
+    cp_sub_title_three: Inks
+    cp_text_three: Ink Cartridges are available in a range of ink types and colours to suit most surfaces. We can advise you on the most suitable range for your product.
+    cp_sub_title_four: Choice of print
+    cp_text_four: The standard Codaprint type drum is fitted with metal locking rings for use with Baselock interchangeable rubber type. Baselock is available in many character styles and customised logos to enable a quick change of print.
+    cp_sub_title_five: Transfer Pads
+    cp_text_five: The Codaprint ink cartridge head should be fitted with a complete set of transfer pads each time a new ink cartridge is used.
+    cp_tp1: "TPS030: For Minimum ink flow"
+    cp_tp2: "TPS060: For Maximum ink flow"
+    cp_sub_title_six: Handroller
+    cp_text_six: The Codaprint hand roller is for manual printing onto all surfaces with the same range of fast drying inks.
+    ps_title_one: Measurements
+    ps_title_two: Codaprint Printer Specification
+    ps_title_three: Model CP-24/1
+    ps_bp_one: "Print Length: 240mm"
+    ps_bp_two: "Print Height: 25mm"
+    ps_title_four: CP-17/B Handroller
+    ps_bp_three: "Print Length: 175mm"
+    ps_bp_four: "Print Height: 25mm"
+    ps_title_five: Codaprint Cartridges
+    ps_bp_five: CP111 Black Standard Dye ink for non porous materials
+    ps_bp_six: CP011 Black Extra fast drying dye ink for high speed non porous materials
+    ps_bp_seven: CP5610 Black Dye ink for porous surfaces
+    ps_bp_eight: CP256 White Pigmented ink for dark coloured surfaces, porous and non porous materials
+    ps_text: A selection of colours is available in each range
+    list_title: Overview
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: A unique printer for continuously printing on to metal, plastic or porous materials including steel sheets, extruded film, plastic pipes and cardboard core windings.
+    list_subtitle_two: Lost cost printer
+    list_text_two: The simplest low cost printer for applying repetitive identification marks, use by dates, recycle logos or customer product names onto material which is continuously moving.
+    list_subtitle_three: High speed printing
+    list_text_three: The printer can operate at a very low speed but also print up to 100 meters per minute.
+    list_subtitle_four: Simple ink system
+    list_text_four: The ink is contained in a replaceable ink cartridge which has integral ink control regardless of print speed giving a clean low maintenance inking system. This unique ink system ensures that the print never fades until the cartridge is empty.
+    list_subtitle_five: Ink cartridge
+    list_text_five: Our standard ink cartridges are suitable for metal, glass, plastic and porous surfaces and other materials. Some applications do require a special ink.
+    list_subtitle_six: Features
+    list_text_six_html: "The printer is driven by tyres on the type drum contacting the material, eliminating the need for any mechanical or electrical drive.
+                                 <br>
+                                 <br>
+                                 Continuous roller coder perfect for: Batch number, date & logo printing.
+                                 <br>
+                                 <br>
+                                 The printer is easily mounted either above the moving material to be marked or against a diminishing reel of material.
+                                 <br>
+                                 <br>
+                                 The print height can be up to 25mm using either interchangeable Baselock Type or flat stereos.
+                                 <br>
+                                 Four repeat print lengths are available up to 460mm."
+    fncdm_title: Discover the Foenix Codamark
+    fncdm_text: Clear and precise product marking achieved efficiently and economically with the Codamark Pneumatic Reciprocating Printer.
+    fncdm_button: Learn More
 
   foenix_codamark:
     first_section_title:
