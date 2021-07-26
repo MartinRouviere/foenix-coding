@@ -970,8 +970,55 @@ en:
     fncdm_button: Learn More
 
   foenix_codamark:
-    first_section_title:
-    first_section_text:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Clear and precise product marking achieved efficiently and economically with the Codamark Pneumatic Reciprocating Printer. Compact reciprocating printer for inline and rotary filling machines, best before date printing and other uses.
+    phr_title: Pneumatic Reciprocating Printer
+    phr_sub_title_one: Printing with the light touch
+    phr_text_one: High speeds can be achieved with a low print pressure of 10-20 psi enabling the Codamark to print with a light touch without product damage.
+    phr_sub_title_two: Clean inking system
+    phr_text_two: A clean fast drying ink cartridge is fitted to the print head giving drying times of seconds on most surfaces. The sealed cartridge ensures the operator never touches any ink.
+    phr_sub_title_three: Codamark data sheets
+    phr_text_three: Further information is available on data sheets giving dimensions, control systems and mounting positions.
+    phr_sub_title_four: Quick change Baselock type holders
+    phr_text_four: The print head is fitted with a type holder that can be changed in seconds. Spare holders can be used to pre-set Baselock rubber type.
+    phr_sub_title_five: Codamark Cartridges
+    phr_sub_title_six: Small Pots
+    phr_sub_title_seven: Large Pots
+    phr_list_text_one: CM501/38 Black Ink Cartridge
+    phr_list_text_two: CM502/38 Red Ink Cartridge
+    phr_list_text_three: CM503/38 Green Ink Cartridge
+    phr_list_text_four: CM504/38 Blue Ink Cartridge
+    phr_list_text_five: CM506/38 White Ink Cartridge
+    phr_list_text_six: CM505/38 Yellow Ink Cartridge
+    phr_list_text_seven: CM501/50 Black Ink Cartridge
+    phr_list_text_eight: CM502/50 Red Ink Cartridge
+    phr_list_text_nine: CM503/50 Green Ink Cartridge
+    phr_list_text_ten: CM504/50 Blue Ink Cartridge
+    phr_list_text_eleven: CM506/50 White Ink Cartridge
+    phr_list_text_twelve: CM505/50 Yellow Ink Cartridge
+    ps_title_one: Codaprint Printer Specification
+    ps_sub_title_one: Model CM-MKV/25
+    ps_bp_one: "Print Area: 24mm x 24mm"
+    ps_bp_two: "Print Head Outline Dimensions: 170mm x 155mm x 85mm"
+    ps_sub_title_two: Model CM-MKV/38
+    ps_bp_three: "Print Area: 37mm x 37mm"
+    ps_bp_four: "Print Head Outline Dimensions: 170mm x 155mm x 85mm"
+    ps_sub_title_three: Model CM-MKV/50
+    ps_bp_five: "Print Area: 24mm x 48mm"
+    ps_bp_six: "Print Head Outline Dimensions: 170mm x 155mm x 85mm"
+    list_one: "Efficient printing of sell-by dates, prices and codes onto:"
+    list_bp_one: Plastic tubs
+    list_bp_two: Foil lids
+    list_bp_three: Cartons
+    list_bp_four: Form flow packs
+    list_bp_five: Glass bottles
+    list_bp_six: Metal cans etc.
+    list_two: Top, Bottom or side mounting
+    list_three: Automatic on-line or off-line systems
+    list_four: Fast drying ink cartridge
+    list_five: Made in the UK
+    fncdp_title: Discover the Foenix Codaprint
+    fncdp_text: A simple printer to continuously print your product at high speed using fast drying sealed ink cartridges
 
 
 
