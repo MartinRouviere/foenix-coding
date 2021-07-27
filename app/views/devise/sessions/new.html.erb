@@ -1,32 +1,37 @@
-<div class="login-page">
-  <%= cl_image_tag("login-img_d0wner.png", :quality=>"auto", class: "login-page_image") %>
-  <%= cl_image_tag("foenix-home-third_j0cpv1.png", :quality=>"auto", class: "login-pill") %>
-  <div class="login-details">
-    <%= simple_form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
-    <h1>Login</h1>
-      <div class="form-inputs">
-        <%= f.input :email,
-                    required: false,
-                    autofocus: true,
-                    label: false,
-                    placeholder: "#{t('login.email')}",
-                    input_html: { autocomplete: "#{t('login.email')}" } %>
-        <%= f.input :password,
-                    required: false,
-                    label: false,
-                    placeholder: "#{t('login.password')}",
-                    input_html: { autocomplete: "#{t('login.password')}" } %>
-      </div>
+<div class="dark-bg">
+  <div class="max-width px-3 px-md-5">
+    <div class="login-page">
+      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627411302/dlogin_jszy9s.png", :quality=>"auto", class: "login-page_image") %>
+      <div class="login-details">
+        <%= simple_form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+        <h1 class="text-white">Login</h1>
+          <div class="form-inputs">
+            <%= f.input :email,
+                        required: false,
+                        autofocus: true,
+                        label: false,
+                        placeholder: "#{t('login.email')}",
+                        input_html: { autocomplete: "#{t('login.email')}" } %>
+            <%= f.input :password,
+                        required: false,
+                        label: false,
+                        placeholder: "#{t('login.password')}",
+                        input_html: { autocomplete: "#{t('login.password')}" } %>
+          </div>
 
-      <div class="form-actions">
-        <%= f.button :submit, "Log in" %>
-      </div>
-    <% end %>
+          <div class="form-actions">
+            <%= f.button :submit, "Log in" %>
+          </div>
+        <% end %>
 
-    <div class="login-other">
-      <%= link_to t('login.fpassword'), new_password_path(resource_name), class: "forgot-password" %>
-      <hr>
-      <!-- <p><%= t('login.dont_have_account') %> <%= link_to t('login.sign_up') %></p> -->
+        <div class="login-other">
+          <%= link_to t('login.fpassword'), new_password_path(resource_name), class: "forgot-password" %>
+          <hr>
+          <!-- <p><%#= t('login.dont_have_account') %> <span class="link-orange"><%#= link_to t('login.sign_up') %></span> </p> -->
+        </div>
+      </div>
     </div>
   </div>
 </div>
+
+<%= render 'shared/newsletter' %>

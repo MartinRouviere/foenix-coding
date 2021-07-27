@@ -1,4 +1,4 @@
-<% if params[:action] == "fxone_standard" || params[:action] == "cost_of_ownership" || params[:action] == "contact_coders" || params[:action] == "foenix_codaprint"  %>
+<% if params[:action] == "fxone_standard" || params[:action] == "cost_of_ownership" || params[:action] == "contact_coders" || params[:action] == "foenix_codaprint" || params[:controller] == "devise/sessions" || params[:controller] == "devise/passwords" %>
   <% nav_type = 'dark-nav' %>
 <% elsif params[:action] == "fxone_plus" %>
   <% nav_type = 'plus-nav' %>
