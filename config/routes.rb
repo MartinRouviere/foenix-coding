@@ -36,7 +36,7 @@ Rails.application.routes.draw do
     get '/foenix_codaprint', to: 'pages#foenix_codaprint'
     get '/foenix_codamark', to: 'pages#foenix_codamark'
     get '/foenix_codapack', to: 'pages#foenix_codapack'
-    get '/support', to: 'pages#support_documentation'
+    get '/support', to: 'pages#support'
     get '/inkjet-printer-old', to: 'pages#home'
   end
 end
