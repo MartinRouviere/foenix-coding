@@ -6,28 +6,28 @@
   <style>
   .four {
     height: 100vh;
-    width: 100%;
-    background: linear-gradient(white);
+    max-width: 1260px;
+    margin: 0 auto;
+    background: #1B1B1B;
     position: relative;
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
   }
 
   .error-image {
     position: absolute;
-      top: -100px;
-      right: -100px;
+    top: -100px;
+    right: -100px;
     height: auto;
     width: 200px;
   }
 
   .error-image-two {
     position: absolute;
-      bottom: -150px;
-      left: -100px;
+    bottom: -150px;
+    left: -100px;
     height: auto;
     width: 200px;
     opacity: 0.4;
@@ -42,50 +42,40 @@
   }
 
   .error-header {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Gilroy-ExtraBold', sans-serif;
     font-size: 50px;
-    margin-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 20px;
     font-weight: 300;
+    color: #FFFFFF;
   }
 
-
-  .error-text {
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    font-weight: 300;
-    margin-bottom: 0;
-    color: #7C828F;
-    width: 50vw;
-    text-align: center;
-    margin-bottom: 100px;
+  .text {
+    margin-right:  30px;
   }
+
 
   .home-button {
     font-family: 'Roboto', sans-serif;
+    font-weight:  bold;
     display: inline-block;
     padding: 15px 25px;
-    background-color: #F3A300;
-    border-color: #F3A300;
-    color: #FFF;
+    background-color: #FFFFFF;
+    color: #000000;
     font-size: 14px;
-    border-radius: 10px;
+    border-radius: 6px;
     text-decoration: none;
     transition: all 0.3s ease;
-  }
-
-  .home-button:hover {
-    background-color: #fbb72d;
   }
 
   </style>
 </head>
 
 <body class="four">
-  <img src="https://res.cloudinary.com/foenix-coding/image/upload/q_auto/v1575987466/inks_big_pill_dqob2a.png" alt="Error" class="error-image">
-  <img src="https://res.cloudinary.com/foenix-coding/image/upload/q_auto/v1575987466/inks_big_pill_dqob2a.png" alt="Error" class="error-image-two">
-  <img src="https://res.cloudinary.com/foenix-coding/image/upload/q_auto/v1576253137/error-mans_ekq73p.png" alt="" class="error-man">
-  <h1 class="error-header">404</h1>
-  <p class="error-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel ligula libero. </p>
-  <a class="home-button" href="/">HOME</a>
+  <div class="text">
+    <h1 class="error-header">Page not found</h1>
+    <a class="home-button" href="/">Home</a>
+  </div>
+  <img src="https://res.cloudinary.com/foenix-coding/image/upload/v1627384793/404_xmfb8u.png" alt="" class="error-man">
 </body>
 </html>
