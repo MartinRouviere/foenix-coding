@@ -1077,7 +1077,7 @@ en:
     form_phone: Phone
 
   error:
-    four_four_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel ligula libero.
+    four_four_text: Page not found
 
   login:
     fpassword: Forgot your password?
