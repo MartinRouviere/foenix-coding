@@ -2,83 +2,55 @@
 <% content_for :meta_description, "#{t('seo.posts.description')}" %>
 
 <div class="posts">
-  <%= cl_image_tag("inks_big_pill_dqob2a.png", :quality=>"auto", class: "news-pill") %>
-  <%= cl_image_tag("inks_little_pill_pahv4x.png", :quality=>"auto", class: "news-pill-bottom") %>
-  <div class="container">
+  <div class="max-width py-5 px-3 px-md-5">
     <% if @featured %>
       <div class="featured-post">
-          <h1>Featured</h1>
+        <h1 class="mb-0">Featured</h1>
+        <div class="pb-5 pt-3 mb-5">
           <%= link_to post_path(@featured) do %>
             <div class="featured-post-div">
               <div class="featured-post-div-text">
                 <h2><%= @featured.title %></h2>
-                <div class="responsive-text">
-                  <%= simple_format(@featured.text.truncate(120)) %>
-                </div>
+                <%= simple_format(@featured.text.truncate(120)) %>
               </div>
               <% if @featured.image.present? %>
                   <%= cl_image_tag @featured.image, class: 'featured-post-image' %>
               <% else %>
-                <%= image_tag 'https://source.unsplash.com/random', class: 'featured-post-image' %>
+                <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627407574/placeholder_y7ohki.png", class: "featured-post-image", alt: "Product coding") %>
               <% end %>
-              <%# link_to post_path(@featured), class: "rel-link" %>
             </div>
           <% end %>
+        </div>
       </div>
     <% end %>
     <div class="all-news">
       <h1><%= t("news.news") %></h1>
-      <div class="row">
+      <div class="row ml-lg-5 mr-0 justify-content-between">
         <% @posts.last(6).each do |post| %>
-          <div class="col-12 col-lg-6">
+          <div class="col-12 col-md-6 col-lg-5">
             <%= link_to post_path(post), class: 'no-decoration' do %>
               <div class="new-post-card">
                 <div class="new-post-card-content">
                   <h6><%= post.title.truncate(65) %></h6>
                   <div class="new-post-card-text"><%= simple_format(post.text.truncate(100)) %></div>
                   <div class="post-card-text-details">
-                    <p class="font-12 grey-text lighter"><%= post.created_at.strftime("%b %y") %></p>
-                    <pre class="m-0 grey-text lighter" style="padding-top: 2px;"> • </pre>
-                    <p class="font-12 grey-text lighter"><%= post.reading_time %> min read</p>
+                    <p class="font-12"><%= post.created_at.strftime("%b %y") %></p>
+                    <pre class="m-0" style="padding-top: 2px;"> • </pre>
+                    <p class="font-12"><%= post.reading_time %> min read</p>
                   </div>
                 </div>
                 <% if post.image.present? %>
                   <%= cl_image_tag post.image, class: 'new-post-card-image' %>
                 <% else %>
-                  <%= image_tag 'https://source.unsplash.com/random', class: 'new-post-card-image' %>
+                  <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627407574/placeholder_y7ohki.png", class: "new-post-card-image", alt: "Product coding") %>
                 <% end %>
               </div>
             <% end %>
           </div>
         <% end %>
       </div>
-      <!-- <div class="news-grid">
-        <%# @posts.last(6).each do |post| %>
-            <div class="post-card">
-                <%#= link_to post_path(post) do %>
-                    <div class="post-card-text">
-                        <h6><%#= post.title %></h6>
-                        <p><%#= simple_format(post.text.truncate(100) %></p>
-                        <div class="post-card-text-details">
-                          <p class="font-12"><%#= post.created_at.strftime("%b %y") %></p>
-                          <pre class="m-0" style="padding-top: 2px;"> • </pre>
-                          <p class="font-12"><%#= post.reading_time %> min read</p>
-                        </div>
-                    </div>
-                    <%#= cl_image_tag post.image %>
-                <%# end %>
-                <div class="d-flex">
-                  <%# if policy(Post).create? %>
-                    <%#= link_to "Edit", edit_admin_post_path(post), class: 'crud-links' %>
-                    <%#= link_to "Delete", admin_post_path(post), method: :delete, data: { confirm: "Are you sure you want to delete the post '#{ post.title }'" }, class: 'crud-links' %>
-                  <%# end %>
-                </div>
-            </div>
-        <%# end %>
-      </div> -->
-<!--       <div class="news-grid-button">
-        <span class="yellow-button">More News</span>
-      </div> -->
     </div>
   </div>
 </div>
+
+<%= render 'shared/newsletter' %>

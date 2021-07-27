@@ -1,62 +1,62 @@
 <div class="post-show">
-  <%= cl_image_tag("inks_big_pill_dqob2a.png", :quality=>"auto", class: "news-pill") %>
-  <%= cl_image_tag("inks_little_pill_pahv4x.png", :quality=>"auto", class: "news-pill-bottom") %>
-  <div class="post-show-container">
-    <h1 class="responsive-header"><%= @post.title %></h1>
-    <p>Reading time: <%= @post.reading_time %> mins</p>
-    <% if @post.image.present? %>
-      <%= cl_image_tag @post.image, class: '' %>
-    <% else %>
-      <%= image_tag 'https://source.unsplash.com/random', class: '' %>
-    <% end %>
-    <div class="post-show-details">
-      <div class="post-show-social-media">
-        <p class="padding-15"><%= @post.created_at.strftime("%B %d, %Y") %></p>
-        <div class="post-show-social-icons">
-          <%= link_to "http://www.facebook.com/sharer/sharer.php?u=#{post_url(@post)}&t=#{@post.title}", target: '_blank' do %>
-            <i class="fab fa-facebook-square"></i>
-          <% end %>
-          <%= link_to "https://twitter.com/intent/tweet?text=#{@post.title}&url=#{post_url(@post)}", target: "_blank" do %>
-            <i class="fab fa-twitter"></i>
-          <% end %>
-          <%= link_to "http://www.linkedin.com/shareArticle?mini=true&url=#{post_url(@post)}&summary=#{@post.text}=#{root_url}", target: "_blank" do %>
-            <i class="fab fa-linkedin"></i>
+  <div class="max-width py-5 px-3 px-md-5">
+    <div class="post-show-container w-100">
+      <h1 class=""><%= @post.title %></h1>
+      <p class="s-medium-text">Reading time: <%= @post.reading_time %> mins</p>
+      <% if @post.image.present? %>
+        <%= cl_image_tag @post.image, class: '' %>
+      <% else %>
+        <%= image_tag 'https://source.unsplash.com/random', class: '' %>
+      <% end %>
+      <div class="post-show-details">
+        <div class="post-show-social-media mb-4">
+          <p class="mb-0 mb-lg-3"><%= @post.created_at.strftime("%B %d, %Y") %></p>
+          <div class="post-show-social-icons">
+            <%= link_to "http://www.facebook.com/sharer/sharer.php?u=#{post_url(@post)}&t=#{@post.title}", target: '_blank' do %>
+              <i class="fab fa-facebook-square"></i>
+            <% end %>
+            <%= link_to "https://twitter.com/intent/tweet?text=#{@post.title}&url=#{post_url(@post)}", target: "_blank" do %>
+              <i class="fab fa-twitter"></i>
+            <% end %>
+            <%= link_to "http://www.linkedin.com/shareArticle?mini=true&url=#{post_url(@post)}&summary=#{@post.text}=#{root_url}", target: "_blank" do %>
+              <i class="fab fa-linkedin"></i>
+            <% end %>
+          </div>
+          <% if policy(Post).edit? %>
+            <%= link_to edit_admin_post_path(@post) do %>
+              <i class="fas fa-edit"></i>
+            <% end %>
+            <%= link_to admin_post_path(@post), method: :delete, data: {confirm: "Are you sure you want to delete this post?"} do %>
+              <i class="fas fa-trash"></i>
+            <% end %>
           <% end %>
         </div>
-        <% if policy(Post).edit? %>
-          <%= link_to edit_admin_post_path(@post) do %>
-            <i class="fas fa-edit"></i>
-          <% end %>
-          <%= link_to admin_post_path(@post), method: :delete, data: {confirm: "Are you sure you want to delete this post?"} do %>
-            <i class="fas fa-trash"></i>
-          <% end %>
-        <% end %>
-      </div>
-      <div class="post-show-content responsive-text-small">
-        <p><%= raw @post.text %></p>
+        <div class="post-show-content responsive-text-small">
+          <p><%= raw @post.text %></p>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="post-show-last">
-    <h1 class="mb-4"><%= t("news.latest") %></h1>
-      <div class="row">
-        <% @posts.last(3).each do |post| %>
-          <div class="col-12 col-sm-6 col-md-4">
-            <div class="post-show-card">
-              <%= link_to post_path(post) do %>
-                <% if post.image.present? %>
-                  <%= cl_image_tag post.image, class: '' %>
-                <% else %>
-                  <%= image_tag 'https://source.unsplash.com/random', class: '' %>
+    <div class="post-show-last pt-5">
+      <h1 class="mb-4"><%= t("news.latest") %></h1>
+        <div class="row">
+          <% @posts.last(3).each do |post| %>
+            <div class="col-12 col-sm-6 col-md-4">
+              <div class="post-show-card">
+                <%= link_to post_path(post) do %>
+                  <% if post.image.present? %>
+                    <%= cl_image_tag post.image, class: '' %>
+                  <% else %>
+                    <%= image_tag 'https://source.unsplash.com/random', class: '' %>
+                  <% end %>
                 <% end %>
-              <% end %>
-              <div class="post-show-card-text">
-                <h6 class="m-0"><%= post.title.truncate(65) %></h6>
-                <div class="responsive-text-small"><%= simple_format post.text.truncate(100) %></div>
+                <div class="post-show-card-text">
+                  <h6 class="m-0"><%= post.title.truncate(65) %></h6>
+                  <div class="responsive-text-small"><%= simple_format post.text.truncate(100) %></div>
+                </div>
               </div>
             </div>
-          </div>
-        <% end %>
+          <% end %>
+        </div>
       </div>
     </div>
   </div>
