@@ -1,14 +1,53 @@
 <% content_for :meta_title, "#{t('seo.contact.title')}" %>
 <% content_for :meta_description, "#{t('seo.contact.description')}" %>
 
-<div class="contact">
-  <%= cl_image_tag("inks_big_pill_dqob2a.png", class: "contact-pill") %>
-  <div class="container">
-    <h1 class="text-center"><%= t('contact.contact_title') %></h1>
-    <p class="text-center"><%= t("contact.contact_title_description")%> <br><%= t("contact.contact_happy") %></p>
-    <div class="contact_details">
-      <div class="contact-form">
-        <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="/create_contact" method="post">
+<div class="max-width py-5 px-0 px-md-5">
+  <div class="row contact-us-flex m-0 pt-5 mb-5">
+    <div class="col-12 col-lg-7 pl-3 pl-lg-0 mt-5 mt-lg-0">
+      <div class="charcoal-bg border-radius d-flex flex-column justify-content-between h-100 pt-5 px-3 px-md-5 pb-3">
+        <div class="">
+          <div class="d-flex justify-content-start align-items-start w-100 mb-4">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627387262/cntum_b9oyzj.png", class: "mr-3", width: 60, alt: "FX ONE Standard") %>
+            <h1 class="text-white mb-0"><%= t('contact.contact_title') %></h1>
+          </div>
+          <p class="text-white mb-0"><%= t("contact.contact_title_description") %></p>
+          <ul class="mb-5">
+            <li class="text-white"><%= t("contact.contact_text_one") %></li>
+            <li class="text-white"><%= t("contact.contact_text_two") %></li>
+          </ul>
+        </div>
+
+        <div class="row mx-0 mt-4 mb-5">
+          <div class="col-12 col-md-5 col-mg-4">
+            <div class="d-flex justify-content-center align-items-center">
+              <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627388306/cntump_rnfnn5.png", class: "ctu-mobile-img", alt: "FX ONE Standard") %>
+            </div>
+          </div>
+          <div class="col-12 col-md-7 col-mg-8">
+            <div class="d-flex flex-column justify-content-center align-items-start h-100 mt-4 mt-md-0">
+              <p class="text-white mb-0 bold"><%= t("contact.phone") %></p>
+              <p class="text-white mb-4"><%= t("contact.phone_number") %></p>
+              <p class="text-white mb-0 bold"><%= t("contact.email") %></p>
+              <p class="text-white mb-4"><%= t("contact.email_add") %></p>
+              <p class="text-white mb-0 bold"><%= t("contact.address") %></p>
+              <p class="text-white mb-0"><%= t("contact.address_text_html") %></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="">
+          <p class="text-orange text-center small-text mb-3"><%= t("contact.statement") %></p>
+          <div class="d-flex justify-content-center align-items-center">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627389647/cntus_l8rlt7.png", class: "contact-stars", alt: "FX ONE Standard") %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-lg-5 pr-3 pr-lg-0 mt-5 mt-lg-0">
+      <div class="bg-white border-radius h-100 pt-5 px-4 pb-3">
+        <h3 class="mb-0 bold"><%= t("contact.talk_to_sales") %></h3>
+        <div class="contact-form">
+          <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="/create_contact" method="post">
             <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
             <input type="text" name="name" id="full-name" placeholder="<%= t('contact.form_name') %>" required="">
             <input type="email" name="email" id="email-address" placeholder="<%= t('contact.form_email') %>" required="">
@@ -17,24 +56,17 @@
             <input type="text" name="country" id="country" placeholder="<%= t('contact.form_country') %>" required="">
             <textarea rows="5" name="message" id="message" placeholder="<%= t('contact.form_message') %>" required=""></textarea>
             <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-            <div class="g-recaptcha" style="margin-top: 20px;" data-sitekey="6Leq5_IUAAAAABljypFOmp3MNhP-UOUDLzmEkGy3
-" data-callback="enableBtn"></div>
-          <input disabled id='button1' type="submit" value="Submit">
-        </form>
-      </div>
-      <div class="contact-text">
-        <div class="contact-text-one">
-          <%= image_tag 'contact-icon-1.png', class: 'about-icon square-icon' %>
-          <p>Tel: 0044 1932 701 449 <br> Email: sales@foenixcoding.com</p>
+            <div class="g-recaptcha" style="margin-top: 20px;" data-sitekey="6Leq5_IUAAAAABljypFOmp3MNhP-UOUDLzmEkGy3" data-callback="enableBtn"></div>
+            <input disabled id='button1' type="submit" value="Submit">
+          </form>
         </div>
-        <div class="contact-text-one">
-          <%= image_tag 'contact-icon-2.png', class: 'about-icon square-icon' %>
-          <p><%= t("contact.icon_text_two") %></p>
-        </div>
+        <p class="small-text mt-4 mb-0"><%= t("contact.email_us") %><a href="sales@foenixcoding.com" class="text-orange ml-1">sales@foenixcoding.com</a></p>
       </div>
     </div>
   </div>
 </div>
+
+
 <script>
   function enableBtn(){
      document.getElementById("button1").disabled = false;

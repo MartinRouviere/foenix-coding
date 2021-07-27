@@ -1065,7 +1065,26 @@ en:
 
   contact:
     contact_title: Contact Us
-    contact_title_description: Get in touch and let us know how we can help.
+    contact_title_description: Get in touch with our team to team to know more about Foenix Coding.
+    contact_text_one: "Request a Free Test print: Send us a sample of your project."
+    contact_text_two: Free 7 Days Trial available if you are based in the UK
+    phone: Telephone
+    phone_number: 0044 1932 701 449
+    email: Email
+    email_add: sales@foenixcoding.com
+    address: Address
+    address_text_html: Foenix Coding Ltd
+                  <br>
+                  The Barns - Hilltop Farm | KT16 0AW
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  United Kingdom
+    statement: Join hundreds of companies that are already working with us
+    talk_to_sales: Talk to sales
+    email_us: You can also email us directly at
+
+
     contact_happy: Our team is happy to answer all your questions.
     icon_text: Our team is happy to answer all your questions. Fill out the form and we will be in touch as soon as possible.
     icon_text_two: Free test print, send us a sample of your product and we will do a test print.
