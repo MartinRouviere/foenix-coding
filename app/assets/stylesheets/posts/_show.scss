@@ -1,37 +1,21 @@
 .post-show {
-  padding-top: 200px;
-  background-image: linear-gradient(#F0F2F6, white, white);
   position: relative;
   overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
-
-  @include for-medium-devices-down {
-    padding-top: 150px;
-  }
 }
 
 .post-show-container {
-  width: 80%;
   display: flex;
   flex-direction: column;
-  max-width: 1000px;
 
   & h1 {
     color: $black-blue;
   }
 
-  & p {
-    color: #747B89;
-    font-size: 18px;
-    line-height: 35px;
-    font-weight: 300;
-    padding: 0;
-  }
-
   & img {
-    border-radius: 10px;
+    border-radius: 6px;
     height: 500px;
     object-fit: cover;
     box-shadow: 0px 8px 10px rgba(149, 156, 169, 0.20), -1px -1px 10px rgba(156, 173, 198, 0.20);
@@ -84,12 +68,6 @@
 
 .padding-15 {
   padding-top: 15px !important;
-}
-
-.post-show-last {
-  width: 80%;
-  padding: 100px 0;
-  max-width: 1000px;
 }
 
 .post-show-last-cards {
