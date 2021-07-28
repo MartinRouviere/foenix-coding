@@ -12,4 +12,37 @@
 
 .industry-carousel {
   background-color: #1B1B1B;
+  margin: 50px auto;
+  width: 700px;
+  height: 700px;
+  position: relative;
+  box-shadow: 0px 16px 32px rgba(0,0,0,0.8);
+  @include for-small-devices-down {
+    width: 520px;
+    height: 520px;
+  }
+  @include for-phone-only {
+    width: 100%;
+    height: unset;
+  }
+  .carousel {
+    position: unset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  .carousel-indicators li {
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  .carousel-item {
+    padding: 24px !important;
+  }
+}
+
+.industry-controls {
+  bottom: -86px;
+  width: 300px;
+  left: calc(50% - 150px)
 }

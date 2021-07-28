@@ -117,7 +117,7 @@
       </div>
     </div>
   </div>
-  <div class="first-section grid-container">
+  <div class="first-section grid-container pb-0">
     <div class="max-width">
       <p class="text-center mb-4"><%= t("fxone_remote.second_section_title").upcase %></p>
       <h2 class="text-center mb-0"><%= t("fxone_remote.cards_section_description") %></h2>
@@ -257,11 +257,12 @@
         </div>
       </div>
       <div class="d-flex justify-content-center align-items-center mt-5">
-        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626183551/fxrm-1_h86ftj.png", class: "w-50 mt-5 minus-margin", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627495604/fxosd-1_yd9pyk.png", class: "main-img-width mt-5", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
       </div>
     </div>
   </div>
-  <div class="fxone-third-section position-relative">
+
+  <div class="half-bg">
     <div class="max-width px-3 px-md-5">
       <div class="remote-pop">
         <div class="d-block d-md-flex justify-content-between align-items-center w-100">
@@ -290,7 +291,13 @@
           <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
         </div>
       </div>
-      <h2 class="text-white mt-5 mb-4"><%= t("fxone_remote.fourth_section_title") %></h2>
+    </div>
+  </div>
+
+  <div class="fxone-third-section position-relative">
+    <div class="max-width px-3 px-md-5 pt-5">
+
+      <h2 class="text-white mb-4"><%= t("fxone_remote.fourth_section_title") %></h2>
       <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626188359/ts-1_tpbayg.png", class: "w-100", alt: "Technical specifications") %>
       <div class="fxone-fifth-section-content-wrapper my-5">
         <div class="fxone-fifth-section-content">

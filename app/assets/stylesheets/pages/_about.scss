@@ -342,9 +342,10 @@
 
 .about-form-input {
   border: none;
-  border-radius: 10px;
+  border-radius: 6px;
   box-shadow: 0 6px 7px rgba(0,0,0,0.1);
   padding-right: 88px;
+  height: 44px;
 }
 
 .about-form-input::placeholder {
@@ -359,14 +360,14 @@
   border: none;
   background-color: transparent;
   position: absolute;
-  font-size: 14px;
+  font-size: 18px;
   background: #FF7A00;
   color: #FFFFFF;
   right: 7px;
   top: 6px;
   border-radius: 6px;
-  height: 26px;
-  width: 32px;
+  height: 32px;
+  width: 38px;
   box-shadow: 0 0 6px #ff7a00;
   &:focus {
     outline: none;
