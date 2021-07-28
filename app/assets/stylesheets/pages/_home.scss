@@ -102,6 +102,9 @@
 
 .home-title-description {
   width: 76%;
+  @include for-phone-only {
+    width: 100%;
+  }
 }
 
 .first-section-image {
@@ -161,6 +164,9 @@
   top: -5px;
   transition: top 0.3s linear;
   left: 10px;
+  @include for-phone-only {
+    top: unset;
+  }
 }
 
 .up {
