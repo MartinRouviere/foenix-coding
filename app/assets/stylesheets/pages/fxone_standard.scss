@@ -77,8 +77,12 @@
   border: 1px solid #686868;
 }
 
-
-
+.main-img-width {
+  width: 50%;
+  @include for-medium-devices-down {
+    width: 75%;
+  }
+}
 
 
 

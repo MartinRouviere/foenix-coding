@@ -1,7 +1,10 @@
 <% if params[:action] == "fxone_standard" || params[:action] == "cost_of_ownership" || params[:action] == "contact_coders" || params[:action] == "foenix_codaprint" || params[:controller] == "devise/sessions" || params[:controller] == "devise/passwords" %>
   <% nav_type = 'dark-nav' %>
+  <% mb_nav_type = 'mb-dark-nav' %>
 <% elsif params[:action] == "fxone_plus" %>
   <% nav_type = 'plus-nav' %>
+  <% mb_nav_type = 'mb-dark-nav' %>
+
 <% end %>
 
 <div class="navbar-wrapper <%= nav_type %>">
@@ -26,9 +29,9 @@
             <div class="dropdown-menu" aria-labelledby="productsDropdown">
               <ul class="dropdown-menu-ul">
                 <li class="printers-menu">
-                  <a href="#" style="pointer-events: none;">
-                    <%= t("navbar.printers") %>
-                  </a>
+                  <%= link_to printers_path, class: "#{ params[:action] == 'printers' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                    <span class="my10"><%= t("navbar.printers") %></span>
+                  <% end %>
                   <%= link_to fxone_standard_path, class: "#{ params[:action] == 'fxone_standard' ? 'navbar-dropdown-item-active printers-text-container mt-1' : 'printers-text-container mt-1' }" do %>
                     <span class="printers-text"><%= t("navbar.printer_one") %></span>
                   <% end %>
@@ -50,17 +53,17 @@
                   <% end %>
                 </li>
                 <li class="printers-menu">
-                  <a href="#" style="pointer-events: none;">
-                    <%= t("navbar.printers") %>
-                  </a>
-                  <%= link_to fxone_standard_path, class: "#{ params[:action] == 'fxone_standard' ? 'navbar-dropdown-item-active printers-text-container mt-1' : 'printers-text-container mt-1' }" do %>
-                    <span class="printers-text"><%= t("navbar.printer_one") %></span>
+                  <%= link_to contact_coders_path, class: "#{ params[:action] == 'contact_coders' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                    <span class="my10"><%= t("navbar.contact_coders") %></span>
                   <% end %>
-                  <%= link_to fxone_remote_path, class: "#{ params[:action] == 'fxone_remote' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
-                    <span class="printers-text"><%= t("navbar.printer_two") %></span>
+                  <%= link_to foenix_codaprint_path, class: "#{ params[:action] == 'foenix_codaprint' ? 'navbar-dropdown-item-active printers-text-container mt-1' : 'printers-text-container mt-1' }" do %>
+                    <span class="printers-text"><%= t("navbar.codaprint") %></span>
                   <% end %>
-                  <%= link_to fxone_plus_path, class: "#{ params[:action] == 'fxone_plus' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
-                    <span class="printers-text"><%= t("navbar.printer_three") %></span>
+                  <%= link_to foenix_codamark_path, class: "#{ params[:action] == 'foenix_codamark' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                    <span class="printers-text"><%= t("navbar.codamark") %></span>
+                  <% end %>
+                  <%= link_to foenix_codapack_path, class: "#{ params[:action] == 'foenix_codapack' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
+                    <span class="printers-text"><%= t("navbar.codapack") %></span>
                   <% end %>
                 </li>
               </ul>
@@ -79,23 +82,42 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="serviceDropdown">
               <ul class="dropdown-menu-ul">
-                <li class="<%= params[:action] == 'distributor' ? 'navbar-dropdown-item-active' : '' %>">
-                  <%= link_to distributor_path do %>
-                    <%= t("navbar.distributors") %>
+                <li class="">
+                  <li class="<%= params[:action] == 'distributor' ? 'navbar-dropdown-item-active' : '' %>">
+                    <%= link_to distributor_path do %>
+                      <%= t("navbar.distributors") %>
+                    <% end %>
+                  </li>
+                  <li class="<%= params[:action] == 'cost_of_ownership' ? 'navbar-dropdown-item-active' : '' %>">
+                    <%= link_to cost_of_ownership_path do %>
+                      <%= t("navbar.cost") %>
+                    <% end %>
+                    </li>
+                  <li class="<%= params[:action] == 'faq' ? 'navbar-dropdown-item-active' : '' %>">
+                    <%= link_to faq_path do %>
+                      <%= t("navbar.FAQ") %>
+                    <% end %>
+                  </li>
+                </li>
+                <li class="<%= params[:action] == 'support' ? 'navbar-dropdown-item-active' : '' %>">
+                  <%= link_to support_path do %>
+                    <%= t("navbar.support") %>
                   <% end %>
                 </li>
-                <li class="<%= params[:action] == 'cost_of_ownership' ? 'navbar-dropdown-item-active' : '' %>">
-                  <%= link_to cost_of_ownership_path do %>
-                    <%= t("navbar.cost") %>
-                  <% end %>
-                  </li>
-                <li class="<%= params[:action] == 'faq' ? 'navbar-dropdown-item-active' : '' %>">
-                  <%= link_to faq_path do %>
-                    <%= t("navbar.FAQ") %>
+                <li>
+                  <% if user_signed_in? %>
+                    <%= link_to( t('navbar.logout'), destroy_user_session_path, method: :delete, class: "" ) %>
+                  <% else %>
+                    <%= link_to t('navbar.login'), new_user_session_path, class: ""  %>
                   <% end %>
                 </li>
               </ul>
             </div>
+          </div>
+          <div class="navbar-item hidden mr-4">
+            <%= link_to industry_path, class: "#{params[:action] == 'industry' ? 'navbar-title nav-left navbar-title-underline' : 'navbar-title nav-left'}" do %>
+              <%= t("navbar.industry") %>
+            <% end %>
           </div>
           <div class="navbar-item hidden">
             <a href="#" role="button" id="companyDropdown"
@@ -132,14 +154,23 @@
       </div>
       <div class="navbar-right hidden">
         <div class="navbar-item">
-          <% if user_signed_in? %>
-            <%= link_to( t('navbar.logout'), destroy_user_session_path, method: :delete, class: "navbar-title nav-right m-0" ) %>
-          <% else %>
-            <%= link_to t('navbar.login'), new_user_session_path, class: "navbar-title nav-right m-0"  %>
+          <a href="#" role="button" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="navbar-lang-link px-2 py-3">
+            <%= locale.capitalize %> <i class="fas fa-chevron-down small-chevron"></i>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="productsDropdown">
+            <ul class="dropdown-menu-ul">
+              <li class="d-flex align-items-center"><%= image_tag 'uk.png' %><%= link_to "English", { :locale=>'en' }, class: "dropdown-item" %></li>
+              <li class="d-flex align-items-center"><%= image_tag 'france.png' %> <%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item" %></li>
+            </ul>
+          </div>
+        </div>
+        <div class="navbar-item hidden">
+          <%= link_to '#' do %>
+            <p class="text-orange bold mb-0 s-medium-text px-2 py-3"><%= t("navbar.demo") %> <i class="fas fa-chevron-right small-text"></i></p>
           <% end %>
         </div>
         <div class="navbar-item">
-          <%= link_to t("navbar.contact"), contact_path, class: "primary-button"  %>
+          <%= link_to t("navbar.contact"), contact_path, class: "primary-button ml-2"  %>
         </div>
       </div>
       <div id="mobile-navbar">
@@ -149,12 +180,12 @@
   </div>
 </div>
 
-<div id="mobile-menu" onclick="closeNav()">
+<div id="mobile-menu" class="<%= mb_nav_type %>" onclick="closeNav()">
   <div id="mobile-links">
     <div class="position-relative w-100 p-4">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <ul style="width: 92%;">
-        <li class="first-mobile-link"><span><%= t("navbar.printers") %></span></li>
+        <li class="each-mobile-link pb-0"><a href="/printers"><%= t('navbar.printers') %></a></li>
         <li class="printers-menu mobile-printers-menu">
           <%= link_to fxone_standard_path, class: 'printers-text-container mt-1' do %>
             <span class="printers-text"><%= t("navbar.printer_one") %></span>
@@ -168,6 +199,18 @@
         </li>
         <li class="each-mobile-link"><a href="/software"><%= t('navbar.software') %></a></li>
         <li class="each-mobile-link"><a href="/inks_and_consumables"><%= t('navbar.inks') %></a></li>
+        <li class="each-mobile-link pb-0"><a href="/contact_coders"><%= t('navbar.contact_coders') %></a></li>
+        <li class="printers-menu mobile-printers-menu">
+          <%= link_to foenix_codaprint_path, class: 'printers-text-container mt-1' do %>
+            <span class="printers-text"><%= t("navbar.codaprint") %></span>
+          <% end %>
+          <%= link_to foenix_codamark_path, class: 'printers-text-container' do %>
+            <span class="printers-text"><%= t("navbar.codamark") %></span>
+          <% end %>
+          <%= link_to foenix_codapack_path, class: 'printers-text-container' do %>
+            <span class="printers-text"><%= t("navbar.codapack") %></span>
+          <% end %>
+        </li>
         <li class="each-mobile-link"><a href="/distributor"><%= t('navbar.distributors') %></a></li>
         <li class="each-mobile-link"><a href="/cost_of_ownership"><%= t('navbar.cost') %></a></li>
         <li class="each-mobile-link"><a href="/faq"><%= t('navbar.faq') %></a></li>

@@ -30,8 +30,12 @@ en:
     address: Chertsey | Surrey | KT16 0AW | UK
     printers: Printers
     contact_coders: Contact Coders
-    support: Support Documentations
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: Support Documentation
     industry: Industry
+    demo: Request Demo
 
   cookie_bar:
     content: By using this website, you agree to our

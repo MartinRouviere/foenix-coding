@@ -92,7 +92,7 @@
     </div>
   </div>
 
-  <div class="first-section grid-container dark-bg">
+  <div class="first-section grid-container dark-bg pb-0">
     <div class="max-width">
       <p class="text-center mb-4 text-white"><%= t("fxone_remote.second_section_title").upcase %></p>
       <h2 class="text-center mb-0 text-white"><%= t("fxone_remote.cards_section_description") %></h2>
@@ -232,19 +232,17 @@
         </div>
       </div>
       <div class="d-flex justify-content-center align-items-center mt-5">
-        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626366994/fxossi_hjsjsb.png", class: "w-50 mt-5 minus-margin", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627495603/fxorm-1_yc9xpl.png", class: "main-img-width mt-5", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
       </div>
     </div>
   </div>
 
-
-  <div class="fxone-third-section position-relative bg-white">
+  <div class="half-bg-reverse">
     <div class="max-width px-3 px-md-5">
       <div class="remote-pop">
         <div class="d-block d-md-flex justify-content-between align-items-center w-100">
           <div class="flex-grow-1">
             <div class="d-flex align-items-center justify-content-start mb-3">
-
               <h3 class="font-weight-normal text-white mb-0"><%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626185426/fxt-1_vt9xhq.png", class: "mr-2", style: "height: 21px; position: relative; top: -2px", alt: "FX") %><%= t("fxone_remote.pop_title") %><span class="ml-2" style="font-size: 22px"><%= t("fxone_remote.pop_title_two") %></span></h3>
             </div>
             <div class="row m-0">
@@ -267,7 +265,14 @@
           <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
         </div>
       </div>
-      <h2 class="mt-5 mb-4"><%= t("fxone_remote.fourth_section_title") %></h2>
+    </div>
+  </div>
+
+
+  <div class="fxone-third-section position-relative bg-white">
+    <div class="max-width px-3 px-md-5 pt-5">
+
+      <h2 class="mb-4"><%= t("fxone_remote.fourth_section_title") %></h2>
       <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626367397/fxosts_z1b2mb.png", class: "w-100", alt: "Technical specifications") %>
       <div class="fxone-fifth-section-content-wrapper my-5 standard-tech-specs">
         <div class="fxone-fifth-section-content">

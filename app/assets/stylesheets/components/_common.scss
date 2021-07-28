@@ -64,6 +64,14 @@
 }
 
 // Colors
+.half-bg {
+  background-image: linear-gradient(#F4F4F4 50%, #2A2A2A 50%);
+}
+
+.half-bg-reverse {
+  background-image: linear-gradient(#2A2A2A 50%, #FFFFFF 50%);
+}
+
 .plus-bg {
   background-color: #1B1B1B !important;
 }
