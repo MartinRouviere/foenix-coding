@@ -94,6 +94,9 @@
   padding: 48px;
   border-radius: 6px;
   box-shadow: 0px 26px 44px rgba(0,0,0,0.8);
+  @include for-medium-devices-down {
+    width: 100%;
+  }
 }
 
 .printers-coming-soon {

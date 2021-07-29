@@ -3,6 +3,9 @@
   .first-section-text {
     width: unset;
     max-width: 60%;
+    @include for-medium-devices-down {
+      max-width: 100%;
+    }
   }
   .ownership-carousel {
     max-width: 800px !important;
@@ -26,6 +29,18 @@
   background-size: cover;
   background-position: center;
   min-height: 100vh;
+  @include for-small-devices-down {
+    min-height: unset;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+
+.cos-form {
+  width: 392px;
+  @include for-small-devices-down {
+    width: 100%;
+  }
 }
 
 

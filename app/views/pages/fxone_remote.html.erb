@@ -7,8 +7,8 @@
     <div class="first-section-text">
       <h1 class="w-100"><span><%= cl_image_tag("fxone-logo_zjjdvc.png", class: "fxone-logo") %></span> <%= t("fxone_remote.first_section_title") %></h1>
       <p><%= t("fxone_remote.first_section_text") %></p>
-      <p class="btn primary-button bold text-white mb-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
-      <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
+      <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+      <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button mb-3 mb-sm-0" %>
     </div>
     <div class="product-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626168450/c-bg_1_arizvl.png' %>)">
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
@@ -45,7 +45,7 @@
     <div class="">
       <div class="row m-0 py-5">
         <div class="col-12 col-md-6">
-          <h2 class="pt-5 mt-4"><%= t("fxone_remote.grid_title_one") %></h2>
+          <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_one") %></h2>
           <p class="mb-0"><%= t("fxone_remote.grid_description_one_html") %></p>
           <%= link_to '#', class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
@@ -69,7 +69,7 @@
       </div>
       <div class="row m-0 py-5">
         <div class="col-12 col-md-6">
-          <h2 class="pt-5 mt-4"><%= t("fxone_remote.grid_title_three") %></h2>
+          <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_three") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_three_html") %></p>
           <%= link_to '#', class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_three") %> <i class="fas fa-arrow-right ml-2"></i></p>
@@ -93,7 +93,7 @@
       </div>
       <div class="row m-0 py-5">
         <div class="col-12 col-md-6">
-          <h2 class="pt-5 mt-4"><%= t("fxone_remote.grid_title_five") %></h2>
+          <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_five") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_five_html") %></p>
           <%= link_to '#', class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_five") %> <i class="fas fa-arrow-right ml-2"></i></p>
@@ -117,7 +117,7 @@
       </div>
     </div>
   </div>
-  <div class="first-section grid-container pb-0">
+  <div class="first-section grid-container pb-0 px-3 px-md-5">
     <div class="max-width">
       <p class="text-center mb-4"><%= t("fxone_remote.second_section_title").upcase %></p>
       <h2 class="text-center mb-0"><%= t("fxone_remote.cards_section_description") %></h2>

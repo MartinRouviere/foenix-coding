@@ -1,12 +1,13 @@
 <% if params[:action] == "fxone_standard" || params[:action] == "cost_of_ownership" || params[:action] == "contact_coders" || params[:action] == "foenix_codaprint" || params[:controller] == "devise/sessions" || params[:controller] == "devise/passwords" %>
   <% nav_type = 'dark-nav' %>
+  <% nav_bg = 'nav-pt-bg' %>
   <% mb_nav_type = 'mb-dark-nav' %>
 <% elsif params[:action] == "fxone_plus" %>
   <% nav_type = 'plus-nav' %>
+  <% nav_bg = 'plus-nav-pt-bg' %>
   <% mb_nav_type = 'mb-dark-nav' %>
 
 <% end %>
-
 <div class="navbar-wrapper <%= nav_type %>">
   <div class="max-width p-0 pt-lg-5 px-lg-5">
     <div class="navbar-foenix">
@@ -166,7 +167,7 @@
         </div>
         <div class="navbar-item hidden">
           <%= link_to '#' do %>
-            <p class="text-orange bold mb-0 s-medium-text px-2 py-3"><%= t("navbar.demo") %> <i class="fas fa-chevron-right small-text"></i></p>
+            <p class="text-orange bold mb-0 s-medium-text px-2 py-3 nav-demo"><%= t("navbar.demo") %> <i class="fas fa-chevron-right small-text"></i></p>
           <% end %>
         </div>
         <div class="navbar-item">
@@ -214,6 +215,7 @@
         <li class="each-mobile-link"><a href="/distributor"><%= t('navbar.distributors') %></a></li>
         <li class="each-mobile-link"><a href="/cost_of_ownership"><%= t('navbar.cost') %></a></li>
         <li class="each-mobile-link"><a href="/faq"><%= t('navbar.faq') %></a></li>
+        <li class="each-mobile-link"><a href="/support"><%= t('navbar.support') %></a></li>
         <li class="each-mobile-link"><a href="/about"><%= t('navbar.about') %></a></li>
         <li class="each-mobile-link"><a href="/jobs"><%= t('navbar.careers') %></a></li>
         <li class="each-mobile-link"><a href="/posts"><%= t('navbar.news') %></a></li>
@@ -227,6 +229,8 @@
     </div>
   </div>
 </div>
+
+<div class="nav-pt <%= nav_bg %>"></div>
 <script>
   function openNav() {
     document.getElementById("mobile-links").style.top = "20px"
