@@ -2,11 +2,10 @@
 <% content_for :meta_description, "#{t('seo.cost_of_ownership.description')}" %>
 <% content_for :meta_image, cl_image_path("Piggy_1_al3kec", width: 400, alt: "FX ONE cost of ownership") %>
 
-
 <div class="ownership-wrapper dark-bg">
   <div class="first-section max-width dark-bg" style="overflow-x: unset;">
     <div class="first-section-text m-0">
-      <h2 class="w-100 text-white pl-4"><%= t("cost_of_ownership.first_section_title") %></h2>
+      <h2 class="w-100 text-white"><%= t("cost_of_ownership.first_section_title") %></h2>
       <div class="bg-white border-radius p-4">
         <p class="bold mb-0"><%= t("cost_of_ownership.first_section_sub_title") %></p>
         <p class=""><%= t("cost_of_ownership.first_section_text_html") %></p>
@@ -35,12 +34,12 @@
 
 
 
-    <div class="max-width p-5">
-      <div class="cos-blur-background border-radius d-flex justify-content-center align-items-center p-5" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626797772/coogb_hhmct1.png' %>)">
+    <div class="max-width px-3 px-md-5">
+      <div class="cos-blur-background border-radius d-flex justify-content-center align-items-center px-3 px-md-5" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626797772/coogb_hhmct1.png' %>)">
         <div class="plus-newsletter charcoal-bg my-5">
           <h2 class="text-center text-white mb-3 px-3 px-md-5"><%= t('cost_of_ownership.newsletter_title') %> </h2>
           <h2 class="text-center text-white mb-4"><%= t('cost_of_ownership.newsletter_description_html') %> </h2>
-          <div style="width: 392px;">
+          <div class="cos-form">
             <%= form_tag subscribe_path, method: :post, class: 'about-form w-100 pb-4' do %>
               <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
               %>
@@ -55,7 +54,7 @@
   </div>
 
   <div class="dark-bg">
-    <div class="max-width p-5">
+    <div class="max-width py-5 px-3 px-md-5">
       <div class="charcoal-bg border-radius cos-lists w-100 m-0 p-3 p-md-5">
         <h2 class="text-white text-center" style="margin-bottom: 25px;"><%= t("cost_of_ownership.list_title") %></h2>
         <div class="fxone-fifth-section-content">
