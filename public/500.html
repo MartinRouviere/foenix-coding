@@ -1,91 +1,81 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>We're sorry, but something went wrong (500)</title>
+  <title>Foenix Coding: Sorry something went wrong</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <style>
-  .four {
-    height: 100vh;
-    width: 100%;
-    background: linear-gradient(white);
-    position: relative;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
+    .four {
+      height: 100vh;
+      max-width: 1260px;
+      margin: 0 auto;
+      background: #1B1B1B;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
 
-  .error-image {
-    position: absolute;
+    .error-image {
+      position: absolute;
       top: -100px;
       right: -100px;
-    height: auto;
-    width: 200px;
-  }
+      height: auto;
+      width: 200px;
+    }
 
-  .error-image-two {
-    position: absolute;
+    .error-image-two {
+      position: absolute;
       bottom: -150px;
       left: -100px;
-    height: auto;
-    width: 200px;
-    opacity: 0.4;
-    transform: rotate(180deg);
-  }
+      height: auto;
+      width: 200px;
+      opacity: 0.4;
+      transform: rotate(180deg);
+    }
 
-  .error-man {
-    max-width: 700px;
-    width: 50vw;
-    height: auto;
-    z-index: 100;
-  }
+    .error-man {
+      max-width: 700px;
+      width: 50vw;
+      height: auto;
+      z-index: 100;
+    }
 
-  .error-header {
-    font-family: 'Roboto', sans-serif;
-    font-size: 50px;
-    margin-bottom: 0;
-    font-weight: 300;
-  }
+    .error-header {
+      font-family: 'Gilroy-ExtraBold', sans-serif;
+      font-size: 50px;
+      margin-top: 0;
+      margin-bottom: 20px;
+      font-weight: 300;
+      color: #FFFFFF;
+    }
+
+    .text {
+      margin-right:  30px;
+    }
 
 
-  .error-text {
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    font-weight: 300;
-    margin-bottom: 0;
-    color: #7C828F;
-    width: 50vw;
-    text-align: center;
-    margin-bottom: 100px;
-  }
-
-  .home-button {
-    font-family: 'Roboto', sans-serif;
-    display: inline-block;
-    padding: 15px 25px;
-    background-color: #F3A300;
-    border-color: #F3A300;
-    color: #FFF;
-    font-size: 14px;
-    border-radius: 10px;
-    text-decoration: none;
-    transition: all 0.3s ease;
-  }
-
-  .home-button:hover {
-    background-color: #fbb72d;
-  }
-
+    .home-button {
+      font-family: 'Roboto', sans-serif;
+      font-weight:  bold;
+      display: inline-block;
+      padding: 15px 25px;
+      background-color: #FFFFFF;
+      color: #000000;
+      font-size: 14px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
   </style>
 </head>
 
 <body class="four">
-  <img src="https://res.cloudinary.com/foenix-coding/image/upload/q_auto/v1575987466/inks_big_pill_dqob2a.png" alt="Error" class="error-image">
-  <img src="https://res.cloudinary.com/foenix-coding/image/upload/q_auto/v1575987466/inks_big_pill_dqob2a.png" alt="Error" class="error-image-two">
-  <img src="https://res.cloudinary.com/foenix-coding/image/upload/v1578323972/five-hundred_seh2qs.png" alt="" class="error-man">
-  <h1 class="error-header">500</h1>
-  <p class="error-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel ligula libero. </p>
-  <a class="home-button" href="/">HOME</a>
+  <div class="text">
+    <h1 class="error-header">Sorry something went wrong</h1>
+    <a class="home-button" href="/">Home</a>
+  </div>
+  <img src="https://res.cloudinary.com/foenix-coding/image/upload/v1578323972/five-hundred_seh2qs.png" alt="500 error" class="error-man">
 </body>
-</html>
+
+

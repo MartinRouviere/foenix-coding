@@ -1146,6 +1146,7 @@ en:
 
   error:
     four_four_text: Page not found
+    five_zero_zero_text: Sorry something went wrong
 
   login:
     fpassword: Forgot your password?
