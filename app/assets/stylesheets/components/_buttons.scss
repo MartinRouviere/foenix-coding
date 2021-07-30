@@ -7,6 +7,7 @@
   border: none;
   font-size: 12px !important;
   cursor: pointer;
+  transition: box-shadow 0.2s ease;
   p {
     font-size: 12px !important;
       &:hover {
@@ -17,6 +18,7 @@
   &:hover {
     text-decoration: none;
     color: #FFFFFF !important;
+    box-shadow: 2px 2px 10px #888888;
   }
 }
 
@@ -27,11 +29,13 @@
   padding: 12px 22px;
   border: none;
   font-size: 12px !important;
+  transition: box-shadow 0.2s ease;
   p {
     font-size: 12px !important;
   }
   &:hover {
     text-decoration: none;
+    box-shadow: 2px 2px 10px #888888;
   }
 }
 

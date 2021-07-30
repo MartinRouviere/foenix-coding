@@ -254,6 +254,12 @@
   }
 }
 
+.req-demo:hover {
+  i {
+    color: inherit !important;
+  }
+}
+
 .hidden-desktop {
   @include for-large-devices-up {
     display: none;
