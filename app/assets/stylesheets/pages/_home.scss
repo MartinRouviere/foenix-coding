@@ -87,7 +87,7 @@
   @include for-medium-devices-down {
     flex-direction: column;
     justify-content: center;
-    padding: 50px 16px 150px;
+    padding: 16px 16px 150px;
   }
 
   @include for-xsmall-phone-only {
@@ -153,11 +153,10 @@
 .animated-span {
   position: absolute;
   color: $orange;
-  padding-bottom: 5px;
   // border-bottom: 1px solid #EECDB5;
   transition: filter(2s);
   margin: 0px;
-  top: -5px;
+  top: 2px;
   transition: top 0.3s linear;
   left: 10px;
   @include for-phone-only {
@@ -220,14 +219,18 @@
 
   @include for-phone-only {
     width: 100%;
-    padding-left: 20px;
-
+    padding: 0;
 
     & h1 {
       font-size: 35px;
-      width: 65%;
+      width: 55%;
     }
-
+  }
+  @include for-xsmall-phone-only {
+    h1 {
+      font-size: 35px;
+      width: 75%;
+    }
   }
 }
 
