@@ -14,7 +14,7 @@
     <div class="product-carousel dark-carousel ownership-carousel">
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
         <div class="carousel-item active">
-          <%= cl_image_tag("Piggy_1_al3kec.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+          <%= cl_image_tag("Piggy_1_al3kec.png", class: "first-section-image", style: "max-width: 800px;", alt: "Software app with piggy bank") %>
         </div>
       </div>
     </div>
@@ -35,7 +35,7 @@
 
 
     <div class="max-width px-3 px-md-5">
-      <div class="cos-blur-background border-radius d-flex justify-content-center align-items-center px-3 px-md-5" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626797772/coogb_hhmct1.png' %>)">
+      <div class="cos-blur-background border-radius d-flex justify-content-center align-items-center px-3 px-md-5" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626797772/coogb_hhmct1.png', alt: 'blurred bakcground' %>)">
         <div class="plus-newsletter charcoal-bg my-5">
           <h2 class="text-center text-white mb-3 px-3 px-md-5"><%= t('cost_of_ownership.newsletter_title') %> </h2>
           <h2 class="text-center text-white mb-4"><%= t('cost_of_ownership.newsletter_description_html') %> </h2>
@@ -100,13 +100,13 @@
 
   <div class="ownership-second-section-wrapper pt-5 mt-5">
     <div class="col-12 col-md-6">
-      <h2 class="text-white text-center mb-4"><%= image_tag 'onsi.png', width: 40, class: "mr-3" %><%= t("cost_of_ownership.second_section_title") %></h2>
+      <h2 class="text-white text-center mb-4"><%= image_tag 'onsi.png', width: 40, class: "mr-3", alt: "savings icon" %><%= t("cost_of_ownership.second_section_title") %></h2>
       <p class="text-white text-center"><%= t("cost_of_ownership.second_section_text") %></p>
     </div>
   </div>
   <div class="ownership-third-section-wrapper">
-    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1579863319/cost_cqw53z.png", :quality=>"auto", id: "ownership-slider", class: "ownership-slider hide-mobile shadowed") %>
-    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1579864520/ownership-slider-mobile_bqwnnj.png", :quality=>"auto", id: "ownership-slider-mobile", class: "ownership-slider show-mobile shadowed") %>
+    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1579863319/cost_cqw53z.png", :quality=>"auto", id: "ownership-slider", class: "ownership-slider hide-mobile shadowed", alt: 'cost estimation image') %>
+    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1579864520/ownership-slider-mobile_bqwnnj.png", :quality=>"auto", id: "ownership-slider-mobile", class: "ownership-slider show-mobile shadowed", alt: 'cost estimation image') %>
     <div class="coming-soon" style="background-image: url('<%= cl_image_path "coming-soon-background_wjcoct.png" %>')">
       <p class="coming-soon-text"><%= t("fxone_plus.coming_soon") %></p>
     </div>

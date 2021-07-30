@@ -1,7 +1,7 @@
 <div class="dark-bg">
   <div class="max-width px-3 px-md-5">
     <div class="login-page">
-      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627411302/dlogin_jszy9s.png", :quality=>"auto", class: "login-page_image") %>
+      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627411302/dlogin_jszy9s.png", :quality=>"auto", class: "login-page_image", alt: 'users logging in') %>
       <div class="login-details">
         <%= simple_form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
         <h1 class="text-white">Login</h1>

@@ -7,7 +7,7 @@
         <h1 class="w-100"><%= t("distributor.first_section_title") %></h1>
         <p class=""><%= t("distributor.first_section_text") %></p>
       </div>
-      <%= image_tag 'map-animation.gif', class: 'first-section-image map-gif' %>
+      <%= image_tag 'map-animation.gif', class: 'first-section-image map-gif', alt: 'highlighted cities' %>
   </div>
   <div class="max-width px-3 px-md-5 py-5">
     <div class="container-countries">
@@ -33,12 +33,12 @@
             <div class="row" style="margin: 0;">
               <% @countries.each do |country| %>
                 <div class="country-card" style="width: 33.33%;">
-                  <%= image_tag url_for(country.photo) %>
+                  <%= image_tag url_for(country.photo), alt: "#{country.name} flag" %>
                   <p class=""><%= country.name %></p>
                 </div>
               <% end %>
               <div class="country-card" style="width: 33.33%;">
-                <%= image_tag 'distributor-plus-icon.png' %>
+                <%= image_tag 'distributor-plus-icon.png', alt: 'plus icon' %>
                 <p class=""><%= t("distributor_countries.be_the_next") %></p>
               </div>
             </div>

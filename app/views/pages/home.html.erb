@@ -19,7 +19,7 @@
         <% end %>
       </div>
     </div>
-    <div class="product-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626168450/c-bg_1_arizvl.png' %>)">
+    <div class="product-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626168450/c-bg_1_arizvl.png', alt: 'carousel background' %>)">
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
         <div class="carousel-controls">
           <div class="">
@@ -38,13 +38,13 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625060046/hci-3_idgn1d.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625060046/hci-3_idgn1d.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer image one") %>
           </div>
           <div class="carousel-item active">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625060042/hci-1_ilqcen.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625060042/hci-1_ilqcen.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer image two") %>
           </div>
           <div class="carousel-item">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625060044/hci-2_kwkj2m.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625060044/hci-2_kwkj2m.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer image three") %>
           </div>
         </div>
       </div>
@@ -55,7 +55,7 @@
       <div class="second-section-one">
         <h4 class="font-weight-normal text-center"><%= t("home.title_second") %></h4>
         <div class="d-flex align-items-center justify-content-center w-100">
-          <%= image_tag 'uk.png', class: 'home-uk' %>
+          <%= image_tag 'uk.png', class: 'home-uk', alt: 'UK flag' %>
           <h6 class="mb-0"><%= t("home.title_second_description") %></h6>
         </div>
       </div>
@@ -86,25 +86,25 @@
           <div class="col-6 col-lg-3 mb-4 mb-lg-0 position-relative">
             <div class="bg-white pt-4 border-radius">
               <p class="bold coding-marking-text"><%= t("home.first_image") %></p>
-              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070028/hts-1_amswww.png' %>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070028/hts-1_amswww.png', alt: 'Batch & Date Codes' %>
             </div>
           </div>
           <div class="col-6 col-lg-3 mb-4 mb-lg-0 position-relative">
             <div class="bg-white pt-4 border-radius">
               <p class="bold coding-marking-text"><%= t("home.second_image") %></p>
-              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070033/hts-2_oj4pvy.png' %>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070033/hts-2_oj4pvy.png', alt: 'Barcoding' %>
             </div>
           </div>
           <div class="col-6 col-lg-3 position-relative">
             <div class="bg-white pt-4 border-radius">
               <p class="bold coding-marking-text"><%= t("home.third_image") %></p>
-              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070038/hts-3_iwm2ie.png' %>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070038/hts-3_iwm2ie.png', alt: 'Branding & Product information' %>
             </div>
           </div>
           <div class="col-6 col-lg-3 position-relative">
             <div class="bg-white pt-4 border-radius">
               <p class="bold coding-marking-text"><%= t("home.fourth_image") %></p>
-              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070043/hts-4_p5romj.png' %>
+              <%= cl_image_tag 'https://res.cloudinary.com/foenix-coding/image/upload/v1625070043/hts-4_p5romj.png', alt: 'Traceability track & trace' %>
             </div>
           </div>
         </div>
@@ -212,12 +212,12 @@
           <% end %>
         </div>
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625138681/esi-1_b0papu.png", class: "w-100", alt: "Product coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625138681/esi-1_b0papu.png", class: "w-100", alt: "Powerful Software Smart Controller") %>
         </div>
       </div>
       <div class="row m-0 pt-5 column-reverse">
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625138686/esi-2_pvrksv.png", class: "w-100 image-shadow", alt: "Box coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625138686/esi-2_pvrksv.png", class: "w-100 image-shadow", alt: "Free Trial & Test prints") %>
         </div>
         <div class="col-12 col-md-6">
           <h2 class=""><%= t("home.eight_section_title_two") %></h2>
