@@ -1004,7 +1004,7 @@ en:
     phr_list_text_ten: CM504/50 Blue Ink Cartridge
     phr_list_text_eleven: CM506/50 White Ink Cartridge
     phr_list_text_twelve: CM505/50 Yellow Ink Cartridge
-    ps_title_one: Codaprint Printer Specification
+    ps_title_one: Codamark Printer Specification
     ps_sub_title_one: Model CM-MKV/25
     ps_bp_one: "Print Area: 24mm x 24mm"
     ps_bp_two: "Print Head Outline Dimensions: 170mm x 155mm x 85mm"
@@ -1163,13 +1163,13 @@ en:
       description: The Foenix range of ink jet printers are all designed as industrial inkjet printers for coding and marking solutions.
     fxone_standard:
       title: "FX ONE Standard: High Resolution printer for all your case coding application"
-      description: Print in high resolution with our inkjet printers on cardboard boxes. No costly maintenance contracts and one of the lowest costs per print in the market. Xaar printer, piezo inkjet, Large Character Printers, non-contact printing, case coding, product coding, industrial printers, print use by date, print best before date, print barcode
+      description: High resolution printing directly onto cartons, trays and sacks on a production line to eliminate the need for costly pre-printed packaging or expensive labels.
     fxone_remote:
       title: "FX ONE Remote: High Resolution printer for all your product coding application"
-      description: Print in high resolution with our inkjet printers any substrates. No costly maintenance contracts and one of the lowest costs per print in the market. Xaar printer, piezo inkjet, Large Character Printers, non-contact printing, case coding, product coding, industrial printers, print use by date, print best before date, print barcode
+      description: The new FX ONE inkjet printer is one of the lowest cost per code and lowest maintenance small character printers. It offers a real alternative to code your products.
     fxone_plus:
       title: "FX ONE Plus: High Resolution printer for all your large characters printing"
-      description: Print in high resolution up to 72mm with our inkjet printers. No costly maintenance contracts and one of the lowest costs per print in the market. Xaar printer, piezo inkjet, Large Character Printers, non-contact printing, case coding, product coding, industrial printers, print use by date, print best before date, print barcode
+      description: Large character printer up to 72mm print height. The perfect alternative to expensive, complex and limited labelling systems.
     inks_and_consumables:
       title: Inks and Consumables for Foenix Coding printers
       description: "Large Ink Cartridge: print up to 15 million characters with one of the lowest cost per print ever.  Foenix Coding ink, Foenix Coding cartridges, Foenix Coding make-up, Foenix Coding cleaner"
@@ -1192,7 +1192,7 @@ en:
       title: "Industry: Trusted by businesses from all industries"
       description: We provide solutions for all industries and every application
     jobs:
-      title: FOENIX CODING is growing
+      title: "Careers: Foenix coding is growing. Join us!"
       description: We are always looking for talented new friends that share our vision to push industry forward
     posts:
       title: News & Events

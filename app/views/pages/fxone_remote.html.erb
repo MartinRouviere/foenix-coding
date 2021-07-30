@@ -10,7 +10,7 @@
       <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
       <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button mb-3 mb-sm-0" %>
     </div>
-    <div class="product-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626168450/c-bg_1_arizvl.png' %>)">
+    <div class="product-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626168450/c-bg_1_arizvl.png', alt: 'carousel background' %>)">
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
         <div class="carousel-controls">
           <div class="">
@@ -29,13 +29,13 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626291489/fxremote3_gvhxdu.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626291489/fxremote3_gvhxdu.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE Remote printer image three") %>
           </div>
           <div class="carousel-item active">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626290952/fxremote1_ahh0wb.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626290952/fxremote1_ahh0wb.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE Remote printer image one") %>
           </div>
           <div class="carousel-item">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626290951/fxremote2_kl9lq9.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626290951/fxremote2_kl9lq9.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE Remote printer image two") %>
           </div>
         </div>
       </div>
@@ -52,12 +52,12 @@
           <% end %>
         </div>
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174718/fxr-1_hbvcdy.png", class: "w-100 parallax-img", alt: "Product coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174718/fxr-1_hbvcdy.png", class: "w-100 parallax-img", alt: "Lid printing") %>
         </div>
       </div>
       <div class="row m-0 py-5 column-reverse">
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174899/fxr-2_ns4kn9.png", class: "w-100 parallax-img", alt: "Box coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174899/fxr-2_ns4kn9.png", class: "w-100 parallax-img", alt: "Modular inkjet coder") %>
         </div>
         <div class="col-12 col-md-6">
           <h2 class="pt-5 mt-4"><%= t("fxone_remote.grid_title_two") %></h2>
@@ -76,12 +76,12 @@
           <% end %>
         </div>
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174901/fxr-3_a87w8m.png", class: "w-100 parallax-img", alt: "Product coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174901/fxr-3_a87w8m.png", class: "w-100 parallax-img", alt: "Box printing") %>
         </div>
       </div>
       <div class="row m-0 py-5 column-reverse">
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174903/fxr-4_mcavip.png", class: "w-100 parallax-img", alt: "Box coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174903/fxr-4_mcavip.png", class: "w-100 parallax-img", alt: "Auto shutter") %>
         </div>
         <div class="col-12 col-md-6">
           <h2 class="pt-5 mt-4"><%= t("fxone_remote.grid_title_four") %></h2>
@@ -100,12 +100,12 @@
           <% end %>
         </div>
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174905/fxr-5_uluvk9.png", class: "w-100 parallax-img", alt: "Product coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174905/fxr-5_uluvk9.png", class: "w-100 parallax-img", alt: "Ink cartridge") %>
         </div>
       </div>
       <div class="row m-0 py-5 column-reverse">
         <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174907/fxr-6_njsqbw.png", class: "w-100 parallax-img", alt: "Box coding") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174907/fxr-6_njsqbw.png", class: "w-100 parallax-img", alt: "FX APP Software") %>
         </div>
         <div class="col-12 col-md-6">
           <h2 class=""><%= t("fxone_remote.grid_title_six") %></h2>
@@ -126,7 +126,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-1.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-1.png', class: 'square-card-icon', alt: 'high resolution' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.first_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.first_card_text") %></p>
@@ -137,7 +137,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-2.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-2.png', class: 'square-card-icon', alt: 'True type font' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.tenth_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.tenth_card_text") %></p>
@@ -148,7 +148,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-3.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-3.png', class: 'square-card-icon', alt: 'Graphics' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.third_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.third_card_text") %></p>
@@ -159,7 +159,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-4.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-4.png', class: 'square-card-icon', alt: 'Barcodes' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.sixth_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.sixth_card_text") %></p>
@@ -170,7 +170,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-5.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-5.png', class: 'square-card-icon', alt: 'Touch controller' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.eigth_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.eigth_card_text") %></p>
@@ -181,7 +181,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-6.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-6.png', class: 'square-card-icon', alt: 'Connectivity' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.second_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.second_card_text") %></p>
@@ -192,7 +192,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-7.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-7.png', class: 'square-card-icon', alt: 'Multi Port Connection' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.twelfth_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.twelfth_card_text") %></p>
@@ -203,7 +203,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-8.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-8.png', class: 'square-card-icon', alt: 'Networking' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.ninth_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.ninth_card_text") %></p>
@@ -214,7 +214,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-9.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-9.png', class: 'square-card-icon', alt: 'Out of the box' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.fifth_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.fifth_card_text") %></p>
@@ -225,7 +225,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-10.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-10.png', class: 'square-card-icon', alt: 'Warranty' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.seventh_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.seventh_card_text_html") %></p>
@@ -236,7 +236,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-11.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-11.png', class: 'square-card-icon', alt: 'Large solvent based ink cartridge' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.eleventh_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.eleventh_card_text") %></p>
@@ -247,7 +247,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="fxone-card">
             <div class="d-flex align-items-start">
-              <%= image_tag 'gi-12.png', class: 'square-card-icon' %>
+              <%= image_tag 'gi-12.png', class: 'square-card-icon', alt: 'Ink saver mode' %>
               <div class="">
                 <h6 class="mt-4"><%= t("fxone_remote.thirteenth_card_title") %></h6>
                 <p class="small-text"><%= t("fxone_remote.thirteenth_card_text") %></p>
@@ -257,7 +257,7 @@
         </div>
       </div>
       <div class="d-flex justify-content-center align-items-center mt-5">
-        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627495604/fxosd-1_yd9pyk.png", class: "main-img-width mt-5", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+        <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627495604/fxosd-1_yd9pyk.png", class: "main-img-width mt-5", style: "max-width: 800px;", alt: "FX APP Software") %>
       </div>
     </div>
   </div>
@@ -269,7 +269,7 @@
           <div class="flex-grow-1">
             <div class="d-flex align-items-center justify-content-start mb-3">
 
-              <h3 class="font-weight-normal text-white mb-0"><%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626185426/fxt-1_vt9xhq.png", class: "mr-2", style: "height: 21px; position: relative; top: -2px", alt: "FX") %><%= t("fxone_remote.pop_title") %><span class="ml-2" style="font-size: 22px"><%= t("fxone_remote.pop_title_two") %></span></h3>
+              <h3 class="font-weight-normal text-white mb-0"><%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626185426/fxt-1_vt9xhq.png", class: "mr-2", style: "height: 21px; position: relative; top: -2px", alt: "FX logo") %><%= t("fxone_remote.pop_title") %><span class="ml-2" style="font-size: 22px"><%= t("fxone_remote.pop_title_two") %></span></h3>
             </div>
             <div class="row m-0">
               <div class="col-12 col-md-6">
@@ -324,7 +324,7 @@
           </div>
           <div class="fxone-fifth-section-right">
             <div class="d-flex align-items-center justify-content-start w-100 mb-3">
-              <%= image_tag 'uk.png', class: 'home-uk' %>
+              <%= image_tag 'uk.png', class: 'home-uk', alt: 'UK flag' %>
               <h6 class="mb-0 text-white"><%= t("home.title_second_description") %></h6>
             </div>
             <p class="bold text-white mb-2 mt-5"><%= t("fxone_remote.fifth_section_right_title_one") %></p>
@@ -370,7 +370,7 @@
         <div class="col-12 px-0">
           <div class="shared-tech px-4 px-md-5 py-4 mb-4">
             <div class="d-flex align-items-center justify-content-start w-100 mb-4 mb-md-0 mt-3">
-              <%= image_tag 'uk.png', class: 'home-uk mr-4' %>
+               <%= image_tag 'uk.png', class: 'home-uk mr-4', alt: 'UK flag' %>
               <h6 class="mb-0 text-white"><%= t("home.title_second_description") %></h6>
             </div>
             <div class="">

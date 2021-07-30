@@ -11,7 +11,7 @@
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626977321/cmi_l9sfr2.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer, for all your inudstrial printing needs") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626977321/cmi_l9sfr2.png", class: "first-section-image", style: "max-width: 800px;", alt: "signal bars") %>
           </div>
         </div>
       </div>
@@ -76,7 +76,7 @@
             </div>
             <div class="job-card-info-container">
               <p class="m-0 job-card-info"><%= job.team %></p>
-              <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag" %>
+              <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag", alt: "#{job.location} country flag" %>
                 <span class="m-0 ml-3 grey"><%= job.location %></span>
               </div>
               <!-- <p class="m-0 job-card-info"><%#= job.job_type %></p> -->
@@ -97,7 +97,7 @@
             </div>
             <div class="job-card-info-container">
               <p class="m-0 job-card-info"><%= job.team %></p>
-              <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag" %>
+              <div class="m-0 job-card-info"><%= image_tag url_for(job.country.photo), class: "job-card-flag", alt: "#{job.location} country flag" %>
                 <span class="m-0 ml-3 grey"><%= job.location %></span>
               </div>
               <!-- <p class="m-0 job-card-info"><%#= job.job_type %></p> -->

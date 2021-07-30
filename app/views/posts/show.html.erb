@@ -4,9 +4,9 @@
       <h1 class=""><%= @post.title %></h1>
       <p class="s-medium-text">Reading time: <%= @post.reading_time %> mins</p>
       <% if @post.image.present? %>
-        <%= cl_image_tag @post.image, class: '' %>
+        <%= cl_image_tag @post.image, class: '', alt: 'post image' %>
       <% else %>
-        <%= image_tag 'https://source.unsplash.com/random', class: '' %>
+        <%= image_tag 'https://source.unsplash.com/random', class: '', alt: 'default post image' %>
       <% end %>
       <div class="post-show-details">
         <div class="post-show-social-media mb-4">
@@ -44,9 +44,9 @@
               <div class="post-show-card">
                 <%= link_to post_path(post) do %>
                   <% if post.image.present? %>
-                    <%= cl_image_tag post.image, class: '' %>
+                    <%= cl_image_tag post.image, class: '', alt: 'post image' %>
                   <% else %>
-                    <%= image_tag 'https://source.unsplash.com/random', class: '' %>
+                    <%= image_tag 'https://source.unsplash.com/random', class: '', alt: 'default post image' %>
                   <% end %>
                 <% end %>
                 <div class="post-show-card-text">

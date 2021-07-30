@@ -14,9 +14,9 @@
                 <%= simple_format(@featured.text.truncate(120)) %>
               </div>
               <% if @featured.image.present? %>
-                  <%= cl_image_tag @featured.image, class: 'featured-post-image' %>
+                  <%= cl_image_tag @featured.image, class: 'featured-post-image', alt: "post-image" %>
               <% else %>
-                <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627407574/placeholder_y7ohki.png", class: "featured-post-image", alt: "Product coding") %>
+                <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627407574/placeholder_y7ohki.png", class: "featured-post-image", alt: "default featured image") %>
               <% end %>
             </div>
           <% end %>
@@ -40,9 +40,9 @@
                   </div>
                 </div>
                 <% if post.image.present? %>
-                  <%= cl_image_tag post.image, class: 'new-post-card-image' %>
+                  <%= cl_image_tag post.image, class: 'new-post-card-image', alt: 'post image' %>
                 <% else %>
-                  <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627407574/placeholder_y7ohki.png", class: "new-post-card-image", alt: "Product coding") %>
+                  <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1627407574/placeholder_y7ohki.png", class: "new-post-card-image", alt: "default post image") %>
                 <% end %>
               </div>
             <% end %>
