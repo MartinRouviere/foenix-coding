@@ -67,7 +67,7 @@
             <div class="corner"></div>
             <p class="m-0 text-center"><%= t("cookie_bar.content") %> <a href="/cookie_policy" style="color: #FFB03A;"><%= t("cookie_bar.cookie_policy") %></a></p>
             <%= link_to seen_cookie_path, remote: true, class: 'cookie-close close-cookie-bar' do %>
-              <%= image_tag "cookie-close.png" %>
+              <%= image_tag "cookie-close.png", alt: 'cross' %>
             <% end %>
           </div>
         </div>
