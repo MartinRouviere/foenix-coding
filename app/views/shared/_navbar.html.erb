@@ -24,11 +24,11 @@
             <% else %>
               "navbar-title nav-left"
             <% end %>
-             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-offset="-88,0">
               <%= t("navbar.products") %> <i class="fas fa-chevron-down small-chevron"></i>
             </a>
             <div class="dropdown-menu" aria-labelledby="productsDropdown">
-              <ul class="dropdown-menu-ul">
+              <ul class="dropdown-menu-ul mb-3">
                 <li class="printers-menu">
                   <%= link_to printers_path, class: "#{ params[:action] == 'printers' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
                     <span class="my10"><%= t("navbar.printers") %></span>
@@ -41,16 +41,6 @@
                   <% end %>
                   <%= link_to fxone_plus_path, class: "#{ params[:action] == 'fxone_plus' ? 'navbar-dropdown-item-active printers-text-container' : 'printers-text-container' }" do %>
                     <span class="printers-text"><%= t("navbar.printer_three") %></span>
-                  <% end %>
-                </li>
-                <li class="<%= params[:action] == 'software' ? 'navbar-dropdown-item-active' : '' %>">
-                  <%= link_to software_path do %>
-                    <%= t("navbar.software") %>
-                  <% end %>
-                </li>
-                <li class="<%= params[:action] == 'inks_and_consumables' ? 'navbar-dropdown-item-active' : '' %>">
-                  <%= link_to inks_and_consumables_path do %>
-                    <%= t("navbar.inks") %>
                   <% end %>
                 </li>
                 <li class="printers-menu">
@@ -68,6 +58,20 @@
                   <% end %>
                 </li>
               </ul>
+              <ul class="dropdown-menu-ul mb-3">
+                <li class="<%= params[:action] == 'software' ? 'navbar-dropdown-item-active' : '' %>">
+                  <%= link_to software_path do %>
+                    <%= t("navbar.software") %>
+                  <% end %>
+                </li>
+              </ul>
+              <ul class="dropdown-menu-ul mb-3">
+                <li class="<%= params[:action] == 'inks_and_consumables' ? 'navbar-dropdown-item-active' : '' %>">
+                  <%= link_to inks_and_consumables_path do %>
+                    <%= t("navbar.inks") %>
+                  <% end %>
+                </li>
+              </ul>
             </div>
           </div>
           <div class="navbar-item hidden mr-4">
@@ -78,7 +82,7 @@
             <% else %>
               "navbar-title nav-left"
             <% end %>
-            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-offset="-182,0">
               <%= t("navbar.services") %> <i class="fas fa-chevron-down small-chevron"></i>
             </a>
             <div class="dropdown-menu" aria-labelledby="serviceDropdown">
@@ -128,7 +132,7 @@
             <% else %>
               "navbar-title nav-left"
             <% end %>
-            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-offset="-413,0">
               <%= t("navbar.company") %> <i class="fas fa-chevron-down small-chevron"></i>
             </a>
             <div class="dropdown-menu" aria-labelledby="companyDropdown">
@@ -148,6 +152,11 @@
                     <%= t("navbar.news") %>
                   <% end %>
                 </li>
+                <li class="<%= params[:controller] == 'pages' && params[:action] == 'contact' ? 'navbar-dropdown-item-active' : '' %>">
+                  <%= link_to posts_path do %>
+                    <%= t("navbar.contact_o") %>
+                  <% end %>
+                </li>
               </ul>
             </div>
           </div>
@@ -155,13 +164,13 @@
       </div>
       <div class="navbar-right hidden">
         <div class="navbar-item">
-          <a href="#" role="button" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="navbar-lang-link px-2 py-3">
+          <a href="#" role="button" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="navbar-lang-link px-2 py-3" data-offset="259,0">
             <%= locale.capitalize %> <i class="fas fa-chevron-down small-chevron"></i>
           </a>
-          <div class="dropdown-menu" aria-labelledby="productsDropdown">
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="productsDropdown">
             <ul class="dropdown-menu-ul">
-              <li class="d-flex align-items-center"><%= image_tag 'uk.png' %><%= link_to "English", { :locale=>'en' }, class: "dropdown-item" %></li>
-              <li class="d-flex align-items-center"><%= image_tag 'france.png' %> <%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item" %></li>
+              <li class="d-flex align-items-center"><%= image_tag 'uk.png' %><%= link_to "English", { :locale=>'en' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><%= image_tag 'france.png' %> <%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item circle" %></li>
             </ul>
           </div>
         </div>

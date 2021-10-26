@@ -143,17 +143,11 @@
   <div class="dark-bg">
     <div class="fifth-section max-width">
       <div class="row m-0 justify-content-center">
-        <div class="col-12 col-sm-8 col-lg-5">
+        <div class="col-12 col-sm-8 col-lg-6">
           <div class="d-flex flex-column justify-content-center align-items-center">
             <h2 class="text-white text-center mb-3"><%= t("home.fifth_section_title_html") %></h2>
-            <p class="small-text text-white text-center"><%= t("home.fifth-section_description_one") %></p>
-            <%= link_to '#', class: 'link-orange' do %>
-              <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
-            <% end %>
-            <p class="small-text text-white text-center"><%= t("home.fifth-section_description_two") %></p>
-            <%= link_to '#', class: 'link-orange' do %>
-              <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
-            <% end %>
+            <p class="s-medium-text text-white text-center mb-4"><%= t("home.fifth-section_description_one") %></p>
+            <p class="s-medium-text text-white text-center"><%= t("home.fifth-section_description_two") %></p>
           </div>
         </div>
       </div>
@@ -197,13 +191,13 @@
       <div class="d-block d-md-flex justify-content-between align-items-center w-100">
         <div class="">
           <h4 class="font-weight-normal text-white"><%= t("home.become_distributor_title") %></h4>
-          <p class="mb-3 mb-md-0 text-white small-text"><%= t("home.become_distributor_description") %></p>
+          <p class="mb-3 mb-md-0 text-white s-medium-text"><%= t("home.become_distributor_description") %></p>
         </div>
         <%= link_to 'Get Started', '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
       </div>
     </div>
     <div class="max-width pt-5">
-      <div class="row m-0 pb-5">
+      <div class="row m-0 pb-5 align-items-center">
         <div class="col-12 col-md-6">
           <h2 class=""><%= t("home.eight_section_title_one") %></h2>
           <p class="mb-4"><%= t("home.eight_section_description_one") %></p>
@@ -211,8 +205,8 @@
             <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
-        <div class="col-12 col-md-6">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625138681/esi-1_b0papu.png", class: "w-100", alt: "Powerful Software Smart Controller") %>
+        <div class="col-12 col-md-6 d-flex justify-content-end align-items-center">
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1625138681/esi-1_b0papu.png", class: "w-90", alt: "Powerful Software Smart Controller") %>
         </div>
       </div>
       <div class="row m-0 pt-5 column-reverse">

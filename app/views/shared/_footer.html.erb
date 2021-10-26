@@ -52,10 +52,22 @@
           <a href="#" role="button" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="footer-link mb-3 footer-lang-link">
             <%= locale.capitalize %> <i class="fas fa-chevron-down small-chevron"></i>
           </a>
-          <div class="dropdown-menu" aria-labelledby="productsDropdown">
-            <ul class="dropdown-menu-ul">
-              <li class="d-flex align-items-center"><%= image_tag 'uk.png' %><%= link_to "English", { :locale=>'en' }, class: "dropdown-item" %></li>
-              <li class="d-flex align-items-center"><%= image_tag 'france.png' %> <%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item" %></li>
+          <div class="dropdown-menu dropdown-menu-right drop-men-footer" aria-labelledby="productsDropdown">
+            <ul class="dropdown-menu-ul position-relative">
+              <li class="d-flex align-items-center w-100"><%= link_to "English", { :locale=>'en' }, class: "dropdown-item ln-en" %></li>
+              <% if locale == :en %>
+                <span class="ln-tick">
+                  <i class="fas fa-check"></i>
+                </span>
+              <% end %>
+            </ul>
+            <ul class="dropdown-menu-ul position-relative">
+              <li class="d-flex align-items-center w-100"><%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item ln-fr" %></li>
+              <% if locale == :fr %>
+                <span class="ln-tick">
+                  <i class="fas fa-check"></i>
+                </span>
+              <% end %>
             </ul>
           </div>
         </div>

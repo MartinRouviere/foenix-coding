@@ -73,11 +73,11 @@
   }
   .navbar-foenix {
     background: #2A2A2A;
-    border: 1px solid #353535;
+    border: 2px solid #535353;
     a, i {
       color: #FFFFFF;
       &:hover {
-        color: #FFFFFF;
+        color: #FF7A00 !important;
         i {
           color: #FFFFFF;
         }
@@ -89,6 +89,9 @@
   }
   .dropdown-menu {
     background: #2A2A2A;
+    box-shadow: none;
+    border: 2px solid #535353;
+
     .printers-menu {
       background: #2A2A2A !important;
     }
@@ -96,7 +99,7 @@
       background: #444444 !important;
     }
     .navbar-dropdown-item-active span {
-      color: #FFFFFF !important;
+      color: #FF7A00 !important;
     }
   }
 }
@@ -189,10 +192,10 @@
 .navbar-dropdown-item-active {
   background-color: #F6F9FC;
   a {
-    color: #474747 !important;
+    color: #FF7A00 !important;
   }
   span {
-    color: #474747 !important;
+    color: #FF7A00 !important;
   }
 }
 
@@ -402,6 +405,7 @@
 .printers-text {
   font-size: 12px !important;
   margin: 10px 0 !important;
+  font-family: 'Gilroy-Regular' !important;
 }
 
 .printers-text-container {
