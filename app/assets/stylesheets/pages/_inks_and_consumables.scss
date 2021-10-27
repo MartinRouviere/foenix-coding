@@ -234,3 +234,10 @@
 .stay-informed-input {
   background: #2A2A2A !important
 }
+
+.sm-text-cont {
+  width: 78%;
+  @include for-medium-devices-down {
+    width: 100%;
+  }
+}

@@ -1,8 +1,8 @@
 .cp-ink-img {
-  width: 100px;
+  width: 112px;
   position: absolute;
-  right: 10px;
-  top: -80px;
+  right: 20px;
+  top: -100px;
   @include for-small-devices-down {
     display: none;
   }

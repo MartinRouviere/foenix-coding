@@ -232,7 +232,7 @@ en:
 
   inks_and_consumables:
     first_section_text: Large Ink Cartridges
-    first_section_text_two: The FX ONE printer is compatible with many different types of ink making it the most versatile printer on the market. Print on any substrate and up to 15 million characters per cartridge
+    first_section_text_two: The FX ONE printer is compatible with many different types of ink making it the most versatile printer on the market. Print on any substrate and up to 15 million characters per cartridge. We offers the widest range of inkjet fluids to meet even the most specialized customer applications
     inks_card_title_one_html: "High Adhesion<span class='text-orange'>.</span>"
     inks_card_text_one: High Adhesion Ink specifically designed for PVC extrusion application. Get unprecedented print quality on PVC pipes.
     inks_card_title_two_html: "Wide Range of Inks<span class='text-orange'>.</span>"
@@ -573,6 +573,10 @@ en:
     sixth_section_right_sub_text_four: "To protect the most critical part of your printer: the printhead engine"
     seventh_section_title: Flawless prints, every time
     seventh_section_text: High quality, well-made, high precision is what FX ONE printers. We offer the simplest, most efficient way possible to code your product in High Resolution.
+    low_ink: Lowest Ink usage on the market
+    low_ink_text: Stop spending a fortune on ink cartridges & maintenance contract!
+    low_ink_text_two: Foenix printers deliver the industry's lowest running costs & lowest cost per print
+
 
   fxone_standard:
     first_section_title: STANDARD
@@ -910,7 +914,8 @@ en:
     codapack_sub_title: Contact Coders & Plastic Ink Roller Printers
     codapack_text: Solve your carton printing problems with codapack contact coders using plastic ink roller and baselock rubber type from Foenix Coding
     baselock_title: Foenix Baselock
-    baselock_sub_title: Interchangeable rubber type for all contact coding machines
+    baselock_sub_title: Interchangeable rubber type
+    baselock_sub_title_two: for all contact coding machines
     baselock_text_one: QUICK AND EASY TO CHANGE PRINT
     baselock_text_two: EXTENSIVE RANGE OF TYPE STYLES
     baselock_text_three: CUSTOMISED LOGOS
