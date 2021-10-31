@@ -1,0 +1,35 @@
+.legal-img {
+  width: 80px;
+}
+
+.legal-wrapper {
+  .nav-link {
+    height: 100px;
+    width: 200px;
+    border-left: 2px solid #F3F3F3;
+    border-right: 2px solid #F3F3F3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    border-radius: 0;
+  }
+  .nav-link.active {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+    border-top: 2px solid #F3F3F3;
+    border-bottom: 2px solid #F3F3F3;
+    background-color: #FFFFFF;
+    color: #000000;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.no-border-right {
+  border-right: none;
+}
+
+.legal-content {
+  width: 100%;
+  border-radius: 8px;
+}

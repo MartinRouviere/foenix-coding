@@ -25,21 +25,21 @@
     </div>
   </div>
 
-  <div class="max-width p-5">
+  <div class="max-width py-5 px-3 px-md-5">
     <div class="row m-0">
-      <div class="col-4">
+      <div class="col-12 col-md-4 mb-4 mb-md-0">
         <div class="inks-card">
           <h2><%= t("inks_and_consumables.inks_card_title_one_html") %></h2>
           <p class="s-medium-text"><%= t("inks_and_consumables.inks_card_text_one") %></p>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-12 col-md-4 mb-4 mb-md-0">
         <div class="inks-card">
           <h2><%= t("inks_and_consumables.inks_card_title_two_html") %></h2>
           <p class="s-medium-text"><%= t("inks_and_consumables.inks_card_text_two") %></p>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-12 col-md-4 mb-4 mb-md-0">
         <div class="inks-card">
           <h2><%= t("inks_and_consumables.inks_card_title_three_html") %></h2>
           <p class="s-medium-text"><%= t("inks_and_consumables.inks_card_text_three") %></p>
@@ -48,7 +48,7 @@
     </div>
   </div>
 
-  <div class="max-width p-5">
+  <div class="max-width py-5 px-3 px-md-5">
     <div class="row m-0 py-5 column-reverse align-items-center">
       <div class="col-12 col-md-6">
         <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626691186/iacsc_psnef9.png", class: "w-100 parallax-img", alt: "Sealed ink catridges") %>
@@ -73,7 +73,7 @@
     <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626692167/iacmi_i9zfzf.png", class: "w-100", alt: "printed tube") %>
   </div>
 
-  <div class="max-width p-5">
+  <div class="max-width py-5 px-3 px-md-5">
     <div class="row m-0 py-5 column-reverse align-items-center">
       <div class="col-12 col-md-6">
         <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626692905/iacgi3_ldzjxn.png", class: "w-100 parallax-img", alt: "PVC pipe inks") %>
@@ -95,7 +95,7 @@
   </div>
 
   <div class="dark-bg pt-5">
-    <div class="max-width p-5">
+    <div class="max-width py-5 px-3 px-md-5">
       <div class="row m-0 justify-content-center">
         <div class="col-12 col-md-6">
           <div class="d-flex flex-column justify-content-center align-items-center">
@@ -121,11 +121,11 @@
           <div class="d-flex flex-column justify-content-center align-items-center">
             <h4 class="text-white text-center mb-0"><%= t("inks_and_consumables.special_ink_title") %></h4>
             <h4 class="text-white text-center mb-4"><%= t("inks_and_consumables.special_ink_title_two") %></h4>
-            <div class="d-flex justify-content-center mb-4 pb-2">
-              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_one") %></span>
-              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_two") %></span>
-              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_three") %></span>
-              <span class="small-text text-white text-center mx-3"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_four") %></span>
+            <div class="d-flex justify-content-center inks-s mb-4 pb-2">
+              <span class="small-text text-white text-center mx-3 mb-3 mmb-md-0"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_one") %></span>
+              <span class="small-text text-white text-center mx-3 mb-3 mmb-md-0"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_two") %></span>
+              <span class="small-text text-white text-center mx-3 mb-3 mmb-md-0"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_three") %></span>
+              <span class="small-text text-white text-center mx-3 mb-3 mmb-md-0"><i class="far fa-check-circle mr-1"></i><%= t("inks_and_consumables.special_ink_text_four") %></span>
             </div>
             <%= link_to "#{ t("navbar.contact") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
           </div>
@@ -134,17 +134,19 @@
     </div>
   </div>
   <div class="dark-bg d-flex justify-content-center align-items-center">
-    <div class="plus-newsletter max-width p-5 bg-white mb-5">
-      <h2 class="text-center mb-4"><%= t('inks_and_consumables.stay_informed_title') %> </h2>
-      <p class="text-center mb-5"><%= t('inks_and_consumables.stay_informed_text') %> </p>
-      <div style="width: 392px;">
-        <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
-          <%= text_field_tag :email, params[:email], class: "form-control about-form-input stay-informed-input", placeholder: "#{ t('fxone_plus.placeholder') }"
-          %>
-          <%= button_tag class: "about-form-button" do %>
-            <i class="fas fa-paper-plane"></i>
+    <div class="max-width px-3 px-md-5 py-5 d-flex justify-content-center align-items-center">
+      <div class="plus-newsletter max-width bg-white mb-5">
+        <h2 class="text-center mb-4"><%= t('inks_and_consumables.stay_informed_title') %> </h2>
+        <p class="text-center mb-5"><%= t('inks_and_consumables.stay_informed_text') %> </p>
+        <div class="form-holder">
+          <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
+            <%= text_field_tag :email, params[:email], class: "form-control about-form-input stay-informed-input", placeholder: "#{ t('fxone_plus.placeholder') }"
+            %>
+            <%= button_tag class: "about-form-button" do %>
+              <i class="fas fa-paper-plane"></i>
+            <% end %>
           <% end %>
-        <% end %>
+        </div>
       </div>
     </div>
   </div>

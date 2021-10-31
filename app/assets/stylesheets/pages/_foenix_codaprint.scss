@@ -19,8 +19,8 @@
   width: 90%;
   position: relative;
   // margin-bottom: -112px !important;
-  @include for-medium-devices-down {
-    // margin-bottom: 0px !important;
+  @include for-small-devices-down {
+    width: 100%;
   }
 }
 

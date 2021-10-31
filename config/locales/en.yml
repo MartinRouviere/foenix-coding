@@ -911,7 +911,9 @@ en:
     video_text_seven: With the FX ONE Standard cut costs by replacing label printer
 
   legal:
-
+    first_section_title: LEGAL
+    cookie_policy: Cookie Policy
+    privacy_policy: Privacy Policy
 
   contact_coders:
     first_section_title: Contact Coding & Marking Machines

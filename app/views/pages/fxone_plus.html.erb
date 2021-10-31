@@ -63,7 +63,7 @@
       <p class="text-center text-orange bold"><%= t('fxone_plus.plus_newsletter_title') %> </p>
       <h2 class="text-center text-white mb-0"><%= t('fxone_plus.plus_newsletter_description') %> </h2>
       <h2 class="text-center text-white mb-5"><%= t('fxone_plus.plus_newsletter_description_two') %> </h2>
-      <div style="width: 392px;">
+      <div class="form-holder">
         <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
           <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
           %>

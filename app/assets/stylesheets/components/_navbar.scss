@@ -15,7 +15,7 @@
 
   @include for-medium-devices-down {
     box-shadow: none;
-    padding: 20px 40px 0 20px;
+    padding: 0 40px 0 20px;
     border-radius: 0;
     position: absolute;
     top: 0;
@@ -36,8 +36,6 @@
   z-index: 1000;
   @include for-medium-devices-down {
     padding: 0;
-    position: relative;
-    z-index: unset;
   }
 }
 
@@ -85,6 +83,7 @@
     }
     @include for-medium-devices-down {
       border: none;
+      background: transparent;
     }
   }
   .dropdown-menu {

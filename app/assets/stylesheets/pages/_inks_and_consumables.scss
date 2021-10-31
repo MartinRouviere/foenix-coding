@@ -67,6 +67,12 @@
   }
 }
 
+.inks-s {
+  @include for-medium-devices-down {
+    flex-direction: column;
+  }
+}
+
 .inks-third-section-image {
   @include for-phone-only {
     padding: 0 10px;

@@ -139,7 +139,7 @@
           </ul>
           <p class="text-white pl-3" style="font-size: 12px !important; line-height: 18px !important;"><%= t("software.third_section_left_text_nine") %></p>
         </div>
-        <div class="fxone-fifth-section-right software-fifth-section-right" style="padding: 0px 40px;">
+        <div class="fxone-fifth-section-right software-fifth-section-right">
           <h2 class="text-white" style="margin-bottom: 25px;"><%= t("software.third_section_right_title") %></h2>
           <p class="text-white bold one-rem-text"><%= t("software.third_section_right_sub_title") %></p>
           <ul style="padding-left: 16px;">
@@ -273,12 +273,12 @@
   </div>
 
   <div class="dark-bg pb-5">
-    <div class="max-width p-5 d-flex justify-content-center align-items-center">
+    <div class="max-width px-3 px-md-5 py-5 d-flex justify-content-center align-items-center">
       <div class="plus-newsletter charcoal-bg my-5">
         <h2 class="text-center text-white mb-3 px-3 px-md-5"><%= t('software.newsletter_title') %> </h2>
         <p class="text-center text-white mb-5"><%= t('software.newsletter_description') %> </p>
-        <div style="width: 392px;">
-          <%= form_tag subscribe_path, method: :post, class: 'about-form w-100 pb-5' do %>
+        <div class="form-holder">
+          <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
             <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
             %>
             <%= button_tag class: "about-form-button" do %>

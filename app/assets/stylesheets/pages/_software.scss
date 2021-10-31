@@ -13,6 +13,12 @@
       padding: 0 !important;
     }
   }
+  .fxone-fifth-section-right {
+    padding: 0 40px;
+    @include for-phone-only {
+      padding: 0;
+    }
+  }
 }
 
 .software-first-title {
