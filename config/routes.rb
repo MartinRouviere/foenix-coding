@@ -29,6 +29,8 @@ Rails.application.routes.draw do
     get '/faq', to: 'pages#faq'
     get '/software', to: 'pages#software'
     get '/industry', to: 'pages#industry'
+    get '/video', to: 'pages#video'
+    get '/legal', to: 'pages#legal'
     get '/privacy_policy', to: 'pages#privacy_policy'
     get '/seen_cookie', to: 'pages#seen_cookie_message'
     get '/cookie_policy', to: 'pages#cookie_policy'

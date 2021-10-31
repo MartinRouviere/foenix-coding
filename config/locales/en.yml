@@ -36,6 +36,7 @@ en:
     codapack: Foenix Codapack
     support: Support Documentation
     industry: Industry
+    video: Video
     demo: Request Demo
 
   cookie_bar:
@@ -758,6 +759,7 @@ en:
     fifth_section_text_one: A DLL (Dynamic Link Library) is a set of software functions that can be used by a third party developer to incorporate into their own applications. The Foenix DLL described here provides a set of functions that allows a FX ONE printer to be controlled via the FXPro application or Foenix Touch Controller. The library makes the communication process to the printer much simpler for the developer as it takes care of the actual protocol used. The developer then uses a relatively simple mechanism to montior printers, load messages and transmit data.
     fifth_section_title_two: How Does a DLL Work?
     fifth_section_text_two: The DLL is used by the customers to communicate with the printer. The diagram below gives a basic overview showing how the DLL sits between the application and printer.
+
   industry:
     first_section_title: We provide solutions for all industries and every application
     first_section_text: Emerging businesses with 1 small production line to multi-national corporations with the most demanding applications can all use the FX ONE printer to lower their coding and marking costs, prevent downtime, automate manual processes and improve product quality with high resolution coding.
@@ -892,6 +894,24 @@ en:
     tp_button_one_msg: Try the FX ONE for 7 Days
     tp_button_two: Get a Free Test print
     tp_button_two_msg: On any of your products
+
+  video:
+    first_section_title: Videos
+    first_section_text: Watch Foenix printers print on any items and any materials.
+    first_section_text_two: More videos will regularly be added, make sure to regularly check this page and our youtube page
+    more_videos: More videos coming soon
+    video_text_one: Primary Packaging Coding Solution
+    video_text_one_cont: The FX ONE Remote printer, the most cost-effective solution to mark your products
+    video_text_two: Secondary Packaging Coding Solution
+    video_text_two_cont: The FX ONE Standard printer, the most cost-effective solution for your case coding applications
+    video_text_three: How to achieve high quality, efficient coding on your carton? Find out with the FX ONE Standard printer
+    video_text_four: The FX ONE Standard, the best printer for all your industrial applications
+    video_text_five: The FX ONE Standard printer, ideal for outer cases, trays and corrugated cardboard
+    video_text_six: "The FX ONE Standard: One Printer, Many Applications: Bar codes, logos, carton coding and more"
+    video_text_seven: With the FX ONE Standard cut costs by replacing label printer
+
+  legal:
+
 
   contact_coders:
     first_section_title: Contact Coding & Marking Machines
@@ -1130,7 +1150,7 @@ en:
     address: Address
     address_text_html: Foenix Coding Ltd
                   <br>
-                  The Barns - Hilltop Farm | KT16 0AW
+                  The Barns - Hilltop Farm | Lyne Lane
                   <br>
                   Lyne | Chertsey | Surrey | KT16 0AW
                   <br>
@@ -1198,6 +1218,12 @@ en:
     industry:
       title: "Industry: Trusted by businesses from all industries"
       description: We provide solutions for all industries and every application
+    video:
+      title: "Video - Foenix Coding"
+      description: Watch Foenix printers print on any items and any materials.
+    legal:
+      title: "Legal - Foenix Coding"
+      description: View our Cookie and Privacy policies.
     jobs:
       title: "Careers: Foenix coding is growing. Join us!"
       description: We are always looking for talented new friends that share our vision to push industry forward
@@ -1223,4 +1249,26 @@ en:
   news:
     latest: Latest Story
     news: News/Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

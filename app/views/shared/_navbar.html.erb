@@ -1,4 +1,4 @@
-<% if params[:action] == "fxone_standard" || params[:action] == "cost_of_ownership" || params[:action] == "contact_coders" || params[:action] == "foenix_codaprint" || params[:controller] == "devise/sessions" || params[:controller] == "devise/passwords" %>
+<% if params[:action] == "fxone_standard" || params[:action] == "cost_of_ownership" || params[:action] == "video" || params[:action] == "legal" || params[:action] == "contact_coders" || params[:action] == "foenix_codaprint" || params[:controller] == "devise/sessions" || params[:controller] == "devise/passwords" %>
   <% nav_type = 'dark-nav' %>
   <% nav_bg = 'nav-pt-bg' %>
   <% mb_nav_type = 'mb-dark-nav' %>
@@ -124,7 +124,7 @@
               <%= t("navbar.industry") %>
             <% end %>
           </div>
-          <div class="navbar-item hidden">
+          <div class="navbar-item hidden mr-4">
             <a href="#" role="button" id="companyDropdown"
             class=
             <% if params[:action] == 'about' || params[:action] == 'index'   %>
@@ -153,12 +153,17 @@
                   <% end %>
                 </li>
                 <li class="<%= params[:controller] == 'pages' && params[:action] == 'contact' ? 'navbar-dropdown-item-active' : '' %>">
-                  <%= link_to posts_path do %>
+                  <%= link_to contact_path do %>
                     <%= t("navbar.contact_o") %>
                   <% end %>
                 </li>
               </ul>
             </div>
+          </div>
+          <div class="navbar-item hidden">
+            <%= link_to video_path, class: "#{params[:action] == 'video' ? 'navbar-title nav-left navbar-title-underline' : 'navbar-title nav-left'}" do %>
+              <%= t("navbar.video") %>
+            <% end %>
           </div>
         </div>
       </div>
