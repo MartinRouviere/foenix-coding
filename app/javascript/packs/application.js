@@ -10,6 +10,10 @@ import { initMapbox } from '../plugins/init_mapbox';
 initMapbox();
 AOS.init();
 
+document.querySelector('.bar-close').addEventListener('click', () => {
+  document.querySelector('.top-bar').remove();
+})
+
 const image = document.querySelectorAll('.parallax-img');
 new simpleParallax(image, {
   scale: 1.3,

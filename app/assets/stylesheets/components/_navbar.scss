@@ -436,3 +436,27 @@
   font-size: 14px;
   padding-bottom: 5px;
 }
+
+.top-bar {
+  height: 40px;
+  background: blue;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10000;
+  background: linear-gradient(to right, #D67F7A 26%, #F6DE9F);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  p {
+    font-size: 12px !important;
+  }
+  .bar-close {
+    cursor: pointer;
+    position: absolute;
+    right: 6px;
+  }
+  @include for-medium-devices-down {
+    display: none;
+  }
+}
