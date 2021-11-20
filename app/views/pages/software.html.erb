@@ -48,67 +48,41 @@
       </div>
     </div>
   </div>
+
   <div class="max-width p-5">
     <div class="inks-section software-section">
       <div class="inks-first-section-right software-first-section-right">
-        <div class="software-card-left">
-          <div class="software-card">
-            <%= image_tag 'software-card-icon-1.png', class: 'about-icon mt-3', alt: 'Click and print' %>
-            <div class="software-card-text-container">
-              <p><%= t("software.second_section_card_one") %></p>
-            </div>
-          </div>
-          <div class="software-card">
-            <%= image_tag 'software-card-icon-3.png', class: 'about-icon mt-3', alt: 'printing barcode' %>
-            <div class="software-card-text-container">
-              <p><%= t("software.second_section_card_three") %></p>
-            </div>
-          </div>
-        </div>
-        <div class="software-card-right">
-          <div class="software-card no-margin-top-mobile">
-            <%= image_tag 'software-card-icon-2.png', class: 'about-icon mt-3', alt: 'printing optimization' %>
-            <div class="software-card-text-container">
-              <p><%= t("software.second_section_card_two") %></p>
-            </div>
-          </div>
-          <div class="software-card">
-            <%= image_tag 'software-card-icon-4.png', class: 'about-icon mt-3', alt: 'software integration' %>
-            <div class="software-card-text-container">
-              <p><%= t("software.second_section_card_four") %></p>
-            </div>
-          </div>
-        </div>
+        <%= cl_image_tag("sftwlpt_kspjpy.png", class: "w-100", alt: "Global reach") %>
       </div>
-      <div class="inks-first-section-left software-first-section-left software-check-display">
+      <div class="inks-first-section-left software-check-display d-block sftlap">
         <div>
           <h2><%= t("software.second_section_title") %></h2>
-          <p class="s-medium-text"><%= t("software.second_section_text") %><br><br><%= t("software.second_section_text_two") %></p>
+          <p class="medium-text"><%= t("software.second_section_text") %><br><br><%= t("software.second_section_text_two") %></p>
         </div>
         <div>
           <div class="d-flex align-items-center mb-2">
             <i class="far fa-check-circle mr-2"></i>
-            <p class="s-medium-text mb-0"><%= t("software.second_section_check_one") %></p>
+            <p class="medium-text mb-0"><%= t("software.second_section_check_one") %></p>
           </div>
           <div class="d-flex align-items-center mb-2">
             <i class="far fa-check-circle mr-2"></i>
-            <p class="s-medium-text mb-0"><%= t("software.second_section_check_two") %></p>
+            <p class="medium-text mb-0"><%= t("software.second_section_check_two") %></p>
           </div>
           <div class="d-flex align-items-center mb-2">
             <i class="far fa-check-circle mr-2"></i>
-            <p class="s-medium-text mb-0"><%= t("software.second_section_check_three") %></p>
+            <p class="medium-text mb-0"><%= t("software.second_section_check_three") %></p>
           </div>
           <div class="d-flex align-items-center mb-2">
             <i class="far fa-check-circle mr-2"></i>
-            <p class="s-medium-text mb-0"><%= t("software.second_section_check_four") %></p>
+            <p class="medium-text mb-0"><%= t("software.second_section_check_four") %></p>
           </div>
           <div class="d-flex align-items-center mb-2">
             <i class="far fa-check-circle mr-2"></i>
-            <p class="s-medium-text mb-0"><%= t("software.second_section_check_five") %></p>
+            <p class="medium-text mb-0"><%= t("software.second_section_check_five") %></p>
           </div>
           <div class="d-flex align-items-center">
             <i class="far fa-check-circle mr-2"></i>
-            <p class="s-medium-text mb-0"><%= t("software.second_section_check_six") %></p>
+            <p class="medium-text mb-0"><%= t("software.second_section_check_six") %></p>
           </div>
         </div>
       </div>
@@ -139,7 +113,7 @@
           </ul>
           <p class="text-white pl-3" style="font-size: 12px !important; line-height: 18px !important;"><%= t("software.third_section_left_text_nine") %></p>
         </div>
-        <div class="fxone-fifth-section-right software-fifth-section-right" style="padding: 0px 40px;">
+        <div class="fxone-fifth-section-right software-fifth-section-right">
           <h2 class="text-white" style="margin-bottom: 25px;"><%= t("software.third_section_right_title") %></h2>
           <p class="text-white bold one-rem-text"><%= t("software.third_section_right_sub_title") %></p>
           <ul style="padding-left: 16px;">
@@ -249,14 +223,47 @@
     </div>
   </div>
 
+  <div class="half-bg py-3">
+    <div class="max-width px-5 row justify-content-center">
+      <div class="d-block d-sm-flex">
+        <div class="software-card">
+          <%= image_tag 'software-card-icon-1.png', class: 'about-icon mt-3', alt: 'Click and print' %>
+          <div class="software-card-text-container">
+            <p><%= t("software.second_section_card_one") %></p>
+          </div>
+        </div>
+        <div class="software-card">
+          <%= image_tag 'software-card-icon-3.png', class: 'about-icon mt-3', alt: 'printing barcode' %>
+          <div class="software-card-text-container">
+            <p><%= t("software.second_section_card_three") %></p>
+          </div>
+        </div>
+      </div>
+      <div class="d-block d-sm-flex">
+        <div class="software-card">
+          <%= image_tag 'software-card-icon-2.png', class: 'about-icon mt-3', alt: 'printing optimization' %>
+          <div class="software-card-text-container">
+            <p><%= t("software.second_section_card_two") %></p>
+          </div>
+        </div>
+        <div class="software-card">
+          <%= image_tag 'software-card-icon-4.png', class: 'about-icon mt-3', alt: 'software integration' %>
+          <div class="software-card-text-container">
+            <p><%= t("software.second_section_card_four") %></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="dark-bg">
-    <div class="max-width p-5">
+    <div class="max-width px-3 px-md-5 py-0 py-md-5">
       <div class="row m-0 py-5 align-items-center column-reverse">
         <div class="col-12 col-md-6">
           <%= cl_image_tag("software-graphic-11_ip0jy4.png", class: "w-100 parallax-img", alt: "DLL integration") %>
         </div>
         <div class="col-12 col-md-6">
-          <h2 class="pt-5 mt-4 text-white"><%= t("software.grid_title_five") %></h2>
+          <h2 class="mt-4 text-white"><%= t("software.grid_title_five") %></h2>
           <p class="mb-0 text-white"><%= t("software.grid_description_five_html") %></p>
         </div>
       </div>
@@ -273,12 +280,12 @@
   </div>
 
   <div class="dark-bg pb-5">
-    <div class="max-width p-5 d-flex justify-content-center align-items-center">
+    <div class="max-width px-3 px-md-5 py-5 d-flex justify-content-center align-items-center">
       <div class="plus-newsletter charcoal-bg my-5">
         <h2 class="text-center text-white mb-3 px-3 px-md-5"><%= t('software.newsletter_title') %> </h2>
         <p class="text-center text-white mb-5"><%= t('software.newsletter_description') %> </p>
-        <div style="width: 392px;">
-          <%= form_tag subscribe_path, method: :post, class: 'about-form w-100 pb-5' do %>
+        <div class="form-holder">
+          <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
             <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
             %>
             <%= button_tag class: "about-form-button" do %>

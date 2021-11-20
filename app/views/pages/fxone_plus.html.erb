@@ -5,6 +5,9 @@
 <div class="plus-bg">
   <div class="first-section pb-5 max-width plus-bg" style="overflow-x: unset;">
     <div class="first-section-text">
+      <div class="coming-soon-show mb-3">
+        <p class="coming-soon-text text-orange"><%= t("fxone_plus.coming_soon") %></p>
+      </div>
       <h1 class="w-100 grey"><%= t("fxone_plus.first_section_title") %></h1>
       <p class="grey mb-4" style="width: 90%;"><%= t("fxone_plus.first_section_text") %></p>
       <%= form_tag subscribe_path, method: :post, class: 'about-form', style: 'width: 90%;' do %>
@@ -60,7 +63,7 @@
       <p class="text-center text-orange bold"><%= t('fxone_plus.plus_newsletter_title') %> </p>
       <h2 class="text-center text-white mb-0"><%= t('fxone_plus.plus_newsletter_description') %> </h2>
       <h2 class="text-center text-white mb-5"><%= t('fxone_plus.plus_newsletter_description_two') %> </h2>
-      <div style="width: 392px;">
+      <div class="form-holder">
         <%= form_tag subscribe_path, method: :post, class: 'about-form w-100' do %>
           <%= text_field_tag :email, params[:email], class: "form-control about-form-input", placeholder: "#{ t('fxone_plus.placeholder') }"
           %>

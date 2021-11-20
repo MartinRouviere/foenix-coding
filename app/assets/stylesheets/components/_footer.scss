@@ -153,3 +153,35 @@
     }
   }
 }
+
+.drop-men-footer {
+  min-width: unset !important;
+  margin-top: 16px !important;
+  padding: 0 !important;
+  min-width: 220px;
+  .dropdown-item {
+    padding: 10px 48px 10px 16px !important;
+  }
+}
+
+.ln-en:hover {
+  border-radius: 5px 5px 0 0 !important;
+}
+
+.ln-fr:hover {
+  border-radius: 0px 0px 5px 5px !important;
+}
+
+.ln-tick {
+  color: #FF7A00;
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  font-size: 12px;
+}
+
+
+
+
+
+

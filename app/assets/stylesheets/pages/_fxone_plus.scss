@@ -21,6 +21,14 @@
   overflow: hidden;
 }
 
+.form-holder {
+  width: 392px;
+  @include for-small-devices-down {
+    width: 100%;
+  }
+
+}
+
 .fxone-plus-dots {
   width: 160px;
   position: absolute;
@@ -69,6 +77,27 @@
   }
 }
 
+.coming-soon-show {
+  background: #3F3F3F;
+  border: 1px solid #4F4F4F;
+  height: 50px;
+  width: 180px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  // background-color: #F2F4F8;
+  z-index: 5;
+  @include for-medium-devices-down {
+    height: 70px;
+    width: 210px;
+    top: calc(50% - 35px);
+    left: calc(50% - 105px);
+  }
+}
+
 .coming-soon-text {
   font-size: 20px;
   font-weight: lighter;
@@ -96,6 +125,9 @@
   box-shadow: 0px 26px 44px rgba(0,0,0,0.8);
   @include for-medium-devices-down {
     width: 100%;
+  }
+  @include for-small-devices-down {
+    padding: 32px 24px;
   }
 }
 

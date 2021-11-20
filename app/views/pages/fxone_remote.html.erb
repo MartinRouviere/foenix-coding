@@ -43,7 +43,7 @@
   </div>
   <div class="first-section max-width">
     <div class="">
-      <div class="row m-0 py-5">
+      <div class="row m-0 py-5 align-items-center">
         <div class="col-12 col-md-6">
           <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_one") %></h2>
           <p class="mb-0"><%= t("fxone_remote.grid_description_one_html") %></p>
@@ -55,7 +55,7 @@
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174718/fxr-1_hbvcdy.png", class: "w-100 parallax-img", alt: "Lid printing") %>
         </div>
       </div>
-      <div class="row m-0 py-5 column-reverse">
+      <div class="row m-0 py-5 column-reverse align-items-center">
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174899/fxr-2_ns4kn9.png", class: "w-100 parallax-img", alt: "Modular inkjet coder") %>
         </div>
@@ -67,7 +67,7 @@
           <% end %>
         </div>
       </div>
-      <div class="row m-0 py-5">
+      <div class="row m-0 py-5 align-items-center">
         <div class="col-12 col-md-6">
           <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_three") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_three_html") %></p>
@@ -79,7 +79,7 @@
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174901/fxr-3_a87w8m.png", class: "w-100 parallax-img", alt: "Box printing") %>
         </div>
       </div>
-      <div class="row m-0 py-5 column-reverse">
+      <div class="row m-0 py-5 column-reverse align-items-center">
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174903/fxr-4_mcavip.png", class: "w-100 parallax-img", alt: "Auto shutter") %>
         </div>
@@ -91,7 +91,7 @@
           <%# end %>
         </div>
       </div>
-      <div class="row m-0 py-5">
+      <div class="row m-0 py-5 align-items-center">
         <div class="col-12 col-md-6">
           <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_five") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_five_html") %></p>
@@ -103,7 +103,7 @@
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174905/fxr-5_uluvk9.png", class: "w-100 parallax-img", alt: "Ink cartridge") %>
         </div>
       </div>
-      <div class="row m-0 py-5 column-reverse">
+      <div class="row m-0 py-5 column-reverse align-items-center">
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626174907/fxr-6_njsqbw.png", class: "w-100 parallax-img", alt: "FX APP Software") %>
         </div>
@@ -398,7 +398,7 @@
           </div>
         </div>
         <div class="col-12 col-lg-6 pt-5 pt-lg-3 pr-0 pl-0 pl-lg-3">
-          <div class="bg-white fxone-range ml-lg-1">
+          <div class="bg-white fxone-range ml-lg-1 position-relative">
             <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626261126/fxor-3_xo5t1s.png", class: "mb-5 fxone-range-img-two", alt: "FX ONE Plus") %>
             <h1 class="text-center grey mb-0 mt-5"><%= t("fxone_remote.fx_one_plus") %></h1>
             <h4 class="text-center grey  mb-0"><%= t("fxone_remote.fx_one_plus_sub") %></h4>
@@ -406,6 +406,9 @@
             <p class="text-center grey mb-0"><%= t("fxone_remote.fx_one_plus_text") %></p>
             <p class="text-center grey mb-0"><%= t("fxone_remote.fx_one_plus_text_two") %></p>
             <p class="text-center grey mb-4"><%= t("fxone_remote.fx_one_plus_text_three") %></p>
+            <div class="printers-coming-soon  pos-top-right px-2 py-1">
+              <p class="text-orange bold mb-0"><%= t("printers.coming_soon") %></p>
+            </div>
             <%= link_to '#', class: 'link-orange' do %>
               <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
@@ -414,43 +417,21 @@
       </div>
     </div>
   </div>
+  <div class="dark-bg pb-5">
+    <div class="max-width px-3 px-md-5">
+      <div class="remote-pop">
+        <div class="d-block d-md-flex justify-content-between align-items-center w-100">
+          <div class="flex-grow-1">
+            <p class="mb-4 medium-text text-orange"><%= t("fxone_remote.low_ink") %></p>
+            <p class="text-white medium-text text-orange mb-0"><%= t("fxone_remote.low_ink_text") %></p>
+            <p class="text-white medium-text text-orange mb-0"><%= t("fxone_remote.low_ink_text_two") %></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+          </div>
+          <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
 

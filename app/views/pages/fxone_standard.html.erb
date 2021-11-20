@@ -29,7 +29,7 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item">
-            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626351569/fxos-3_hqdbur.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer image one") %>
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1637416750/fxostrmw_bqzxh5.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer image one") %>
           </div>
           <div class="carousel-item active">
             <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626351570/fxos-1_qwyn84.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE printer image two") %>
@@ -44,40 +44,47 @@
 
   <div class="first-section max-width dark-bg">
     <div class="">
-      <div class="row m-0 py-5">
+      <div class="row m-0 py-5 align-items-center">
         <div class="col-12 col-md-6">
           <h2 class="text-white"><%= t("fxone_standard.grid_title_one") %></h2>
           <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_one_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
-            <p class="text-orange bold"><%= t("fxone_standard.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
-          <% end %>
+          <div class="d-flex align-items-center">
+            <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange bold mb-0 ml-4"><%= t("fxone_standard.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
+          </div>
         </div>
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356627/fxosg-1_gnmcps.png", class: "w-100 parallax-img", alt: "High resolution package printing") %>
         </div>
       </div>
-      <div class="row m-0 py-5 column-reverse">
+      <div class="row m-0 py-5 column-reverse align-items-center">
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356628/fxosg-2_cssapd.png", class: "w-100 parallax-img", alt: "Reduce print costs") %>
         </div>
         <div class="col-12 col-md-6">
           <h2 class="text-white"><%= t("fxone_standard.grid_title_two") %></h2>
           <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_two_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
-            <p class="text-orange bold"><%= t("fxone_standard.grid_link_two") %> <i class="fas fa-arrow-right ml-2"></i></p>
-          <% end %>
+          <div class="d-flex align-items-center">
+            <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+            <%= link_to '#', class: 'link-orange' do %>
+              <p class="text-orange bold mb-0 ml-4"><%= t("fxone_standard.grid_link_two") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
+          </div>
         </div>
       </div>
-      <div class="row m-0 py-5">
+      <div class="row m-0 py-5 align-items-center">
         <div class="col-12 col-md-6">
           <h2 class="text-white"><%= t("fxone_standard.grid_title_three") %></h2>
           <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_three_html") %></p>
+          <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
         </div>
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356627/fxosg-3_puozmu.png", class: "w-100 parallax-img", alt: "Versatile printing") %>
         </div>
       </div>
-      <div class="row m-0 py-5 column-reverse">
+      <div class="row m-0 py-5 column-reverse align-items-center">
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356627/fxosg-4_oyekr0.png", class: "w-100 parallax-img", alt: "FX App Software") %>
         </div>
@@ -359,7 +366,7 @@
           </div>
         </div>
         <div class="col-12 col-lg-6 pt-3 pl-0 pr-0 pr-lg-3">
-          <div class="bg-white fx-standard-border fxone-range ml-lg-1">
+          <div class="bg-white fx-standard-border fxone-range ml-lg-1 position-relative">
             <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626261126/fxor-3_xo5t1s.png", class: "mb-5 fxone-range-img-one", alt: "FX ONE Plus") %>
             <h1 class="text-center grey mb-0 mt-5"><%= t("fxone_remote.fx_one_plus") %></h1>
             <h4 class="text-center grey  mb-0"><%= t("fxone_remote.fx_one_plus_sub") %></h4>
@@ -367,6 +374,9 @@
             <p class="text-center grey mb-0"><%= t("fxone_remote.fx_one_plus_text") %></p>
             <p class="text-center grey mb-0"><%= t("fxone_remote.fx_one_plus_text_two") %></p>
             <p class="text-center grey mb-4"><%= t("fxone_remote.fx_one_plus_text_three") %></p>
+            <div class="printers-coming-soon  pos-top-right px-2 py-1">
+              <p class="text-orange bold mb-0"><%= t("printers.coming_soon") %></p>
+            </div>
             <%= link_to '#', class: 'link-orange' do %>
               <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
@@ -385,6 +395,22 @@
               <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bg-white pb-5">
+    <div class="max-width px-3 px-md-5">
+      <div class="remote-pop">
+        <div class="d-block d-md-flex justify-content-between align-items-center w-100">
+          <div class="flex-grow-1">
+            <p class="mb-2 mb-md-4 medium-text text-orange"><%= t("fxone_remote.low_ink") %></p>
+            <p class="text-white medium-text text-orange mb-0"><%= t("fxone_remote.low_ink_text") %></p>
+            <p class="text-white medium-text text-orange mb-2 mb-md-0"><%= t("fxone_remote.low_ink_text_two") %></p>
+
+          </div>
+          <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
         </div>
       </div>
     </div>

@@ -15,7 +15,7 @@
 
   @include for-medium-devices-down {
     box-shadow: none;
-    padding: 20px 40px 0 20px;
+    padding: 0 40px 0 20px;
     border-radius: 0;
     position: absolute;
     top: 0;
@@ -36,8 +36,6 @@
   z-index: 1000;
   @include for-medium-devices-down {
     padding: 0;
-    position: relative;
-    z-index: unset;
   }
 }
 
@@ -73,11 +71,11 @@
   }
   .navbar-foenix {
     background: #2A2A2A;
-    border: 1px solid #353535;
+    border: 2px solid #535353;
     a, i {
       color: #FFFFFF;
       &:hover {
-        color: #FFFFFF;
+        color: #FF7A00 !important;
         i {
           color: #FFFFFF;
         }
@@ -85,10 +83,14 @@
     }
     @include for-medium-devices-down {
       border: none;
+      background: transparent;
     }
   }
   .dropdown-menu {
     background: #2A2A2A;
+    box-shadow: none;
+    border: 2px solid #535353;
+
     .printers-menu {
       background: #2A2A2A !important;
     }
@@ -96,7 +98,7 @@
       background: #444444 !important;
     }
     .navbar-dropdown-item-active span {
-      color: #FFFFFF !important;
+      color: #FF7A00 !important;
     }
   }
 }
@@ -189,10 +191,10 @@
 .navbar-dropdown-item-active {
   background-color: #F6F9FC;
   a {
-    color: #474747 !important;
+    color: #FF7A00 !important;
   }
   span {
-    color: #474747 !important;
+    color: #FF7A00 !important;
   }
 }
 
@@ -402,6 +404,7 @@
 .printers-text {
   font-size: 12px !important;
   margin: 10px 0 !important;
+  font-family: 'Gilroy-Regular' !important;
 }
 
 .printers-text-container {
@@ -432,4 +435,28 @@
   color: #7F8488;
   font-size: 14px;
   padding-bottom: 5px;
+}
+
+.top-bar {
+  height: 40px;
+  background: blue;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10000;
+  background: linear-gradient(to right, #D67F7A 26%, #F6DE9F);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  p {
+    font-size: 12px !important;
+  }
+  .bar-close {
+    cursor: pointer;
+    position: absolute;
+    right: 6px;
+  }
+  @include for-medium-devices-down {
+    display: none;
+  }
 }

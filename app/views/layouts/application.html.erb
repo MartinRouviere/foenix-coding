@@ -53,6 +53,9 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css">
   </head>
   <body>
+    <% if params[:action] == 'legal' || params[:action] == 'software' %>
+      <%= render 'shared/top_bar' %>
+    <% end %>
     <% unless params[:action] == 'landing' || params[:action] == 'sauven_marking' %>
       <%= render 'shared/navbar' %>
       <%= render 'shared/flashes' %>

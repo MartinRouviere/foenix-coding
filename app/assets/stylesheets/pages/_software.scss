@@ -13,6 +13,28 @@
       padding: 0 !important;
     }
   }
+  .fxone-fifth-section-right {
+    padding: 0 40px;
+    @include for-phone-only {
+      padding: 0;
+    }
+  }
+}
+
+.sftlap {
+  padding-left: 12vw;
+  @include for-medium-devices-down {
+    padding-left: 6vw;
+  }
+  @include for-small-devices-down {
+    padding-left: 0;
+  }
+}
+
+.sft-crd-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .software-first-title {
@@ -109,17 +131,12 @@
   background: #FFFFFF;
   height: 200px;
   width: 170px;
-  margin: 20px 0;
+  margin: 16px;
   padding: 10px 20px;
   p {
     font-size: 14px;
     margin: 0;
     text-align: center;
-  }
-  @include for-phone-only {
-    margin: 20px auto;
-    height: 200px;
-    width: 180px;
   }
 }
 

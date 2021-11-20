@@ -1,6 +1,8 @@
 .faq-page {
   .first-section {
     padding-bottom: 0 !important;
+    align-items: flex-start;
+    min-height: calc(80vh - 176px);
   }
   .carousel-item {
     padding: 0;
@@ -32,9 +34,6 @@
   position: relative;
   z-index: 2;
   padding-right: 40px;
-  p {
-    font-weight: 500;
-  }
 }
 
 .faq-card-body {
@@ -107,4 +106,8 @@
 .zindex2 {
   position: relative;
   z-index: 2;
+}
+
+.btn-width-220 {
+  width: 220px;
 }

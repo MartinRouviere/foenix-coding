@@ -11,6 +11,7 @@ en:
     login: Login
     logout: Logout
     contact: Contact Us
+    contact_o: Contact
     printers: Printers
     printer_one: FX ONE Standard
     printer_two: FX ONE Remote
@@ -35,7 +36,9 @@ en:
     codapack: Foenix Codapack
     support: Support Documentation
     industry: Industry
+    video: Video
     demo: Request Demo
+    bar: Stop spending a fortune on ink catridges & maintenance contract! Foenix printers deliver the industry's lowest running costs & lowest cost per print
 
   cookie_bar:
     content: By using this website, you agree to our
@@ -77,9 +80,9 @@ en:
     title3: What are the Dimensions?
     desc3: It is  242mm by 178mm by 90mm or if you prefer 9.52 inches by 7 inches by 3.54 inches.
     title4: Where can I find official Foenix distributors?
-    desc4_1: Through our large network of distributors we are present on every continent and we are able to offer that printers in almost every country!
-    desc4_2: We believe we can only fully guarantee consistent product quality and the best customer service by offering them by our local representatives.
-    desc4_3: Our existing distributors range is from small one-person companies to international corporations. By experience we found that not size but commitment, extensive local market knowledge and relevant contacts and competences are the key factors to success.
+    desc4_1: Through our large network of distributors we are present on every continent and we are able to offer the printers in almost every country!!
+    desc4_2: We believe we can only fully guarantee consistent product quality and the best customer service by offering them through our local representatives.
+    desc4_3: Our existing distributors range is from small one-person companies to international corporations. By experience we have found that it is not size but commitment, extensive local market knowledge and relevant contacts and competences which are the key factors to success.
     desc4_4: Our resellers are always there for you offering
     desc4_5: Prompt, professional support in your time zone and language.
     desc4_6: Fast and cost-effective shipping.
@@ -95,9 +98,9 @@ en:
     desc6_3: During the free trial, you’ll have access to all the printer functionality and will be able to monitor the cost per print and quickly see how much money you could save using our printer.
     desc6_4: Free trial is subject to availability.
     title7: If I own different Foenix printers – standard or remote - will I need a separate Software for each one?
-    desc7: No. All our printer are fully compatible with our Software. No matter the model you are using you can monitor all your printers from the FX APP.
+    desc7: No. All our printers are fully compatible with our Software. No matter which model you are using you can monitor all your printers from the FX APP.
     title8: What are the differences between the FX ONE Standard and FX ONE Remote printer?
-    desc8_1: The FX One Standard is the perfect printer for all the case coding application. It works with oil based ink for porous surfaces and will give you excellent result to print on the side of a carton.
+    desc8_1: The FX One Standard is the perfect printer for all the case coding applications. It works with oil based ink for porous surfaces and will give you excellent result to print on the side of a carton.
     desc8_2: You can print anything from 8 lines of simple text to variable barcodes, expiry dates, logo, shift, counters, external data from database, QR codes…
     desc8_3: This printer will print in high resolution with a 18mm print height.
     desc8_4: It has the lowest cost per print on the market, it is the most efficient way for you to print information on a box.
@@ -106,8 +109,8 @@ en:
     desc8_7: This printer works either with oil based ink for porous surfaces (like carton, paper, wood…) or solvent based ink for non-porous surfaces (like plastic, metal, glass…).
     desc8_8: You can virtually print on any products with that printer.
     title9_1: FX ONE Remote
-    title9_2: Motorized or Manual shutter, what is the difference?
-    desc9: The FX ONE remote printer has a shutter to protect the printhead. With the motorized version the shutter will close automatically after printing. With the manual version you will have to open the shutter manually at the beginning of the day and close it manually at the end of the day when the production stops.
+    title9_2: Motorised or Manual shutter, what is the difference?
+    desc9: The FX ONE remote printer has a shutter to protect the printhead. With the motorised version the shutter will close automatically after printing. With the manual version you will have to open the shutter manually at the beginning of the day and close it manually at the end of the day when the production stops.
     title10: Can I print on the top of a product?
     desc10: Yes, With the remote printhead and you can technically print to any angle
     title11: What type of ink do you offer? 
@@ -231,7 +234,7 @@ en:
 
   inks_and_consumables:
     first_section_text: Large Ink Cartridges
-    first_section_text_two: The FX ONE printer is compatible with many different types of ink making it the most versatile printer on the market. Print on any substrate and up to 15 million characters per cartridge
+    first_section_text_two: The FX ONE printer is compatible with many different types of ink making it the most versatile printer on the market. Print on any substrate and up to 15 million characters per cartridge. We offers the widest range of inkjet fluids to meet even the most specialized customer applications
     inks_card_title_one_html: "High Adhesion<span class='text-orange'>.</span>"
     inks_card_text_one: High Adhesion Ink specifically designed for PVC extrusion application. Get unprecedented print quality on PVC pipes.
     inks_card_title_two_html: "Wide Range of Inks<span class='text-orange'>.</span>"
@@ -356,10 +359,10 @@ en:
                               <br>
                               Foenix Coding understands the Art of Simplicity and has created a simple and cost effective printer that is exactly suited to the customer specifications."
     inkjet_printer_title: How to choose an inkjet printer
-    inkjet_printer_text_html: "We know choosing an inkjet printer is not easy. There are plenty of different technologies, manufacturers and models availble.
+    inkjet_printer_text_html: "We know choosing an inkjet printer is not easy. There are plenty of different manufacturers models and technologies availble.
                              <br>
                              <br>
-                             Each application has different requirements. You need first to understand well your application, this will save you a lot of time and disappointment.
+                             Every application has a different requirement. Understanding your application will save you a lot of time and disappointment.
                              <br>
                              Download our Free Guide to compare Foenix printers vs competition."
     newsletter_title: Receive our Free Guide to help you choose your inkjet printer
@@ -403,7 +406,7 @@ en:
   printers:
     title: FX ONE SERIES
     text: The Foenix range of ink jet printers are all designed as industrial inkjet printers for coding and marking solutions.
-          The main design criteria for each printer is ease of use, low maintenance, cost effectiveness and offers ultra high resolution printing.
+          The main design criteria for each printer are the ease of use, low maintenance and cost effectiveness providing ultra-high resolution printing.
     coming_soon: COMING SOON
 
   fxone_remote:
@@ -538,8 +541,8 @@ en:
     build_to_last_description_two: group means it will be yours for years to come
     discover: Discover the FX ONE range
     shared_tech: Shared Technology
-    shared_tech_text_one: Our FX ONE Printers are built in a modular way with very few components.
-    shared_tech_text_two: FX ONE parts are 100% interchangeable, between similar machines and between models.
+    shared_tech_text_one: The FX ONE Printers are built in a modular way using very few components.
+    shared_tech_text_two: FX ONE parts are 100% interchangeable, being used in similar machines and similar models.
     shared_tech_text_three: The only difference between the models is the location of the print head. The FX ONE Standard has the print head incorporated in the control unit and the FX ONE Remote & FX ONE Plus have a remote print head connected to the control unit with a flexible conduit.
     fx_one_standard: FX ONE Standard
     fx_one_standard_sub: The smart solution for high
@@ -572,6 +575,10 @@ en:
     sixth_section_right_sub_text_four: "To protect the most critical part of your printer: the printhead engine"
     seventh_section_title: Flawless prints, every time
     seventh_section_text: High quality, well-made, high precision is what FX ONE printers. We offer the simplest, most efficient way possible to code your product in High Resolution.
+    low_ink: Lowest Ink usage on the market
+    low_ink_text: Stop spending a fortune on ink cartridges & maintenance contract!
+    low_ink_text_two: Foenix printers deliver the industry's lowest running costs & lowest cost per print
+
 
   fxone_standard:
     first_section_title: STANDARD
@@ -603,8 +610,8 @@ en:
     fx_one_remote_sub: The smart alternative
     fx_one_remote_sub_two: to CIJ printing
     fx_one_remote_text: The FX ONE Remote inkjet printer is one of the lowest cost
-    fx_one_remote_text_two: per code and lowest maintenance small character printers.
-    fx_one_remote_text_three: It offers a real alternative to code your products.
+    fx_one_remote_text_two: per code and lowest  maintenance small character printers available.
+    fx_one_remote_text_three: It offers a real alternative for coding your products.
     second_section_title: Overview
     first_card_title: High Resolution Coding & Marking
     first_card_text: 1 to 8 lines of print, with 2-18mm print height.
@@ -664,12 +671,12 @@ en:
 
   software:
     first_section_title_one: FX TOUCH Controller
-    first_section_text_one: Control your printer with just a touch. Besides the usual functions like barcodes, counters, logos, date, time, shift etc the FX ONE printer comes with PC software and network connectivity as a standard.
-    first_section_text_two: Foenix Coding understands the Art of Simplicity and creates a simple and cost effective printer that is exactly suited to the customers specifications.
+    first_section_text_one: Control your printer with just a touch. Besides the usual functions like barcodes, counters, logos, date, time, shift etc the FX ONE printer comes with PC software and network connectivity as standard.
+    first_section_text_two: Foenix Coding understands the art of simplicity and has created a simple and cost effective printer that is exactly suited to the customers’ specifications.
     first_section_text_three: We paid a lot of attention to the user interface design of the FX APP to simplify the workflow of your daily projects.
     first_section_text_four: The FX APP running on the FX Touch Controller is also available as a PC software so you can control your printer from any computer.
     second_section_title: FX APP Software
-    second_section_text: The ultimate tool to always have your production in control and reduce your costs. Our FX APP can be run on the Foenix Controller as well as the PC offering integration flexibility and can link with databases, allowing full remote control by existing production management software with full networking capability.
+    second_section_text: The ultimate tool to always allow your production to be in control helping you to reduce your costs. Our FX APP can be run on both the Foenix Controller as well as the PC offering integration  and flexibility and can link with databases, allowing full remote control by existing production  management software with full networking capability.
     second_section_text_two: Foenix FX APP enables you to design messages in record time through its user friendly interface.
     second_section_check_one: Simple interactive windows programming
     second_section_check_two: Unlimited message storage
@@ -753,6 +760,7 @@ en:
     fifth_section_text_one: A DLL (Dynamic Link Library) is a set of software functions that can be used by a third party developer to incorporate into their own applications. The Foenix DLL described here provides a set of functions that allows a FX ONE printer to be controlled via the FXPro application or Foenix Touch Controller. The library makes the communication process to the printer much simpler for the developer as it takes care of the actual protocol used. The developer then uses a relatively simple mechanism to montior printers, load messages and transmit data.
     fifth_section_title_two: How Does a DLL Work?
     fifth_section_text_two: The DLL is used by the customers to communicate with the printer. The diagram below gives a basic overview showing how the DLL sits between the application and printer.
+
   industry:
     first_section_title: We provide solutions for all industries and every application
     first_section_text: Emerging businesses with 1 small production line to multi-national corporations with the most demanding applications can all use the FX ONE printer to lower their coding and marking costs, prevent downtime, automate manual processes and improve product quality with high resolution coding.
@@ -762,7 +770,7 @@ en:
     trusted_title_two: from all industries
     trusted_text_html: "Foenix Coding has installed ink jet printers throughout the world in the food, beverage, pharmaceutical, industrial, electronics and construction industries.
                   <br>
-                  Our customers include many of the large manufacturers in these sectors but equally important Foenix enjoy the custom of many small manufacturing companies world wide who equally appreciate the low cost, low maintenance concepts that are built into the printers."
+                  Our customers include many of the largest manufacturers in these sectors but equally important Foenix enjoys the custom of many small manufacturing companies world wide who equally appreciate the low cost, low maintenance concepts that are built into the printers."
     fd_title: Food & Drink
     fd_card_title_one: Bakery Products
     fd_card_text_one: biscuits, cakes cookies...
@@ -888,6 +896,26 @@ en:
     tp_button_two: Get a Free Test print
     tp_button_two_msg: On any of your products
 
+  video:
+    first_section_title: Videos
+    first_section_text: Watch Foenix printers print on any items and any materials.
+    first_section_text_two: More videos will regularly be added, make sure to regularly check this page and our youtube page
+    more_videos: More videos coming soon
+    video_text_one: Primary Packaging Coding Solution
+    video_text_one_cont: The FX ONE Remote printer, the most cost-effective solution to mark your products
+    video_text_two: Secondary Packaging Coding Solution
+    video_text_two_cont: The FX ONE Standard printer, the most cost-effective solution for your case coding applications
+    video_text_three: How to achieve high quality, efficient coding on your carton? Find out with the FX ONE Standard printer
+    video_text_four: The FX ONE Standard, the best printer for all your industrial applications
+    video_text_five: The FX ONE Standard printer, ideal for outer cases, trays and corrugated cardboard
+    video_text_six: "The FX ONE Standard: One Printer, Many Applications: Bar codes, logos, carton coding and more"
+    video_text_seven: With the FX ONE Standard cut costs by replacing label printer
+
+  legal:
+    first_section_title: LEGAL
+    cookie_policy: Cookie Policy
+    privacy_policy: Privacy Policy
+
   contact_coders:
     first_section_title: Contact Coding & Marking Machines
     first_section_text: Whilst ink jet printers are the future, the traditional low cost contact coding and marking printers are still widely used around the world as very cost effective solutions.
@@ -909,7 +937,8 @@ en:
     codapack_sub_title: Contact Coders & Plastic Ink Roller Printers
     codapack_text: Solve your carton printing problems with codapack contact coders using plastic ink roller and baselock rubber type from Foenix Coding
     baselock_title: Foenix Baselock
-    baselock_sub_title: Interchangeable rubber type for all contact coding machines
+    baselock_sub_title: Interchangeable rubber type
+    baselock_sub_title_two: for all contact coding machines
     baselock_text_one: QUICK AND EASY TO CHANGE PRINT
     baselock_text_two: EXTENSIVE RANGE OF TYPE STYLES
     baselock_text_three: CUSTOMISED LOGOS
@@ -930,7 +959,7 @@ en:
     cp_sub_title_four: Choice of print
     cp_text_four: The standard Codaprint type drum is fitted with metal locking rings for use with Baselock interchangeable rubber type. Baselock is available in many character styles and customised logos to enable a quick change of print.
     cp_sub_title_five: Transfer Pads
-    cp_text_five: The Codaprint ink cartridge head should be fitted with a complete set of transfer pads each time a new ink cartridge is used.
+    cp_text_five: The Codaprint cartridge inking head should be fitted with a complete set of transfer pads each time a new ink cartridge is used.
     cp_tp1: "TPS030: For Minimum ink flow"
     cp_tp2: "TPS060: For Maximum ink flow"
     cp_sub_title_six: Handroller
@@ -955,7 +984,7 @@ en:
     list_subtitle_two: Lost cost printer
     list_text_two: The simplest low cost printer for applying repetitive identification marks, use by dates, recycle logos or customer product names onto material which is continuously moving.
     list_subtitle_three: High speed printing
-    list_text_three: The printer can operate at a very low speed but also print up to 100 meters per minute.
+    list_text_three: The printer can operate at a very low speed but also print up to 100 metres per minute.
     list_subtitle_four: Simple ink system
     list_text_four: The ink is contained in a replaceable ink cartridge which has integral ink control regardless of print speed giving a clean low maintenance inking system. This unique ink system ensures that the print never fades until the cartridge is empty.
     list_subtitle_five: Ink cartridge
@@ -1036,7 +1065,7 @@ en:
                         When only changing the code or best before date once a day or once a week, the Codapack printers are the best.
     ccirp_title: Contact coders and ink roller printers
     ccirp_sub_title_one: Applications
-    ccirp_text_one: The most cost effective range of coders for your cartons, sacks, shrink-wrap trays or continuous material.
+    ccirp_text_one_html: The most cost effective range of coders for your cartons, sacks, shrink-wrap trays or continuous material.
                     <br>
                     The simple and efficient range of Codapack contact coders all use replaceable pre-impregnated Plastic-Ink Rollers and interchangeable Baselock Type to print onto porous surfaces.
     ccirp_sub_title_two: Benefits
@@ -1051,7 +1080,7 @@ en:
     cdp_sub_title_one: Baselock Type
     cdp_text_one: An extensive range of Baselock type styles is offered to create a message by simply press fitting the type into the metal locking rings or ribbed rubber based sleeve.
     cdp_sub_title_two: Plastic-ink Rollers
-    cdp_text_two: These ink rollers are quickly placed on the Codapack range of printers to give a dense quality print on to porous surfaces such as cartons, trays and paper sacks.
+    cdp_text_two_html: These ink rollers are quickly placed on the Codapack range of printers to give a dense quality print on to porous surfaces such as cartons, trays and paper sacks.
                   <br>
                   These long life pre-inked rollers are disposable, giving a clean and efficient inking system. They are available in black, blue, red and green.
     cdp_sub_title_three: Fibre and Sponge Rollers
@@ -1124,7 +1153,7 @@ en:
     address: Address
     address_text_html: Foenix Coding Ltd
                   <br>
-                  The Barns - Hilltop Farm | KT16 0AW
+                  The Barns - Hilltop Farm | Lyne Lane
                   <br>
                   Lyne | Chertsey | Surrey | KT16 0AW
                   <br>
@@ -1192,6 +1221,12 @@ en:
     industry:
       title: "Industry: Trusted by businesses from all industries"
       description: We provide solutions for all industries and every application
+    video:
+      title: "Video - Foenix Coding"
+      description: Watch Foenix printers print on any items and any materials.
+    legal:
+      title: "Legal - Foenix Coding"
+      description: View our Cookie and Privacy policies.
     jobs:
       title: "Careers: Foenix coding is growing. Join us!"
       description: We are always looking for talented new friends that share our vision to push industry forward
@@ -1217,4 +1252,26 @@ en:
   news:
     latest: Latest Story
     news: News/Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

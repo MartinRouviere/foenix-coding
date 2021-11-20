@@ -45,6 +45,12 @@ class PagesController < ApplicationController
   def industry
   end
 
+  def video
+  end
+
+  def legal
+  end
+
   def contact_coders
   end
 
