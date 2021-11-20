@@ -1187,30 +1187,38 @@ fr:
     home_page:
       title: "Foenix Coding : Le codage et le marquage en toute simplicité"
       description:  Imprimantes industrielles de marquage et de codage pour imprimer en haute résolution sur tous les matériaux. Foenix Coding Codage et marquage, jet d'encre industriel, imprimante à distance FX One, imprimante standard FX One
+      keywords:
     printers:
       title: "La série FX ONE : La gamme d'imprimantes à jet d'encre Foenix"
       description: Les imprimantes à jet d'encre de la gamme Foenix sont toutes conçues comme des imprimantes à jet d'encre industrielles pour les solutions de codage et de marquage.
+      keywords:
     fxone_standard:
       title: "FX ONE Standard : L'imprimante haute résolution pour toutes vos applications de codage de caisses"
       description: Impression haute résolution directement sur des cartons, des plateaux et des sacs sur une ligne de production pour éliminer le besoin d'emballages pré-imprimés coûteux ou d'étiquettes onéreuses.
+      keywords:
     fxone_remote:
       title: "FX ONE Remote : Une imprimante haute résolution pour toutes vos applications de codage de produits"
       description: La nouvelle imprimante à jet d'encre FX ONE est l'une des imprimantes à petits caractères dont le coût par code et la maintenance sont les plus faibles. Elle offre une réelle alternative pour coder vos produits.
+      keywords:
     fxone_plus:
       title:  "FX ONE Plus : imprimante haute résolution pour toutes vos impressions de grands caractères"
       description: Imprimante de grands caractères jusqu'à 72 mm de hauteur d'impression. L'alternative parfaite aux systèmes d'étiquetage coûteux, complexes et limités.
+      keywords:
     inks_and_consumables:
       title: Encres et consommables pour les imprimantes Foenix Coding
       description: "Grande cartouche d'encre : imprimez jusqu'à 15 millions de caractères avec l'un des coûts par impression les plus bas jamais atteints.  Encre Foenix Coding, cartouches Foenix Coding, maquillage Foenix Coding, nettoyant Foenix Coding "
+      keywords:
     distributors:
       title: Distributeurs de codes Foenix
       description: Foenix Coding dispose d'un réseau croissant de distributeurs dans le monde entier qui se concentrent sur la simplicité, le service client et la garantie de services de qualité supérieure. Rejoignez-nous dès maintenant ! Distributeurs de Foenix Coding, revendeur de Foenix Coding, agents de Foenix Coding, réseau de vente de Foenix Coding
+      keywords:
     cost_of_ownership:
       title: Faites de grosses économies avec l'imprimante à jet d'encre FX One
       description:  Gagnez en confiance pour choisir la solution la plus rentable pour votre entreprise. Calculez le coût total de possession de votre imprimante avant de prendre une décision. Alternative CIJ, alternative TIJ, imprimante HP, imprimante CIJ, imprimante TIJ, étiqueteuses, codage à faible coût, marquage à faible coût
     about:
       title: A propos des experts en codage, marquage et traçabilité
       description: Offrez une imprimante industrielle de haute qualité, bien conçue, à faible coût et sans entretien pour imprimer sur toutes les surfaces. Impression industrielle, codage de caisses, marquage de produits, imprimante d'étiquettes, imprimante piézoélectrique, impression de petits caractères, impression de grands caractères.
+      keywords:
     contact:
       title: Entrez en contact avec l'équipe de codage Foenix
       description:  Contactez-nous pour obtenir plus d'informations sur nos imprimantes jet d'encre industrielles, nos encres et nos consommables. Contact Foenix Coding, Foenix Coding email, Foenix Coding phone
@@ -1220,6 +1228,7 @@ fr:
     industry:
       title: "Industrie : Les entreprises de tous les secteurs d'activité nous font confiance"
       description: Nous fournissons des solutions pour tous les secteurs et toutes les applications
+      keywords:
     video:
       title: "Vidéo - Codage Foenix"
       description: Regardez les imprimantes Foenix imprimer sur tous les objets et tous les matériaux.
@@ -1232,21 +1241,30 @@ fr:
     posts:
       title: Nouvelles et événements
       description: Obtenez les dernières nouvelles et événements
+    software:
+      title:
+      description:
+      keywords:
     contact_coders:
       title: Machines de codage et de marquage des contacts - Foenix Coding
       description: Alors que les imprimantes à jet d'encre sont l'avenir, les imprimantes traditionnelles de codage et de marquage par contact à faible coût sont encore largement utilisées dans le monde entier comme solutions très rentables.
+      keywords:
     foenix_codaprint:
       title: "Foenix Codaprint : L'impression en continu sur tous les matériaux"
       description:  Imprimante continue fiable de Foenix Coding pour le marquage à haute et basse vitesse sur le métal, le plastique, le verre, le carton.
+      keywords:
     foenix_codamark:
       title: "Foenix Codamark : Imprimante de prix et de codes multifonctionnelle"
       description: Marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique à mouvement alternatif Codamark.
+      keywords:
     foenix_codapack:
       title: "Foenix Codapack : Codeurs à contact et imprimantes à rouleau d'encre en plastique"
       description:  Les imprimantes Codapack utilisent toutes des rouleaux d'encre plastique préimprégnés remplaçables et des Baselock interchangeables.
+      keywords:
     support:
       title: Support - Foenix Coding
       description: Documentation d'assistance et manuels d'utilisation de FX ONE
+      keywords:
 
   news:
     latest: Dernières nouvelles
