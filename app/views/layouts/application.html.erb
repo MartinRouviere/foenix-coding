@@ -28,7 +28,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title><%= meta_title %></title>
     <meta name="description" content="<%= meta_description %>">
-
+    <meta name="keywords" content="<%= meta_keywords %>">
     <!-- Facebook Open Graph data -->
     <meta property="og:title" content="<%= meta_title %>" />
     <meta property="og:type" content="website" />
@@ -53,9 +53,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css">
   </head>
   <body>
-    <% if params[:action] == 'legal' || params[:action] == 'software' %>
-      <%= render 'shared/top_bar' %>
-    <% end %>
+    <%= render 'shared/top_bar' %>
     <% unless params[:action] == 'landing' || params[:action] == 'sauven_marking' %>
       <%= render 'shared/navbar' %>
       <%= render 'shared/flashes' %>

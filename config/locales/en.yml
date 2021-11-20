@@ -1188,30 +1188,38 @@ en:
     home_page:
       title: "Foenix Coding: Coding and Marking made easy"
       description: Industrial Marking and Coding printers to print in high resolutions on every material. Foenix Coding Coding and Marking, industrial inkjet, FX One remote printer, FX One standard printer
+      keywords: “coding marking, Foenix printer, industrial marking, industrial inkjet, case coding and marking, product coding and marking, inkjet coding and marking, date printing, lot number printer, barcode printer"
     printers:
-      title: "FX ONE Series: The Foenix range of ink jet printers"
-      description: The Foenix range of ink jet printers are all designed as industrial inkjet printers for coding and marking solutions.
+      title: "Foenix industrial inkjet printers"
+      description: Designed for low cost coding and marking on to porous surfaces, a true alternative to TIJ coder to print barcodes, lot number, logo, use by date
+      keywords:  Industrial Inkjet Printers, inkjet coders, part marking systems, product coding, metal marking machines, marking machines, serial number printer, product identification, print serial number, printing barcodes
     fxone_standard:
-      title: "FX ONE Standard: High Resolution printer for all your case coding application"
-      description: High resolution printing directly onto cartons, trays and sacks on a production line to eliminate the need for costly pre-printed packaging or expensive labels.
+      title: FX ONE Standard – Best TIJ printer alternative - High Resolution case coder
+      description: Designed for low cost coding and marking on to porous surfaces, a true alternative to TIJ coder to print barcodes, lot number, logo, use by date
+      keywords: "low cost coding, date printing, printing on porous surfaces, TIJ alternative, HP printer, Thermal inkjet, case coder, carton coding, bar code printer, wood printer"
     fxone_remote:
-      title: "FX ONE Remote: High Resolution printer for all your product coding application"
-      description: The new FX ONE inkjet printer is one of the lowest cost per code and lowest maintenance small character printers. It offers a real alternative to code your products.
+      title: FX ONE Remote – Best CIJ printer alternative - High Resolution industrial inkjet printer
+      description: Foenix printers are one of the lowest cost per code and lowest maintenance small character printers. It offers a real alternative to complex CIJ printers at a very affordable price.
+      keywords: "marking machines, industrial inkjet printer, printing on bottles, CIJ printer, Continuous inkjet printer, continuous inkjet systems, glass printer, metal printer, bottle printer, PVC printer"
     fxone_plus:
-      title: "FX ONE Plus: High Resolution printer for all your large characters printing"
-      description: Large character printer up to 72mm print height. The perfect alternative to expensive, complex and limited labelling systems.
+      title: FX ONE Plus – Best labels and pre-printed boxes alternative - Large character printer
+      description: Large character printer up to 72mm print height. The perfect alternative to limited labelling systems to print codes, logos and barcodes.
+      keywords: "label printer, bar code printer, thermal printer, thermal transfer printer, labelling system, barcode label, Large character printer, case coder, Labelling Printers, Box printing"
     inks_and_consumables:
-      title: Inks and Consumables for Foenix Coding printers
-      description: "Large Ink Cartridge: print up to 15 million characters with one of the lowest cost per print ever.  Foenix Coding ink, Foenix Coding cartridges, Foenix Coding make-up, Foenix Coding cleaner"
+      title: Foenix Large Ink Cartridges – Print 15+ million characters
+      description: Inks for applications in the food, beverage, cosmetics, household goods, industrial and extrusion markets
+      keywords: MEK ink, CIJ ink, TIJ ink cartridge, Solvent ink, Oil ink, UV ink, FX8001, FX8201, Foenix ink cartridge, Foenix cleaner
     distributors:
-      title: Foenix Coding distributors
-      description: Foenix Coding has a growing network of distributors all over the world that focus on simplicity, customer care and guarantee of premium services. Join us now! Foenix coding distributors, Foenix Coding reseller, Foenix coding agents, Foenix coding sales network
+      title: Foenix Worldwide Distributors
+      description: Foenix’s ink jet and Contact Coding product ranges are available through a global network of qualified distributors offering a total sales and support service.
+      keywords: coding and marking, inkjet printer repair, Foenix distributors, Foenix resellers, Foenix Coding training
     cost_of_ownership:
-      title: Save big with the FX One inkjet printer
-      description: Gain the confidence to choose the most cost-effective solution for your business. Calculate the total cost of ownership of your printer before taking a decision. CIJ alternative, TIJ alternative, HP printer, CIJ printer, TIJ Printer, labelling machines, low cost coding, low cost marking
+      title: Foenix Coding printers – the cheapest option to mark your products
+      description: The FX ONE printers offer the cheapest cost per print on the market with no monthly or annual maintenance contract
     about:
-      title: About the coding, marking and traceability experts
-      description: Offer a high-quality, well-designed, low cost & maintenance free industrial printer to print on every surface. Industrial printing, case coding, product marking, label printer, piezo printer, small character printing, large character printing
+      title: About Foenix – The Coding, marking and traceability experts
+      description: Foenix Coding is a leading UK manufacturer and global supplier of the latest ink jet printers for the industry
+      keywords: FX ONE printer, Foenix Coding printers, print and apply, foil printer, DOD inkjet, Piezo inkjet, Xaar inkjet printer, Foenix coding company, Uk manufacturer
     contact:
       title: Get in touch with the Foenix Coding team
       description: Contact us to get more information about our industrial inkjet printers, our inks and consumables. Contact Foenix Coding, Foenix Coding email, Foenix Coding phone
@@ -1219,8 +1227,9 @@ en:
       title: FAQ - Foenix Coding
       description: More information about the Foenix Coding range of printers and inks. Sauven ink cartridges, Sauven solvent ink, Sauven oil ink, print database, print codes, TIJ alternative, CIJ alternative
     industry:
-      title: "Industry: Trusted by businesses from all industries"
-      description: We provide solutions for all industries and every application
+      title: Foenix Coding - Coding and Marking solution for all industries
+      description: FX ONE Printers are specifically designed for industrial use in sectors such as food, beverage, automotive, construction, converting, medical devices, pharmaceutical, electronics and chemical.
+      keywords: ink jet marking, inkjet coder, inkjet coding, inkjet marking, pharmaceutical packaging, medical packaging, print on pipes, print extrusion, print on bottles, print on carton
     video:
       title: "Video - Foenix Coding"
       description: Watch Foenix printers print on any items and any materials.
@@ -1233,21 +1242,30 @@ en:
     posts:
       title: News & Events
       description: Get the latest News & Events
+    software:
+      title: Foenix FX APP – Software solutions for the coding and marking industry
+      description: The FX APP from Foenix Coding enables you to design messages in record time through its user friendly interface. Best traceability software
+      keywords: Labeling Software, Labelling software, NiceLabel, FX APP, Use by date, counter, lot number, logo, barcodes
     contact_coders:
-      title: Contact Coding & Marking Machines - Foenix Coding
-      description: Whilst ink jet printers are the future, the traditional low cost contact coding and marking printers are still widely used around the world as very cost effective solutions.
+      title: Contact Coders - Traditional low cost marking
+      description: Cost effective printers and solutions for traditional low cost contact coding and marking printers
+      keywords: Contact Coding, Marking Machines & Contact Roller Printers
     foenix_codaprint:
-      title: "Foenix Codaprint: Continuous printing on all materials"
-      description: Reliable continuous printer from Foenix Coding for high and low speed marking on metal, plastic, glass, cardboard.
+      title: Foenix Codaprint - Simple printer for repeat printing
+      description: Foenix Codaprint a reliable continuous printer from for high and low speed marking of metal, plastic, glass, cardboard
+      keywords: Continuous Roller Printer, Batch Number, Plastic, Boxes, Codaprint
     foenix_codamark:
-      title: "Foenix Codamark: Multi-purpose price & code printer"
-      description: Clear and precise product marking achieved efficiently and economically with the Codamark Pneumatic Reciprocating Printer.
+      title: Foenix Codamark - Multi purpose product printer
+      description: Codamark compact reciprocating printer for inline and rotary filling machines, best before date printing and other uses from Foenix Coding
+      keywords: Compact Reciprocating Printer, Best Before Date, Codamark
     foenix_codapack:
-      title: "Foenix Codapack: Contact Coders & Plastic Ink Roller Printers"
-      description: The Codapack printers all use replaceable pre-impregnated Plastic-Ink Rollers and interchangeable Baselock Type.
+      title: Foenix Codapack - Cost effective carton coders
+      description: Solve your carton printing problems with codapack contact coders using plastic ink roller and baselock rubber type from Foenix Coding
+      keywords: Contact Coders, Plastic Ink Roller Printers, Baselock Codapack
     support:
-      title: Support - Foenix Coding
-      description: Support documentation & FX ONE user manuals
+      title: Foenix Coding – Support Documentation
+      description: Foenix Coding user manual and information guides to learn more about our contact & inkjet printing solutions
+      keywords: Foenix Coding user manual, Foenix Information Guides, Inkjet Printing, FX ONE user manual, Foenix technical manual, FOENIX MSDS
 
   news:
     latest: Latest Story
