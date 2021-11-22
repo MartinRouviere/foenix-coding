@@ -252,6 +252,26 @@ fr:
     grid_text_four: L'alimentation en encre est contenue dans un système de cartouche pratique qui se glisse à l'arrière de la machine. Le remplacement de la cartouche d'encre est simple et propre et peut être effectué en quelques secondes sans interrompre le processus d'impression. Ne manquez jamais une impression et obtenez toujours une qualité d'impression haute résolution qui correspond à l'image de votre produit.
     lowest_ink_title: L'utilisation d'encre la plus faible du marché
     lowest_ink_text: Que vous recherchiez une imprimante à jet d'encre pour le codage de cartons ou le marquage de produits, l'investissement dans l'impression ne se limite plus au prix de l'imprimante. Les consommables et la maintenance sont devenus les principaux facteurs qui déterminent votre coût global de possession. Grâce à leur conception intelligente, les imprimantes Foenix à jet d'encre piézoélectriques consomment remarquablement peu d'encre et offrent donc un coût par impression très faible.
+    # NEW
+    standard_ink_one: Our Standard ink range
+    standard_ink_two: for all your applications
+    sdct_one_html: "FX 8001<br>Black Oil ink"
+    sdct_text_one: For Carton, paper, wood or any other porous substrates
+    sdct_two_html: "FX8201<br>Black Solvent ink"
+    sdct_text_two: For most substrates like PVC, metal, glass, plastic and any other non-porous surfaces
+    sdct_three_html: "FX8203<br>Blue Solvent ink"
+    sdct_text_three: Same use as the FX8201 non-porous ink for primary packaging
+    sdct_four_html: "FX8308<br>Red Solvent ink"
+    sdct_text_four: Same use as the FX8201 non-porous ink for primary packaging
+    sdct_five_html: "FX 8206<br>White Solvent ink"
+    sdct_text_five: Pigmented ink for dark non-porous surfaces
+    sdct_six_html: "FX8311<br>Yellow Solvent ink"
+    sdct_text_six: Pigmented ink for dark non-porous surfaces
+    sdct_seven_html: "FX8236<br>Black UV Curable ink"
+    sdct_text_seven: Non-Porous substrate with instant drying time
+    sdct_eight_html: "FX8235<br>UV Readable ink"
+    sdct_text_eight: Invisible ink, only visible under a UV lamp
+    # NEW
     special_ink_title: Vous avez besoin d'une encre spéciale ?
     special_ink_title_two:  Nous pouvons vous aider !
     special_ink_text_one: Encres à base d'huile
@@ -1187,38 +1207,46 @@ fr:
     home_page:
       title: "Foenix Coding : Le codage et le marquage en toute simplicité"
       description:  Imprimantes industrielles de marquage et de codage pour imprimer en haute résolution sur tous les matériaux. Foenix Coding Codage et marquage, jet d'encre industriel, imprimante à distance FX One, imprimante standard FX One
-      keywords:
+    # NEW
+      keywords: “coding marking, Foenix printer, industrial marking, industrial inkjet, case coding and marking, product coding and marking, inkjet coding and marking, date printing, lot number printer, barcode printer"
     printers:
       title: "La série FX ONE : La gamme d'imprimantes à jet d'encre Foenix"
       description: Les imprimantes à jet d'encre de la gamme Foenix sont toutes conçues comme des imprimantes à jet d'encre industrielles pour les solutions de codage et de marquage.
-      keywords:
+    # NEW
+      keywords:  Industrial Inkjet Printers, inkjet coders, part marking systems, product coding, metal marking machines, marking machines, serial number printer, product identification, print serial number, printing barcodes
     fxone_standard:
       title: "FX ONE Standard : L'imprimante haute résolution pour toutes vos applications de codage de caisses"
       description: Impression haute résolution directement sur des cartons, des plateaux et des sacs sur une ligne de production pour éliminer le besoin d'emballages pré-imprimés coûteux ou d'étiquettes onéreuses.
-      keywords:
+    # NEW
+      keywords: "low cost coding, date printing, printing on porous surfaces, TIJ alternative, HP printer, Thermal inkjet, case coder, carton coding, bar code printer, wood printer"
     fxone_remote:
       title: "FX ONE Remote : Une imprimante haute résolution pour toutes vos applications de codage de produits"
       description: La nouvelle imprimante à jet d'encre FX ONE est l'une des imprimantes à petits caractères dont le coût par code et la maintenance sont les plus faibles. Elle offre une réelle alternative pour coder vos produits.
-      keywords:
+    # NEW
+      keywords: "marking machines, industrial inkjet printer, printing on bottles, CIJ printer, Continuous inkjet printer, continuous inkjet systems, glass printer, metal printer, bottle printer, PVC printer"
     fxone_plus:
       title:  "FX ONE Plus : imprimante haute résolution pour toutes vos impressions de grands caractères"
       description: Imprimante de grands caractères jusqu'à 72 mm de hauteur d'impression. L'alternative parfaite aux systèmes d'étiquetage coûteux, complexes et limités.
-      keywords:
+    # NEW
+      keywords: "label printer, bar code printer, thermal printer, thermal transfer printer, labelling system, barcode label, Large character printer, case coder, Labelling Printers, Box printing"
     inks_and_consumables:
       title: Encres et consommables pour les imprimantes Foenix Coding
       description: "Grande cartouche d'encre : imprimez jusqu'à 15 millions de caractères avec l'un des coûts par impression les plus bas jamais atteints.  Encre Foenix Coding, cartouches Foenix Coding, maquillage Foenix Coding, nettoyant Foenix Coding "
-      keywords:
+    # NEW
+      keywords: MEK ink, CIJ ink, TIJ ink cartridge, Solvent ink, Oil ink, UV ink, FX8001, FX8201, Foenix ink cartridge, Foenix cleaner
     distributors:
       title: Distributeurs de codes Foenix
       description: Foenix Coding dispose d'un réseau croissant de distributeurs dans le monde entier qui se concentrent sur la simplicité, le service client et la garantie de services de qualité supérieure. Rejoignez-nous dès maintenant ! Distributeurs de Foenix Coding, revendeur de Foenix Coding, agents de Foenix Coding, réseau de vente de Foenix Coding
-      keywords:
+    # NEW
+      keywords: coding and marking, inkjet printer repair, Foenix distributors, Foenix resellers, Foenix Coding training
     cost_of_ownership:
       title: Faites de grosses économies avec l'imprimante à jet d'encre FX One
       description:  Gagnez en confiance pour choisir la solution la plus rentable pour votre entreprise. Calculez le coût total de possession de votre imprimante avant de prendre une décision. Alternative CIJ, alternative TIJ, imprimante HP, imprimante CIJ, imprimante TIJ, étiqueteuses, codage à faible coût, marquage à faible coût
     about:
       title: A propos des experts en codage, marquage et traçabilité
       description: Offrez une imprimante industrielle de haute qualité, bien conçue, à faible coût et sans entretien pour imprimer sur toutes les surfaces. Impression industrielle, codage de caisses, marquage de produits, imprimante d'étiquettes, imprimante piézoélectrique, impression de petits caractères, impression de grands caractères.
-      keywords:
+    # NEW
+      keywords: FX ONE printer, Foenix Coding printers, print and apply, foil printer, DOD inkjet, Piezo inkjet, Xaar inkjet printer, Foenix coding company, Uk manufacturer
     contact:
       title: Entrez en contact avec l'équipe de codage Foenix
       description:  Contactez-nous pour obtenir plus d'informations sur nos imprimantes jet d'encre industrielles, nos encres et nos consommables. Contact Foenix Coding, Foenix Coding email, Foenix Coding phone
@@ -1228,7 +1256,8 @@ fr:
     industry:
       title: "Industrie : Les entreprises de tous les secteurs d'activité nous font confiance"
       description: Nous fournissons des solutions pour tous les secteurs et toutes les applications
-      keywords:
+    # NEW
+      keywords: ink jet marking, inkjet coder, inkjet coding, inkjet marking, pharmaceutical packaging, medical packaging, print on pipes, print extrusion, print on bottles, print on carton
     video:
       title: "Vidéo - Codage Foenix"
       description: Regardez les imprimantes Foenix imprimer sur tous les objets et tous les matériaux.
@@ -1241,30 +1270,37 @@ fr:
     posts:
       title: Nouvelles et événements
       description: Obtenez les dernières nouvelles et événements
+    # NEW
     software:
-      title:
-      description:
-      keywords:
+      title: Foenix FX APP – Software solutions for the coding and marking industry
+      description: The FX APP from Foenix Coding enables you to design messages in record time through its user friendly interface. Best traceability software
+      keywords: Labeling Software, Labelling software, NiceLabel, FX APP, Use by date, counter, lot number, logo, barcodes
+    # NEW
     contact_coders:
       title: Machines de codage et de marquage des contacts - Foenix Coding
       description: Alors que les imprimantes à jet d'encre sont l'avenir, les imprimantes traditionnelles de codage et de marquage par contact à faible coût sont encore largement utilisées dans le monde entier comme solutions très rentables.
-      keywords:
+    # NEW
+      keywords: Contact Coding, Marking Machines & Contact Roller Printers
     foenix_codaprint:
       title: "Foenix Codaprint : L'impression en continu sur tous les matériaux"
       description:  Imprimante continue fiable de Foenix Coding pour le marquage à haute et basse vitesse sur le métal, le plastique, le verre, le carton.
-      keywords:
+    # NEW
+      keywords: Continuous Roller Printer, Batch Number, Plastic, Boxes, Codaprint
     foenix_codamark:
       title: "Foenix Codamark : Imprimante de prix et de codes multifonctionnelle"
       description: Marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique à mouvement alternatif Codamark.
-      keywords:
+    # NEW
+      keywords: Compact Reciprocating Printer, Best Before Date, Codamark
     foenix_codapack:
       title: "Foenix Codapack : Codeurs à contact et imprimantes à rouleau d'encre en plastique"
       description:  Les imprimantes Codapack utilisent toutes des rouleaux d'encre plastique préimprégnés remplaçables et des Baselock interchangeables.
-      keywords:
+    # NEW
+      keywords: Contact Coders, Plastic Ink Roller Printers, Baselock Codapack
     support:
       title: Support - Foenix Coding
       description: Documentation d'assistance et manuels d'utilisation de FX ONE
-      keywords:
+    # NEW
+      keywords: Foenix Coding user manual, Foenix Information Guides, Inkjet Printing, FX ONE user manual, Foenix technical manual, FOENIX MSDS
 
   news:
     latest: Dernières nouvelles
