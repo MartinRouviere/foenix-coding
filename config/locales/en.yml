@@ -251,6 +251,26 @@ en:
     grid_text_four: The ink supply is contained in a convenient cartridge system which slots into the rear of the machine. Replacement of the ink cartridge is simple and clean and can be completed in a few seconds without interrupting the print process. Never miss a print and always get a High Resolution print quality that fits with your product image
     lowest_ink_title: Lowest Ink usage on the market
     lowest_ink_text: Whether you are looking for an inkjet printer for case coding or product marking, the investment in printing is no longer just about the printer price. Consumables and maintenance have become the main factors to determine your cost of ownership. Thanks to the clever design, the piezo inkjet printers have a remarkably low ink usage and therefore offer a very low cost per print.
+    # NEW
+    standard_ink_one: Our Standard ink range
+    standard_ink_two: for all your applications
+    sdct_one_html: "FX 8001<br>Black Oil ink"
+    sdct_text_one: For Carton, paper, wood or any other porous substrates
+    sdct_two_html: "FX8201<br>Black Solvent ink"
+    sdct_text_two: For most substrates like PVC, metal, glass, plastic and any other non-porous surfaces
+    sdct_three_html: "FX8203<br>Blue Solvent ink"
+    sdct_text_three: Same use as the FX8201 non-porous ink for primary packaging
+    sdct_four_html: "FX8308<br>Red Solvent ink"
+    sdct_text_four: Same use as the FX8201 non-porous ink for primary packaging
+    sdct_five_html: "FX 8206<br>White Solvent ink"
+    sdct_text_five: Pigmented ink for dark non-porous surfaces
+    sdct_six_html: "FX8311<br>Yellow Solvent ink"
+    sdct_text_six: Pigmented ink for dark non-porous surfaces
+    sdct_seven_html: "FX8236<br>Black UV Curable ink"
+    sdct_text_seven: Non-Porous substrate with instant drying time
+    sdct_eight_html: "FX8235<br>UV Readable ink"
+    sdct_text_eight: Invisible ink, only visible under a UV lamp
+    # NEW
     special_ink_title: You need a special ink?
     special_ink_title_two: We can help!
     special_ink_text_one: Oil Based Inks
