@@ -16,7 +16,7 @@ const initMapbox = () => {
 
     const element = document.createElement('div');
     element.className = 'marker';
-    element.style.backgroundImage = `url('/assets/marker.svg')`;
+    element.style.backgroundImage = `url('/assets/marker.png')`;
     element.style.backgroundSize = 'contain';
     element.style.backgroundPosition = 'center';
     element.style.backgroundRepeat = 'no-repeat';

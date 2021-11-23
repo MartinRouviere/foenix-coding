@@ -366,18 +366,27 @@ en:
     be_the_next: Be the next one
 
   cost_of_ownership:
-    first_section_title: Cost-effective solutions
-    first_section_sub_title: THE FX ONE PRINTERS REDUCE COST PER PRINT
-    first_section_text_html: "Cost per print is determined by 3 factors: the purchasing price of the printer, the ink cost and the monthly maintenance cost. Foenix Coding has designed a simple ink jet printer with cost reductions as a priority.
-                              The FX ONE inkjet printer has been developed with simplicity in mind and does not contain moving parts nor pumps nor valves. The ink feed is based on capillarity and gravity and there is no need for compressed air.
-                              The control is mastered by 1 single PCB that is connected to the print head with 1 single data cable.
+    first_section_title: Lowest cost of ownership on the market
+    first_section_list_one: Lowest ink consumption on the market
+    first_section_list_two: Cheapest cost per print on the market
+    first_section_list_three: Low printer price
+    first_section_list_four: No maintenance/service contracts
+    first_section_list_five: Zero down time
+    first_section_list_six: No installation & training cost
+    first_section_list_seven_html: Reduce your coding & marking costs by at least 60%.<br>Stop spending a fortune on ink & maintenance contract!
+    first_section_list_eight_html: Get our operating guide to see<br>how much money you could be saving
+    download: Download
+    first_section_two_title: Clear and transparent returns on investment
+    first_section_sub_title: THE FX ONE PRINTERS REDUCE DRASTICALLY THE COST PER PRINT
+    first_section_text_html: "Cost per print is determined by 3 factors:<br>- the purchasing price of the printer<br>- the ink cost<br>- the monthly maintenance cost.
                               <br>
-                              Thanks to the simplicity and the absence of moving parts, NO monthly or annual maintenance is required. By using much less components than others, the FX ONE printer has a very competitive purchase price.
-                              The Xaar print-technology allows ink deposits as small as 40 pico litre per drop (that is 0.000000040ml), resulting in massive ink savings. Additionally every FX ONE printer has an ink saving mode that reduces the cost per print even more.
                               <br>
-                              Besides the usual function like barcodes, counters, logos, date, time, shift etc the FX ONE printer comes with PC software and network connectivity as a standard.
+                              Foenix Coding has designed a simple ink jet printer with cost reductions as a priority. The FX ONE inkjet printer has been developed with simplicity in mind and does not contain moving parts nor pumps nor valves. The ink feed is based on capillarity and gravity and there is no need for compressed air. The control is mastered by 1 single PCB that is connected to the print head with 1 single data cable. Thanks to both its simplicity and the absence of moving parts, NO monthly or annual maintenance is required. Using fewer components means that the FX ONE printer has a very competitive purchase price.
                               <br>
-                              Foenix Coding understands the Art of Simplicity and has created a simple and cost effective printer that is exactly suited to the customer specifications."
+                              <br>
+                              Reduced print costs - typically from 50% to 80%. The Xaar print-technology allows ink deposits as small as 80 pico litre per drop (that is 0.000000080ml), resulting in massive ink savings. You are in control of your cost per print. Easily calculate your printing costs with our intuitive software and see how much you could be saving. Printing with micro ink droplets and a sealed ink cartridge gives low cost per print with no ink wastage. Additional cost savings can be obtained using the ink saver mode.
+                              <br><br>
+                              Avoid getting locked into an expensive inkjet printer that will drain your budget over time. Learn warranty details, service terms, maintenance/repairs costs, ink & consumables costs. Gain the confidence to choose the most cost-effective solution for your business. Calculate the total cost of ownership of your printer before taking a decision. Foenix Coding understands the art of simplicity and has created a simple and cost effective printer designed to meet customers’ expectations."
     inkjet_printer_title: How to choose an inkjet printer
     inkjet_printer_text_html: "We know choosing an inkjet printer is not easy. There are plenty of different manufacturers models and technologies availble.
                              <br>
@@ -1178,6 +1187,7 @@ en:
                   Lyne | Chertsey | Surrey | KT16 0AW
                   <br>
                   United Kingdom
+    whatsapp: Contact us on WhatsApp
     statement: Join hundreds of companies that are already working with us
     talk_to_sales: Talk to sales
     email_us: You can also email us directly at
