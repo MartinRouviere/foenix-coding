@@ -17,18 +17,25 @@
   }
 }
 
+.fncd {
+  margin-left: 160px;
+  @include for-small-devices-down {
+    margin-left: 8px;
+  }
+}
+
 .footer-social-links {
   font-size: 26px;
-  margin-right: 220px;
   display: flex;
   justify-content: center;
   align-items: center;
   @include for-medium-devices-down {
-    margin-right: 80px;
+
   }
   @include for-small-devices-down {
     margin-right: 0;
     flex-direction: column;
+    align-items: start;
   }
 }
 
@@ -55,9 +62,6 @@
 
 .footer-logo {
   width: 80px;
-  @include for-small-devices-down {
-    margin-left: -58px;
-  }
 }
 
 .footer-link {

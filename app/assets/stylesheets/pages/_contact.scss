@@ -148,3 +148,21 @@
 .fs-frm-inputs {
   width: 100%;
 }
+
+.whatsapp-btn {
+  border: 1px solid $light-gray;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+  align-items: center;
+  display: inline-flex;
+  margin-top: 24px;
+  padding: 12px;
+  i {
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  &:hover {
+    background-color: #23a503;
+    text-decoration: none;
+  }
+}

@@ -31,6 +31,10 @@
               <p class="text-white mb-4"><%= t("contact.email_add") %></p>
               <p class="text-white mb-0 bold"><%= t("contact.address") %></p>
               <p class="text-white mb-0"><%= t("contact.address_text_html") %></p>
+              <%= link_to "https://wa.me/message/DAMDVTKRLM65O1", class: 'whatsapp-btn', target: '_blank' do %>
+                <i class="fab fa-whatsapp mr-2"></i>
+                <p class="text-white mb-0 bold"><%= t("contact.whatsapp") %></p>
+              <% end %>
             </div>
           </div>
         </div>
