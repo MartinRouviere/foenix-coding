@@ -11,7 +11,7 @@
             <h1 class="text-center mb-4"><%= t("foenix_codapack.first_section_title") %></h1>
             <p class="text-center mb-4"><%= t("foenix_codapack.first_section_text") %></p>
             <div class="d-flex justify-content center align-items-center">
-              <%= link_to "#{ t("foenix_codaprint.get_prices") }", "#", class: "btn primary-button mr-3" %>
+              <%= link_to "#{ t("foenix_codaprint.get_prices") }", contact_path, class: "btn primary-button mr-3" %>
               <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button black-button" %>
             </div>
           </div>
@@ -124,7 +124,7 @@
               <div class="">
                 <h1 class="text-white mb-0"><%= t("foenix_codamark.fncdp_title") %></h1>
                 <p class="text-white mb-4"><%= t("foenix_codamark.fncdp_text") %></p>
-                <%= link_to "#{ t("foenix_codaprint.fncdm_button") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
+                <%= link_to "#{ t("foenix_codaprint.fncdm_button") }", foenix_codaprint_path, class: "btn secondary-button" %>
               </div>
             </div>
             <div class="col-12 col-lg-5 pr-0">

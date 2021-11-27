@@ -48,7 +48,7 @@
         <div class="col-12 col-md-6">
           <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_one") %></h2>
           <p class="mb-0"><%= t("fxone_remote.grid_description_one_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to contact_path, class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -63,7 +63,7 @@
         <div class="col-12 col-md-6">
           <h2 class="pt-5 mt-4"><%= t("fxone_remote.grid_title_two") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_two_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to contact_path, class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_two") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -72,7 +72,7 @@
         <div class="col-12 col-md-6">
           <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_three") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_three_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to contact_path, class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_three") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -96,7 +96,7 @@
         <div class="col-12 col-md-6">
           <h2 class="pt-0 pt-md-5 mt-4"><%= t("fxone_remote.grid_title_five") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_five_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to inks_and_consumables_path, class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_five") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -111,7 +111,7 @@
         <div class="col-12 col-md-6">
           <h2 class=""><%= t("fxone_remote.grid_title_six") %></h2>
           <p class="mb-4"><%= t("fxone_remote.grid_description_six_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to software_path, class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -289,7 +289,7 @@
               </div>
             </div>
           </div>
-          <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
+          <%= link_to "#{t("fxone_remote.pop_link")}", software_path, class: 'btn primary-button button-width ml-0 ml-md-5' %>
         </div>
       </div>
     </div>
@@ -393,7 +393,7 @@
             <p class="text-center mb-0 light-grey"><%= t("fxone_remote.fx_one_standard_text") %></p>
             <p class="text-center mb-0 light-grey"><%= t("fxone_remote.fx_one_standard_text_two") %></p>
             <p class="text-center mb-4 light-grey"><%= t("fxone_remote.fx_one_standard_text_three") %></p>
-            <%= link_to '#', class: 'link-orange' do %>
+            <%= link_to fxone_standard_path, class: 'link-orange' do %>
               <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
@@ -410,7 +410,7 @@
             <div class="printers-coming-soon  pos-top-right px-2 py-1">
               <p class="text-orange bold mb-0"><%= t("printers.coming_soon") %></p>
             </div>
-            <%= link_to '#', class: 'link-orange' do %>
+            <%= link_to fxone_plus_path, class: 'link-orange' do %>
               <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
@@ -428,7 +428,7 @@
             <p class="text-white medium-text text-orange mb-0"><%= t("fxone_remote.low_ink_text_two") %></p>
 
           </div>
-          <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
+          <%= link_to "#{t("fxone_remote.pop_link")}", cost_of_ownership_path, class: 'btn primary-button button-width ml-0 ml-md-5' %>
         </div>
       </div>
     </div>

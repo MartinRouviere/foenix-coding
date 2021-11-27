@@ -5,6 +5,9 @@
   .carousel-item {
     padding: 0;
   }
+  .first-section-image {
+    margin-right: 44px;
+  }
   @include for-phone-only {
     padding-top: 100px;
     padding-bottom: 50px;
