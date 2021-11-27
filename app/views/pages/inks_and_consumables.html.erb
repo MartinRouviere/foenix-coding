@@ -251,7 +251,7 @@
           <div class="d-flex flex-column justify-content-center align-items-center">
             <h2 class="text-white text-center mb-0"><%= t("inks_and_consumables.special_ink_title") %></h2>
             <h2 class="text-white text-center mb-4"><%= t("inks_and_consumables.special_ink_title_two") %></h2>
-            <%= link_to "#{ t("navbar.contact") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button" %>
+            <%= link_to "#{ t("navbar.contact") }", contact_path, target: "_blank", class: "btn secondary-button" %>
           </div>
         </div>
       </div>
@@ -269,7 +269,7 @@
           <div class="d-flex flex-column justify-content-center align-items-center">
             <h2 class="text-orange text-center mb-3"><%= t("inks_and_consumables.lowest_ink_title") %></h2>
             <p class="medium-text text-white text-center"><%= t("inks_and_consumables.lowest_ink_text") %></p>
-            <%= link_to '#', class: 'link-orange' do %>
+            <%= link_to cost_of_ownership_path, class: 'link-orange' do %>
               <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>

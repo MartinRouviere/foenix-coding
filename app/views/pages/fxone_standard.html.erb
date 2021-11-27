@@ -8,8 +8,8 @@
     <div class="first-section-text">
       <h1 class="w-100 text-white"><span><%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626355155/fxow_eusevg.png", class: "fxone-logo", alt: 'FX One logo') %></span> <%= t("fxone_standard.first_section_title") %></h1>
       <p class="text-white" style="width: 90%;"><%= t("fxone_standard.first_section_text") %></p>
-      <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
-      <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button mb-3 mb-sm-0" %>
+      <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".standard-coding-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+      <%= link_to "#{ t("home.download") }", "/fxone_standard_brochure.pdf", target: "_blank", class: "btn secondary-button mb-3 mb-sm-0" %>
     </div>
     <div class="product-carousel dark-carousel" style="background-image: url(<%= cl_image_path 'https://res.cloudinary.com/foenix-coding/image/upload/v1626350474/bgpc_u6csti.png', alt: 'carousel background' %>)">
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-interval="false">
@@ -50,8 +50,8 @@
           <h2 class="text-white"><%= t("fxone_standard.grid_title_one") %></h2>
           <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_one_html") %></p>
           <div class="d-flex align-items-center">
-            <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
-            <%= link_to '#', class: 'link-orange' do %>
+            <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".standard-ct-coding-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+            <%= link_to contact_path, class: 'link-orange' do %>
               <p class="text-orange bold mb-0 ml-4"><%= t("fxone_standard.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
@@ -68,8 +68,8 @@
           <h2 class="text-white"><%= t("fxone_standard.grid_title_two") %></h2>
           <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_two_html") %></p>
           <div class="d-flex align-items-center">
-            <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
-            <%= link_to '#', class: 'link-orange' do %>
+            <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".standard-ytb-coding-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+            <%= link_to contact_path, class: 'link-orange' do %>
               <p class="text-orange bold mb-0 ml-4"><%= t("fxone_standard.grid_link_two") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
@@ -79,7 +79,7 @@
         <div class="col-12 col-md-6">
           <h2 class="text-white"><%= t("fxone_standard.grid_title_three") %></h2>
           <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_three_html") %></p>
-          <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+          <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".standard-lcyt-coding-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
         </div>
         <div class="col-12 col-md-6">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626356627/fxosg-3_puozmu.png", class: "w-100 parallax-img", alt: "Versatile printing") %>
@@ -92,7 +92,7 @@
         <div class="col-12 col-md-6">
           <h2 class="text-white"><%= t("fxone_standard.grid_title_four") %></h2>
           <p class="mb-4 text-white"><%= t("fxone_standard.grid_description_four_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to software_path, class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_standard.grid_link_four") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -270,7 +270,7 @@
               </div>
             </div>
           </div>
-          <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
+          <%= link_to "#{t("fxone_remote.pop_link")}", software_path, class: 'btn primary-button button-width ml-0 ml-md-5' %>
         </div>
       </div>
     </div>
@@ -279,7 +279,6 @@
 
   <div class="fxone-third-section position-relative bg-white">
     <div class="max-width px-3 px-md-5 pt-5">
-
       <h2 class="mb-4"><%= t("fxone_remote.fourth_section_title") %></h2>
       <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1626367397/fxosts_z1b2mb.png", class: "w-100", alt: "Technical specifications") %>
       <div class="fxone-fifth-section-content-wrapper my-5 standard-tech-specs">
@@ -378,7 +377,7 @@
             <div class="printers-coming-soon  pos-top-right px-2 py-1">
               <p class="text-orange bold mb-0"><%= t("printers.coming_soon") %></p>
             </div>
-            <%= link_to '#', class: 'link-orange' do %>
+            <%= link_to fxone_plus_path, class: 'link-orange' do %>
               <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
@@ -392,7 +391,7 @@
             <p class="text-center mb-0 light-grey"><%= t("fxone_standard.fx_one_remote_text") %></p>
             <p class="text-center mb-0 light-grey"><%= t("fxone_standard.fx_one_remote_text_two") %></p>
             <p class="text-center mb-4 light-grey"><%= t("fxone_standard.fx_one_remote_text_three") %></p>
-            <%= link_to '#', class: 'link-orange' do %>
+            <%= link_to fxone_remote_path, class: 'link-orange' do %>
               <p class="text-orange bold"><%= t("fxone_remote.grid_link_six") %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
@@ -411,18 +410,43 @@
             <p class="text-white medium-text text-orange mb-2 mb-md-0"><%= t("fxone_remote.low_ink_text_two") %></p>
 
           </div>
-          <%= link_to "#{t("fxone_remote.pop_link")}", '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
+          <%= link_to "#{t("fxone_remote.pop_link")}", cost_of_ownership_path, class: 'btn primary-button button-width ml-0 ml-md-5' %>
         </div>
       </div>
     </div>
   </div>
 
 
+  <!-- YOUTUBE MODALS -->
 
-  <div id="modal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div id="modal" class="modal fade standard-coding-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-cont" id="modal-cont">
         <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/RZXBR961iv4?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div id="modal" class="modal fade standard-ct-coding-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-cont" id="modal-cont">
+        <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/MedZnmRlVlI?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div id="modal" class="modal fade standard-ytb-coding-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-cont" id="modal-cont">
+        <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/UQbACO9rjVM?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div id="modal" class="modal fade standard-lcyt-coding-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-cont" id="modal-cont">
+        <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/TUSWnhPkNFY?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </div>

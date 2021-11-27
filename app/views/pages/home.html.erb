@@ -15,7 +15,7 @@
       <p class="home-title-description"><%= t("home.title_description") %></p>
       <div class="d-flex align-items-center">
         <p class="btn primary-button button-width bold text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
-        <%= link_to '#', class: 'link-orange' do %>
+        <%= link_to printers_path, class: 'link-orange' do %>
           <p class="text-orange mb-0 ml-4">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
         <% end %>
       </div>
@@ -123,8 +123,8 @@
           <div class="col-12 col-md-6">
             <h2 class="text-white"><%= t("home.box_coding_title") %></h2>
             <p class="text-white mb-4"><%= t("home.box_coding_description") %></p>
-            <%= link_to 'Learn more', '#', class: 'btn secondary-button button-width mr-3' %>
-            <p class="btn primary-button button-width bold text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
+            <%= link_to 'Learn more', fxone_standard_path, class: 'btn secondary-button button-width mr-3' %>
+            <p class="btn primary-button button-width bold text-white mb-0" data-toggle="modal" data-target=".standard-coding-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
 
           </div>
         </div>
@@ -132,7 +132,7 @@
           <div class="col-12 col-md-6">
             <h2 class="text-white"><%= t("home.product_coding_title") %></h2>
             <p class="text-white mb-4"><%= t("home.product_coding_description") %></p>
-            <%= link_to 'Learn more', '#', class: 'btn secondary-button button-width mr-3' %>
+            <%= link_to 'Learn more', fxone_remote_path, class: 'btn secondary-button button-width mr-3' %>
             <p class="btn primary-button button-width bold text-white mb-0" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
           </div>
           <div class="col-12 col-md-6">
@@ -147,8 +147,8 @@
         <div class="col-12 col-sm-8 col-lg-6">
           <div class="d-flex flex-column justify-content-center align-items-center">
             <h2 class="text-white text-center mb-3"><%= t("home.fifth_section_title_html") %></h2>
-            <p class="s-medium-text text-white text-center mb-4"><%= t("home.fifth-section_description_one") %></p>
-            <p class="s-medium-text text-white text-center"><%= t("home.fifth-section_description_two") %></p>
+            <p class="medium-text text-white text-center mb-4"><%= t("home.fifth-section_description_one") %></p>
+            <p class="medium-text text-white text-center"><%= t("home.fifth-section_description_two") %></p>
           </div>
         </div>
       </div>
@@ -182,7 +182,7 @@
         <div class="col-12 col-md-6">
           <h2 class="text-white mb-4"><%= t("home.inks_title") %></h2>
           <p class="text-white mb-5"><%= t("home.inks_description") %></p>
-          <%= link_to 'Learn more', '#', class: 'btn secondary-button button-width mr-3' %>
+          <%= link_to 'Learn more', inks_and_consumables_path, class: 'btn secondary-button button-width mr-3' %>
         </div>
       </div>
     </div>
@@ -194,7 +194,7 @@
           <h4 class="font-weight-normal text-white"><%= t("home.become_distributor_title") %></h4>
           <p class="mb-3 mb-md-0 text-white s-medium-text"><%= t("home.become_distributor_description") %></p>
         </div>
-        <%= link_to 'Get Started', '#', class: 'btn primary-button button-width ml-0 ml-md-5' %>
+        <%= link_to 'Get Started', distributor_path, class: 'btn primary-button button-width ml-0 ml-md-5' %>
       </div>
     </div>
     <div class="max-width pt-5">
@@ -202,7 +202,7 @@
         <div class="col-12 col-md-6">
           <h2 class=""><%= t("home.eight_section_title_one") %></h2>
           <p class="mb-4"><%= t("home.eight_section_description_one") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to software_path, class: 'link-orange' do %>
             <p class="text-orange">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -217,7 +217,7 @@
         <div class="col-12 col-md-6">
           <h2 class=""><%= t("home.eight_section_title_two") %></h2>
           <p class="mb-4"><%= t("home.eight_section_description_two_html") %></p>
-          <%= link_to '#', class: 'link-orange' do %>
+          <%= link_to contact_path, class: 'link-orange' do %>
             <p class="text-orange">Book a Demo <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -225,7 +225,7 @@
     </div>
   </div>
 
-
+  <!-- YOUTUBE MODALS -->
   <div id="modal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-cont" id="modal-cont">
@@ -233,7 +233,17 @@
       </div>
     </div>
   </div>
+
+  <div id="modal" class="modal fade standard-coding-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-cont" id="modal-cont">
+        <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/RZXBR961iv4?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
+
+
 
 
 <script>
@@ -259,109 +269,5 @@
       }, 800  * (i + 1));
   }
   loopForever();
-
-  // =======================
-  // Tab Display Switcher
-  // =======================
-
-  // const fadeTimeOut = (x, i) => {
-  //   setTimeout(function() { x[i].style.display = "none" }, 500);
-  // }
-
-  // const fadeTimeIn = (city) => {
-  //   setTimeout(function() { city.style.display = "flex" }, 500);
-  // }
-
-  let cancelAnimation = false;
-
-  function openCity(cityName, humanInteraction) {
-    var i;
-    var x = document.getElementsByClassName("city");
-
-    for (i = 0; i < x.length; i++) {
-      // x[i].classList.add('fadeOut')
-      x[i].style.display = "none"
-      // fadeTimeOut(x, i);
-    }
-    const city = document.getElementById(cityName)
-    // city.classList.remove('fadeOut')
-    // city.classList.add('fadeIn')
-    // fadeTimeIn(city)
-    city.style.display = "flex"
-    tabHighlighter(cityName)
-    if(humanInteraction == true) {
-      cancelAnimation = true
-      tabTimer(humanInteraction);
-    } else {
-      cancelAnimation = false
-      tabTimer(humanInteraction);
-    }
-  }
-
-  // =======================
-  // Tab Timer
-  // =======================
-  const tabTimer = (humanInteraction) => {
-    const tabAreas = document.querySelectorAll('.city')
-    tabAreas.forEach((area) => {
-      if(area.getAttribute('style') == "display: flex;") {
-        const progressHolder = area.firstElementChild.getElementsByTagName('span')[0]
-        const progress = progressHolder.firstElementChild
-        progress.style.width = '1%'
-        var width = 1;
-        if(cancelAnimation == false) {
-          var id = setInterval(frame, 100);
-        } else {
-          clearInterval(id);
-        }
-        if(humanInteraction == true) {
-          var id = setInterval(frame, 100);
-        }
-        function frame() {
-          if (width >= 100) {
-            clearInterval(id);
-            if(cancelAnimation == true && humanInteraction == false) {
-            } else {
-              tabSwitcher(area);
-            }
-          } else {
-            width += 1;
-            progress.style.width = width + "%";
-          }
-        }
-      }
-    })
-  }
-  tabTimer(false)
-
-  // =======================
-  // Auto Tab Switcher
-  // =======================
-  const tabSwitcher = (area) => {
-    const tabs = document.querySelectorAll('.cityTab')
-    const tabCities = []
-    tabs.forEach((tab) => {
-      tabCities.push(tab.dataset.city)
-    })
-    const nextCity = tabCities[tabCities.indexOf(area.id) + 1]
-    // cancelAnimation = false
-    if(tabCities.indexOf(area.id) == 3) {
-      openCity("London")
-    } else {
-      openCity(nextCity, false)
-    }
-  }
-
-  // =======================
-  // Tab Highlighter
-  // =======================
-  const tabHighlighter = (cityName) => {
-    const tabs = document.querySelectorAll('.cityTab')
-    const activeTab = document.querySelector(`.cityTab[data-city=${cityName}]`)
-    tabs.forEach((tab) => {
-      tab.classList.remove('activeTab')
-    })
-    activeTab.classList.add('activeTab')
-  }
 
 </script>

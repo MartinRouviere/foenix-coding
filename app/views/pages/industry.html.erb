@@ -10,8 +10,8 @@
           <h1 class="text-center mb-4"><%= t("industry.first_section_title") %></h1>
           <p class="text-center mb-4"><%= t("industry.first_section_text") %></p>
           <div class="d-flex justify-content center align-items-center">
-            <%= link_to "#{t('industry.first_section_button_one')}", '#', class: 'primary-button mr-5', alt: 'printed products' %>
-            <%= link_to '#', class: 'link-orange' do %>
+            <%= link_to "#{t('industry.first_section_button_one')}", contact_path, class: 'primary-button mr-5', alt: 'printed products' %>
+            <%= link_to contact_path, class: 'link-orange' do %>
               <p class="text-orange mb-0"><%= t('industry.first_section_button_two') %> <i class="fas fa-arrow-right ml-2"></i></p>
             <% end %>
           </div>
