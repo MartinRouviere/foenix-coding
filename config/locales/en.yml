@@ -39,6 +39,7 @@ en:
     video: Video
     demo: Request Demo
     bar: Stop spending a fortune on ink catridges & maintenance contract! Foenix printers deliver the industry's lowest running costs & lowest cost per print
+    legal: Legal
 
   cookie_bar:
     content: By using this website, you agree to our
@@ -1126,35 +1127,20 @@ en:
     sds_card_text_one: Black Oil based ink
     sds_card_title_two: FX8201
     sds_card_text_two: breakfast cereals, pasta...
-    sds_card_title_three: Processed fruit and vegetables
-    sds_card_text_three: canned products, dried fruits...
+    sds_card_title_three: CP111
+    sds_card_text_three: Black Marking ink
     sds_card_title_four: FX8008/FX8009
     sds_card_text_four: Oil based cleaner
-    sds_card_title_five: Snack products
-    sds_card_text_five: crisps, savoury snacks, chocolate...
-    sds_card_title_six: Fish and fish products
-    sds_card_text_six: canned fish, dried fish, retail cool boxes...
-    sds_card_title_seven: Dairy products
-    sds_card_text_seven: milk, yoghurt, cheese, cream...
-    sds_card_title_eight: Alcoholic beverages
-    sds_card_text_eight: wine, spirits, liquors...
-    sds_card_title_nine: Ground and husked products
-    sds_card_text_nine: flour, rice...
-    sds_card_title_ten: Meat
-    sds_card_text_ten: pre-packed, dried, fresh, frozen...
-    sds_card_title_eleven: Coffee, cocoa, tea
-    sds_card_text_eleven: ground, individual packaging...
-    sds_card_title_twelve: Spices, essences, cooking and baking agents
-    sds_card_title_thirteen: Ready Meals
-    sds_card_text_thirteen: pizza, sandwiches...
-    sds_card_title_fourteen: Non-alcoholic beverages
-    sds_card_text_fourteen: water, lemonades, fruit juices...
-    sds_card_title_fifteen: Baby food
-    sds_card_title_sixteen: Bakery products
-    sds_card_text_sixteen: biscuits, toasts, cookies...
-    sds_card_title_seventeen: Edible oils and similar products, hard fats
-    sds_card_text_seventeen: olive oil, butter, lard
-    sds_card_title_eighteen: Frozen products
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: Solvent based cleaner
+    sds_card_title_six: CP011
+    sds_card_text_six: Black Marking ink
+    sds_card_title_seven: CM011
+    sds_card_text_seven: Black Marking ink
+    sds_card_title_eight: CM501
+    sds_card_text_eight: Black Marking ink
+    sds_card_title_nine: CM500
+    sds_card_text_nine: Reactivating Solvent
     sds_button: Contact us for more info
     sds_hint: Regulatory certificates
     sds_hint_two: available on request

@@ -1164,5 +1164,9 @@
   img {
     width: 20px;
   }
+  @include for-small-devices-down {
+    right: unset;
+    left: 10px;
+  }
 }
 

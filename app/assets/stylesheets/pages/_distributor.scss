@@ -375,5 +375,10 @@
   max-height: 4000px !important;
 }
 
-
+.w350 {
+  width: 350px;
+  @include for-phone-only {
+    width: 100%;
+  }
+}
 
