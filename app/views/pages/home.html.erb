@@ -148,7 +148,10 @@
           <div class="d-flex flex-column justify-content-center align-items-center">
             <h2 class="text-white text-center mb-3"><%= t("home.fifth_section_title_html") %></h2>
             <p class="medium-text text-white text-center mb-4"><%= t("home.fifth-section_description_one") %></p>
-            <p class="medium-text text-white text-center"><%= t("home.fifth-section_description_two") %></p>
+            <p class="medium-text text-white text-center mb-4"><%= t("home.fifth-section_description_two") %></p>
+            <%= link_to cost_of_ownership_path, class: 'link-orange' do %>
+              <p class="text-orange mb-0 ml-4">Learn more <i class="fas fa-arrow-right ml-2"></i></p>
+            <% end %>
           </div>
         </div>
       </div>

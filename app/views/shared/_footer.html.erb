@@ -34,6 +34,7 @@
           <%= link_to t('navbar.about'), about_path, class: "footer-link mb-3" %>
           <%= link_to t('navbar.careers'), jobs_path, class: "footer-link mb-3" %>
           <%= link_to t('navbar.news'), posts_path, class: "footer-link mb-3" %>
+          <%= link_to t('navbar.legal'), legal_path, class: "footer-link mb-3" %>
         </div>
         <div class="footer-section mr-0 mr-md-2 mb-4">
           <% if user_signed_in? %>
@@ -74,12 +75,19 @@
       </div>
       <div class="footer-social-links-container">
         <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1624973550/foenix-coding_cmp3rb.png", class: 'footer-logo mb-4 mb-md-0 mr-0 mr-md-5', alt: 'Foenix coding logo') %>
-        <div class="footer-social-links">
+        <div class="ftrl">
+          <%= link_to "https://wa.me/message/DAMDVTKRLM65O1", class: 'whatsapp-btn mt-0 mb-3', target: '_blank' do %>
+            <i class="fab fa-whatsapp mr-2"></i>
+            <p class="text-white mb-0 bold"><%= t("contact.whatsapp") %></p>
+          <% end %>
           <div class="row m-0 justify-content-between align-items-center">
-            <a href="https://twitter.com/Foenix_Coding"><i class="fab fa-twitter text-white mr-3 mr-md-0 ml-2 ml-md-3"></i></a>
-            <a href="https://wa.me/message/DAMDVTKRLM65O1"><i class="fab fa-whatsapp orange mr-3 mr-md-0 ml-0 ml-md-3"></i></a>
+            <a href="https://www.youtube.com/channel/UCwOnksAykp4MvlLBt9rHo-Q"><i class="fab fa-youtube-square text-white large-text mr-3 mr-md-0 ml-2 ml-md-3"></i></a>
+            <a href="https://www.linkedin.com/company/foenix-coding-ltd/?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId:2785815191457466628614,VSRPtargetId:10521257,VSRPcmpt:primary"><i class="fab fa-linkedin text-white large-text mr-3 mr-md-0 ml-2 ml-md-3"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100054349339040"><i class="fab fa-facebook-square text-white large-text mr-3 mr-md-0 ml-2 ml-md-3"></i></a>
+            <a href="https://twitter.com/Foenix_Coding"><i class="fab fa-twitter text-white large-text mr-3 ml-2 ml-md-3"></i></a>
+            <p class="text-white my-4 my-md-0 small-text fncd">© Foenix Coding</p>
           </div>
-          <p class="text-white my-4 my-md-0 s-medium-text fncd">© Foenix Coding</p>
+        </div>
         </div>
       </div>
     </div>
