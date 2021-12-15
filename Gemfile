@@ -6,7 +6,7 @@ gem 'devise'
 gem 'jbuilder', '~> 2.0'
 gem 'pg', '~> 1.1'
 gem "puma", ">= 4.3.1"
-gem 'rails', '6.1.4.1'
+gem 'rails', '6.1.4.3'
 gem 'redis'
 gem 'pundit'
 gem 'simple_form'
