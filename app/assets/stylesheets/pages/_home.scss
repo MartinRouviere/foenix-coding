@@ -166,6 +166,8 @@
   top: 2px;
   transition: top 0.3s linear;
   left: 10px;
+  white-space: nowrap;
+
   @include for-phone-only {
     top: unset;
   }
