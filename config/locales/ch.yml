@@ -1,0 +1,1311 @@
+ch:
+  navbar:
+    home: 主页
+    products: 产品
+    services: 服务 & 支持
+    company: 公司
+    admin: 管理员
+    countries: 国家
+    jobs: 工作
+    posts: 帖子
+    login: 登录
+    logout: 登出
+    contact: 联系我们
+    contact_o: 联系
+    printers: 打印机
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: 软件
+    inks: 油墨和耗材
+    distributors: 全球分销商
+    cost: 持有成本
+    FAQ: 常见问题
+    about: 关于
+    careers: 事业
+    news: 新闻与事件
+    privacy_policy: 隐私政策
+    cookie_policy: Cookies政策
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | UK
+    printers: 打印机
+    contact_coders: 联系编码员
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: 支持文件
+    industry: 行业
+    video: 视频
+    demo: 请求演示
+    bar: 不要再在墨水盒和维护合同上花大钱了！Foenix打印机提供业界最低的运行成本和每次打印的最低成本
+    legal: 法律
+
+  cookie_bar:
+    content: 使用本网站时，您默认同意我们的
+    cookie_policy: cookie政策
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: 搜索
+    prompts:
+      search:
+        team: 团队
+        country: 地点
+        job_type: 类型
+
+  jobs:
+    title: FOENIX CODING 正在成长
+    tagline: 我们一直在寻找有才华的新朋友，他们与我们有共同的愿景，推动行业向前发展
+
+  jobs_show:
+    roles_at: 职位
+    apply_now: 现在申请
+    you_will: 您将
+    we_are_looking: 我们正在寻找
+    we_look_forward: 我们期待收到您的回信
+
+  faq:
+    title: 常见问题
+    tagline: 只需点击下面的其中一个部分就可以找到答案。我们随时帮助您。如果您找不到问题的答案，请随时
+    contact: 联系我们
+    title1: FX ONE打印机是什么?
+    desc1: FX One是一款多功能打印机设备，供所有人使用。不需要专业知识。安装只需几分钟，可在绝大多数生产线上运行。它有什么作用？它几乎可以在任何产品上打印任何内容，从简单的日期使用，到复杂的批号、实时计数器、日期和时间或班次码、条形码等等。除了这些功能外，FX One还将进行升级，以便为您带来编码和打标生态系统中最前沿的开发和应用。看看这个
+    desc1vid: 视频
+    desc1end:  看看它到底有多简单和强大。
+    title2: 支持哪些语言?
+    desc2: 您可以使用任何语言打印，不受任何限制
+    desc2end: 关于软件界面，它支持16种语言，但我们将很快添加其他语言。如果您有语言请求，请发送请求至sales@foenixcoding.com
+    title3: 尺寸是多少？
+    desc3: 尺寸是242mm×178mm×90mm，或者如果您喜欢9.52英寸×7英寸×3.54英寸也可以。
+    title4: 我在哪里可以找到官方的Foenix分销商？
+    desc4_1: 通过庞大的经销商网络，我们遍布各大洲，我们能够在几乎每个国家提供打印机！！
+    desc4_2: 我们相信，只有通过我们的当地经销商，我们才能充分保证始终如一的产品质量和最好的客户服务。
+    desc4_3: 我们现有的经销商范围从小型一人公司到国际公司。根据经验，我们发现，成功的关键因素不是规模，而是承诺、深入的本地市场了解以及相关的联系网和能力。
+    desc4_4: 我们的经销商随时针对您的的时区和语言
+    desc4_5: 为您提供及时、专业支持。
+    desc4_6: 快速且经济高效的运输。
+    desc4_7: 可靠的本地保修服务。
+    desc4_8: 请马上 
+    desc4_9: 联系我们
+    desc4_10: 如果您有任何问题或希望获得有关我们经销商的更多信息。
+    title5: 为什么我不能登录？
+    desc5: 我们的登录页面仅适用于我们现有的分销商，以便他们访问其个性化仪表板。其他任何人都无法访问此页面。如果您是FOENIX分销商，但尚未访问您的仪表板，请告知我们。
+    title6: 我可以在购买前免费试用吗？ 
+    desc6_1: 如果你在英国，是的
+    desc6_2: 你可以得到一个免费的七天试用期。
+    desc6_3: 在免费试用期间，您将可以使用打印机所有功能，并可以监控每次打印的成本，快速查看使用我们的打印机可以节省多少钱。
+    desc6_4: 免费试用视情况而定。
+    title7: 如果我拥有不同的Foenix打印机——Standard或Remote打印机——我是否需要为每台打印机配备单独的软件？
+    desc7: 不是。我们所有的打印机都与我们的软件完全兼容。无论您使用哪种型号，都可以从FX APP监控所有打印机。
+    title8: FX ONE Standard打印机和FX ONE Remote打印机之间有什么区别？
+    desc8_1: FX One Standard是适用于所有案例编码应用的完美打印机。它与油性墨水配合使用，可用于多孔表面，在纸箱侧面打印时效果极佳。
+    desc8_2: 您可以打印任何内容，从8行简单文本到可变条形码、有效期、徽标、班次、计数器、数据库中的外部数据、二维码…
+    desc8_3: 这台打印机将以18毫米的打印高度以高分辨率打印。
+    desc8_4: 它具有市场上最低的每次打印成本，是您在盒子上打印信息的最有效方式。
+    desc8_5: FX One Remote还具有高分辨率18mm高的打印头。
+    desc8_6: Remote打印机有两种型号，手动光闸或电动光闸。
+    desc8_7: 本打印机可使用用于多孔表面（如纸箱、纸张、木材等）的油性墨或非多孔表面（如塑料、金属、玻璃等）的溶剂型墨。
+    desc8_8: 您可以使用该打印机在任何产品上进行虚拟打印。
+    title9_1: FX ONE Remote
+    title9_2: 电动或手动光闸，有什么区别？
+    desc9: FX ONE Remote打印机有一个光闸来保护打印头。对于电动版，光闸将在打印后自动关闭。对于手动版本，您必须在一天开始时手动打开光闸，并在一天的结束当生产停止时手动关闭光闸。
+    title10: 我可以在产品顶部打印吗？
+    desc10: 是的，使用远程打印头，您可以从技术上打印到任何角度
+    title11: 你们提供哪种墨？ 
+    desc11_1: 我们有高质量的可控墨，无味且非M.E.K型。FX ONE打印机中使用的压电技术只需要一个密封墨盒，不需要额外的补充溶剂。这大大降低了运营成本。 
+    desc11_2: 我们提供油性墨，用于在多孔材料（托盘、纸箱、木材等）上打印和溶剂型墨，用于在非多孔材料（金属、塑料、玻璃等）上打印
+    title12: 有维修合同吗？
+    desc12_1: 没有昂贵的维护合同。
+    desc12_2: Foenix打印机采用最小组件制造，以提供最大的可靠性。无泵、无阀、无压缩空气、无液滴充注和无空气过滤器意味着维护成本非常低。
+    title13: 我怎样才能确定使用FX ONE打印机会省钱？
+    desc13_1: 我们的软件具有计算每个墨盒的打印数量以及您将在FX APP上创建的每条信息的每次打印成本的功能。
+    desc13_2: 这是一个非常强大的工具，因为你可以看到你使用我们的打印机将节省多少钱。你总是能控制成本
+
+  home:
+    # FIRST SECTION
+    title: 编码和打标
+    title_bottom: 处理
+    mobile_title: 进行编码和打标
+    play: 播放视频
+    download: 下载手册
+    title_span1: 简单
+    title_span2: 可靠
+    title_span3: 通用
+    title_span4: 耐久
+    title_description: FX ONE打印机是一款高分辨率小型喷墨打印机，用于打印批号，按日期、文本、徽标和条形码打印到所有材料上，如纸箱、托盘、瓶子、塑料袋、铝箔、食品包装、罐头、挤压制品和几乎任何产品。
+    #SECOND SECTION
+    title_second: 新一代免维护喷墨打印机
+    title_second_description: 英国制造
+    second_section_one_title: 包装与编码
+    second_section_one_description: 初次包装和二次包装的大小印刷
+    second_section_two_title: 适用于所有行业
+    second_section_two_description: 适用于各个行业的高分辨率和高附着力打标解决方案
+    second_section_three_title: FX APP 软件
+    second_section_three_description: 高级打印机管理和打印流程优化
+    #THIRD SECTION
+    third_section_title: 什么是编码和打标？
+    third_section_description: 编码和打标是在制造过程中打印产品上的可变信息。
+    first_image: 制造厂商、批次和日期代码
+    second_image: 条形码
+    third_image: 品牌和产品信息
+    fourth_image: 可追踪性
+    third_section_statement_one: Foenix Coding理解不间断生产线的重要性。
+    third_section_statement_two: 我们的使命是开发市场上最可靠的打印机。
+    #FOURTH SECTION
+    box_coding_title: 盒子编码
+    box_coding_description: 最典型的应用是盒子的编码。使用FX ONE Standard和FX ONE Plus，不再需要昂贵的标签。使用FX ONE打印机直接对在生产线上的纸箱、托盘、麻袋或其他产品上进行高分辨率打印，从而不再需要昂贵的预打印包装或标签。少批量运行和客户对个性化文本、图形和条形码的要求很容易实现。
+    product_coding_title: 产品编码
+    product_coding_description: 典型应用是对单个包装进行编码，如瓶子、小盒子、桶、罐、瓶、包、袋、箔等。我们的大多数产品编码客户通常是寻找CIJ（连续喷墨）替代品的公司。价格、简单和低维护成本是驱动因素。在这个市场上，我们始终使用FX ONE Remote打印机，这是一款真正多功能的打印机，适用于所有行业，包括食品、饮料、制药和电子产品。FX ONE也是标记挤压物、织带印刷和其他工业应用的理想选择。
+    fifth_section_title_html: "专用于 <span class='text-orange'>工业</span> 用途 & <span class='text-orange'>低成本</span> 喷墨打印"
+    fifth-section_description_one: 在过去几年中，Foenix投入巨资开发了一系列免维护工业喷墨打印机。这些喷码器专门设计用于食品、饮料、汽车、建筑、加工、医疗设备、制药、电子和化工等行业。
+    fifth-section_description_two: 由于设计巧妙，FX ONE喷墨打印机的墨水使用率非常低，因此是市场上每份打印成本最低的打印机之一。降低了打印成本——通常50%到80%
+    food: 食品
+    cosmetics: 化妆品
+    extrusion: 挤压物
+    automotive: 汽车
+    beverage: 饮料
+    pharmaceutical: 制药
+    electronics: 电子
+    construction: 建筑
+    packaging: 包装
+    industrial_parts: 工业零件
+    chemicals: 化学制品
+    and_many_more: 还有更多
+    inks_title: 多种墨
+    inks_description: 我们提供高附着力和高对比度墨，以适应大多数应用。不同的墨水可以在非多孔材料（塑料、玻璃、金属等）或多孔表面（纸板、木材、石膏……）上打印。提供多种颜色，以及UV可读和UV固化油墨。
+    become_distributor_title: 成为Foenix编码经销商
+    become_distributor_description: 我们目前正在邀请公司加入我们的国际经销商网络
+    eight_section_title_one: 功能强大的软件智能控制器
+    eight_section_description_one: FX APP软件可在PC和我们定制的FX ONE 接触控制器上使用。它设计用于控制一个或多个FX ONE打印机。控制器可以在一个小而坚固的外壳中创建信息、存储和打印机管理。它可以安装在一个固定的方便的位置，是便携式的，所以可以很容易地从一个打印机移动到另一个。接口设计为易于使用，并与PC版本相匹配。
+    eight_section_title_two: 免费试用和测试打印
+    eight_section_description_two_html: “如果您位于英国，您可以获得七天的免费试用期。在免费试用期内，您可以使用所有打印机功能，并可以监控每次打印的成本，快速了解使用我们的打印机可以节省多少钱。<br><br>想要进行FX ONE打印机的简单性和质量的第一手演示，请联系我们<br><small>*免费试用视情况而定</small><br><br>无论您在世界何处，您都可以向我们发送产品样品，我们将进行高分辨率测试打印。"
+
+  newsletter:
+    card_title: 加入我们，我们正在招聘！
+    card_text: 准备好转行了吗？想在一家雄心勃勃的初创公司工作吗？加入我们吧！
+    title: 获取最新的时事通讯
+    text: 注册以接收有关新产品公告、技术更新、我们将参加的展会等的电子邮件更新。
+    button: 查看工作机会
+    placeholder: 输入您的电子邮件以订阅
+    unsubscribe: 您可以随时取消订阅。
+    privacy: 阅读我们的隐私政策
+
+  about:
+    title: 在Foenix Coding
+    first_section_title_one: 我们是谁
+    first_section_text_one: Foenix Coding是一家领先的制造商和全球供应商，为食品、饮料、制药、工业和电子行业提供最新的喷墨打印机，用于产品线编码、打标、（打印）和识别。五年多来，Foenix在打印机的设计中以其高质量、好创意、低成本和少维护而享誉全球。
+    first_section_title_two: 公司
+    first_section_text_two: “Foenix Coding以其专门设计制造免维护喷墨系统的工业喷墨打印机而闻名。对于一家英国制造商来说，要想赢得全球市场，我们必须做的不仅仅是提供具有竞争力的产品。Foenix精巧的设计降低了制造成本，提高了打印机的可靠性，使Foenix成为一家鼓舞人心的全球公司。"
+    first_section_title_three: 市场
+    hiring_title: 加入我们，我们正在招聘！
+    hiring_text: 准备好转行了吗？想在一家雄心勃勃的初创公司工作吗？加入我们吧！
+    view_openings: 查看工作机会
+    our_values_title: 我们的价值观
+    our_values_text: Foenix的产品基于公司创新、设计和质量的核心价值观。
+    ov_card_title_one: 创新
+    ov_card_text_one_html: “在所有印刷技术中，压电喷墨打印被公认为提供最高质量的印刷，同时易于维护，因此实现了最高水平的正常运行时间可靠性。
+                           <br>
+                           其一致的印刷确保了产品的可靠可读性。"
+    ov_card_title_two: 设计
+    ov_card_text_two_html: “喷墨打印机通常被设计成一个复杂的解决方案，导致不必要的复杂维护程序。
+                           <br>
+                           Foenix设计了一系列喷墨打印机，使用最少的组件，以最大限度地延长正常运行时间并减少维护。"
+    ov_card_title_three: 质量
+    ov_card_text_three: 我们的所有产品、打印机、油墨、耗材均在英国制造，经久耐用。该软件和硬件系统是与制造和包装的专业人员合作开发的，以帮助他们应对日常挑战，即打印保质期、批次代码、二维码、图形徽标和其他要求。
+    whats_next_title: 下一步
+    whats_next_text_html: “在过去几年全球化和指数级增长之后，Foenix Coding正致力于加强现有的分销商网络。
+                          <br>
+                          研发团队正在全面开发新一代FX ONE打印机，该打印机具有更高的打印高度、多个打印头和一套易于使用的通信功能。"
+
+
+    first_section_text_three: Foenix打印机在初次包装和二次包装的编码方面都提供了节省成本的解决方案。这包括标签更换以及TIJ（热喷墨）和CIJ（连续喷墨）的替代品。我们的打印机不同，因为它们使用不同技术。因此，Foenix打印机可以作为替代解决方案提供。同时，它们很容易提供任何产品系列的编码和打标的解决方案。
+    second_section_title: 我们的使命
+    second_section_text: “Foenix Coding是一家总部位于英国的公司，我们的所有产品均在英国制造。我们对新技术和创新印刷解决方案充满热情，团队由喷墨印刷技术领域的专家组成。我们都是前Sauven Marking员工，我们带来了所有技能、经验和知识，更重要的是我们对这一新冒险的热情。"
+    second_section_text_two: 我们的使命是让世界上的每个人都能使用我们的高质量和简单的打印机。我们在这里帮助您提高生产线的效率，并帮助您应对产品可追溯性挑战。 
+    second_section_text_three: 您复杂的编码和打标难题不需要复杂而昂贵的解决方案。
+    third_section_title: 我们关注工业印刷中所有权成本的重要性。
+    third_section_text: 无论您是在寻找一台喷墨打印机进行实例编码还是产品打标，在打印方面的投资不再仅仅是打印机价格的问题。消耗品和维护已成为决定您拥有成本的主要因素。
+    fourth_section_text_right: Foenix编码提供了一系列的打印机，这些打印机降低了拥有成本。我们奉行零维护小字符打印理念。我们也在努力提供最用户友好的工业打印机。Foenix打印机与一个简单的Windows PC软件配合使用，该软件带有图形键和/或一个非常先进和直观的触摸控制器。
+    fifth_section_title: 英国制造，经久耐用
+    fifth_section_text_one: “我们的所有产品——打印机、墨水、耗材——均在英国制造。软件和硬件系统是与制造和包装专业人士合作开发的，以帮助他们应对日常挑战，如打印日期、批次代码、二维码、图形徽标和其他要求。”
+    fifth_section_text_two: “我们的一系列基于Xaar的工业喷墨打印机免维护。这些打印机专门为食品、饮料、汽车、建筑、加工、医疗设备、制药、电子和化工等行业的工业用途而设计……”
+
+  inks_and_consumables:
+    first_section_text: 大墨盒
+    first_section_text_two: FX ONE打印机与多种不同类型的墨水兼容，使其成为市场上最通用的打印机。在任何基底上打印，每个墨盒最多可打印1500万个字符。我们提供最广泛的喷墨液，以满足最专业的客户应用
+    inks_card_title_one_html: "高附着力<span class='text-orange'>.</span>"
+    inks_card_text_one: High 专为PVC挤出应用而设计的粘着油墨。在PVC管道上获得前所未有的打印质量。
+    inks_card_title_two_html: "多种油墨<span class='text-orange'>.</span>"
+    inks_card_text_two: 不同的墨水可以在非多孔材料（塑料、玻璃、金属）或多孔表面（纸板、木材、石膏）上打印。提供多种颜色，以及UV可读和UV固化油墨。
+    inks_card_title_three_html: "高对比度<span class='text-orange'>.</span>"
+    inks_card_text_three: 由于我们的着色墨水在深色产品的对比度最高。确保您的代码在深色和浅色基底上都突出。
+    grid_title_one: 密封墨盒
+    grid_text_one: 一体式可更换墨盒可保持墨水系统清洁无污染。我们的墨在各种多孔和非多孔材料上具有优异的附着力和对比度，如纸箱、金属、玻璃、纸张、木材和许多塑料。我们的墨在最常见的应用条件下具有优异的性能。
+    grid_title_two: 生产友好型油墨
+    grid_text_two: 对于食品、饮料、化妆品、家居用品、工业和挤压品市场的应用，我们有高质量的受控油墨，几乎无味，无M.E.K。我们也提供彩色墨水。
+    grid_title_three: PVC管材挤出用HDPVC油墨
+    grid_text_three: 我们现在提供专为PVC挤出应用而设计的高附着力油墨。在PVC管道上获得前所未有的打印质量。
+    grid_title_four: 简易墨水系统
+    grid_text_four: 墨水供应包含在一个方便的墨盒系统中，该系统插入机器后部。更换墨盒既简单又干净，几秒钟内即可完成，无需中断打印过程。永远不要错过打印，始终获得适合您产品图像的高分辨率打印质量
+    lowest_ink_title: 市场上最低的墨水使用量
+    lowest_ink_text: 无论您是在寻找一台喷墨打印机进行实例编码还是产品打标，在打印方面的投资不再仅仅是打印机价格的问题。消耗品和维护已成为决定您拥有成本的主要因素。由于设计巧妙，压电喷墨打印机的墨水使用率非常低，因此每次打印的成本非常低。
+    # NEW
+    standard_ink_one: 我们的标准墨水系列
+    standard_ink_two: 适用于所有应用
+    sdct_one_html: "FX 8001<br>黑墨"
+    sdct_text_one: 用于纸箱、纸张、木材或任何其他多孔基材
+    sdct_two_html: "FX8201<br>黑色溶剂墨"
+    sdct_text_two: 适用于大多数基材，如PVC、金属、玻璃、塑料和任何其他无孔表面
+    sdct_three_html: "FX8203<br>蓝色溶剂墨"
+    sdct_text_three: 与用于初次包装的FX8201无孔墨的用途相同
+    sdct_four_html: “FX8308<br>红色溶剂墨”
+    sdct_text_four: 与用于初次包装的FX8201无孔墨的用途相同
+    sdct_five_html: "FX 8206<br>白色溶剂墨"
+    sdct_text_five: 用于深色无孔表面的着色墨
+    sdct_six_html: "FX8311<br>黄色溶剂墨"
+    sdct_text_six: 用于深色无孔表面的着色墨
+    sdct_seven_html: "FX8236<br>黑色UV固化墨"
+    sdct_text_seven: 具有瞬间干燥时间的无孔基底
+    sdct_eight_html: "FX8235<br>UV可读墨"
+    sdct_text_eight: 不可见墨水，仅在紫外线灯下可见
+    # NEW
+    special_ink_title: 你需要一种特殊的墨水吗？
+    special_ink_title_two: 我们可以帮忙！
+    special_ink_text_one: 油基墨
+    special_ink_text_two: 溶剂墨
+    special_ink_text_three: 着色墨
+    special_ink_text_four: UV固化和UV可读墨
+    stay_informed_title: 随时了解我们最新的油墨开发
+    stay_informed_text: 注册成为第一个知道我们何时推出新墨水的人。
+
+
+  distributor:
+    first_section_title: 全球范围
+    first_section_text: 无论您在世界何处，我们的一位经销商都会在附近。我们遍布世界各大洲，以您的语言和时区为您提供支持。
+    second_section_title: Foenix有分销商
+    why_partner_title: 为什么合作
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: ‘是什么让FOENIX CODING不同于竞争对手？
+                           <br>
+                           Foenix编码仍然是一家“初创企业”，由了解产品、公司和客户的公司核心运营。
+                           <br>
+                           <br>
+                           使用Foenix编码时，您可以预期以下情况：'
+    first_list_one: 与直接竞争对手相比，具有竞争力的定价
+    first_list_two: 对分销商有吸引力的利润
+    first_list_three: 程序上的灵活性
+    first_list_four: 生产时间的灵活性
+    first_list_five: 交货时间的灵活性
+    second_list_one: 个人方案
+    second_list_two: 积极参与的董事
+    second_list_three: 支持展览
+    second_list_four: 支持测试打印
+    second_list_five: 对培训计划的支持
+    second_list_six: 技术更新
+    third_list_one: “技术能力：在60多个国家销售打印机意味着我们几乎看到了所有应用”
+    third_list_two: 灵活的研发团队，能够快速响应特定客户需求
+    third_list_three: “专家知识：受限制的产品范围会产生专家知识”
+    partnership_title: 伙伴关系之路
+    partnership_text: 我们很高兴拥有一个不断增长的分销合作伙伴网络，在世界各地销售Foenix产品。我们目前正在邀请各公司加入我们的国际经销商网络，将我们新的打印机系列推向新市场。我们将很快讨论并填写此表格
+    step_one: 第一步
+    step_one_title: 申请
+    step_one_text: 如果您有兴趣讨论合作机会，我们将很高兴听到更多来自贵公司的消息和您的目标
+    step_two: 第二步
+    step_two_title: 买一台演示打印机
+    step_two_text: 测试设备的性能，以及我们的反应能力和您将从我们那里得到的支持
+    step_three: 第三步
+    step_three_title: 开始销售
+    step_three_text: 我们的目标是使我们的业务合作伙伴能够轻松地专注于开发新的前景和发展业务。
+
+  distributor_countries:
+    uk: 英国
+    indonesia: 印度尼西亚
+    south_africa: 南非
+    france: 法国
+    austria: 奥地利
+    peru: 秘鲁
+    turkey: 土耳其
+    venezuela: 委内瑞拉
+    malaysia: 马来西亚
+    vietnam: 越南
+    saudi_arabia: 沙特阿拉伯
+    egypt: 埃及
+    greece: 希腊
+    spain: 西班牙
+    latvia: 拉脱维亚
+    netherlands: 荷兰
+    sri_lanka: 斯里兰卡
+    italy: 意大利
+    croatia: 克罗地亚
+    brazil: 巴西
+    hungary: 匈牙利
+    portugal: 葡萄牙
+    lithuania: 立陶宛
+    ivory_coast: 科特迪瓦
+    poland: 波兰
+    malta: 马耳他
+    philippines: 菲律宾
+    uae: 阿拉伯联合酋长国
+    chile: 智利
+    australia: 澳大利亚
+    usa: 美国
+    argentina: 阿根廷
+    india: 印度
+    bulgaria: 保加利亚
+    israel: 以色列
+    singapore: 新加坡
+    germany: 德国
+    guatemala: 危地马拉
+    china: 中国
+    ireland: 爱尔兰
+    morocco: 摩洛哥
+    nigeria: 尼日利亚
+    sweden: 瑞典
+    be_the_next: 成为下一个
+
+  cost_of_ownership:
+    first_section_title: 市场上最低的拥有成本
+    first_section_list_one: 市场上最低的墨水消耗量
+    first_section_list_two: 市面上每份印刷品的最低成本
+    first_section_list_three: 低打印机价格
+    first_section_list_four: 无维护/服务合同
+    first_section_list_five: 零停机时间
+    first_section_list_six: 无安装和培训费用
+    first_section_list_seven_html: 将编码和打标成本至少降低60%<br>不要在墨水和维护合同上花大钱了！
+    first_section_list_eight_html: 获取我们的操作指南，了解您可以节省多少钱
+    download: 下载
+    first_section_two_title: 清晰透明的投资回报
+    first_section_sub_title: FX ONE打印机大大降低了每次打印的成本
+    first_section_text_html: “每次打印的成本由三个因素决定：<br>-打印机的采购价格<br>-墨水成本<br>-每月维护成本。
+                              <br>
+                              <br>
+                              Foenix Coding设计了一款简单的喷墨打印机，优先考虑降低成本。FX ONE喷墨打印机的开发考虑到了简单性，不包含运动部件、泵或阀门。墨水供给基于毛细和重力，不需要压缩空气。由一个PCB控制，该PCB通过一根数据电缆连接到打印头。由于其结构简单且无需移动部件，因此无需每月或每年进行维护。使用较少的组件意味着FX ONE打印机的购买价格极具竞争力。
+                              <br>
+                              <br>
+                              降低了打印成本-通常从50%降低到80%。Xaar打印技术允许每滴墨水沉积量低至80皮升（即0.0000000 80ml），从而节省大量墨水。您可以控制每次打印的成本。使用我们直观的软件轻松计算您的打印成本，看看您可以节省多少。使用微墨滴和密封墨盒打印，每次打印成本低，无墨水损耗。使用墨水节省器模式可以获得额外的成本节约。
+                              <br><br>
+                              避免被绑定在昂贵的喷墨打印机，这会随着时间的推移耗尽你的预算。了解保修详情、服务条款、维护/维修成本、墨水和耗材成本。获得信心，为您的业务选择最经济高效的解决方案。在做出决定之前，请计算打印机的总拥有成本。Foenix Coding理解简单的艺术，并创造了一种简单且经济高效的打印机，旨在满足客户的期望。"
+    inkjet_printer_title: 如何选择喷墨打印机
+    inkjet_printer_text_html: “我们知道选择喷墨打印机并不容易。有很多不同的制造商型号和技术可供选择。
+                             <br>
+                             <br>
+                             每个应用程序都有不同的要求。了解您的应用程序将为您节省大量时间和避免失望。
+                             <br>
+                             下载我们的免费指南，比较Foenix与竞争对手的打印机。"
+    newsletter_title: 接收我们的免费指南，帮助您选择喷墨打印机
+    newsletter_description_html: "CIJ 对比 TIJ 对比 <span class='text-orange'>FX ONE</span>"
+    list_title: “每个问题都可以决定FX ONE打印机是否适合您的项目：”
+    list_left_one: 产品是什么？
+    list_left_two: 产品的尺寸是多少？
+    list_left_three: 产品/包装材料是什么？
+    list_left_four: 产品的用途是什么？
+    list_left_five: 输送机/产品的速度是多少？
+    list_left_six: 产品在印刷时是否得到良好的支持？
+    list_left_seven: 打印时的产品温度是多少？
+    list_left_eight: 是否有承受天气的要求？
+    list_left_nine: 上/侧/下部的打印要求在哪里
+    list_left_ten: 产品线向打印头的哪个方向运行？
+    list_left_eleven: 打印区域的大小和应用打印的位置是什么？
+    list_left_twelve: 您现在使用什么设备打印（如果有的话）？
+    list_right_one: 需要哪种颜色的墨水？
+    list_right_two: 材料/包装的颜色是什么？
+    list_right_three: 打印表面是多孔的还是无孔的？
+    list_right_four: 所需的干燥时间是多少？
+    list_right_five: 文字是什么？
+    list_right_six: 字的高度多大？
+    list_right_seven: 有多少个字符？
+    list_right_eight: 字的高度是多少？
+    list_right_nine: 打印几行？
+    list_right_ten: 每分钟/小时打印多少张？
+    list_right_eleven: 信息是否在网状材料或挤压物上连续
+    list_right_twelve: 信息的重复长度是多少？
+
+    second_section_title: 节省/投资回报计算器
+    second_section_text: 轻松控制每次打印的成本和每个墨盒的打印数量。降低成本从未如此容易！使用我们的墨水节省器模式最多可节省75%的墨水。
+    second_section_text_two_html: “避免被锁定在昂贵的喷墨打印机中，这会随着时间的推移耗尽您的预算。
+                             <br>
+                             了解保修详情、服务条款、维护/维修成本、墨水和耗材成本。
+                             <br>
+                             获得信心，为您的业务选择最经济高效的解决方案。
+                             <br>
+                             在做出决定之前，请计算打印机的总拥有成本。"
+
+  printers:
+    title: FX ONE 系列
+    text: Foenix系列喷墨打印机均为用于编码和打标解决方案的工业喷墨打印机。
+          每台打印机的主要设计标准是易用性、少维护性和提供超高分辨率打印的成本效益。
+    coming_soon: 即将推出
+
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: 新的FX ONE喷墨打印机是每码成本最低、维护成本最低的小型字符打印机之一。它为您的产品编码提供了一个真正的替代方案。
+    second_section_title: 概览
+    grid_title_one: CIJ印刷的最佳替代品
+    grid_description_one_html: “FX ONE Remote是一款非常简单的喷墨打印机，可打印1至8行代码，并可输入您自己的字体样式和图形。
+                                <br>
+                                <br>
+                                FX ONE Remote以非常实惠的价格提供了复杂CIJ打印机的真正替代品：
+                                <ul>
+                                  <li>市场上每份印刷的最低成本</li>
+                                  <li>高分辨率打印</li>
+                                  <li>专为零维护设计</li>
+                                  <li>灵活，允许在任何方向打印</li>
+                                  <li>多行打印，无需额外费用</li>
+                                  <li>不需要额外的补充溶剂</li>
+                                </ul>"
+    grid_link_one: 快速报价
+    grid_title_two: 非常适合挤出和卷筒馈送的应用场景
+    grid_description_two_html: FX ONE是一款用于工业用途的模块化喷墨编码器。它是标记挤压物、织带印刷和其他工业应用的理想选择。
+                            <br>
+                            FX ONE打印机经过编程，可在挤出型生产线上以规定的间隔连续重复打印。
+                            <br>
+                            <br>
+                            获得跨材料网络重复打印的总体控制。可以跨网络安装多台FX ONE打印机，以打印相同或不同的
+                             信息。远程安装的触摸控制器可以连接到喷码器或任何类型的打印设备。"
+    grid_link_two: 获取打印样本
+    grid_title_three: 易于安装和操作
+    grid_description_three_html: “FX ONE Remote打印机可以轻松安装在大多数机器或有限的空间中。
+                                  <br>
+                                  <br>
+                                  打印产品的两面，但仅使用触控式控制器。无论您打印的是盒子的两面还是较大产品的两面，使用单个控制器都可以简化操作员输入信息的过程。
+                                  在产品的两面轻松打印相同或不同的信息。
+                                  <br>
+                                  <br>
+                                  超大彩色图形触摸屏和WYSIWYG显示屏与图形操作键相结合，使信息编辑和编程变得非常简单。"
+    grid_link_three: 快速报价
+    grid_title_four: 一致的打印性能
+    grid_description_four_html: “打印头上的自动光闸可确保在连续或间歇应用和恶劣环境中打印效果保持完美，无需操作员干预。
+                                <br>
+                                <br>
+                                在不使用FX ONE期间，可以手动或自动关闭此光闸。当光闸关闭时，它可以更好地保护打印头，防止打印头内部的物理损坏和墨水干燥。
+                                <br>
+                                <br>
+                                更好地抵御恶劣环境：
+                                <br>
+                                光闸打开时间可短至5秒。这意味着在打印过程中，光闸将仅打开5秒钟。之后，它将立即关闭并保护打印头免受气流、湿度、灰尘和空气中的其他污染。"
+    grid_title_five: 清洁油墨管理，实现完美印刷
+    grid_description_five_html: 易流动的油或溶剂型墨水装在密封的墨盒中，以确保无浪费、无污染和无脏乱。更换墨盒需要几秒钟，同时仍在打印。
+                                <br>
+                                打印机可编程为自动吹扫和清洁，提供100%的正常运行时间。"
+    grid_link_five: 了解更多
+    grid_title_six: 完全集成能力
+    grid_description_six_html: “Foenix FX APP套件为联网打印机、访问数据库、离线创建信息、连接到工业扫描仪、条形码阅读器、验证器和其他生产设备提供了完整的可集成性。
+                                <br>
+                                信息选择可以是手动的，也可以使用条形码阅读器进行安全选择。"
+    grid_link_six: 了解更多
+    cards_section_description: 新一代
+    cards_section_description_two: 免维护喷墨打印机
+    first_card_title: 高分辨率编码与打标
+    first_card_text: 1至8行打印，打印高度为2-18mm。
+    second_card_title: Pc连接
+    second_card_text: 通过USB电缆、RS485或以太网直接创建信息或工厂网络系统。
+    third_card_title: 图形、徽标和条形码
+    third_card_text: 使用Fx APP 轻松导入JPEG、PNG和BMP图形。
+    fourth_card_title: 简单屏幕和键盘
+    fourth_card_text: 用于本地控制打印机速度和方向，以及信息延迟。
+    fifth_card_title: 开箱即用安装
+    fifth_card_text: 具有最小的组件以获得最大的可靠性。
+    sixth_card_title: 一维和二维条码
+    sixth_card_text: 高分辨率打印1D和2D条形码（QR码-数据矩阵），包括可变数据。
+    seventh_card_title: 2年保修期*
+    seventh_card_text_html: 提供延长保修期<br>*适用条款和条件
+    eigth_card_title: 触摸控制器
+    eigth_card_text: 使用FX APP进行简单的交互式windows编程。一键式可靠打印。
+    ninth_card_title: 网络
+    ninth_card_text: 在一个位置管理多台打印机。监控进度、跟踪故障并通过打印分析获得见解。
+    tenth_card_title: True Type字体和Unicode
+    tenth_card_text: 支持以任何字体和语言创建信息
+    eleventh_card_title: 大溶剂型墨
+    eleventh_card_text: 低成本编码和干净的墨水系统，非常适合在多孔和非多孔表面上打印。
+    twelfth_card_title: 多端口连接
+    twelfth_card_text: 用于喷码器、外部报警器和替代产品检测设备。
+    thirteenth_card_title: 节省墨水模式
+    thirteenth_card_text: 减少墨水消耗达75%
+    pop_title: APP软件
+    pop_title_two: 适用于所有产品编码应用场景
+    pop_text_one: 网络和打印分析
+    pop_text_two: 简单的交互式windows编程
+    pop_text_three: '在PC和7“触摸屏控制器上的可用性'
+    pop_text_four: 多语言支持
+    pop_text_five: 与我们的DLL完全集成
+    pop_text_six: 高级打印机管理
+    pop_link: 了解更多
+    fourth_section_title: 技术规格
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: 特性
+    fifth_section_left_one: 以任何方向打印
+    fifth_section_left_two: 1至8行打印
+    fifth_section_left_three: 2mm- 18mm总打印高度
+    fifth_section_left_four: 高分辨率peizo打印头
+    fifth_section_left_five: 打印文本、图形、徽标和条形码
+    fifth_section_left_six: 打印时间和多种日期格式
+    fifth_section_left_seven: 连续重复打印能力
+    fifth_section_left_eight: 100米/分钟打印速度（50米/分钟用于条形码和2毫米文本）
+    fifth_section_left_nine: 单启动/停止打印按钮
+    fifth_section_left_ten: 视觉报警指示灯，包括墨水不足
+    fifth_section_left_eleven: 信息宽度、延迟和打印方向控制
+    fifth_section_left_twelve: 产品检测光电管
+    fifth_section_left_thirteen: 重量1.7 Kg（不包括墨线槽和支架）
+    fifth_section_left_fourteen: 尺寸 242 x 178 x 90mm
+    fifth_section_right_title_one: 连接性
+    fifth_section_right_one: 用于Sauven触摸控制器的RS232和RS485
+    fifth_section_right_two: 包括USB-A记忆卡
+    fifth_section_right_three: 用于电缆连接的USB-B
+    fifth_section_right_four: 以太网（可选）
+    fifth_section_right_five: 打印文本、图形、徽标和条形码
+    fifth_section_right_six: 喷码器、报警信标和外部光电管的I/O端口
+    fifth_section_right_title_two: 墨
+    fifth_section_right_seven: 密封可更换墨盒（最多1500万个字符）
+    fifth_section_right_eight: 多孔表面用油基墨
+    fifth_section_right_nine: 非多孔表面用溶剂型墨
+    fifth_section_right_ten: 用于LED即时固化的UV墨
+    fifth_section_right_eleven: 多种颜色
+    fifth_section_right_title_three: 电气
+    fifth_section_right_twelve: 包括90-260 VAC至24VDC电源
+    fifth_section_message: Foenix Coding有限公司不断改进产品和软件。规格可能会更改。
+    build_to_last: 经年不坏
+    build_to_last_description: 碳纤维结构和坚固的组件集
+    build_to_last_description_two: 意味着它将在未来几年属于您
+    discover: 发现FX ONE的应用范围
+    shared_tech: 共享的技术
+    shared_tech_text_one: FX ONE打印机以模块化方式构建，使用很少的组件。
+    shared_tech_text_two: FX ONE零件100%可互换，用于类似机器和类似型号。
+    shared_tech_text_three: 两种型号之间的唯一区别在于打印头的位置。FX ONE Standard 的打印头包含在控制单元中，FX ONE Remote&amp;FX ONE Plus的远程打印头通过软管连接到控制单元。
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: 高分辨率包装印刷的
+    fx_one_standard_sub_two: 智能解决方案
+    fx_one_standard_text: 直接在生产线上的纸箱、托盘和麻袋上
+    fx_one_standard_text_two: 进行高分辨率打印，以消除
+    fx_one_standard_text_three: 对昂贵预打印包装或昂贵标签的需要。
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: 节省标签打印
+    fx_one_plus_sub_two: 的智能方法
+    fx_one_plus_text: 高达72毫米打印高度的大型字符打印机。
+    fx_one_plus_text_two: 是昂贵、复杂产品以及有限的标签系统
+    fx_one_plus_text_three: 的完美替代品
+    sixth_section_title: 可靠、强大、多功能
+    sixth_section_left_sub_title_one: 没有昂贵的维修合同
+    sixth_section_left_sub_text_one: Foenix打印机采用最小组件制造，以提供最大的可靠性。无泵、无阀、无压缩空气、无液滴充注和无空气过滤器意味着少维护。
+    sixth_section_left_sub_title_two: 每次打印的最低成本
+    sixth_section_left_sub_text_two: FX ONE打印机中使用的压电技术只需要一个密封墨盒，不需要额外的补充溶剂。这大大降低了运营成本。
+    sixth_section_left_sub_title_three: 一致的打印性能
+    sixth_section_left_sub_text_three: FX ONE打印机以高分辨率打印。您可以打印徽标、一维和二维条形码、变量...
+    sixth_section_left_sub_title_four: 操作信心
+    sixth_section_left_sub_text_four: 易于安装、信息编辑和编程，易于维护。
+    sixth_section_right_sub_title_one: 成熟技术
+    sixth_section_right_sub_text_one: 使用Xaar高分辨率打印头，其技术已在全球成功销售的数千台打印机上得到验证。
+    sixth_section_right_sub_title_two: 系统集成
+    sixth_section_right_sub_text_two: 集成到工厂网络系统，或根据需要连接到工业扫描仪、喷码器、检查秤或其他设备。
+    sixth_section_right_sub_title_three: 100%正常运行时间0%停机时间
+    sixth_section_right_sub_text_three: “全天候打印：即使在更换墨盒时也不要停止打印！”
+    sixth_section_right_sub_title_four: 创新自动光闸
+    sixth_section_right_sub_text_four: “保护打印机最关键的部分：打印头引擎”
+    seventh_section_title: 每次都是完美的印刷
+    seventh_section_text: 高质量、制作精良、高精度是FX ONE打印机的特点。我们提供最简单、最有效的方式，以高分辨率编码您的产品。
+    low_ink: 市场上最低的墨水使用量
+    low_ink_text: 停止在墨盒和维护合同上花大钱！
+    low_ink_text_two: Foenix打印机提供业界最低的运行成本和每次打印的最低成本
+
+
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: 直接在生产线上的纸箱、托盘和麻袋上进行高分辨率打印，以消除对昂贵预打印包装或昂贵标签的需要。
+    grid_title_one: 高分辨率包装印刷的智能解决方案
+    grid_description_one_html: “新的FX ONE Standard为功能齐全的小型打印机提供了难以置信的打印质量。它可以用作简单的独立打印机，易于编程，也可以集成到完整的生产网络系统中。无需昂贵的标签：使用FX ONE Standard直接在纸箱、托盘、麻袋或其他产品生产线上进行高分辨率打印，无需昂贵的预印刷包装或昂贵的标签。"
+    grid_link_one: 获取打印样本
+    grid_title_two: 节约时间，节约金钱
+    grid_description_two_html: “不需要复杂的启动和关闭程序。只需在一天结束时关闭机器，然后在第二天再次打开即可。
+                            <br>
+                            FX ONE打印机采用最小组件设计，以提供最大的可靠性。没有泵，没有阀门，没有压缩空气，并且只有一个PCB意味着维护成本低，没有昂贵的维护合同。
+                            <br>
+                            <br>
+                            降低打印成本——监控和管理每次打印的成本，轻松减少75%的墨水消耗。使用微墨滴和密封墨盒打印，每次打印成本低，无墨水损耗。
+                            易流动油基墨装在密封的110ml墨盒中，以确保无浪费、无污染和无脏乱。更换墨盒需要几秒钟，同时仍在打印。打印机可编程为自动吹扫和清洁。"
+    grid_link_two: 快速报价
+    grid_title_three: 生产通用性
+    grid_description_three_html: “FX ONE紧凑而创新的工业设计使您能够在几分钟内将打印机移动到不同的位置。只需拔下并移动打印机即可。它与大型触摸屏无缝配合，所有打印功能都可以轻松控制。只需点击打印按钮，即可开始打印任何内容。
+                                  <br>
+                                  <br>
+                                  FX ONE打印机可以链接，在纸箱的两面打印相同或不同的信息。高分辨率打印与以任何语言导入任何字体样式、图形和打印的能力相结合，将增强您的产品形象。"
+    grid_title_four: 完全集成能力
+    grid_description_four_html: “Foenix FX APP套件为联网打印机、访问数据库、离线创建信息、连接到工业扫描仪、条形码阅读器、验证器和其他生产设备提供了完整的集成功能。
+                                <br>
+                                使用条形码阅读器进行手动的或安全的信息选择。"
+    grid_link_four: 了解更多
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: 明智的选择
+    fx_one_remote_sub_two: 到CIJ印刷
+    fx_one_remote_text: FX ONE Remote喷墨打印机是每码成本最低、
+    fx_one_remote_text_two: 维护成本最低的小型字符打印机之一。
+    fx_one_remote_text_three: 它为您的产品编码提供了一个真正的替代方案。
+    second_section_title: 概览
+    first_card_title: 高分辨率编码与打标
+    first_card_text: 1至8行打印，打印高度为2-18mm。
+    second_card_title: Pc连接
+    second_card_text: 通过USB电缆或以太网直接创建信息或从工厂网络系统创建信息。
+    third_card_title: 图形、徽标和条形码
+    third_card_text: 使用FX APP轻松导入JPEG和BMP图形。
+    fourth_card_title: 简单的屏幕和键盘
+    fourth_card_text: 用于本地控制打印机速度和方向，以及信息延迟。
+    fifth_card_title: 开箱即用安装
+    fifth_card_text: 具有最小的组件以获得最大的可靠性。
+    sixth_card_title: 一维和二维条码
+    sixth_card_text: 高分辨率打印1D和2D条形码（QR码-数据矩阵），包括可变数据。
+    seventh_card_title: 2年保修期
+    seventh_card_text: 保修期再延长一年、两年或三年
+    eigth_card_title: 触摸控制器
+    eigth_card_text: 使用FX APP进行简单的交互式windows编程。一键式可靠打印。
+    ninth_card_title: 网络
+    ninth_card_text: 在一个位置管理多台打印机。监控进度、跟踪故障并通过打印分析获得见解。
+    tenth_card_title: True Type字体和Unicode
+    tenth_card_text: 支持以任何字体和语言创建信息
+    eleventh_card_title: 大油基墨盒
+    eleventh_card_text: 低成本编码和清洁的墨水系统，非常适合在多孔表面上打印。
+    twelfth_card_title: 多端口连接
+    twelfth_card_text: 用于喷码器、外部报警器和替代产品检测设备。
+    thirteenth_card_title: 节省墨水模式
+    thirteenth_card_text: 减少墨水消耗达75%
+    seventh_section_title: 生产通用性
+    seventh_section_text: FX ONE紧凑而创新的工业设计使您能够在几分钟内将打印机移动到不同的位置。只需拔下并移动打印机即可。它与大型触摸屏无缝配合，所有打印功能都可以轻松控制。只需点击打印按钮，即可开始打印任何内容。
+
+
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: 高达72毫米打印高度的大型字符打印机。是昂贵、复杂和有限的标签系统的完美替代品。
+    first_section_text_two: “是昂贵、复杂和有限的标签系统的完美替代品。”
+    coming_soon: 即将推出
+    grid_title_one: 节省标签打印的聪明方法
+    grid_description_one_html: “FX ONE Plus大字符喷墨打印机使用户可以控制标签打印的每次打印成本。
+                               <br>
+                               <br>
+                               基于Windows的软件在设计时特别考虑了标签打印，这是一个控制每次打印成本至关重要的领域。通过直接打印到盒子上而不是使用标签，成本效率显著提高。
+                               <br>
+                               <br>
+                               FX ONE Plus提供了进一步的集成灵活性，可以与数据库连接，允许通过现有生产管理软件进行完全远程控制，并提供包括WiFi在内的完整网络功能。
+                               <br>
+                               <br>
+                               专为低成本编码和纸箱上的标签而设计，是标签打印机的真正替代品。
+                               无需复杂的启动和关闭程序。只需在一天结束时关掉机器，第二天再开机即可。
+                               <br>
+                               <br>
+                               除纸箱外，您还可以在纸张、木材、织物、EPS、泡沫、混凝土等上打印..."
+    huge_cost_savings: 通过直接在箱子上进行高分辨率打印，取代标签和预打印包装，节省了大量成本，非常适合于箱子、麻袋、托盘、木制托盘和其他物品
+    plus_newsletter_title: FOENIX 新闻
+    plus_newsletter_description: 第一个知道
+    plus_newsletter_description_two: 我们何时推出FX ONE Plus
+    placeholder: 输入您的电子邮件并获取有关发布的更新
+
+  software:
+    first_section_title_one: FX 触摸控制器
+    first_section_text_one: 只需轻触即可控制打印机。除了条形码、计数器、徽标、日期、时间、班次等常用功能外，FX ONE打印机还标配PC软件和网络连接。
+    first_section_text_two: Foenix Coding理解简单的艺术，并创建了一种简单且经济高效的打印机，完全适合客户的需求。
+    first_section_text_three: 我们非常关注FX APP的用户界面设计，以简化日常项目的工作流程。
+    first_section_text_four: FX Touch控制器上运行的FX APP也可作为PC软件使用，因此您可以从任何计算机控制打印机。
+    second_section_title: FX APP
+    second_section_text: 始终让你的生产处于控制之中的终极工具，帮助你减少成本。我们的FX APP既可以在Foenix控制器上运行，也可以在PC上运行，提供集成和灵活性，并且可以与数据库连接，允许通过现有的生产管理软件进行完全的远程控制，具有完全的联网能力。
+    second_section_text_two: Foenix FX APP通过其用户友好的界面使您能够在创纪录的时间内设计信息。
+    second_section_check_one: 简单的交互式windows编程
+    second_section_check_two: 无限信息存储
+    second_section_check_three: 节省墨水打印模式
+    second_section_check_four: 使用True Type字体和Unicode
+    second_section_check_five: 导入JPEG和BMP徽标
+    second_section_check_six: 多语言支持
+    second_section_card_one: “Fx APP：单击并打印”
+    second_section_card_two: 使用FX APP优化您的打印流程
+    second_section_card_three: 一键式可靠打印
+    second_section_card_four: 软件集成以适应您的工作流程
+    third_section_left_title: FX APP
+    third_section_left_sub_title: 特性
+    third_section_left_text_one: 与Windows XP及以上版本兼容
+    third_section_left_text_two: 直观的图标led信息创建
+    third_section_left_text_three: 支持True Type字体和Unicode
+    third_section_left_text_four: 直接以JPEG和BMP格式导入的图形、徽标和条形码
+    third_section_left_text_five: 时间和多个日期格式
+    third_section_left_text_six: 节省墨水打印模式
+    third_section_left_text_seven: 无限信息存储
+    third_section_left_text_eight: 多语言支持
+    third_section_left_text_nine: Foenix Coding有限公司不断改进产品和软件。规格可能会更改。
+    third_section_right_title: FX ONE TOUCH
+    third_section_right_sub_title: 特性
+    third_section_right_title_two: 连接性
+    third_section_right_text_one: 7” 触摸屏
+    third_section_right_text_two: 简单的交互式windows编程
+    third_section_right_text_three: 使用 FX App
+    third_section_right_sub_title_two: 连接性
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 多端口, 以太网 (可选)
+    third_section_right_text_five: 24 v DC 输入
+    third_section_right_text_six: 支持外部警报、信标、喷码器
+    third_section_right_text_seven: 条形码阅读器自动编程
+    third_section_final_text: 触摸屏界面简化了FX APP 的每个操作。轻松的设置和导航消除了培训的需要，提供了一个简单、直观的打印体验。
+
+    extremely_simple: 非常简单易用
+    extremely_simple_text: 我们非常关注FX APP 的用户界面设计，以简化日常项目的工作流程。轻松的设置和导航消除了培训的需要，提供了一种简单、直观的打印体验。
+    extremely_simple_button: 请求使用FX APP
+    grid_title_one: 多语言支持
+    grid_description_one: 软件翻译成19种语言，您可以用任何语言打印
+    grid_title_two: 降低成本
+    grid_description_two: 轻松控制每次打印的成本和每个墨盒的打印数。降低成本从未如此容易！
+    grid_title_three: 网络与集成
+    grid_description_three_html: “FX APP 为联网打印机、访问数据库、离线创建信息、连接到工业扫描仪、条形码阅读器、验证器和其他生产设备提供了完整的集成功能。
+                                 <br>
+                                 <br>
+                                 高级打印机管理：
+                                 <br>
+                                 通过在同一地点跨多台Foenix打印机管理生产，使运行时间最大化。通过打印分析监控进度、跟踪故障并获得见解。"
+    grid_title_four: Foenix 固件
+    grid_description_four: 随着时间的推移，打印机会变得更好。通过性能增强和每次固件更新中添加的功能，使您的FX ONE打印机功能更加强大。
+    grid_title_five: 与我们的DLL完全集成
+    grid_description_five_html: “什么是DLL?
+                                <br>
+                                <br>
+                                DLL（动态链接库）是一组软件函数，第三方开发人员可以使用这些函数将其合并到自己的应用程序中。Foenix DLL提供一组功能，允许通过FX APP 或Foenix Touch Controller控制FX ONE打印机。
+                                该库使与打印机的通信过程对于开发人员来说更加简单，因为它考虑了实际使用的协议。然后，开发人员使用相对简单的机制来监视打印机、加载信息和传输数据。"
+    grid_title_six: 防止用户打印设置中的错误
+    grid_description_six: 由于通过手持读卡器自动配置打印设置，因此不再出现错误。条形码扫描仪可用于选择要打印的信息，或通过扫描相应的条形码填充信息中的字段。更少的人工干预意味着更少的编码错误。
+    newsletter_title: 接收我们最新的软件更新
+    newsletter_description: 注册以成为第一个知道更新何时可用的人
+
+    fourth_section_title_one: 多语言支持
+    fourth_section_text_one: 软件被翻译成19种语言，您可以用任何语言打印
+    fourth_section_title_two: 降低成本
+    fourth_section_text_two: 轻松控制每次打印的成本和每个墨盒的打印数量。
+    fourth_section_text_two_two: 降低成本从未如此容易！
+    fourth_section_title_three: 网络与集成
+    fourth_section_text_three: FX APP 为联网打印机、访问数据库、离线创建信息、连接到工业扫描仪、条形码阅读器、验证器和其他生产设备提供了完整的集成功能。
+    fourth_section_title_four: FX APP
+    fourth_section_text_four: 高级打印机管理。
+    fourth_section_text_four_two: 通过在同一地点跨多台Foenix打印机管理生产，最大限度地延长正常运行时间。通过打印分析监控进度、跟踪故障并获得见解。
+    fourth_section_title_five: 防止用户打印设置中的错误
+    fourth_section_text_five: 由于通过手持读卡器自动配置打印设置，因此不再出现错误。条形码扫描仪可用于选择要打印的信息，或通过扫描相应的条形码填充信息中的字段。更少的人工干预意味着更少的编码错误。
+    button: 要测试的实时软件
+    fourth_section_title_six: Foenix 固件
+    fourth_section_text_six: 随着时间的推移，打印机会变得更好。
+    fourth_section_text_six_two: 通过每次固件更新的性能增强和添加的功能，使您的FX ONE打印机功能更加强大。
+    fifth_section_title_one: 与我们的DLL完全集成
+    fifth_section_sub_title: 什么是DLL?
+    fifth_section_text_one: DLL（动态链接库）是一组软件函数，第三方开发人员可以使用这些函数将其合并到自己的应用程序中。此处描述的Foenix DLL提供了一组功能，允许通过FXPro应用程序或Foenix Touch Controller控制FX ONE打印机。该库使与打印机的通信过程对于开发人员来说更加简单，因为它考虑了实际使用的协议。然后，开发人员使用相对简单的机制来监控打印机、加载信息和传输数据。
+    fifth_section_title_two: DLL是如何工作的？
+    fifth_section_text_two: 客户使用DLL与打印机通信。下图给出了一个基本概述，显示了DLL在应用程序和打印机之间的作用。
+
+  industry:
+    first_section_title: 我们为所有行业和应用提供解决方案
+    first_section_text: 从拥有一条小型生产线的新兴企业到拥有最苛刻应用程序的跨国公司，都可以使用FX ONE打印机来降低编码和打标成本，防止停机，自动化人工过程，并通过高分辨率编码提高产品质量。
+    first_section_button_one: 请求演示
+    first_section_button_two: 获取价格
+    trusted_title: 企业信任
+    trusted_title_two: 来自各行各业
+    trusted_text_html: Foenix Coding在世界各地的食品、饮料、制药、工业、电子和建筑行业安装了喷墨打印机。
+                  <br>
+                  我们的客户包括许多这些行业的最大制造商，但同样重要的是，Foenix享有世界各地许多小型制造公司的光顾，他们同样欣赏打印机的低成本、少维护理念。"
+    fd_title: 饮食
+    fd_card_title_one: 烘焙产品
+    fd_card_text_one: 饼干，蛋糕，曲奇...
+    fd_card_title_two: 谷物制品
+    fd_card_text_two: 早餐麦片，意大利面...
+    fd_card_title_three: 加工水果和蔬菜
+    fd_card_text_three: 罐头产品，干果...
+    fd_card_title_four: 糕点糖果
+    fd_card_text_four: 巧克力，糖果，口香糖...
+    fd_card_title_five: 零食
+    fd_card_text_five: 薯片，美味小吃，巧克力...
+    fd_card_title_six: 鱼和鱼制品
+    fd_card_text_six: 罐头鱼，干鱼，零售冷藏箱...
+    fd_card_title_seven: 乳制品
+    fd_card_text_seven: 牛奶，酸奶，奶酪，奶油...
+    fd_card_title_eight: 酒精饮料
+    fd_card_text_eight: 葡萄酒、烈酒...
+    fd_card_title_nine: 磨碎和去壳产品
+    fd_card_text_nine: 面粉，米饭...
+    fd_card_title_ten: 肉
+    fd_card_text_ten: 预包装，新鲜干货，冷冻...
+    fd_card_title_eleven: 咖啡、可可、茶
+    fd_card_text_eleven: 地，单独包装...
+    fd_card_title_twelve: 婴儿食品
+    fd_card_title_thirteen: 即食产品
+    fd_card_text_thirteen: 比萨，三明治...
+    fd_card_title_fourteen: 非酒精饮料
+    fd_card_text_fourteen: 水，柠檬水，果汁...
+    fd_card_title_fifteen: 冷冻产品
+    fd_card_title_sixteen: 香料、香精、烹饪和烘焙剂
+    fd_card_title_seventeen: 食用油和类似产品、硬脂肪
+    fd_card_text_seventeen: 橄榄油，黄油，猪油...
+    fd_card_title_eighteen: 四面体包装
+    cp_title: 化妆品&amp;
+    cp_title_two: 药物
+    cp_card_title_one: 化妆品和个人卫生
+    cp_card_text_one: 洗发水，肥皂，牙膏，纸巾...
+    cp_card_title_two: 美容产品
+    cp_card_text_two: 香水、护发产品、化妆品...
+    cp_card_title_three: 药品
+    cp_card_text_three: 药品，糖浆，药丸，奶油管...
+    cp_card_title_four: 医疗设备
+    cp_card_text_four: 口罩、注射器、绷带、敷料...
+    ind_title: 工业
+    ind_card_title_one: 金属制品
+    ind_card_text_one: 成品或半成品零件、子组件...
+    ind_card_title_two: 汽车工业
+    ind_card_text_two: 配件，汽车管道，汽车内饰，橡胶件...
+    ind_card_title_three: 化工产品
+    ind_card_text_three: 工业化学品，洗涤剂，清洁产品...
+    ind_card_title_four: 电子设备、子组件、部件
+    ind_card_text_four: PCB板，安全卡...
+    ind_card_title_five: 建筑材料
+    ind_card_text_five: 地板，瓷砖，木材，石头，墙板，石膏板...
+    ind_card_title_six: 用于植物的化肥、杀虫剂和其他产品
+    ind_card_title_seven: 挤出型和卷筒喂料产品
+    ind_card_text_seven: 塑料管，电缆，香包...
+    ind_card_title_eight: 园林、农业、林业和渔业产品
+    ind_card_text_eight: 花园织带...
+    ind_card_title_nine: 油漆、染料、着色剂、油墨、清漆和类似产品
+    ind_card_title_ten: 木材和纸制品、纸浆、未加工木材
+    ind_card_title_eleven: 家具及家具零件
+    ind_card_title_twelve: 石油产品
+    tp_title: 典型应用
+    tp1: 气溶胶容器
+    tp2: 水桶
+    tp3: 箔
+    tp4: 四面体包装
+    tp5: 安瓿
+    tp6: 罐
+    tp7: 玻璃罐
+    tp8: 深拉、压制、折叠的托盘
+    tp9: 盒装
+    tp10: 塑料罐、金属罐
+    tp11: 水壶
+    tp12: 管
+    tp13: 纸袋、塑料袋、金属袋
+    tp14: 蒸馏器
+    tp15: 金属罐
+    tp16: 管状袋/小袋
+    tp17: 袋装填料密封
+    tp18: 液体和糊状物用纸箱包装
+    tp19: 小袋
+    tp20: 缠绕式包装
+    tp21: 桶
+    tp22: 盒子
+    tp23: 托盘-装载装置
+    tp24: 包装（扭曲、折叠、密封、收缩、拉伸包装）
+    tp25: 篮子
+    tp26: 箱子
+    tp27: 卷筒
+    tp28: 石膏板
+    tp29: 泡罩包装
+    tp30: 复合罐
+    tp31: 纸袋、塑料袋、金属袋
+    tp32: 卫生纸
+    tp33: 玻璃瓶
+    tp34: 板条箱
+    tp35: 侧面密封袋/小袋
+    tp36: 花园织带
+    tp37: 金属瓶
+    tp38: 杯子
+    tp39: 套筒和滑动盒
+    tp40: 书籍保护装置
+    tp41: 塑料瓶
+    tp42: 鼓
+    tp43: 线轴
+    tp44: 绑带
+    tp45: 纸箱、纸板、塑料
+    tp46: Etuis
+    tp47: 捆扎包
+    tp48: 木头
+    tp49: 地板覆盖物
+    tp50: 平底袋
+    tp51: 罐式集装箱
+    tp52: 面粉袋
+    tp53: 石头
+    tp54: 医用敷料
+    tp55: 安全卡
+    tp56: 铺路砖
+    tp_button_one: 请求免费试用
+    tp_button_one_msg: 试用FX ONE 7天
+    tp_button_two: 获得免费测试打印
+    tp_button_two_msg: 在你的任何产品上
+
+  video:
+    first_section_title: 视频
+    first_section_text: 观看Foenix打印机在任何物品和任何材料上打印。
+    first_section_text_two: 我们将定期添加更多视频，请确保定期查看此页面和我们的youtube页面
+    more_videos: 更多视频即将发布
+    video_text_one: 初次包装编码解决方案
+    video_text_one_cont: FX ONE Remote打印机是标记产品的最经济高效的解决方案
+    video_text_two: 二次包装编码解决方案
+    video_text_two_cont: FX ONE Standard 打印机，为您的案例编码应用程序提供最经济高效的解决方案
+    video_text_three: 如何在您的纸箱上实现高质量、高效率的编码？请使用FX ONE Standard 打印机
+    video_text_four: FX ONE Standard ，是所有工业应用的最佳打印机
+    video_text_five: FX ONE Standard 打印机，适用于外包装箱、托盘和瓦楞纸板
+    video_text_six: “FX ONE Standard ：一台打印机，多种应用：条形码、徽标、纸箱编码等”
+    video_text_seven: 使用FX ONE Standard ，通过更换标签打印机来降低成本
+
+  legal:
+    first_section_title: 法律
+    cookie_policy: Cookie 政策
+    privacy_policy: 隐私政策
+
+  contact_coders:
+    first_section_title: 接触式编码打标机
+    first_section_text: 虽然喷墨打印机是未来的发展方向，但传统的低成本接触式编码和打标打印机仍然作为非常经济高效的解决方案在世界各地广泛使用。
+                        如果产品需要不频繁的信息更改，或者环境需要零维护的非电子解决方案，接触式喷码器是理想的选择。
+                        Foenix制造的这些打印机，与可互换的橡胶“Baselock”类型以及预浸渍塑料墨辊或各种密封墨盒一起使用。
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: 在所有材料上连续打印
+    codaprint_text: 独特的打印机，可在金属、塑料或多孔材料（包括钢板、挤压薄膜、塑料管和纸板芯绕组）上连续重复打印。
+                    它使用密封墨盒，简单、清洁，可选择墨水和颜色；并提供各种重复打印长度和最大25毫米打印高度。
+    codamark_title: Foenix Codamark
+    codamark_sub_title: 多用途价格和编码打印机
+    codamark_text: 一种紧凑的简单往复式打印机，非常适合在生产线上以清晰精确的打印质量在产品上打印保质期。
+                   密封的墨盒使印刷品在大多数表面上快速干燥，包括金属罐、玻璃罐和塑料盆，这种低成本的不锈钢打印机使用空气，没有电力要求。
+                   它是在恶劣或潮湿环境下在产品顶部、侧面或底部打印的理想选择。
+    handroller_title: Codaprint 手摇辊
+    handroller_sub_title: 在所有表面上手动打印
+    handroller_text: Codaprint手摇辊用于在所有具有相同快干墨类型的表面上手动打印。
+    codapack_title: Foenix Codapack
+    codapack_sub_title: 接触式喷码器和塑料墨辊打印机
+    codapack_text: 使用Foenix codapack接触式喷码器，使用塑料墨辊和baselock橡胶类型解决纸箱印刷问题
+    baselock_title: Foenix Baselock
+    baselock_sub_title: 可互换橡胶类型
+    baselock_sub_title_two: 适用于所有接触式喷码机
+    baselock_text_one: 快速且易于更改的打印
+    baselock_text_two: 种类繁多
+    baselock_text_three: 定制标志
+    baselock_text_four: 所有语言的样式
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: 来自Foenix Coding的可靠连续打印机，用于在金属、塑料、玻璃、纸板上进行高速和低速打标。一个简单的接触式喷码器，用于使用快干密封墨盒以高速重复打印您的产品。
+    get_prices: 获取报价
+    cp_title: 在所有材料上连续打印
+    cp_sub_title_one: 应用
+    cp_text_one: Codaprint用于将识别标记、使用日期、回收标识、客户产品名称等印在连续移动或索引的材料上，以及需要重复打印的地方。
+                     一些典型的应用是在挤出薄膜、印刷袋、钢板、塑料窗挤压物、收缩包装膜、纸板芯绕组、石膏板、边缘包装板、镜子背面和纸张上。
+    cp_sub_title_two: 易于安装
+    cp_text_two: Codaprint很容易安装在横跨待标记材料的固定杆上。装置上的垂直调整提供打印开/关位置。打印机由滚筒上的橡胶轮与材料之间的摩擦接触驱动。
+    cp_sub_title_three: 墨
+    cp_text_three: 墨盒有多种墨水类型和颜色可供选择，以适合大多数表面。我们可以为您的产品提供最合适的类型。
+    cp_sub_title_four: 印刷品的选择
+    cp_text_four: 标准Codaprint型滚筒配有金属锁紧环，可与Baselock可互换橡胶类型一起使用。Baselock有多种字符样式和定制徽标，可快速更改打印。
+    cp_sub_title_five: 转移垫
+    cp_text_five: 每次使用新墨盒时，Codaprint墨盒墨水头应配备一整套转印垫。
+    cp_tp1: "TPS030: 用于最小墨水流量"
+    cp_tp2: "TPS060: 用于最大墨水流量"
+    cp_sub_title_six: 手摇辊
+    cp_text_six: Codaprint手摇辊用于在所有具有相同快干墨类型的表面上手动打印。
+    ps_title_one: 测量
+    ps_title_two: Codaprint打印机规格
+    ps_title_three: 型号 CP-24/1
+    ps_bp_one: "打印长度: 240mm"
+    ps_bp_two: "打印高度: 25mm"
+    ps_title_four: CP-17/B 手摇辊
+    ps_bp_three: "打印长度: 175mm"
+    ps_bp_four: "打印高度: 25mm"
+    ps_title_five: Codaprint 墨盒
+    ps_bp_five: CP111非多孔材料用黑色标准染料墨水
+    ps_bp_six: CP011黑色超快干染料墨水，用于高速无孔材料
+    ps_bp_seven: CP5610用于多孔表面的黑色染料墨水
+    ps_bp_eight: CP256白色染料墨水，用于深色表面、多孔和非多孔材料
+    ps_text: 每个系列都有多种颜色可供选择
+    list_title: 概览
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: 一种独特的打印机，用于在金属、塑料或多孔材料（包括钢板、挤出薄膜、塑料管和纸板芯绕组）上连续打印。
+    list_subtitle_two: 低成本打印机
+    list_text_two: 最简单的低成本打印机，用于在不断移动的材料上打印重复的识别标记、保质期、回收徽标或客户产品名称。
+    list_subtitle_three: 高速印刷
+    list_text_three: 打印机可以非常低的速度运行，但也可以每分钟打印100米。
+    list_subtitle_four: 简易墨水系统
+    list_text_four: 墨水包装在一个可更换的墨盒中，无论打印速度如何，该墨盒都具有完整的墨水控制，从而提供一个清洁的少维护墨水系统。这种独特的墨水系统确保打印效果不会减弱，直到墨水用完。
+    list_subtitle_five: 墨盒
+    list_text_five: 我们的标准墨盒适用于金属、玻璃、塑料和多孔表面以及其他材料。有些应用确实需要特殊的墨水。
+    list_subtitle_six: 特性
+    list_text_six_html: “打印机由接触材料的滚筒上的轮子驱动，无需任何机械或电气驱动。
+                                 <br>
+                                 <br>
+                                 连续滚筒喷码器适用于：批号、日期和徽标打印。
+                                 <br>
+                                 <br>
+                                 打印机可以很容易地安装在待标记的移动材料上方，或紧靠逐渐减少的材料卷轴。
+                                 <br>
+                                 <br>
+                                 使用可互换的Baselock或平面立体类型，打印高度可高达25毫米。
+                                 <br>
+                                 四个重复打印的长度可达到460毫米。"
+    fncdm_title: 发现Foenix Codamark
+    fncdm_text: 使用Codamark气动往复式打印机，可高效、经济地实现清晰、精确的产品打标。
+    fncdm_button: 了解更多
+
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: 使用Codamark气动往复式打印机，可高效、经济地实现清晰、精确的产品打标。紧凑型往复式打印机，适用于在线和旋转灌装机，用于保质期打印和其他用途。
+    phr_title: 气动往复式打印机
+    phr_sub_title_one: 轻触印刷
+    phr_text_one: 可通过10-20 psi的低打印压力实现高速打印，使Codamark能够轻触打印，而不会损坏产品。
+    phr_sub_title_two: 清洁墨水系统
+    phr_text_two: 打印头上安装了一个干净的快干墨盒，使大多数表面的干燥时间为秒。密封墨盒确保操作员不会接触任何墨水。
+    phr_sub_title_three: Codamark数据表
+    phr_text_three: 更多信息可在给出尺寸、控制系统和安装位置的数据表上获得。
+    phr_sub_title_four: 快速更换Baselock式支架
+    phr_text_four: 打印头配有一个可在几秒钟内更换的打印架。备用支架可用于预设Baselock橡胶类型。
+    phr_sub_title_five: Codamark 墨盒
+    phr_sub_title_six: 小罐
+    phr_sub_title_seven: 大罐
+    phr_list_text_one: CM501/38 黑色墨盒
+    phr_list_text_two: CM502/38 红色墨盒
+    phr_list_text_three: CM503/38 绿色墨盒
+    phr_list_text_four: CM504/38 蓝色墨盒
+    phr_list_text_five: CM506/38 白色墨盒
+    phr_list_text_six: CM505/38 黄色墨盒
+    phr_list_text_seven: CM501/50 黑色墨盒
+    phr_list_text_eight: CM502/50 红色墨盒
+    phr_list_text_nine: CM503/50 绿色墨盒
+    phr_list_text_ten: CM504/50 蓝色墨盒
+    phr_list_text_eleven: CM506/50 白色墨盒
+    phr_list_text_twelve: CM505/50 黄色墨盒
+    ps_title_one: Codamark 打印机规格
+    ps_sub_title_one: 型号 CM-MKV/25
+    ps_bp_one: "打印区域: 24mm x 24mm"
+    ps_bp_two: "打印头外形尺寸: 170mm x 155mm x 85mm"
+    ps_sub_title_two: 型号 CM-MKV/38
+    ps_bp_three: "打印区域: 37mm x 37mm"
+    ps_bp_four: "打印头外形尺寸: 170mm x 155mm x 85mm"
+    ps_sub_title_three: 型号 CM-MKV/50
+    ps_bp_five: "打印区域: 24mm x 48mm"
+    ps_bp_six: "打印头外形尺寸: 170mm x 155mm x 85mm"
+    list_one: "按日期、价格和代码有效打印到:"
+    list_bp_one: 塑料桶
+    list_bp_two: 箔盖
+    list_bp_three: 纸箱
+    list_bp_four: 包装机
+    list_bp_five: 玻璃瓶
+    list_bp_six: 金属罐等。
+    list_two: 顶部、底部或侧面安装
+    list_three: 自动在线或离线系统
+    list_four: 快干墨盒
+    list_five: 英国制造
+    fncdp_title: 发现 Foenix Codaprint
+    fncdp_text: 一种简单的打印机，使用快干密封墨盒以高速连续打印您的产品
+
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Codapack打印机均使用可更换的预浸渍塑料墨辊和可互换的Baselock。它们很容易安装在产品的顶部、底部或侧面进行打印。这些打印机广泛应用于需要零停机时间且要求每个产品的打印成本最低的场合。
+                        当每天或每周只更改一次代码或保质期时，Codapack打印机是最好的。
+    ccirp_title: 接触式喷码器和墨辊打印机
+    ccirp_sub_title_one: 应用
+    ccirp_text_one_html: 最具成本效益的纸箱、麻袋、压缩包装托盘或连续材料喷码器。
+                    <br>
+                    Codapack接触式喷码器简单高效，均使用可更换的预浸渍塑料墨辊和可互换的Baselock类型在多孔表面上打印。
+    ccirp_sub_title_two: 优点
+    ccirp_text_two: 无需维护，喷码器都是简单的机械打印机，日复一日地进行完美打印，无需任何维护。
+    ccirp_sub_title_three: 定制印刷
+    ccirp_text_three: Baselock类型中有许多标准字体样式，但定制的打印样式、徽标和图形很容易生成。
+    ccirp_sub_title_four: 快速打印更改
+    ccirp_text_four: 更改打印滚筒上的打印文字是一项快速而简单的工作，有六种不同的打印高度型号可满足客户的要求。
+    ccirp_sub_title_five: 最低印刷成本
+    ccirp_text_five: 使用Baselock类型和长寿命塑料墨辊，尽可能降低产品打印成本。
+    cdp_title: Codapack 信息
+    cdp_sub_title_one: Baselock 类型
+    cdp_text_one: 提供了一系列广泛的Baselock类型样式，只需将类型压入金属锁环或带楞橡胶套中，即可创建信息。
+    cdp_sub_title_two: 塑料墨辊
+    cdp_text_two_html: 这些墨辊可快速放置在Codapack系列打印机上，以便在纸板箱、托盘和纸袋等多孔表面上进行高质量的打印。
+                  <br>
+                  这些长寿命的预墨辊是一次性的，提供了一个清洁和高效的墨水系统。它们有黑色、蓝色、红色和绿色。
+    cdp_sub_title_three: 纤维和海绵辊
+    cdp_text_three: 对于无孔表面，这些滚筒中的任何一个都可以与特殊的液体墨一起使用
+    list_text_one: 可调弹簧安装允许调整打印压力，以适应纸箱的强度，并获得完美的打印效果。
+    list_text_two: 打印机由坚固的铝铸件和滚柱轴承制成，使用寿命长。
+    list_text_three: 控制打印滚筒的旋转，以在每个纸盒上有相同的打印位置。
+    list_text_four: Codapack系列打印机都可以通过一个简单的安装支架轻松安装到输送机上。
+
+  support:
+    first_section_title: 支持文件
+    sds_title: 安全数据表（SDS）
+    sds_card_title_one: FX8001
+    sds_card_text_one: 黑色油基墨
+    sds_card_title_two: FX8201
+    sds_card_text_two: 黑色溶剂型墨
+    sds_card_title_three: CP111
+    sds_card_text_three: 黑色标记墨水
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: 油基清洁剂
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: 溶剂型清洁剂
+    sds_card_title_six: CP011
+    sds_card_text_six: 黑色标记墨水
+    sds_card_title_seven: CM011
+    sds_card_text_seven: 黑色标记墨水
+    sds_card_title_eight: CM501
+    sds_card_text_eight: 黑色标记墨水
+    sds_card_title_nine: CM500
+    sds_card_text_nine: 再活化溶剂
+    sds_button: 有关更多信息，请与我们联系
+    sds_hint: 监管证书
+    sds_hint_two: 可根据要求提供
+    manuals: FX ONE 用户手册
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: 用户手册
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: 用户手册
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: 用户手册
+    tech_support: 联系技术支持
+
+  components:
+    yellow_button: 了解更多
+
+  contact:
+    contact_title: 联系我们
+    contact_title_description: 与我们的团队保持联系，了解更多有关Foenix Coding的信息。
+    contact_text_one: “请求免费测试打印：向我们发送您的项目样本。”
+    contact_text_two: 如果您在英国，则可免费试用7天
+    phone: 电话
+    phone_number: 0044 1932 701 449
+    email: 电子邮箱
+    email_add: sales@foenixcoding.com
+    address: 地址
+    address_text_html: Foenix Coding 有限公司
+                  <br>
+                  巴恩斯 - 山顶农场 | 莱恩巷
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  英国
+    whatsapp: 请通过WhatsApp与我们联系
+    statement: 加入数百家已经与我们合作的公司
+    talk_to_sales: 与销售人员交谈
+    email_us: 您也可以直接发送电子邮件至
+
+
+    contact_happy: 我们的团队很乐意回答您的所有问题。
+    icon_text: 我们的团队很乐意回答您的所有问题。填好表格，我们会尽快联系的。
+    icon_text_two: 免费测试打印，发送您的产品样品给我们，我们将进行测试打印。
+    form_name: 名和姓
+    form_email: 电子邮件地址
+    form_company: 公司
+    form_country: 国家
+    form_message: 您的信息
+    form_phone: 电话
+
+  error:
+    four_four_text: 页面未找到
+    five_zero_zero_text: 对不起，出了点问题
+
+  login:
+    fpassword: 忘记密码了？
+    dont_have_account: 你没有账户吗？
+    sign_up: 登录
+    email: 电子邮箱
+    password: 密码
+
+  seo:
+    home_page:
+      title: "Foenix Coding: 简化编码和打标"
+      description: 工业打标和编码打印机可在每种材料上以高分辨率打印。Foenix编码和打标，工业喷墨， FX One remote 打印机, FX One standard 打印机
+      keywords: “编码打标、Foenix打印机、工业打标、工业喷墨、箱子编码和打标、产品编码和打标、喷墨编码和打标、日期打印、批号打印机、条形码打印机"
+    printers:
+      title: "Foenix工业喷墨打印机"
+      description: 专为低成本编码和多孔表面打标而设计，是TIJ喷码器的真正替代品，可打印条形码、批号、徽标和保质期
+      keywords:  “工业喷墨打印机、喷墨打码器、零件打标系统、产品编码、金属打标机、打标机、序列号打印机、产品标识、打印序列号、打印条形码”
+    fxone_standard:
+      title: FX ONE Standard –最佳TIJ打印机替代方案-高分辨率实例喷码器
+      description: 专为低成本编码和多孔表面打标而设计，是TIJ喷码器的真正替代品，可打印条形码、批号、徽标和保质期
+      keywords: "低成本编码、日期打印、多孔表面打印、TIJ替代品、HP打印机、热喷墨、盒子喷码器、纸箱编码、条形码打印机、木材打印机"
+    fxone_remote:
+      title: FX ONE Remote–最佳CIJ打印机替代品-高分辨率工业喷墨打印机
+      description: Foenix打印机是每码成本最低、维护成本最低的小型字符打印机之一。它以非常便宜的价格成为了复杂CIJ打印机的真正替代品。
+      keywords: "标签机，工业喷墨打印机，瓶上打印，CIJ打印机，连续喷墨打印机，连续喷墨系统，玻璃打印机，金属打印机，瓶子打印机，PVC打印机"
+    fxone_plus:
+      title: FX ONE Plus – 最佳标签和预打印盒替代方案-大字符打印机
+      description: 高达72毫米打印高度的大型字符打印机。打印代码、徽标和条形码的有限标签系统的完美替代品。
+      keywords: "标签打印机、条形码打印机、热敏打印机、热转印打印机、标签系统、条形码标签、大字打印机、箱子喷码器、标签打印机、盒子打印"
+    inks_and_consumables:
+      title: Foenix大型墨盒–打印1500多万个字符
+      description: 用于食品、饮料、化妆品、家居用品、工业和挤压品市场的油墨
+      keywords: MEK墨水，CIJ墨水，TIJ墨盒，溶剂墨水，油性墨水，UV墨水，FX8001，FX8201，Foenix墨盒，Foenix清洁剂
+    distributors:
+      title: Foenix 全球经销商
+      description: Foenix的喷墨和接触编码产品系列可通过全球认证分销商网络获得，提供全面的销售和支持服务。
+      keywords: 编码和打标、喷墨打印机维修、Foenix经销商、Foenix经销商、Foenix编码培训
+    cost_of_ownership:
+      title: Foenix编码打印机–打标产品的最便宜选择
+      description: FX ONE打印机在没有月度或年度维护合同的情况下提供市场上最便宜的每份打印成本
+    about:
+      title: 关于Foenix–编码、打标和可追溯性的专家
+      description: Foenix Coding是一家领先的英国制造商，也是该行业最新喷墨打印机的全球供应商
+      keywords: FX ONE打印机，Foenix编码打印机，打印和应用，箔片打印机，DOD喷墨，压电喷墨，Xaar喷墨打印机，Foenix编码公司，英国制造商
+    contact:
+      title: 联系Foenix编码团队
+      description: 请与我们联系，以获取有关我们的工业喷墨打印机、墨水和耗材的更多信息。联系Foenix Coding、Foenix Coding电子邮件、Foenix Coding电话
+    faq:
+      title: 常见问题 - Foenix Coding
+      description: 有关打印机和墨水的Foenix Coding的更多信息。Sauven墨盒、Sauven溶剂墨水、Sauven油墨水、打印数据库、打印代码、TIJ替代品、CIJ替代品
+    industry:
+      title: Foenix Coding - 所有行业的编码和打标解决方案
+      description: FX ONE打印机专为食品、饮料、汽车、建筑、加工、医疗设备、制药、电子和化工等行业的工业用途而设计。
+      keywords: 喷墨打标、喷墨喷码器、喷墨编码、喷墨标记、药品包装、医疗包装、管道印刷、挤出物印刷、瓶上印刷、纸箱印刷
+    video:
+      title: "视频 - Foenix Coding"
+      description: 观看Foenix打印机在任何物品和任何材料上打印。
+    legal:
+      title: "法律 - Foenix Coding"
+      description: 查看我们的Cookie和隐私策略。
+    jobs:
+      title: "职业：Foenix Coding正在增长。加入我们吧！"
+      description: 我们一直在寻找有才华的新朋友，他们与我们有共同的愿景，推动行业向前发展
+    posts:
+      title: 新闻与事件
+      description: 获取最新的新闻和事件
+    software:
+      title: Foenix FX APP – 编码和打标行业的软件解决方案
+      description: Foenix Coding的FX APP使您能够通过其用户友好的界面在创纪录的时间内设计信息。最佳可追溯性软件
+      keywords: 标签软件，打标软件，NiceLabel，FX APP，保质期，计数器，批号，徽标，条形码
+    contact_coders:
+      title: 接触式喷码器-传统低成本打标
+      description: 经济高效的打印机和传统低成本接触式编码和打标机的解决方案
+      keywords: 接触式编码、打标机和接触式滚筒打印机
+    foenix_codaprint:
+      title: Foenix Codaprint-用于重复打印的简易打印机
+      description: Foenix Codaprint是一款可靠的连续打印机，适用于金属、塑料、玻璃、纸板的高速和低速打标
+      keywords: 连续滚筒打印机，批号，塑料，纸盒，Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - 多用途产品打印机
+      description: Codamark紧凑型往复式打印机，适用于内联和旋转灌装机，用于保质期打印和Foenix编码的其他用途
+      keywords: 小型往复式打印机，保质期，Codamark
+    foenix_codapack:
+      title: Foenix Codapack - 成本效益高的纸箱喷码器
+      description: 使用Foenix codapack接触式喷码器，使用塑料墨辊和baselock橡胶类型解决纸箱印刷问题
+      keywords: 接触喷码器、塑料墨辊打印机、Baselock Codapack
+    support:
+      title: Foenix编码–支持文档
+      description: Foenix编码用户手册和信息指南，以了解更多有关我们的接触式和喷墨打印解决方案的信息
+      keywords: Foenix编码用户手册、Foenix信息指南、喷墨打印、FX ONE用户手册、Foenix技术手册、Foenix MSDS
+
+  news:
+    latest: 最新报道
+    news: 新闻/事件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1311 @@
+it:
+  navbar:
+    home: Home
+    products: Prodotti
+    services: Servizio e Assistenza
+    company: Azienda
+    admin: Admin
+    countries: Paesi
+    jobs: Lavori
+    posts: Post
+    login: Login
+    logout: Logout
+    contact: Contattaci
+    contact_o: Contatti
+    printers: Stampanti
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: Software
+    inks: Cartucce e Materiali di consumo
+    distributors: Distributori nel mondo
+    cost: Costo di proprietà
+    FAQ: FAQ
+    about: Riguardo
+    careers: Carriere
+    news: Notizie ed Eventi
+    privacy_policy: Informativa sulla privacy
+    cookie_policy: Politica sui Cookie
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | UK
+    printers: Stampanti
+    contact_coders: Codificatore a contatto
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: Documentazione di supporto
+    industry: Industria
+    video: Video
+    demo: Richiedi una demo
+    bar: Basta spendere una fortuna in cartucce d'inchiostro e contratti di manutenzione! Le stampanti Foenix offrono i costi di gestione più bassi del settore e il costo più basso per stampa
+    legal: Legale
+
+  cookie_bar:
+    content: Utilizzando questo sito web, l'utente accetta il nostro
+    cookie_policy: Politica sui Cookie
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: Cerca
+    prompts:
+      search:
+        team: Team
+        country: Luogo
+        job_type: Tipo
+
+  jobs:
+    title: FOENIX CODING è in crescita
+    tagline: Siamo sempre alla ricerca di nuovi e talentuosi amici che condividano la nostra visione di far progredire l'industria
+
+  jobs_show:
+    roles_at: Ruoli in
+    apply_now: Applica ora
+    you_will: Tu potrai
+    we_are_looking: Cerchiamo qualcuno che abbia
+    we_look_forward: Non vediamo l'ora di sentirti
+
+  faq:
+    title: Domande frequenti
+    tagline: Basta cliccare su una delle sezioni qui sotto per trovare la risposta. Siamo qui per aiutarti. Se non trovi la risposta alla tua domanda, non esitare a
+    contact: contattaci
+    title1: Cos'è la stampante FX ONE?
+    desc1: La FX One è la stampante all-in-one concepita per essere utilizzata da tutti. Non richiede alcuna competenza. Si installa in pochi minuti e può funzionare sulla maggior parte delle linee di produzione. Cosa fa? Può stampare virtualmente su qualsiasi prodotto qualunque cosa, da una semplice data di scadenza, a un numero di lotto complesso, un contatore in tempo reale, data e ora o un cambio di codice, un codice a barre e molto altro ancora.  Oltre a queste caratteristiche, la FX One verrà aggiornato per portare gli sviluppi e le applicazioni più all'avanguardia nell'ecosistema della codifica e della marcatura. Dai un'occhiata a questo
+    desc1vid: video
+    desc1end:  per vedere quanto sia davvero semplice e potente usarla.
+    title2: Quali sono le lingue supportate?
+    desc2: Potrai stampare in qualsiasi lingua senza alcuna limitazione
+    desc2end: Per quanto riguarda l'interfaccia del software, supporta 16 lingue, ma aggiungeremo presto altre lingue.  Se hai richieste relative alla lingua, inviale a sales@foenixcoding.com
+    title3: Quali sono le dimensioni?
+    desc3: Misura 242mm per 178mm per 90mm o se preferisci 9,52 pollici per 7 pollici per 3,54 pollici.
+    title4: Dove posso trovare i distributori ufficiali Foenix?
+    desc4_1: Attraverso la nostra ampia rete di distributori siamo presenti in ogni continente e siamo in grado di fornire le stampanti in quasi tutti i paesi!
+    desc4_2: Crediamo di poter garantire pienamente la qualità costante dei prodotti e il miglior servizio clienti solo attraverso i nostri rappresentanti locali.
+    desc4_3: La rete dei nostri distributori varia da piccole aziende individuali a compagnie internazionali. Per esperienza abbiamo scoperto che i fattori chiave per il successo non sono le dimensioni, ma l'impegno, la vasta conoscenza del mercato locale e i contatti significativi e le competenze.
+    desc4_4: I nostri rivenditori sono sempre a tua disposizione per offrirti
+    desc4_5: un supporto rapido e professionale nel tuo fuso orario e nella tua lingua.
+    desc4_6: Spedizione veloce ed economica.
+    desc4_7: Servizio di garanzia locale affidabile.
+    desc4_8: Per favore non esitare a 
+    desc4_9: contattarci
+    desc4_10: se hai domande o vuoi ricevere maggiori informazioni sui nostri rivenditori.
+    title5: Perché non riesco ad accedere?
+    desc5: La nostra pagina di accesso è disponibile solo per i nostri attuali distributori per accedere alla loro dashboard personalizzata. Nessun altro può avere accesso a questa pagina. Se sei un distributore FOENIX e non hai ancora accesso alla tua dashboard per favore segnalacelo.
+    title6: Posso fare una prova gratuita prima dell'acquisto? 
+    desc6_1: Se sei nel Regno Unito Sì
+    desc6_2: Puoi ottenere una prova gratuita di sette giorni.
+    desc6_3: Durante la prova gratuita, avrai accesso a tutte le funzionalità della stampante e sarai in grado di monitorare il costo per ogni stampa e vedere rapidamente quanto potresti risparmiare usando la nostra stampante.
+    desc6_4: La prova gratuita è soggetta a disponibilità.
+    title7: Se possiedo diverse stampanti Foenix - standard o remote - avrò bisogno di un software separato per ciascun modello?
+    desc7: No. Tutte le nostre stampanti sono perfettamente compatibili con il nostro software. Non importa quale modello tu stia utilizzando, puoi monitorare tutte le tue stampanti dalla FX APP.
+    title8: Quali sono le differenze tra la stampante FX ONE Standard e la FX ONE Remote?
+    desc8_1: La FX One Standard è la stampante perfetta per tutte le richieste di codifica delle scatole. Funziona con inchiostro a base di olio per superfici porose e ti darà un risultato eccellente per la stampa sul lato di un cartonee.
+    desc8_2: È possibile stampare qualsiasi cosa, da 8 righe di testo semplice a codici a barre variabili, date di scadenza, loghi, turni, contatori, dati esterni dal database, codici QR...
+    desc8_3: La stampa sarà ad alta risoluzione con un'altezza di stampa di 18 mm.
+    desc8_4: Ha il costo per stampa più basso sul mercato, è il modo più efficiente per stampare informazioni su un cartonee.
+    desc8_5: Anche la FX One Remote ha una testina di stampa ad alta risoluzione di 18 mm di altezza.
+    desc8_6: La stampante Remote è disponibile in 2 modelli, sia con otturatore manuale che con otturatore motorizzato.
+    desc8_7: Questa stampante funziona sia con inchiostro a base di olio per superfici porose (come cartonee, carta, legno...) sia con inchiostro a base di solvente per superfici non porose (come plastica, metallo, vetro...).
+    desc8_8: Con questa stampante si può virtualmente stampare su qualsiasi prodotto.
+    title9_1: FX ONE Remote
+    title9_2: Otturatore motorizzato o manuale, qual è la differenza?
+    desc9: La stampante FX ONE Remote ha un otturatore per proteggere la testina di stampa. Con la versione motorizzata l'otturatore si chiuderà automaticamente dopo la stampa. Con la versione manuale dovrai aprire manualmente l'otturatore all'inizio della giornata e chiuderlo manualmente alla fine della giornata quando la produzione viene fermata.
+    title10: Posso stampare sulla parte superiore di un prodotto?
+    desc10: Sì, con la testina di stampa remota e si può tecnicamente stampare a qualsiasi angolazione
+    title11: Che tipo d'inchiostro offrite? 
+    desc11_1: Abbiamo inchiostri di alta qualità verificata che sono inodori e non sono a base di M.E.K. La tecnologia piezoelettrica utilizzata nelle stampanti FX ONE necessita solo di una singola cartuccia d'inchiostro sigillata e non richiede solventi aggiuntivi. Questo riduce sostanzialmente i costi operativi. 
+    desc11_2: Disponiamo d'inchiostro a base di olio per stampare su materiali porosi (vassoi, cartonee, legno...) e d'inchiostro a base di solvente per stampare su materiali non porosi (metallo, plastica, vetro...)
+    title12: Ci sono contratti di manutenzione?
+    desc12_1: Nessun costoso contratto di manutenzione.
+    desc12_2: Le stampanti Foenix sono fabbricate con componenti minimi per dare la massima affidabilità. L'assenza di pompe, di valvole, di aria compressa, di carica di goccioline e di filtri d'aria si traduce in una manutenzione molto ridotta.
+    title13: Come posso essere sicuro di risparmiare con la stampante FX ONE?
+    desc13_1: Il nostro software ha la caratteristica di calcolare il numero di stampe per cartuccia e il costo per stampa per ogni messaggio che sarà creato su FX APP.
+    desc13_2: È uno strumento molto potente perché puoi vedere quanto risparmierai usando la nostra stampante. Hai sempre sotto controllo i costi
+
+  home:
+    # FIRST SECTION
+    title: Codifica e marcatura
+    title_bottom: Effettuate
+    mobile_title: Codifica e marcatura effettuate
+    play: Riproduci video
+    download: Scarica le brochure
+    title_span1: Facile
+    title_span2: Affidabile
+    title_span3: Versatile
+    title_span4: Uniforme
+    title_description: La stampante FX ONE è una stampante a getto d'inchiostro compatta ad alta risoluzione per la stampa di numeri di lotto, date di scadenza, testi, loghi e codici a barre su tutti i materiali come cartonei, vassoi, bottiglie, sacchetti di plastica, pellicole, confezioni alimentari, lattine, estrusioni e praticamente di qualsiasi prodotto.
+    #SECOND SECTION
+    title_second: Una nuova generazione di stampanti a getto d'inchiostro senza manutenzione
+    title_second_description: PRODOTTA NEL REGNO UNITO
+    second_section_one_title: Imballaggio e Codifica
+    second_section_one_description: stampa piccola o grande per il tuo imballaggio primario e secondario
+    second_section_two_title: Per tutti i settori
+    second_section_two_description: Soluzione di marcatura ad alta risoluzione e ad alta adesione per ogni settore
+    second_section_three_title: Software FX APP
+    second_section_three_description: Gestione avanzata della stampante e ottimizzazione dei processi di stampa
+    #THIRD SECTION
+    third_section_title: Cosa sono la codifica e la marcatura?
+    third_section_description: La codifica e la marcatura sono la stampa d'informazioni variabili sui prodotti durante il processo di produzione.
+    first_image: Codici di produzione, lotto e data
+    second_image: Codice a barre
+    third_image: Marchio e informazioni sul prodotto
+    fourth_image: Tracciabilità Track e Trace
+    third_section_statement_one: Foenix Coding è consapevole di quanto sia importante una linea di produzione ininterrotta.
+    third_section_statement_two: Abbiamo compiuto la nostra missione di sviluppare la stampante più affidabile sul mercato.
+    #FOURTH SECTION
+    box_coding_title: Codifica su cartonee
+    box_coding_description: L'utilizzo più tipico è la codifica del cartonee. Con la FX ONE Standard e la FX ONE Plus non sono più necessarie etichette costose. La stampante FX ONE può essere utilizzata per la stampa ad alta risoluzione direttamente su cartonei, vassoi, sacchi o altri prodotti su una linea di produzione per eliminare la necessità di costosi imballaggi prestampati o etichette costose. Possono essere facilmente realizzati brevi lotti e le richieste del cliente per testi, grafici e codici a barre personalizzati.
+    product_coding_title: Codifica dei prodotti
+    product_coding_description: Le richieste tradizionali sono la codifica d'imballaggi individuali come bottiglie, piccole scatole, fusti, lattine, barattoli, confezioni, sacchetti, fogli, ecc. La maggior parte dei nostri clienti per la codifica dei prodotti sono tipicamente aziende che cercano un'alternativa al CIJ (Continuous Ink Jet). Prezzo, semplicità e bassa manutenzione sono i fattori di motivazione. Per questo mercato utilizziamo sempre la stampante FX ONE Remote, una stampante veramente multifunzionale per tutte le industrie, comprese quelle alimentari, delle bevande, farmaceutiche ed elettroniche. La FX ONE è anche ideale per marcare estrusioni, stampare su nastri e altre applicazioni industriali.
+    fifth_section_title_html: "Progettata per <span class='text-orange'>uso</span> industriale e <span class='text-orange'>stampa a inchiostro</span> a basso costo"
+    fifth-section_description_one: Negli ultimi anni Foenix ha investito molto nello sviluppo di una gamma di stampanti industriali a getto d'inchiostro senza manutenzione. Questi codificatori sono specificamente progettati per l'uso industriale in settori come quello alimentare, delle bevande, automobilistico, dell'edilizia, della trasformazione, dei dispositivi medici, farmaceutico, dell'elettronica e chimico.
+    fifth-section_description_two: Grazie al design intelligente, le stampanti a getto d'inchiostro FX ONE hanno un consumo d'inchiostro notevolmente basso e quindi offrono una stampa a costi tra i più bassi sul mercato. Costi di stampa ridotti - di norma dal 50% all'80%
+    food: Alimentare
+    cosmetics: Cosmetici
+    extrusion: Estrusione
+    automotive: Automobilistico
+    beverage: Bevande
+    pharmaceutical: Farmaceutico
+    electronics: Elettronica
+    construction: Edilizia
+    packaging: Imballaggio
+    industrial_parts: Componenti industriali
+    chemicals: Chimico
+    and_many_more: E numerosi altri
+    inks_title: Ampia gamma d'inchiostri
+    inks_description: Offriamo inchiostri ad alta adesione e ad alto contrasto per soddisfare la maggior parte delle richieste. Diversi inchiostri permettono di stampare su materiali non porosi (plastica, vetro, metallo...) o su superfici porose (cartonee, legno, gesso...). Ampia gamma di colori disponibili, nonché inchiostri UV readable e UV Curable.
+    become_distributor_title: Diventa un distributore Foenix Coding
+    become_distributor_description: Attualmente stiamo invitando le aziende a unirsi alla nostra rete internazionale di distributori
+    eight_section_title_one: Potente software di controllo intelligente
+    eight_section_description_one: Il software FX APP è disponibile su PC e sul nostro FX ONE Touch Controller personalizzato. Il FX ONE Touch Controller è progettato per controllare uno o più modelli di stampante FX ONE. Il controller permette la creazione di messaggi, la memorizzazione e la gestione della stampante in un piccolo e robusto alloggiamento. Può essere montato in una posizione fissa in un luogo comodo ed è portatile, quindi può essere facilmente spostato da una stampante all'altra. L'interfaccia è stata progettata per essere di facile utilizzo e corrisponde a quella della versione per PC.
+    eight_section_title_two: Prova gratuita e stampe di prova
+    eight_section_description_two_html: "Se risiedi nel Regno Unito, puoi ottenere una prova gratuita di sette giorni. Durante la prova gratuita, avrai accesso a tutte le funzionalità della stampante e potrai monitorare il costo per stampa e vedere rapidamente quanto potresti risparmiare utilizzando la nostra stampante. <br> <br> Per una dimostrazione pratica della semplicità e della qualità della stampante FX ONE contattaci oggi! <br> <small> * La prova gratuita è soggetta a disponibilità. </small> <br> <br> Ovunque tu sia nel mondo puoi inviarci un campione del tuo prodotto ed effettueremo stampe di prova ad Alta Risoluzione."
+
+  newsletter:
+    card_title: Unisciti a noi, stiamo effettuando assunzioni!
+    card_text: Sei pronto per una svolta nella tua carriera e vuoi lavorare in una start-up con grandi ambizioni? Unisciti a noi!
+    title: Ricevi l'ultima newsletter
+    text: Iscriviti per ricevere aggiornamenti via e-mail su annunci di nuovi prodotti, aggiornamenti tecnici, eventi ai quali parteciperemo e altro ancora.
+    button: Vedi le posizioni aperte
+    placeholder: Inserisci la tua email per iscriverti
+    unsubscribe: Puoi annullare l'iscrizione in qualsiasi momento.
+    privacy: Leggi la nostra Informativa sulla privacy
+
+  about:
+    title: All'interno di Foenix Coding
+    first_section_title_one: CHI SIAMO
+    first_section_text_one: Foenix Coding è un produttore leader e fornitore globale delle più recenti stampanti a getto d'inchiostro per le industrie alimentari, delle bevande, farmaceutiche, industriali ed elettroniche per la codifica, la marcatura (stampa) e l'identificazione dei prodotti della linea. Per oltre 5 anni, Foenix si è costruita una reputazione a livello mondiale per la qualità e la creatività, unita all'efficacia dei costi e alla bassa manutenzione nella progettazione delle nostre stampanti.
+    first_section_title_two: L'azienda
+    first_section_text_two: "Foenix Coding è nota per le sue stampanti industriali a getto d'inchiostro, specializzate nella progettazione e produzione di sistemi a getto d'inchiostro senza manutenzione. Un produttore britannico, per essere riconosciuto a livello globale, deve fare molto di più che offrire un prodotto competitivo. Il design intelligente di Foenix ha portato a una riduzione radicale dei componenti all'interno delle sue stampanti. Questo approccio ha portato a una riduzione dei costi di produzione e a un aumento dell'affidabilità delle stampanti, facendo di Foenix un protagonista a livello mondiale"
+    first_section_title_three: IL MERCATO
+    hiring_title: "Unisciti a noi, stiamo effettuando assunzioni!"
+    hiring_text: Sei pronto per un cambio di carriera e vuoi lavorare in una start-up con grandi ambizioni? Unisciti a noi!
+    view_openings: Vedi le posizioni aperte
+    our_values_title: I NOSTRI VALORI
+    our_values_text: "I prodotti Foenix si basano sui valori fondamentali dell'azienda: innovazione, design e qualità."
+    ov_card_title_one: INNOVAZIONE
+    ov_card_text_one_html: "Il getto d'inchiostro piezoelettrico è riconosciuto come quello che offre il più alto livello di qualità di stampa rispetto a qualsiasi altra tecnologia di stampa, pur essendo semplice da gestire e quindi raggiungendo il più alto livello di affidabilità di operatività.
+                           <br>
+                           La sua stampa uniforme assicura ai prodotti una lettura affidabile."
+    ov_card_title_two: DESIGN
+    ov_card_text_two_html: "Così spesso le stampanti a getto d'inchiostro sono progettate per essere una soluzione complessa che porta a inutili e complicate routine di manutenzione
+                           <br>
+                           Foenix ha progettato la sua gamma di stampanti a getto d'inchiostro con componenti minimi per massimizzare il tempo di attività e minimizzare la manutenzione."
+    ov_card_title_three: QUALITA
+    ov_card_text_three: Tutti i nostri prodotti, stampanti, inchiostri, materiali di consumo sono fabbricati nel Regno Unito e costruiti per durare. I sistemi software e hardware sono stati sviluppati in collaborazione con i professionisti della produzione e dell'imballaggio per aiutarli nelle loro sfide quotidiane nella stampa di date di scadenza, codici di lotto, codici a barre 2D, loghi grafici e altri requisiti.
+    whats_next_title: "QUALE SARA' LA PROSSIMA MOSSA?"
+    whats_next_text_html: "Dopo la crescita globale ed esponenziale degli ultimi anni, Foenix Coding si sta concentrando sul rafforzamento della rete di distributori esistente.
+                          <br>
+                          Il team di ReS è nel pieno dello sviluppo della nuova generazione di stampanti FX ONE con una maggiore altezza di stampa, testine di stampa multiple e una serie di funzioni di comunicazione facili da usare"
+
+
+    first_section_text_three: Le stampanti Foenix offrono soluzioni di risparmio sui costi per la codifica degli imballaggi primari e secondari. Ciò include la sostituzione delle etichette e le alternative per TIJ (Thermal Ink Jet) e CIJ (Continuous Ink Jet). Le nostre stampanti sono diverse perché utilizzano altre tecnologie. Pertanto le stampanti Foenix possono essere offerte come soluzione alternativa. Allo stesso tempo si inseriscono facilmente in qualsiasi gamma di soluzioni di codifica e marcatura.
+    second_section_title: Il nostro obiettivo
+    second_section_text: "Foenix Coding è una società con sede nel Regno Unito e tutti i nostri prodotti sono realizzati nel Regno Unito. Siamo appassionati di nuove tecnologie e soluzioni di stampa innovative e il team è composto esclusivamente da esperti nel campo della tecnologia di stampa a getto d'inchiostro. Siamo tutti ex dipendenti della Sauven Marking e abbiamo portato con noi in questa nuova avventura tutte le nostre capacità, esperienze, conoscenze, competenze e soprattutto il nostro entusiasmo"
+    second_section_text_two: Il nostro obiettivo è quello di rendere le nostre stampanti semplici e di alta qualità accessibili a tutti nel mondo. Siamo qui per aiutarti ad aumentare l'efficienza della tua linea di produzione e per aiutarti con le tue sfide di tracciabilità dei prodotti.
+    second_section_text_three: Le tue sfide di codifica e marcatura complesse non richiedono soluzioni complesse e costose.
+    third_section_title: "Ci concentriamo sull'importanza del costo di proprietà nella stampa industriale."
+    third_section_text: Se stai cercando una stampante a getto d'inchiostro per la codifica di scatole o la marcatura di prodotti, l'investimento nella stampa non riguarda più solo il prezzo della stampante. I materiali di consumo e la manutenzione sono diventati i fattori principali per determinare il costo di proprietà.
+    fourth_section_text_right: Foenix Coding offre una gamma di stampanti che mantengono bassi i costi di gestione. Siamo guidati dalla filosofia "zero manutenzione" per la stampa di caratteri piccoli. Stiamo anche lavorando intensamente per offrire una stampante industriale più facile da usare. Le stampanti Foenix funzionano con un semplice software per PC Windows con chiavi pittoriche e/o un controller Touch molto evoluto e intuitivo.
+    fifth_section_title: Fabbricata nel Regno Unito e costruita per durare
+    fifth_section_text_one: "Tutti i nostri prodotti - stampanti, inchiostri, materiali di consumo - sono fabbricati nel Regno Unito. I sistemi software e hardware sono stati sviluppati in collaborazione con i professionisti della produzione e dell'imballaggio per aiutarli nelle loro sfide quotidiane per stampare date di scadenza, codici di lotto, codici a barre 2D, loghi grafici e altri requisiti"
+    fifth_section_text_two: "La nostra gamma di stampanti industriali a getto d'inchiostro basate su Xaar non richiede manutenzione. Sono specificamente progettate per l'uso industriale in settori come quello alimentare, delle bevande, automobilistico, dell' edilizia, della trasformazione, dei dispositivi medici, farmaceutico, dell'elettronica e chimico..."
+
+  inks_and_consumables:
+    first_section_text: Cartucce d'inchiostro di grandi dimensioni
+    first_section_text_two: La stampante FX ONE è compatibile con molti tipi d'inchiostro diversi che la rendono la stampante più versatile sul mercato. Stampa su qualsiasi supporto e fino a 15 milioni di caratteri per cartuccia. Offriamo la più ampia gamma di fluidi a getto d'inchiostro per soddisfare anche le richieste più specifiche dei clienti
+    inks_card_title_one_html: "Alta aderenza<span class='text-orange'>.</span>"
+    inks_card_text_one: Inchiostro ad alta aderenza specificamente progettato per le domande di estrusione del PVC. Si ottiene una qualità di stampa senza precedenti sui tubi in PVC.
+    inks_card_title_two_html: "Ampia gamma d'inchiostri<span class='text-orange'>.</span>"
+    inks_card_text_two: Inchiostri diversi permettono di stampare su materiali non porosi (plastica, vetro, metallo) o su superfici porose (cartonee, legno, gesso). Ampia gamma di colori disponibili e inchiostri UV readable e UV Curable.
+    inks_card_title_three_html: "Elevato contrasto<span class='text-orange'>.</span>"
+    inks_card_text_three: Massimo contrasto sui prodotti più scuri grazie alla nostra gamma d'inchiostro pigmentato. Assicurati che i tuoi codici risaltino sia sui supporti scuri che su quelli chiari.
+    grid_title_one: Cartuccia d'inchiostro sigillata
+    grid_text_one: Una cartuccia d'inchiostro integrale e sostituibile mantiene un sistema d'inchiostro pulito e privo di contaminazioni. I nostri inchiostri hanno un'eccellente adesione e contrasto su una vasta gamma di materiali porosi e non porosi come cartonee, metallo, vetro, carta, legno e molte materie plastiche. I nostri inchiostri offrono prestazioni eccezionali nelle condizioni di utilizzo più comuni.
+    grid_title_two: Inchiostri adatti alla produzione
+    grid_text_two: Per le applicazioni nei mercati del cibo, delle bevande, dei cosmetici, degli articoli per la casa, dell'industria e dell'estrusione, abbiamo inchiostri di alta qualità controllata che sono praticamente inodori e non sono a base di M.E.K. Disponiamo anche d'inchiostri colorati.
+    grid_title_three: Inchiostri HDPVC per l'estrusione di tubi in PVC
+    grid_text_three: Ora proponiamo un inchiostro ad alta adesione specificamente progettato per le applicazioni di estrusione del PVC. Otterrai una qualità di stampa senza precedenti sui tubi in PVC.
+    grid_title_four: Semplice sistema d'inchiostro
+    grid_text_four: L'alimentazione dell'inchiostro è contenuta in un comodo sistema di cartucce che si inserisce nella parte posteriore della macchina. La sostituzione della cartuccia d'inchiostro è semplice e pulita e può essere completata in pochi secondi senza interrompere il processo di stampa. Non perderai mai una stampa e otterrai sempre una qualità di stampa ad alta risoluzione che si adatta all'immagine del tuo prodotto
+    lowest_ink_title: Il minor consumo d'inchiostro sul mercato
+    lowest_ink_text: Se stai cercando una stampante a getto d'inchiostro per la codifica di scatole o la marcatura di prodotti, l'investimento nella stampa non riguarda più solo il prezzo della stampante. I materiali di consumo e la manutenzione sono diventati i fattori principali per determinare il costo di proprietà. Grazie al design intelligente, le stampanti a getto d'inchiostro piezoelettriche hanno un consumo d'inchiostro notevolmente basso e quindi offrono un costo molto basso per stampa.
+    # NEW
+    standard_ink_one: La nostra gamma d'inchiostri standard
+    standard_ink_two: per tutte le applicazioni
+    sdct_one_html: "FX 8001<br>Inchiostro Nero a olio"
+    sdct_text_one: Per cartonee, carta, legno o qualsiasi altro substrato poroso
+    sdct_two_html: "FX8201<br>Inchiostro Nero a solvente"
+    sdct_text_two: Per la maggior parte dei substrati come PVC, metallo, vetro, plastica e qualsiasi altra superficie non porosa
+    sdct_three_html: "FX8203<br>Inchiostro Blu a solvente"
+    sdct_text_three: Identico utilizzo dell'inchiostro non poroso FX8201 per l'imballaggio primario
+    sdct_four_html: "FX8308<br>Inchiostro Rosso a solvente"
+    sdct_text_four: Identico utilizzo dell'inchiostro non poroso FX8201 per l'imballaggio primario
+    sdct_five_html: "FX 8206<br>Inchiostro Bianco a solvente"
+    sdct_text_five: Inchiostro pigmentato per superfici scure non porose
+    sdct_six_html: "FX8311<br>Inchiostro Giallo a solvente"
+    sdct_text_six: Inchiostro pigmentato per superfici scure non porose
+    sdct_seven_html: "FX8236<br>Inchiostro Nero UV Curable"
+    sdct_text_seven: Substrato non poroso con tempo di asciugatura istantaneo
+    sdct_eight_html: "FX8235<br>Inchiostro UV Readable"
+    sdct_text_eight: Inchiostro invisibile, visualizzabile solo sotto una lampada UV
+    # NEW
+    special_ink_title: Hai bisogno di un inchiostro speciale?
+    special_ink_title_two: Noi possiamo aiutarti!
+    special_ink_text_one: Inchiostri a base d'olio
+    special_ink_text_two: Inchiostri a base di solvente
+    special_ink_text_three: Inchiostri pigmentati
+    special_ink_text_four: Inchiostri UV Curable e UV Readable
+    stay_informed_title: Rimani informato sul nostro ultimo progetto d'inchiostro
+    stay_informed_text: Iscriviti per essere il primo a sapere quando lanciamo un nuovo inchiostro.
+
+
+  distributor:
+    first_section_title: Portata globale
+    first_section_text: Ovunque tu sia nel mondo, uno dei nostri distributori è vicino a te. Siamo presenti in ogni continente e offriamo supporto nella tua lingua e nel tuo fuso orario.
+    second_section_title: Foenix ha distributori in
+    why_partner_title: Perché collaborare con
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: "COSA RENDE FOENIX CODING DIVERSO DALLA CONCORRENZA?
+                           <br>
+                           Foenix Coding è ancora una 'Start-up' gestita da un nucleo solido di persone che conoscono i prodotti, l'azienda e i clienti in modo totale.
+                           <br>
+                           <br>
+                           Quando si lavora con Foenix Coding ci si può aspettare quanto segue:"
+    first_list_one: Prezzi competitivi rispetto ai diretti concorrenti
+    first_list_two: Margini allettanti per i distributori
+    first_list_three: Flessibilità nelle procedure
+    first_list_four: Flessibilità nei tempi di produzione
+    first_list_five: Flessibilità nei tempi di consegna
+    second_list_one: Approccio personale
+    second_list_two: Direttori attivamente coinvolti
+    second_list_three: Supporto per le fiere
+    second_list_four: Supporto per le stampe di prova
+    second_list_five: Sostegno ai programmi di formazione
+    second_list_six: Aggiornamenti sulla tecnologia
+    third_list_one: "Competenza tecnica: avere stampanti in più di 60 paesi significa che abbiamo visto quasi tutte le applicazioni"
+    third_list_two: Un team di ReS flessibile che può reagire rapidamente alle esigenze specifiche dei clienti
+    third_list_three: "Conoscenze specifiche: la gamma ristretta di prodotti si traduce in conoscenze specifiche"
+    partnership_title: Percorso verso la partnership
+    partnership_text: Siamo entusiasti di avere una rete crescente di partner nella distribuzione che commercializzano i prodotti Foenix in tutto il mondo. Attualmente stiamo invitando le aziende a unirsi alla nostra rete di distributori internazionali per promuovere la nostra nuova gamma di stampanti in nuovi paesi.  Compila questo modulo e ci metteremo in contatto a breve per parlare di questa opportunità
+    step_one: Primo passaggio
+    step_one_title: Candidati
+    step_one_text: Se sei interessato a valutare questa opportunità, saremmo lieti di conoscere meglio la tua azienda e i tuoi obiettivi
+    step_two: Secondo passaggio
+    step_two_title: Richiedi una demo della stampante
+    step_two_text: Per testare le prestazioni delle attrezzature ma anche la nostra reattività e il supporto che riceverai da noi
+    step_three: Terzo passaggio
+    step_three_title: Inizia a vendere
+    step_three_text: Il nostro obiettivo è quello di agevolare i nostri partner commerciali a concentrarsi sullo sviluppo di nuove prospettive e a sviluppare il loro business.
+
+  distributor_countries:
+    uk: Regno Unito
+    indonesia: Indonesia
+    south_africa: Sudafrica
+    france: Francia
+    austria: Austria
+    peru: Perù
+    turkey: Turchia
+    venezuela: Venezuela
+    malaysia: Malesia
+    vietnam: Vietnam
+    saudi_arabia: Arabia Saudita
+    egypt: Egitto
+    greece: Grecia
+    spain: Spagna
+    latvia: Lettonia
+    netherlands: Paesi Bassi
+    sri_lanka: Sri Lanka
+    italy: Italia
+    croatia: Croazia
+    brazil: Brasile
+    hungary: Ungheria
+    portugal: Portogallo
+    lithuania: Lituania
+    ivory_coast: Costa d'Avorio
+    poland: Polonia
+    malta: Malta
+    philippines: Filippine
+    uae: Emirati Arabi Uniti
+    chile: Cile
+    australia: Australia
+    usa: Stati Uniti d'America
+    argentina: Argentina
+    india: India
+    bulgaria: Bulgaria
+    israel: Israele
+    singapore: Singapore
+    germany: Germania
+    guatemala: Guatemala
+    china: Cina
+    ireland: Irlanda
+    morocco: Marocco
+    nigeria: Nigeria
+    sweden: Svezia
+    be_the_next: Diventa il prossimo
+
+  cost_of_ownership:
+    first_section_title: Costo di proprietà più basso sul mercato
+    first_section_list_one: Il più basso consumo d'inchiostro sul mercato
+    first_section_list_two: Costo per stampa più economico sul mercato
+    first_section_list_three: Prezzo basso della stampante
+    first_section_list_four: Nessun contratto di manutenzione/servizio
+    first_section_list_five: Zero tempi morti
+    first_section_list_six: Nessun costo d'installazione e formazione
+    first_section_list_seven_html: Riduci i tuoi costi di codifica e marcatura di almeno il 60%. Basta spendere una fortuna in inchiostro e contratto di manutenzione.!
+    first_section_list_eight_html: Richiedi la nostra guida operativa per vedere<br>quanto potresti risparmiare
+    download: Download
+    first_section_two_title: Profitti chiari e trasparenti sugli investimenti
+    first_section_sub_title: LE STAMPANTI FX ONE RIDUCONO DRASTICAMENTE IL COSTO PER STAMPA
+    first_section_text_html: "Il costo per stampa è determinato da 3 fattori: <br> - il prezzo di acquisto della stampante <br> - il costo dell'inchiostro <br> - il costo di manutenzione mensile.
+                              <br>
+                              <br>
+                              Foenix Coding ha progettato una stampante a getto d'inchiostro semplice con la priorità della riduzione dei costi. La stampante a getto d'inchiostro FX ONE è stata sviluppata all'insegna della semplicità e non contiene parti mobili né pompe né valvole. L'alimentazione dell'inchiostro si basa sulla capillarità e la gravità e non c'è bisogno di aria compressa. Il controllo è gestito da 1 solo PCB che è collegato alla testina di stampa con 1 solo cavo dati. Grazie alla sua semplicità e all'assenza di parti mobili, NON è richiesta alcuna manutenzione mensile o annuale. L'utilizzo di un minor numero di componenti fa sì che la stampante FX ONE abbia un prezzo d'acquisto molto competitivo.
+                              <br>
+                              <br>
+                              Costi di stampa ridotti - normalmente dal 50% all'80%. La tecnologia di stampa Xaar permette depositi d'inchiostro fino a 80 pico litri per goccia (cioè 0,000000080ml), con un conseguente massiccio risparmio d'inchiostro. Hai sotto controllo il tuo costo per stampa. Calcola facilmente i tuoi costi di stampa con il nostro software intuitivo e vedi quanto potresti risparmiare. La stampa con micro gocce d'inchiostro e una cartuccia d'inchiostro sigillata consentonoun basso costo per stampa senza sprechi d'inchiostro. Con la modalità di risparmio dell'inchiostro si possono ottenere ulteriori risparmi.
+                              <br><br>
+                              Non rimanere intrappolato in una costosa stampante a getto d'inchiostro che prosciugherà il tuo budget nel tempo. Scopri i dettagli della garanzia, i termini di servizio, i costi di manutenzione/riparazione, i costi dell'inchiostro e dei materiali di consumo. Sarai sicuramente in grado di scegliere la soluzione più conveniente per il tuo business. Calcola il costo totale di proprietà della stampante prima di prendere una decisione. Foenix Coding ama la semplicità e ha creato una stampante semplice e conveniente progettata per soddisfare le aspettative dei clienti"
+    inkjet_printer_title: Come scegliere una stampante a getto d'inchiostro
+    inkjet_printer_text_html: "Sappiamo che scegliere una stampante a getto d'inchiostro non è facile. Ci sono tantissimi modelli di diversi produttori e altrettante tecnologie a disposizione.
+                             <br>
+                             <br>
+                             Ogni utilizzo ha un requisito diverso. Capire il proprio utilizzo farà risparmiare un sacco di tempo e di delusioni.
+                             <br>
+                             Scarica la nostra guida gratuita per confrontare le stampanti Foenix con quelle della concorrenza."
+    newsletter_title: Ricevi la nostra guida gratuita per aiutarti nella scelta della tua stampante a getto d'inchiostro
+    newsletter_description_html: "CIJ contro TIJ contro <span class='text-orange'>FX ONE</span>"
+    list_title: "Ogni domanda può determinare se la stampante FX ONE sarà adatta al tuo progetto:"
+    list_left_one: Qual è il prodotto?
+    list_left_two: Quali sono le dimensioni del prodotto?
+    list_left_three: Con cosa è fatto il prodotto/imballaggio?
+    list_left_four: A cosa serve il prodotto?
+    list_left_five: Com'è la velocità del trasportatore/prodotto?
+    list_left_six: Il prodotto è ben sostenuto nel punto di stampa?
+    list_left_seven: Qual è la temperatura del prodotto al momento della stampa?
+    list_left_eight: Ha qualche requisito per resistere alle intemperie?
+    list_left_nine: Dov'è il requisito di stampa sopra/lato/sotto?
+    list_left_ten: In che direzione scorre la linea del prodotto verso la testina di stampa?
+    list_left_eleven: Qual è la dimensione dell'area di stampa e dove deve essere applicata la stampa?
+    list_left_twelve: Quale attrezzatura stai usando ora per applicare la stampa, se esiste?
+    list_right_one: Qual è il colore dell'inchiostro richiesto?
+    list_right_two: Qual è il colore del materiale/confezione?
+    list_right_three: La superficie di stampa è porosa o non porosa?
+    list_right_four: Qual è il tempo di asciugatura previsto?
+    list_right_five: Qual è il messaggio?
+    list_right_six: Qual è l'altezza del messaggio?
+    list_right_seven: Quanti sono i caratteri?
+    list_right_eight: Qual è l'altezza del carattere?
+    list_right_nine: Quante sono le linee di stampa?
+    list_right_ten: Quante sono le stampe al minuto/ora?
+    list_right_eleven: Il messaggio è continuo su materiali a nastro continuo o estrusioni
+    list_right_twelve: Qual è la lunghezza di ripetizione del messaggio?
+
+    second_section_title: Calcolatore di risparmio/ROI
+    second_section_text: Controlla facilmente il tuo costo per stampa e il numero di stampe per cartuccia. Non è mai stato così facile contenere i costi! Risparmia fino al 75% d'inchiostro con la nostra modalità Ink saver.
+    second_section_text_two_html: "Non rimanere intrappolato in una costosa stampante a getto d'inchiostro che prosciugherà il tuo budget nel tempo.
+                             <br>
+                             Scopri i dettagli della garanzia, i termini di servizio, i costi di manutenzione/riparazione, i costi dell'inchiostro e dei materiali di consumo.
+                             <br>
+                             Sarai sicuramente in grado di scegliere la soluzione più conveniente per il tuo business.
+                             <br>
+                             Calcola il costo totale di proprietà della stampante prima di prendere una deisione."
+
+  printers:
+    title: SERIE FX ONE
+    text: La gamma di stampanti a getto d'inchiostro Foenix comprende tutte le stampanti a getto d'inchiostro industriali per soluzioni di codifica e marcatura.
+          I principali criteri di progettazione per ogni stampante sono la facilità d'uso, la bassa manutenzione e l'efficacia dei costi fornendo una stampa ad altissima risoluzione.
+    coming_soon: PROSSIMAMENTE
+
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: La nuova stampante a getto d'inchiostro FX ONE è una delle stampanti a caratteri piccoli a più basso costo per codice e a più bassa manutenzione. Offre una vera alternativa per codificare i tuoi prodotti.
+    second_section_title: Panoramica
+    grid_title_one: La migliore alternativa alla stampa CIJ
+    grid_description_one_html: "La FX ONE Remote è stata progettata come una stampante a getto d'inchiostro molto semplice, ma con la possibilità di stampare da una a otto righe di codice e d'inserire i propri stili di caratteri e la propria grafica.
+                                <br>
+                                <br>
+                                La FX ONE Remote offre una vera alternativa alle complesse stampanti CIJ a un prezzo molto accessibile:
+                                <ul>
+                                  <li>Costo per stampa più basso sul mercato</li>
+                                  <li>Stampa ad Alta Risoluzione</li>
+                                  <li>Progettata per Zero manutenzione</li>
+                                  <li>Flessibile, permettendo la stampa in qualsiasi direzione</li>
+                                  <li>Stampa multi linea senza costi aggiuntivi</li>
+                                  <li>Nessun solvente aggiuntivo richiesto</li>
+                                </ul>"
+    grid_link_one: Ricevi un preventivo rapido
+    grid_title_two: Ottimo per applicazioni di estrusione e alimentazione a bobina
+    grid_description_two_html: "FX ONE è un codificatore a getto d'inchiostro modulare per uso industriale. È ideale per la marcatura di estrusioni, la stampa su nastri e altre applicazioni industriali.
+                            <br>
+                            La stampante FX ONE è programmata per la stampa continua ripetuta a intervalli definiti su una linea di estrusione.
+                            <br>
+                            <br>
+                            Avrai il controllo totale per la stampa ripetuta su un nastro di materiale. Più stampanti FX ONE possono essere montate su un nastro per stampare materiale identico o messaggi
+                             diversi. Il Touch Controller montato a distanza può essere collegato a un encoder o a qualsiasi tipo di dispositivo per l'attivazione della stampa"
+    grid_link_two: Ricevi un campione di stampa
+    grid_title_three: Facile installazione e funzionamento
+    grid_description_three_html: "La stampante FX ONE Remote può essere facilmente collocata nella maggior parte delle macchine o in spazi limitati.
+                                  <br>
+                                  <br>
+                                  Stampa entrambi i lati del prodotto ma con un solo Touch Controller. Sia che si stiano stampando due lati di una scatola o entrambi i lati di un prodotto più grande, avere un unico controller semplifica l'inserimento dei messaggi da parte dell'operatore.
+                                  Stampa facilmente messaggi identici o diversi su entrambi i lati del prodotto.
+                                  <br>
+                                  <br>
+                                  Un grande touch screen grafico a colori e un display WYSIWYG combinato con tasti di azione pittorici rende davvero facile la modifica e la programmazione dei messaggi"
+    grid_link_three: Ricevi un preventivo rapido
+    grid_title_four: Prestazioni di stampa costanti
+    grid_description_four_html: "Un otturatore automatico sulla testina di stampa assicura che la stampa rimanga perfetta in applicazioni continue o intermittenti e in ambienti difficili, senza intervento dell'operatore.
+                                <br>
+                                <br>
+                                Questo otturatore può essere chiuso manualmente o automaticamente durante i periodi di non utilizzo dell'FX ONE. Quando l'otturatore è chiuso dà una migliore protezione alla testina di stampa contro i danni fisici e l'essiccazione dell'inchiostro all'interno della testina.
+                                <br>
+                                <br>
+                                Migliore protezione in ambienti difficili:
+                                <br>
+                                Il tempo di apertura dell'otturatore può essere di soli 5 secondi. Questo significa che l'otturatore sarà aperto solo per 5 secondi, durante la stampa. Subito dopo, si chiuderà e proteggerà la testina di stampa da correnti d'aria, umidità, polvere e altre contaminazioni presenti nell'aria"
+    grid_title_five: Gestione pulita dell'inchiostro per una stampa perfetta
+    grid_description_five_html: "L'inchiostro a base di olio o solvente a flusso facilitato è in una cartuccia d'inchiostro sigillata per garantire che non ci siano sprechi, contaminazioni e sporcizia. La sostituzione della cartuccia richiede pochi secondi mentre si continua a stampare.
+                                <br>
+                                La stampante può essere programmata per lo spurgo e la pulizia automatica, garantendo un tempo di attività del 100%."
+    grid_link_five: Scopri di più
+    grid_title_six: Capacità d'integrazione completa
+    grid_description_six_html: "La suite software Foenix FX APP offre una capacità d'integrazione completa per il collegamento in rete delle stampanti, l'accesso ai database, la creazione di messaggi off-line, la connessione a scanner industriali, lettori di codici a barre, verificatori e altre apparecchiature di produzione.
+                                <br>
+                                La selezione dei messaggi può essere manuale o protetta utilizzando un lettore di codici a barre."
+    grid_link_six: Scopri di più
+    cards_section_description: Una nuova generazione di
+    cards_section_description_two: di stampanti a getto d'inchiostro senza manutenzione
+    first_card_title: Codifica e marcatura ad alta risoluzione
+    first_card_text: Da 1 a 8 righe di stampa, con altezza di stampa da 2 a 18 mm.
+    second_card_title: Connettività PC
+    second_card_text: Tramite cavo USB, RS485 o Ethernet per la creazione di messaggi diretti o il sistema di rete di fabbrica.
+    third_card_title: Grafica, Loghi e Codici a Barre
+    third_card_text: Importa facilmente grafica JPEG, PNG e BMP utilizzando l'FX APP.
+    fourth_card_title: Schermo semplice e tastiera
+    fourth_card_text: Per il controllo in loco della velocità e della direzione della stampante e del ritardo del messaggio.
+    fifth_card_title: Installazione pronta all'uso
+    fifth_card_text: Con componenti minimi per la massima affidabilità.
+    sixth_card_title: Codici a barre 1D e 2D
+    sixth_card_text: Stampa ad alta risoluzione di codici a barre 1D e 2D (QR Codes - data matrix) per includere dati variabili.
+    seventh_card_title: 2 anni di garanzia*
+    seventh_card_text_html: Garanzia estesa disponibile <br> * Si applicano termini e condizioni
+    eigth_card_title: Touch Controller
+    eigth_card_text: Semplice programmazione interattiva di Windows con FX APP. Stampa affidabile in un clic.
+    ninth_card_title: Collegamento in rete
+    ninth_card_text: Gestisci più stampanti da un'unica posizione. Monitora i progressi, tieni traccia degli errori e ottieni informazioni dettagliate con l'analisi di stampa.
+    tenth_card_title: Font True Type e Unicode
+    tenth_card_text: Consente la creazione di messaggi in qualsiasi tipo di carattere e in qualsiasi lingua
+    eleventh_card_title: Cartuccia d'inchiostro a base di solvente di grandi dimensioni
+    eleventh_card_text: Sistema d'inchiostrazione a basso costo e pulito, ideale per la stampa su superfici porose e non porose.
+    twelfth_card_title: Connessione multiporta
+    twelfth_card_text: Per encoder, allarmi esterni e dispositivi alternativi di rilevamento del prodotto.
+    thirteenth_card_title: Modalità risparmio inchiostro
+    thirteenth_card_text: Riduci il consumo d'inchiostro fino al 75%
+    pop_title: Software APP
+    pop_title_two: Per tutte le applicazioni di codifica dei prodotti
+    pop_text_one: Analisi di rete e di stampa
+    pop_text_two: Semplice programmazione interattiva di Windows
+    pop_text_three: 'Disponibilità su PC e controller Touch screen da 7".'
+    pop_text_four: Supporto multilingue
+    pop_text_five: Piena integrazione con la nostra DLL
+    pop_text_six: Gestione avanzata della stampante
+    pop_link: Scopri di più
+    fourth_section_title: Specifiche tecniche
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: Caratteristiche
+    fifth_section_left_one: Stampa in qualsiasi orientamento
+    fifth_section_left_two: Da 1 a 8 righe di stampa
+    fifth_section_left_three: Altezza di stampa totale 2 mm- 18 mm
+    fifth_section_left_four: Testina di stampa piezoelettrica ad alta risoluzione
+    fifth_section_left_five: Stampa testo, grafica, loghi e codici a barre
+    fifth_section_left_six: Stampa l'ora e diversi formati di data
+    fifth_section_left_seven: Capacità di stampa a ripetizione continua
+    fifth_section_left_eight: Velocità di stampa 100 m/min (50 m/min per codice a barre e testo da 2 mm)
+    fifth_section_left_nine: Pulsante singolo di avvio/arresto della stampa
+    fifth_section_left_ten: Indicatore di allarme visivo che include l'inchiostro in esaurimento
+    fifth_section_left_eleven: Controllo larghezza messaggio, ritardo e direzione di stampa
+    fifth_section_left_twelve: Fotocellula di rilevamento del prodotto
+    fifth_section_left_thirteen: Peso 1,7 Kg (escluso la cartuccia d'inchiostro e i supporti))
+    fifth_section_left_fourteen: Dimensione 242 x 178 x 90mm
+    fifth_section_right_title_one: Connettività
+    fifth_section_right_one: RS232 e RS485 per il controller Sauven Touch
+    fifth_section_right_two: Chiavetta USB-A inclusa
+    fifth_section_right_three: USB-B per collegamento via cavo
+    fifth_section_right_four: Ethernet (opzionale)
+    fifth_section_right_five: Stampa testo, grafica, loghi e codici a barre
+    fifth_section_right_six: Porta I/O per encoder, segnalatore di allarme e fotocellule esterne
+    fifth_section_right_title_two: Inchiostro
+    fifth_section_right_seven: Cartuccia d'inchiostro sostituibile sigillata (fino a 15 milioni di caratteri)
+    fifth_section_right_eight: inchiostri a base di olio per superfici porose
+    fifth_section_right_nine: Inchiostri a base solvente per superfici non porose
+    fifth_section_right_ten: Inchiostri UV per polimerizzazione LED istantanea
+    fifth_section_right_eleven: Svariati colori
+    fifth_section_right_title_three: Elettrica
+    fifth_section_right_twelve: Alimentazione da 90-260 VAC a 24VDC inclusa
+    fifth_section_message: Foenix Coding Ltd migliora continuamente i prodotti e il software. Le specifiche sono soggette a modifiche.
+    build_to_last: Costruita per durare
+    build_to_last_description: La costruzione in fibra di carbonio e un solido
+    build_to_last_description_two: gruppo di componenti significa che sarà tua per gli anni a venire
+    discover: Scopri la gamma FX ONE
+    shared_tech: Tecnologia condivisa
+    shared_tech_text_one: Le stampanti FX ONE sono costruite in modo modulare utilizzando pochissimi componenti.
+    shared_tech_text_two: Le parti FX ONE sono intercambiabili al 100%, poiché sono utilizzate in macchine simili e modelli simili.
+    shared_tech_text_three: L'unica differenza tra i modelli è la posizione della testina di stampa. La FX ONE Standard ha la testina di stampa incorporata nell'unità di controllo, mentre la FX ONE Remote e la FX ONE Plus hanno una testina di stampa remota collegata all'unità di controllo con un condotto flessibile.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: La soluzione intelligente per la stampa
+    fx_one_standard_sub_two: ad alta risoluzione degli imballaggi
+    fx_one_standard_text: Stampa ad alta risoluzione direttamente su cartonei, vassoi
+    fx_one_standard_text_two: e sacchi in una linea di produzione per eliminare la necessità
+    fx_one_standard_text_three: di un imballaggio prestampato o di etichette costose.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: Il modo intelligente per risparmiare
+    fx_one_plus_sub_two: sulla stampa di etichette
+    fx_one_plus_text: Stampante per caratteri di grandi dimensioni fino a 72 mm di altezza di stampa.
+    fx_one_plus_text_two: L'alternativa perfetta a sistemi di etichettatura
+    fx_one_plus_text_three: costosi, complessi e limitati.
+    sixth_section_title: Affidabile, potente, versatile
+    sixth_section_left_sub_title_one: Nessun costoso contratto di manutenzione
+    sixth_section_left_sub_text_one: Le stampanti Foenix sono fabbricate con componenti minimi per dare la massima affidabilità. L'assenza di pompe, di valvole, di aria compressa, di carica di goccioline e di filtri d'aria si traduce in una manutenzione molto ridotta.
+    sixth_section_left_sub_title_two: Il costo più basso per stampa
+    sixth_section_left_sub_text_two: La tecnologia piezoelettrica utilizzata nella stampante FX ONE ha bisogno di una sola cartuccia d'inchiostro sigillata e non richiede solventi aggiuntivi. Questo riduce sostanzialmente i costi operativi.
+    sixth_section_left_sub_title_three: Prestazioni di stampa costanti
+    sixth_section_left_sub_text_three: Le stampanti FX ONE stanno stampando in alta risoluzione. Puoi stampare loghi, codici a barre 1D e 2D, variabili...
+    sixth_section_left_sub_title_four: Fiducia dell'operatore
+    sixth_section_left_sub_text_four: Facile installazione, modifica e programmazione dei messaggi e facile manutenzione.
+    sixth_section_right_sub_title_one: Tecnologia collaudata
+    sixth_section_right_sub_text_one: Utilizza una testina di stampa ad alta risoluzione Xaar la cui tecnologia è già stata testata con molte migliaia di stampanti vendute con successo in tutto il mondo.
+    sixth_section_right_sub_title_two: Integrazione del sistema
+    sixth_section_right_sub_text_two: Da integrare in un sistema di rete di fabbrica o da collegare a scanner industriali, encoder, bilance di controllo o altre apparecchiature secondo le esigenze.
+    sixth_section_right_sub_title_three: 100% di attività 0% d'inattività
+    sixth_section_right_sub_text_three: "Stampa 24x7: non smette mai di stampare anche quando si cambia cartuccia!"
+    sixth_section_right_sub_title_four: Innovazione Otturatore automatico
+    sixth_section_right_sub_text_four: "Per proteggere la parte più critica della tua stampante: il motore della testina di stampa"
+    seventh_section_title: Stampe impeccabili, ogni volta
+    seventh_section_text: Alta qualità, ben fatte, alta precisione è ciò che le stampanti FX ONE offrono. Proponiamo il modo più semplice ed efficiente possibile per codificare il tuo prodotto in alta risoluzione.
+    low_ink: Il minor consumo d'inchiostro sul mercato
+    low_ink_text: Basta spendere una fortuna in cartucce d'inchiostro e per il contratto di manutenzione!
+    low_ink_text_two: Le stampanti Foenix offrono i costi di gestione più bassi del settore e il più basso costo per stampa
+
+
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: Stampa ad alta risoluzione direttamente su cartonei, vassoi e sacchi su una linea di produzione per eliminare la necessità di costosi imballaggi prestampati o etichette costose.
+    grid_title_one: La soluzione intelligente per la stampa d'imballaggi ad alta risoluzione
+    grid_description_one_html: "La nuova FX ONE Standard offre una qualità di stampa incredibile in una stampante compatta e completa. Può essere usata come una semplice stampante autonoma e facile da programmare o integrata in un sistema di rete di produzione completo. Non c'è bisogno di etichette costose: usa la FX ONE Standard per la stampa ad alta risoluzione direttamente su cartonei, vassoi, sacchi o altri prodotti su una linea di produzione per eliminare la necessità di costosi imballaggi prestampati o etichette costose"
+    grid_link_one: Ricevi un campione di stampa
+    grid_title_two: Risprmia tempo, risparmia denaro
+    grid_description_two_html: "Non sono necessarie complicate procedure di avvio e spegnimento. Basta spegnere la macchina a fine giornata e riaccenderla la successiva.
+                            <br>
+                            La stampante FX ONE è stata progettata con componenti minimi per dare la massima affidabilità. L'assenza di pompe, di valvole, di aria compressa e la presenza di un solo PCB significa bassa manutenzione e nessun costoso contratto di manutenzione.
+                            <br>
+                            <br>
+                            Costi di stampa ridotti - monitora e gestisci il costo per stampa per ridurre facilmente il consumo d'inchiostro del 75%. La stampa con micro gocce d'inchiostro e una cartuccia d'inchiostro sigillata garantiscono un basso costo per stampa senza sprechi d'inchiostro.
+                            L'inchiostro a base di olio easy-flow è contenuto in una cartuccia sigillata da 110 ml per garantire che non ci siano sprechi, contaminazioni e sporcizia. La sostituzione della cartuccia richiede pochi secondi mentre si stampa ancora. La stampante può essere programmata per lo spurgo e la pulizia automatica"
+    grid_link_two: Ricevi un preventivo rapido
+    grid_title_three: Versatilità produttiva
+    grid_description_three_html: "Il design industriale compatto e innovativo della FX ONE permette di spostare la stampante in diversi luoghi in pochi minuti. Basta staccare la spina e spostarla. Funziona perfettamente con il suo grande touch screen, e tutte le funzioni di stampa possono essere facilmente controllate. Basta premere il pulsante di stampa e iniziare a stampare su qualsiasi cosa.
+                                  <br>
+                                  <br>
+                                  Le stampanti FX ONE possono essere collegate per imprimere la stampa su entrambi i lati di un cartonee con lo stesso o differenti messaggi. La stampa ad alta risoluzione combinata con la capacità d'importare qualsiasi stile di carattere, la grafica e la stampa in qualsiasi lingua valorizzeranno l'immagine del tuo prodotto"
+    grid_title_four: Capacità d'integrazione completa
+    grid_description_four_html: "La suite software Foenix FX APP offre una capacità d'integrazione completa per il collegamento in rete delle stampanti, l'accesso ai database, la creazione di messaggi off-line, la connessione a scanner industriali, lettori di codici a barre, verificatori e altre apparecchiature di produzione.
+                                <br>
+                                La selezione dei messaggi può essere manuale o protetta utilizzando un lettore di codici a barre."
+    grid_link_four: Scopri di più
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: L'alternativa intelligente
+    fx_one_remote_sub_two: alla stampa CIJ
+    fx_one_remote_text: La stampante a getto d'inchiostro FX ONE Remote è una delle stampanti di caratteri piccoli a più basso costo
+    fx_one_remote_text_two: per codice e a più bassa manutenzione disponibili.
+    fx_one_remote_text_three: Offre una vera alternativa per codificare i tuoi prodotti.
+    second_section_title: Panoramica
+    first_card_title: Codifica e marcatura ad alta risoluzione
+    first_card_text: Da 1 a 8 righe di stampa, con altezza di stampa da 2 a 18 mm.
+    second_card_title: Connettività PC
+    second_card_text: Via cavo USB o Ethernet per la creazione di messaggi diretti o il sistema di rete di fabbrica.
+    third_card_title: Grafica, Loghi e Codici a Barre
+    third_card_text: Importa facilmente grafica JPEG e BMP utilizzando FX APP.
+    fourth_card_title: Schermo semplice e tastiera
+    fourth_card_text: Per il controllo locale della velocità e della direzione della stampante e del ritardo dei messaggi.
+    fifth_card_title: Installazione pronta all'uso
+    fifth_card_text: Con componenti minimi per la massima affidabilità.
+    sixth_card_title: Codici a barre 1D e 2D
+    sixth_card_text: Stampa ad alta risoluzione di codici a barre 1D e 2D (QR Codes - data matrix) per includere dati variabili.
+    seventh_card_title: 2 anni di garanzia
+    seventh_card_text: Estendilo per uno, due o tre anni in più
+    eigth_card_title: Touch Controller
+    eigth_card_text: Semplice programmazione interattiva di Windows con FX APP. Stampa affidabile in un clic.
+    ninth_card_title: Rete
+    ninth_card_text: Gestisci più stampanti da un'unica posizione. Monitora i progressi, tieni traccia degli errori e ottieni informazioni dettagliate con l'analisi di stampa.
+    tenth_card_title: Font True Type e Unicode
+    tenth_card_text: Consente la creazione di messaggi in qualsiasi tipo di carattere e in qualsiasi lingua
+    eleventh_card_title: Cartuccia d'inchiostro a base di olio di grandi dimensioni
+    eleventh_card_text: Sistema di codifica e inchiostrazione pulito a basso costo, ideale per la stampa su superfici porose.
+    twelfth_card_title: Connessione multiporta
+    twelfth_card_text: Per encoder, allarmi esterni e dispositivi di rilevamento prodotti alternativi.
+    thirteenth_card_title: Modalità risparmio inchiostro
+    thirteenth_card_text: Riduci il consumo d'inchiostro fino al 75%
+    seventh_section_title: Versatilità di produzione
+    seventh_section_text: Il design industriale compatto e innovativo della FX ONE facilita lo spostamento della stampante in diversi luoghi in pochi minuti. Basta scollegarla e spostarla. Funziona perfettamente con il suo grande touch screen, e tutte le operazioni di stampa possono essere controllate facilmente. Basta premere il pulsante di stampa e iniziare a stampare su qualsiasi cosa.
+
+
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: Stampante per caratteri di grandi dimensioni fino a 72 mm di altezza di stampa. L'alternativa perfetta a sistemi di etichettatura costosi, complessi e limitati.
+    first_section_text_two: "L'alternativa perfetta a sistemi di etichettatura costosi, complessi e limitati."
+    coming_soon: PROSSIMAMENTE
+    grid_title_one: Il modo intelligente per risparmiare sulla stampa di etichette
+    grid_description_one_html: "La stampante a getto d'inchiostro a grandi caratteri FX ONE Plus permette all'utente di controllare il costo per stampa nella stampa di etichette.
+                               <br>
+                               <br>
+                               Il software basato su Windows è stato appositamente progettato pensando alla stampa di etichette, un'area in cui il controllo del costo per stampa è fondamentale. Stampando direttamente sulle scatole invece di utilizzare etichette, l'efficienza dei costi aumenta notevolmente.
+                               <br>
+                               <br>
+                               La FX ONE Plus offre un'ulteriore flessibilità d'integrazione e può collegarsi con i database, consente il controllo remoto completo tramite il software di gestione della produzione esistente e offre funzionalità di rete complete, incluso il Wi-Fi.
+                               <br>
+                               <br>
+                               Progettata per la codifica e la marcatura a basso costo su cartonei e scatole, una vera alternativa alla stampante per etichette.
+                               Non sono necessarie complicate procedure di avvio e spegnimento. Basta spegnere la macchina a fine giornata e riaccenderla la successiva.
+                               <br>
+                               <br>
+                               Oltre ai cartonei, puoi stampare su carta, legno, tessuto, EPS, gommapiuma, cemento, ecc..."
+    huge_cost_savings: Enormi risparmi sui costi grazie alla sostituzione di etichette e imballaggi prestampati mediante la stampa ad alta risoluzione direttamente sui cartonei - ideale per scatole, sacchi, vassoi, pallet di legno e altro
+    plus_newsletter_title:  NEWSLETTER FOENIX
+    plus_newsletter_description: Scopri per primo quando
+    plus_newsletter_description_two: lanceremo la FX ONE Plus
+    placeholder: Inserisci la tua email e riceverai aggiornamenti sul lancio
+
+  software:
+    first_section_title_one: Controller FX TOUCH
+    first_section_text_one: Controlla la tua stampante con un semplice tocco. Oltre alle normali funzioni come codici a barre, contatori, loghi, data, ora, turno ecc., la stampante FX ONE è dotata di software per PC e connettività di rete di serie.
+    first_section_text_two: Foenix Coding comprende l'arte della semplicità e ha creato una stampante semplice ed economica che si adatta esattamente alle specifiche dei clienti.
+    first_section_text_three: Abbiamo prestato molta attenzione al design dell'interfaccia utente FX APP per semplificare il flusso di lavoro dei tuoi progetti quotidiani.
+    first_section_text_four: FX APP in esecuzione sul controller FX Touch è disponibile anche come software per PC in modo da poter controllare la stampante da qualsiasi computer.
+    second_section_title: Software FX APP
+    second_section_text: Lo strumento definitivo per avere sempre il controllo della tua produzione aiutandoti a ridurre i costi. La nostra FX APP può essere eseguita sia sul controller Foenix che sul PC offrendo integrazione e flessibilità e può collegarsi con i database, consentendo il controllo remoto completo tramite il software di gestione della produzione esistente con funzionalità di rete complete.
+    second_section_text_two: Foenix FX APP ti consente di progettare messaggi in tempi record grazie alla sua interfaccia intuitiva.
+    second_section_check_one: Semplice programmazione interattiva di Windows
+    second_section_check_two: Memoria illimitata dei messaggi
+    second_section_check_three: Modalità di stampa risparmio inchiostro
+    second_section_check_four: Utilizza font True Type e Unicode
+    second_section_check_five: Importa loghi JPEG e BMP
+    second_section_check_six: Supporto multilingue
+    second_section_card_one: "Fx App: Clicca e stampa"
+    second_section_card_two: Ottimizza i tuoi processi di stampa con FX APP
+    second_section_card_three: Stampa affidabile in un clic
+    second_section_card_four: Integrazione software per adattarsi al tuo flusso di lavoro
+    third_section_left_title: FX APP
+    third_section_left_sub_title: Caratteristiche
+    third_section_left_text_one: Compatibile con Windows XP e versioni successive
+    third_section_left_text_two: L'icona intuitiva ha guidato la creazione del messaggio
+    third_section_left_text_three: Font True Type e Unicode supportati
+    third_section_left_text_four: Grafiche, loghi e codici a barre importati direttamente in formato JPEG e BMP
+    third_section_left_text_five: Ora e più formati di data
+    third_section_left_text_six: Modalità di stampa risparmio inchiostro
+    third_section_left_text_seven: Memoria illimitata dei messaggi
+    third_section_left_text_eight: Supporto multilingue
+    third_section_left_text_nine: Foenix Coding Ltd migliora continuamente prodotti e software. Le specifiche sono soggette a modifiche.
+    third_section_right_title: FX ONE TOUCH
+    third_section_right_sub_title: Caratteristiche
+    third_section_right_title_two: Connettività
+    third_section_right_text_one: Touch Screen 7”
+    third_section_right_text_two: Semplice programmazione interattiva di Windows
+    third_section_right_text_three: Utilizza FX APP
+    third_section_right_sub_title_two: Connettività
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 Multiporta, Ethernet (opzionale)
+    third_section_right_text_five: Ingresso 24 V CC
+    third_section_right_text_six: Supporta allarmi esterni, segnalatori, codificatori
+    third_section_right_text_seven: Programmazione automatica con lettore di codici a barre
+    third_section_final_text: Interfaccia touch screen che semplifica ogni azione con la FX APP. La configurazione e la navigazione semplici eliminano la necessità di formazione e offrono un'esperienza di stampa semplice e intuitiva.
+
+    extremely_simple: Estremamente semplice da usare
+    extremely_simple_text: Abbiamo prestato molta attenzione al design dell'interfaccia utente di FX APP per semplificare il flusso di lavoro dei tuoi progetti quotidiani. La configurazione e la navigazione semplici eliminano la necessità di formazione e offrono un'esperienza di stampa intuitiva e senza problemi.
+    extremely_simple_button: Richiedi l'accesso a FX APP
+    grid_title_one: Supporto multilingue
+    grid_description_one: Software tradotto in 19 lingue e puoi stampare in qualsiasi lingua
+    grid_title_two: Tieni bassi i tuoi costi
+    grid_description_two: Controlla facilmente il costo per stampa e il numero di stampe per cartuccia. Non è mai stato così facile contenere i costi!
+    grid_title_three: Rete e integrazione
+    grid_description_three_html: "FX APP offre funzionalità d'integrazione completa per il collegamento in rete di stampanti, l'accesso ai database, la creazione di messaggi offline, il collegamento a scanner industriali, lettori di codici a barre, verificatori e altre apparecchiature di produzione.
+                                 <br>
+                                 <br>
+                                 Gestione avanzata della stampante:
+                                 <br>
+                                 Massimizza i tempi di attività gestendo la produzione su più stampanti Foenix da un'unica posizione. Monitora i progressi, tieni traccia degli errori e ottieni informazioni dettagliate con l'analisi di stampa."
+    grid_title_four: Firmware Foenix
+    grid_description_four: Stampanti che migliorano ulteriormente nel tempo. Rendi la tua stampante FX ONE ancora più performante con miglioramenti delle prestazioni e funzionalità aggiunte in ogni aggiornamento del firmware.
+    grid_title_five: Piena integrazione con la nostra DLL
+    grid_description_five_html: "Che cos'è una DLL?
+                                <br>
+                                <br>
+                                Una DLL (Dynamic Link Library) è un insieme di funzioni software che possono essere utilizzate da uno sviluppatore di terze parti per incorporarle nelle proprie applicazioni. La Foenix DLL fornisce una serie di funzioni che consentono di controllare la stampante FX ONE tramite l'applicazione FX APP o Foenix Touch Controller.
+                                La libreria rende il processo di comunicazione con la stampante molto più semplice per lo sviluppatore poiché si occupa del protocollo effettivo utilizzato. Lo sviluppatore utilizza quindi un meccanismo relativamente semplice per monitorare le stampanti, caricare messaggi e trasmettere dati"
+    grid_title_six: Prevenzione degli errori dell'utente nelle impostazioni di stampa
+    grid_description_six: Niente più errori, grazie alla configurazione automatica delle impostazioni di stampa attraverso il lettore portatile. Uno scanner di codici a barre può essere utilizzato per selezionare un messaggio da stampare, o per popolare i campi di un messaggio tramite la scansione dei codici a barre corrispondenti. Minori interventi manuali significano minori errori di codifica.
+    newsletter_title: Ricevi i nostri ultimi aggiornamenti software
+    newsletter_description: Iscriviti per essere il primo a sapere quando è disponibile un aggiornamento
+
+    fourth_section_title_one: Supporto multilingue
+    fourth_section_text_one: Software tradotto in 19 lingue e puoi stampare in qualsiasi lingua
+    fourth_section_title_two: Tieni bassi i tuoi costi
+    fourth_section_text_two: Controlla facilmente il costo per stampa e il numero di stampe per cartuccia.
+    fourth_section_text_two_two: Non è mai stato così facile contenere i costi!
+    fourth_section_title_three: Rete e integrazione
+    fourth_section_text_three: FX APP offre funzionalità d'integrazione completa per il collegamento in rete di stampanti, l'accesso ai database, la creazione di messaggi offline, il collegamento a scanner industriali, lettori di codici a barre, verificatori e altre apparecchiature di produzione.
+    fourth_section_title_four: FX APP
+    fourth_section_text_four: Gestione avanzata della stampante.
+    fourth_section_text_four_two: Massimizza i tempi di attività gestendo la produzione su più stampanti Foenix da un'unica posizione. Monitora i progressi, tieni traccia degli errori e ottieni informazioni dettagliate con l'analisi di stampa.
+    fourth_section_title_five: Prevenzione degli errori dell'utente nelle impostazioni di stampa
+    fourth_section_text_five: Niente più errori, grazie alla configurazione automatica delle impostazioni di stampa attraverso il lettore portatile. Uno scanner di codici a barre può essere utilizzato per selezionare un messaggio da stampare, o per popolare i campi di un messaggio tramite la scansione dei codici a barre corrispondenti. Minori interventi manuali significano minori errori di codifica.
+    button: Software dal vivo da testare
+    fourth_section_title_six: Firmware Foenix
+    fourth_section_text_six: Stampanti che migliorano ulteriormente nel tempo.
+    fourth_section_text_six_two: Rendi la tua stampante FX ONE ancora più performante con miglioramenti delle prestazioni e funzionalità aggiunte in ogni aggiornamento del firmware.
+    fifth_section_title_one: Piena integrazione con la nostra DLL
+    fifth_section_sub_title: Che cos'è una DLL?
+    fifth_section_text_one: Una DLL (Dynamic Link Library) è un insieme di funzioni software che possono essere utilizzate da uno sviluppatore di terze parti per incorporarle nelle proprie applicazioni. La DLL Foenix qui descritta fornisce una serie di funzioni che consentono di controllare una stampante FX ONE tramite l'applicazione FXPro o il Foenix Touch Controller. La libreria rende il processo di comunicazione con la stampante molto più semplice per lo sviluppatore poiché si occupa del protocollo effettivo utilizzato. Lo sviluppatore utilizza quindi un meccanismo relativamente semplice per monitorare le stampanti, caricare messaggi e trasmettere dati.
+    fifth_section_title_two: Come funziona una DLL?
+    fifth_section_text_two: La DLL è usata dai clienti per comunicare con la stampante. Il diagramma sottostante fornisce una panoramica di base che mostra come la DLL si colloca tra l'applicazione e la stampante.
+
+  industry:
+    first_section_title: Forniamo soluzioni per tutti i settori e ogni applicazione
+    first_section_text: Le aziende emergenti con 1 piccola linea di produzione e le multinazionali con le applicazioni più esigenti possono utilizzare la stampante FX ONE per ridurre i costi di codifica e marcatura, prevenire i tempi di fermo, automatizzare i processi manuali e migliorare la qualità del prodotto con la codifica ad alta risoluzione.
+    first_section_button_one: Richiedi la Demo
+    first_section_button_two: Ricevi i prezzi
+    trusted_title: Affidabile per le imprese
+    trusted_title_two: di tutti i settori
+    trusted_text_html: "Foenix Coding ha installato stampanti a getto d'inchiostro in tutto il mondo nei settori alimentare, delle bevande, farmaceutico, industriale, dell'elettronica e dell'edilizia.
+                  <br>
+                  I nostri clienti sono molti dei più grandi produttori in questi settori, ma, cosa altrettanto importante, Foenix gode della fiducia di molte piccole aziende manifatturiere in tutto il mondo che apprezzano ugualmente i concetti di basso costo e bassa manutenzione che sono caratteristiche di rilievo di queste stampanti."
+    fd_title: Cibo e bevande
+    fd_card_title_one: Prodotti da forno
+    fd_card_text_one: biscotti, torte...
+    fd_card_title_two: Prodotti a base di cereali
+    fd_card_text_two: cereali da colazione, pasta...
+    fd_card_title_three: Frutta e verdura trasformata
+    fd_card_text_three: conserve, frutta secca...
+    fd_card_title_four: Confetteria
+    fd_card_text_four: cioccolato, caramelle, gomme da masticare...
+    fd_card_title_five: Snack
+    fd_card_text_five: patatine, snack salati, cioccolato...
+    fd_card_title_six: Pesce e prodotti ittici
+    fd_card_text_six: pesce in scatola, pesce essiccato, scatole frigo al dettaglio...
+    fd_card_title_seven: Latticini
+    fd_card_text_seven: latte, yogurt, formaggio, panna...
+    fd_card_title_eight: Bevande alcoliche
+    fd_card_text_eight: vino, amari, liquori...
+    fd_card_title_nine: Prodotti macinati e decorticati
+    fd_card_text_nine: farina, riso...
+    fd_card_title_ten: Carne
+    fd_card_text_ten: preconfezionata, essiccata fresca, surgelata...
+    fd_card_title_eleven: Caffè, cacao, tè
+    fd_card_text_eleven: macinato, confezione singola...
+    fd_card_title_twelve: Cibo per neonati
+    fd_card_title_thirteen: Piatti pronti
+    fd_card_text_thirteen: pizza, panini...
+    fd_card_title_fourteen: Bevande analcoliche
+    fd_card_text_fourteen: acqua, limonate, succhi di frutta...
+    fd_card_title_fifteen: Prodotti surgelati
+    fd_card_title_sixteen: Spezie, essenze, prodotti da cucina e da forno
+    fd_card_title_seventeen: Oli commestibili e prodotti simili, grassi duri
+    fd_card_text_seventeen: olio d'oliva, burro, lardo...
+    fd_card_title_eighteen: Tetra pack
+    cp_title: Cosmetici e
+    cp_title_two: Farmaceutici
+    cp_card_title_one: Cosmetici e igiene personale
+    cp_card_text_one: shampoo, sapone, dentifricio, fazzoletti...
+    cp_card_title_two: Prodotti di bellezza
+    cp_card_text_two: profumo, prodotti per capelli, trucchi...
+    cp_card_title_three: Prodotti farmaceutici
+    cp_card_text_three: medicinali, sciroppi, pillole, tubetti di crema...
+    cp_card_title_four: Attrezzature mediche
+    cp_card_text_four: mascherine, siringhe, bende, medicazioni...
+    ind_title: Industriale
+    ind_card_title_one: Prodotti in metallo
+    ind_card_text_one: pezzi finiti o semilavorati, sottoassiemi...
+    ind_card_title_two: Industria automobilistica
+    ind_card_text_two: ricambi, tubazioni auto, interni auto, parti in gomma...
+    ind_card_title_three: Prodotti chimici
+    ind_card_text_three: Prodotti chimici industriali, detersivi, prodotti per la pulizia...
+    ind_card_title_four: Apparecchiature elettroniche, sottogruppi, componenti
+    ind_card_text_four: Schede PCB, schede di sicurezza...
+    ind_card_title_five: Materiali per edilizia
+    ind_card_text_five: pavimenti, piastrelle, legnami, pietre, pannelli per pareti, cartonegesso...
+    ind_card_title_six: Fertilizzanti, pesticidi e altri prodotti per il trattamento delle piante
+    ind_card_title_seven: Estrusione e prodotti alimentati
+    ind_card_text_seven: tubi di plastica, cavi, bustine...
+    ind_card_title_eight: Orto, agricoltura, silvicoltura e prodotti della pesca
+    ind_card_text_eight: nastro da giardino...
+    ind_card_title_nine: Pitture, coloranti, colori, inchiostri, vernici e prodotti simili
+    ind_card_title_ten: Legno e prodotti di carta, cellulosa, legno non lavorato
+    ind_card_title_eleven: Mobili e parti di mobili
+    ind_card_title_twelve: Prodotti petroliferi
+    tp_title: Applicazioni tradizionali
+    tp1: Contenitori aerosol
+    tp2: Secchi
+    tp3: Fogli
+    tp4: Tetra pack
+    tp5: Fiale
+    tp6: Contenitori
+    tp7: Vasetti di vetro
+    tp8: Vassoi imbutiti, pressati, piegati
+    tp9: Bag-in-box
+    tp10: Lattine di plastica, metalliche
+    tp11: brocche
+    tp12: Tubi
+    tp13: Sacchetti di carta, plastica, metallici
+    tp14: Taniche, damigiane
+    tp15: Lattine di metallo
+    tp16: Sacchi/buste tubolari
+    tp17: Sacchi per sigillatura a riempimento verticale
+    tp18: Confezioni in cartonee per liquidi e paste
+    tp19: Sacchetti
+    tp20: Confezioni avvolgenti
+    tp21: Barili
+    tp22: Cartucce
+    tp23: Pallet - unità di carico
+    tp24: Avvolgimenti (ritorto, piegato, sigillato, termoretraibile, estensibile)
+    tp25: Cestini
+    tp26: Custodie
+    tp27: Bobine
+    tp28: Lastre di gesso
+    tp29: Confezioni blister
+    tp30: Lattine composite
+    tp31: Sacchi di carta, plastica, metallizzati
+    tp32: Rotoli di carta igienica
+    tp33: Bottiglie di Vetro
+    tp34: Casse
+    tp35: Sacchetti / buste con chiusura laterale
+    tp36: Nastro da giardino
+    tp37: Bottiglie in metallo
+    tp38: Tazze
+    tp39: Scatole pieghevoli
+    tp40: Copertine per libri
+    tp41: Bottiglie di plastica
+    tp42: Batteria
+    tp43: Bobine
+    tp44: Cinghie
+    tp45: Scatole di cartonee, plastica
+    tp46: Etui
+    tp47: Confezioni reggiate
+    tp48: Legno
+    tp49: Rivestimento per pavimenti
+    tp50: Borse a fondo piatto
+    tp51: Cisterne
+    tp52: Sacchi per farina
+    tp53: Pietre
+    tp54: Bendaggi medicali
+    tp55: Schede di sicurezza
+    tp56: Blocchi da pavimentazione
+    tp_button_one: Richiedi una prova gratuita
+    tp_button_one_msg: Prova la FX ONE per 7 giorni
+    tp_button_two: Ricevi una stampa di prova gratuita
+    tp_button_two_msg: Su qualsiasi tuo prodotto
+
+  video:
+    first_section_title: Video
+    first_section_text: Guarda le stampanti Foenix stampare su qualsiasi oggetto e qualsiasi materiale.
+    first_section_text_two: Altri video saranno aggiunti periodicamente, assicurati di controllare spesso questa pagina e la nostra pagina di You Tube
+    more_videos: Altri video sono in arrivo
+    video_text_one: Soluzione di codifica dell'imballaggio primario
+    video_text_one_cont: La stampante FX ONE Remote, la soluzione più economica per la marcatura dei tuoi prodotti
+    video_text_two: Soluzione di codifica dell'imballaggio secondario
+    video_text_two_cont: La stampante FX ONE Standard, la soluzione più economica per le tue applicazioni di codifica di casse
+    video_text_three: Come ottenere una codifica efficiente e di alta qualità sul tuo cartonee? Scoprilo con la stampante FX ONE Standard
+    video_text_four: La FX ONE Standard, la migliore stampante per tutte le tue applicazioni industriali
+    video_text_five: La stampante FX ONE Standard, ideale per casse esterne, vassoi e cartonee ondulato
+    video_text_six: "Lo FX ONE Standard: una stampante, molte applicazioni: Codici a barre, loghi, codifica dei cartonei e altro ancora"
+    video_text_seven: Con la FX ONE Standard taglia i costi sostituendo la stampante per etichette
+
+  legal:
+    first_section_title: LEGALE
+    cookie_policy: Politica sui Cookie
+    privacy_policy: Informativa sulla privacy
+
+  contact_coders:
+    first_section_title: Codificatrici e Marcatrici di contatti
+    first_section_text: Mentre le stampanti a getto d'inchiostro sono il futuro, le tradizionali stampanti a basso costo per la codifica e la marcatura dei contatti sono ancora ampiamente utilizzate in tutto il mondo come soluzioni molto convenienti.
+                        I codificatori a contatto sono ideali quando un prodotto richiede modifiche poco frequenti dei messaggi o l'ambiente richiede una soluzione non elettronica senza manutenzione.
+                        Foenix produce queste stampanti per l'uso con gomma intercambiabile tipo "Baselock" insieme a rulli Plastic-Ink preimpregnati o a varie cartucce d'inchiostro sigillate.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: Stampa continua su tutti i materiali
+    codaprint_text: Una stampante unica per la stampa ripetuta continua su metallo, plastica o materiali porosi, inclusi lamiere di acciaio, film estruso, tubi di plastica e avvolgimenti con anima in cartonee.
+                    Utilizza una cartuccia d'inchiostro sigillata per semplicità e pulizia, con una scelta d'inchiostri e colori; ed è disponibile con varie lunghezze di stampa ripetute e un'altezza di stampa massima di 25 mm.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: Stampante multiuso per codici e prezzi
+    codamark_text: Una stampante alternativa semplice e compatta, ideale per stampare la data di scadenza sui prodotti su una linea di produzione con una qualità di stampa chiara e precisa.
+                   Le cartucce d'inchiostro sigillate garantiscono un'asciugatura rapida della stampa sulla maggior parte delle superfici, inclusi barattoli di metallo, barattoli di vetro e vasetti di plastica. Questa stampante in acciaio inossidabile a basso costo utilizza l'aria, senza requisiti elettrici.
+                   È ideale in ambienti difficili o umidi per la stampa sulla parte superiore, laterale o sulla base di un prodotto.
+    handroller_title: Rullo a mano Codaprint
+    handroller_sub_title: Stampa manuale su tutte le superfici
+    handroller_text: Il rullo manuale Codaprint consente la stampa manuale su tutte le superfici con la stessa gamma d'inchiostri ad asciugatura rapida.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: Codificatori a contatto e stampanti a rullo d'inchiostro in plastica
+    codapack_text: Risolvi i tuoi problemi di stampa su cartoneee con i codificatori a contatto codapack con rullo d'inchiostro in plastica e gomma di tipo baselock di Foenix Coding
+    baselock_title: Foenix Baselock
+    baselock_sub_title: Tipo in gomma intercambiabile
+    baselock_sub_title_two: per tutte le macchine di codifica dei contatti
+    baselock_text_one: CAMBIO DI STAMPA FACILE E VELOCE
+    baselock_text_two: UNA VASTA GAMMA DI STILI DI CARATTERI
+    baselock_text_three: LOGHI PERSONALIZZATI
+    baselock_text_four: STILI PER TUTTE LE LINGUE
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: Stampante continua affidabile di Foenix Coding per la marcatura ad alta e bassa velocità su metallo, plastica, vetro, cartonee. Un semplice codificatore a contatto per la stampa ripetuta del vostro prodotto ad alta velocità utilizzando cartucce d'inchiostro sigillate ad asciugatura rapida.
+    get_prices: Richiedi i prezzi
+    cp_title: Stampa continua su tutti i materiali
+    cp_sub_title_one: Applicazioni
+    cp_text_one: Il Codaprint è utilizzato per applicare marchi di identificazione, date di scadenza, loghi per raccolta differenziata, nomi di prodotti dei clienti ecc... su materiale in continuo movimento o indicizzazione, e dove è richiesta una stampa ripetuta.
+                     Alcune applicazioni tradizionali sono posizionate su film estrusi, stampa di sacchetti, lamiere d'acciaio, estrusioni di plastica per finestre, pellicola termoretraibile, avvolgimenti di anime di cartonee, cartonei di gesso, cartonei per imballaggio di bordi, retro di specchi e carta.
+    cp_sub_title_two: Facile da installare
+    cp_text_two: Il Codaprint si monta facilmente su una barra fissa attraverso il materiale da marcare. La regolazione verticale sull'unità consente l'accensione e lo spegnimento della stampa. La stampante è azionata dal contatto per attrito tra le gomme del tipo di tamburo e il materiale..
+    cp_sub_title_three: Inchiostri
+    cp_text_three: Le cartucce d'inchiostro sono disponibili in una gamma di tipi e colori d'inchiostro per adattarsi alla maggior parte delle superfici. Possiamo consigliarti la gamma più adatta al tuo prodotto.
+    cp_sub_title_four: Scelta di stampa
+    cp_text_four: Il tamburo standard Codaprint è dotato di anelli di bloccaggio in metallo per l'uso con il tipo di gomma intercambiabile Baselock. Baselock è disponibile in molti stili di carattere e loghi personalizzati per consentire un rapido cambio di stampa.
+    cp_sub_title_five: Tamponi di trasferimento
+    cp_text_five: La testina d'inchiostrazione della cartuccia Codaprint deve essere dotata di un set completo di tamponi di trasferimento ogni volta che viene utilizzata una nuova cartuccia d'inchiostro.
+    cp_tp1: "TPS030: Per un flusso d'inchiostro minimo"
+    cp_tp2: "TPS060: Per un flusso d'inchiostro massimo"
+    cp_sub_title_six: Rullo manuale
+    cp_text_six: Il rullo manuale Codaprint è adatto alla stampa manuale su tutte le superfici con la stessa gamma d'inchiostri ad asciugatura rapida.
+    ps_title_one: Misure
+    ps_title_two: Specifiche della stampante Codaprint
+    ps_title_three: Modello CP-24/1
+    ps_bp_one: "Lunghezza stampa: 240mm"
+    ps_bp_two: "Altezza stampa: 25mm"
+    ps_title_four: Rullo manuale CP-17/B
+    ps_bp_three: "Lunghezza stampa: 175mm"
+    ps_bp_four: "Altezza stampa: 25mm"
+    ps_title_five: Cartucce Codaprint
+    ps_bp_five: CP111 Inchiostro nero colorante standard per materiali non porosi
+    ps_bp_six: CP011 Inchiostro nero colorante ad asciugatura extra rapida per materiali non porosi ad alta velocità
+    ps_bp_seven: CP5610 Inchiostro nero colorante per superfici porose
+    ps_bp_eight: CP256 Inchiostro bianco pigmentato per superfici di colore scuro, materiali porosi e non porosi
+    ps_text: Una selezione di colori è disponibile in ogni gamma
+    list_title: Descrizione
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: Una stampante unica per la stampa continua su metallo, plastica o materiali porosi tra cui lamiere d'acciaio, film estrusi, tubi di plastica e avvolgimenti di anime di cartonee.
+    list_subtitle_two: Stampante a costo zero
+    list_text_two: La più semplice stampante a basso costo per l'applicazione di marchi di identificazione ripetitivi, date di scadenza, loghi per raccolta differenziata o nomi di prodotti dei clienti su materiale in continuo movimento.
+    list_subtitle_three: Stampa ad alta velocità
+    list_text_three: La stampante può funzionare a una velocità molto bassa ma anche stampare fino a 100 metri al minuto.
+    list_subtitle_four: Semplice sistema d'inchiostro
+    list_text_four: L'inchiostro è contenuto in una cartuccia sostituibile che ha un controllo integrale dell'inchiostro, indipendentemente dalla velocità di stampa, dando un sistema d'inchiostrazione pulito a bassa manutenzione. Questo sistema d'inchiostro unico assicura che la stampa non sbiadisca mai fino a quando la cartuccia è vuota.
+    list_subtitle_five: Cartuccia d'inchiostro
+    list_text_five: Le nostre cartucce d'inchiostro standard sono adatte per metallo, vetro, plastica e superfici porose e altri materiali. Alcune applicazioni richiedono un inchiostro speciale.
+    list_subtitle_six: Caratteristiche
+    list_text_six_html: "La stampante è azionata da pneumatici sul tipo di tamburo a contatto con il materiale, eliminando la necessità di qualsiasi azionamento meccanico o elettrico.
+                                 <br>
+                                 <br>
+                                 Codificatore a rullo continuo perfetto per: Numero di lotto, data e stampa del logo.
+                                 <br>
+                                 <br>
+                                 La stampante si monta facilmente sopra il materiale in movimento da marcare o contro una bobina di materiale in diminuzione.
+                                 <br>
+                                 <br>
+                                 L'altezza di stampa può essere fino a 25 mm utilizzando sia i Baselock Type intercambiabili che gli stereo piatti.
+                                 <br>
+                                 Sono disponibili quattro lunghezze di stampa ripetuta fino a 460 mm."
+    fncdm_title: Scopri Foenix Codamark
+    fncdm_text: Marcatura chiara e precisa dei prodotti ottenuta in modo efficiente ed economico con la stampante pneumatica alternata Codamark.
+    fncdm_button: Scopri di più
+
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Marcatura chiara e precisa dei prodotti ottenuta in modo efficiente ed economico con codificatore alternativo pneumatico Codamark. Stampante alternativa compatta per riempitrici in linea e rotative, stampa della data di scadenza e altri usi.
+    phr_title: Codificatore alternativo pneumatico
+    phr_sub_title_one: Stampa con tocco leggero
+    phr_text_one: Le alte velocità possono essere raggiunte con una bassa pressione di stampa di 10-20 psi che permette alla Codamark di stampare con un tocco leggero senza danneggiare il prodotto.
+    phr_sub_title_two: Sistema d'inchiostrazione pulito
+    phr_text_two: Sulla testina di stampa è montata una cartuccia d'inchiostro pulita ad asciugatura rapida che offre tempi di asciugatura di pochi secondi sulla maggior parte delle superfici. La cartuccia sigillata assicura che l'operatore non tocchi mai l'inchiostro.
+    phr_sub_title_three: Schede tecniche Codamark
+    phr_text_three: Ulteriori informazioni sono disponibili su schede tecniche che riportano dimensioni, sistemi di controllo e posizioni di montaggio.
+    phr_sub_title_four: Supporti a cambio rapido tipo Baselock
+    phr_text_four: La testina di stampa è dotata di un tipo di supporto che può essere cambiato in pochi secondi. I supporti di ricambio possono essere utilizzati per preimpostare il tipo di gomma Baselock.
+    phr_sub_title_five: Cartucce Codamark
+    phr_sub_title_six: Small
+    phr_sub_title_seven: Large
+    phr_list_text_one: CM501/38 Cartuccia d'inchiostro nero
+    phr_list_text_two: CM502/38 Cartuccia d'inchiostro rosso
+    phr_list_text_three: CM503/38 Cartuccia d'inchiostro verde
+    phr_list_text_four: CM504/38 Cartuccia d'inchiostro blu
+    phr_list_text_five: CM506/38 Cartuccia d'inchiostro bianco
+    phr_list_text_six: CM505/38 Cartuccia d'inchiostro giallo
+    phr_list_text_seven: CM501/50 Cartuccia d'inchiostro nero
+    phr_list_text_eight: CM502/50 Cartuccia d'inchiostro rosso
+    phr_list_text_nine: CM503/50 Cartuccia d'inchiostro verde
+    phr_list_text_ten: CM504/50 Cartuccia d'inchiostro blu
+    phr_list_text_eleven: CM506/50 Cartuccia d'inchiostro bianco
+    phr_list_text_twelve: CM505/50 Cartuccia d'inchiostro giallo
+    ps_title_one: Specifiche della stampante Codamark
+    ps_sub_title_one: Modello CM-MKV/25
+    ps_bp_one: "Area di stampa: 24mm x 24mm"
+    ps_bp_two: "Dimensioni del contorno della testina di stampa: 170mm x 155mm x 85mm"
+    ps_sub_title_two: Modello CM-MKV/38
+    ps_bp_three: "Area di stampa: 37mm x 37mm"
+    ps_bp_four: "Dimensioni del contorno della testina di stampa: 170mm x 155mm x 85mm"
+    ps_sub_title_three: Modello CM-MKV/50
+    ps_bp_five: "Area di stampa: 24mm x 48mm"
+    ps_bp_six: "Dimensioni del contorno della testina di stampa: 170mm x 155mm x 85mm"
+    list_one: "Stampa efficace di date di scadenza, prezzi e codici su:"
+    list_bp_one: Vaschette di plastica
+    list_bp_two: Coperchi di alluminio
+    list_bp_three: cartonei
+    list_bp_four: Pacchetti di flusso
+    list_bp_five: Bottiglie in vetro
+    list_bp_six: Lattine di metallo ecc.
+    list_two: Montaggio superiore, inferiore o laterale
+    list_three: Sistemi automatici on-line o off-line
+    list_four: Cartuccia d'inchiostro ad asciugatura rapida
+    list_five: Prodotto nel Regno Unito
+    fncdp_title: Scopri Foenix Codaprint
+    fncdp_text: Una stampante semplice per stampare in modo continuo il tuo prodotto ad alta velocità utilizzando cartucce d'inchiostro sigillate ad asciugatura rapida
+
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Le stampanti Codapack utilizzano tutte rulli preimpregnati sostituibili d'inchiostro plastico e tipo Baselock intercambiabile. Si montano facilmente per stampare sulla parte superiore, inferiore o laterale di un prodotto. Queste stampanti sono ampiamente utilizzate dove il tempo d'inattività è una necessità e dove è richiesto il più basso costo di stampa per prodotto.
+                        Le stampanti Codapack sono le migliori quando si cambia il codice o la data di scadenza solo una volta al giorno o una volta alla settimana..
+    ccirp_title: Codificatori a contatto e stampanti a rullo d'inchiostro
+    ccirp_sub_title_one: Utilizzo
+    ccirp_text_one_html: La gamma più conveniente di codificatori per i tuoi cartonei, sacchi, vassoi termoretraibili o materiale continuo.
+                    <br>
+                    La gamma di codificatori a contatto Codapack, semplice ed efficiente, utilizza tutti rulli d'inchiostro plastico pre-impregnati sostituibili e il tipo Baselock intercambiabile per stampare su superfici porose.
+    ccirp_sub_title_two: Vantaggi
+    ccirp_text_two: Nessuna manutenzione I codificatori sono tutte semplici stampanti meccaniche che forniscono una stampa perfetta giorno dopo giorno senza bisogno di alcuna manutenzione.
+    ccirp_sub_title_three: Stampa personalizzata
+    ccirp_text_three: Sono disponibili molti stili di carattere standard nella gamma di caratteri Baselock, ma si possono facilmente produrre stili di stampa personalizzati, loghi e grafica.
+    ccirp_sub_title_four: Cambio rapido di stampa
+    ccirp_text_four: Cambiare il testo di stampa sul tamburo di stampa è un lavoro semplice e veloce Caratteristiche Sono disponibili sei diversi modelli di altezza di stampa per soddisfare le esigenze dei clienti.
+    ccirp_sub_title_five: Il più basso costo di stampa
+    ccirp_text_five: L'utilizzo di rulli d'inchiostro plastico di tipo Baselock e di lunga durata offre il più basso costo di stampa possibile del prodotto.
+    cdp_title: Informazioni su Codapack
+    cdp_sub_title_one: Tipo Baselock
+    cdp_text_one: Proponiamo una vasta gamma di stili di tipo Baselock per creare un messaggio semplicemente inserendo a pressione il tipo negli anelli di bloccaggio in metallo o nel manicotto a base di gomma nervata.
+    cdp_sub_title_two: Rulli d'inchiostro in plastica
+    cdp_text_two_html: Questi rulli d'inchiostro si posizionano rapidamente sulla gamma di stampanti Codapack per dare una stampa di qualità densa su superfici porose come cartonei, vassoi e sacchi di carta.
+                  <br>
+                  Questi rulli pre-inchiostrati di lunga durata sono usa e getta e offrono un sistema di inchiostrazione pulito ed efficiente. Sono disponibili in nero, blu, rosso e verde.
+    cdp_sub_title_three: Rulli in fibra e spugna
+    cdp_text_three: Per le superfici non porose, ognuno di questi rulli può essere usato con inchiostri liquidi speciali
+    list_text_one: Il montaggio a molla regolabile permette di regolare la pressione di stampa in base alla resistenza del cartonee e di ottenere una stampa perfetta.
+    list_text_two: Le stampanti sono fabbricate con robuste fusioni in alluminio e cuscinetti a rulli che garantiscono una lunga durata senza problemi.
+    list_text_three: La rotazione del tamburo di stampa è controllata per dare una posizione di stampa identica su ogni cartonee.
+    list_text_four: Tutta la gamma di stampanti Codapack si monta facilmente su un trasportatore con una semplice staffa di montaggio.
+
+  support:
+    first_section_title: Documentazione di supporto
+    sds_title: Schede tecniche di sicurezza (SDS)
+    sds_card_title_one: FX8001
+    sds_card_text_one: Inchiostro nero a base d'olio
+    sds_card_title_two: FX8201
+    sds_card_text_two: Inchiostro nero a base solvente
+    sds_card_title_three: CP111
+    sds_card_text_three: Inchiostro nero per marcatura
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: Detergente a base d'olio
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: Detergente a base di solvente
+    sds_card_title_six: CP011
+    sds_card_text_six: Inchiostro nero per marcatura
+    sds_card_title_seven: CM011
+    sds_card_text_seven: Inchiostro nero per marcatura
+    sds_card_title_eight: CM501
+    sds_card_text_eight: Inchiostro nero per marcatura
+    sds_card_title_nine: CM500
+    sds_card_text_nine: Solvente riattivante
+    sds_button: Contattaci per maggiori informazioni
+    sds_hint: Certificazioni e normative
+    sds_hint_two: sono disponibili su richiesta
+    manuals: FX ONE Manuali d'uso
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: Manuale d'uso
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: Manuale d'uso
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: Manuale d'uso
+    tech_support: Contatta il supporto tecnico
+
+  components:
+    yellow_button: Scopri di più
+
+  contact:
+    contact_title: Contattaci
+    contact_title_description: Contatta il nostro team per saperne di più su Foenix Coding.
+    contact_text_one: "Richiedi una stampa di prova gratuita: Inviaci un campione del tuo progetto."
+    contact_text_two: Prova gratuita di 7 giorni disponibile per chi risiede nel Regno Unito
+    phone: Telefono
+    phone_number: 0044 1932 701 449
+    email: Email
+    email_add: sales@foenixcoding.com
+    address: Indirizzo
+    address_text_html: Foenix Coding Ltd
+                  <br>
+                  The Barns - Hilltop Farm | Lyne Lane
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  Regno Unito
+    whatsapp: Contattaci su WhatsApp
+    statement: Unisciti alle centinaia di aziende che stanno già lavorando con noi
+    talk_to_sales: Parla con l'ufficio vendite
+    email_us: Puoi anche inviare un'email direttamente a
+
+
+    contact_happy: Il nostro team sarà lieto di rispondere a tutte le tue domande.
+    icon_text: Il nostro team sarà lieto di rispondere a tutte le tue domande. Compila il modulo e ci metteremo in contatto il prima possibile.
+    icon_text_two: Stampa di prova gratuita, inviaci un campione del tuo prodotto e faremo una stampa di prova.
+    form_name: Nome e cognome
+    form_email: Indirizzo Email
+    form_company: Azienda
+    form_country: Paese
+    form_message: Il tuo messaggio
+    form_phone: Telefono
+
+  error:
+    four_four_text: Pagina non trovata
+    five_zero_zero_text: Ci dispiace, qualcosa non ha funzionato
+
+  login:
+    fpassword: Password dimenticata?
+    dont_have_account: Non hai un account?
+    sign_up: Iscriviti
+    email: Email
+    password: Password
+
+  seo:
+    home_page:
+      title: "Codifica Foenix: Codifica e marcatura semplificate"
+      description: Stampanti industriali di marcatura e codifica per stampare in alta risoluzione su ogni materiale. Foenix Coding Codifica e Marcatura, getto d'inchiostro industriale, stampante FX One Remote, stampante FX One standard
+      keywords: “marcatura di codifica, stampante Foenix, marcatura industriale, getto d'inchiostro industriale, codifica e marcatura di contenitori, codifica e marcatura di prodotti, codifica e marcatura a getto d'inchiostro, stampa della data, stampante del numero di lotto, stampante di codici a barre"
+    printers:
+      title: "Stampanti industriali a getto d'inchiostro Foenix"
+      description: Progettato per la codifica e la marcatura a basso costo su superfici porose, una vera alternativa al codificatore TIJ per stampare codici a barre, numero di lotto, loghi, data di scadenza
+      keywords:  Stampanti industriali a getto d'inchiostro, codificatori a getto d'inchiostro, sistemi di marcatura delle parti, codifica dei prodotti, macchine per la marcatura dei metalli, macchine per la marcatura, stampante di numeri di serie, identificazione dei prodotti, stampa di numeri di serie, stampa di codici a barre
+    fxone_standard:
+      title: FX ONE Standard –La migliore alternativa a una stampante TIJ - Encoder ad alta risoluzione
+      description: Progettato per la codifica e la marcatura a basso costo su superfici porose, una vera alternativa al codificatore TIJ per stampare codici a barre, numero di lotto, loghi, data di scadenza
+      keywords: "codifica a basso costo, stampa della data, stampa su superfici porose, alternativa TIJ, stampante HP, getto d'inchiostro termico, codificatore di custodie, codifica di cartonei, stampante di codici a barre, stampante per legno"
+    fxone_remote:
+      title: FX ONE Remote – Migliore alternativa di stampante CIJ - Stampante industriale a getto d'inchiostro ad alta risoluzione
+      description: Le stampanti Foenix sono una delle stampanti di caratteri piccoli a più basso costo per codice e a più bassa manutenzione. Offre una vera alternativa alle complesse stampanti CIJ a un prezzo molto conveniente.
+      keywords: "macchine di marcatura, stampante a getto d'inchiostro industriale, stampa su bottiglie, stampante CIJ, stampante a getto d'inchiostro continuo, sistemi a getto d'inchiostro continuo, stampante su vetro, stampante su metallo, stampante di bottiglie, stampante di PVC"
+    fxone_plus:
+      title: FX ONE Plus – La migliore alternativa alle etichette e alle scatole prestampate - Stampante a grandi caratteri
+      description: Stampante a grandi caratteri fino a 72 mm di altezza di stampa. L'alternativa perfetta ai sistemi di etichettatura limitati per stampare codici, loghi e codici a barre.
+      keywords: "stampante per etichette, stampante per codici a barre, stampante termica, stampante a trasferimento termico, sistema di etichettatura, etichetta per codici a barre, stampante a grandi caratteri, codificatore di custodie, stampanti per etichette, stampa di scatole"
+    inks_and_consumables:
+      title: Cartucce d'inchiostro grandi Foenix - Stampa più di 15 milioni di caratteri
+      description: Inchiostri per applicazioni nei mercati alimentari, delle bevande, dei cosmetici, degli articoli per la casa, industriali e dell'estrusione
+      keywords: Inchiostro MEK, inchiostro CIJ, cartuccia d'inchiostro TIJ, inchiostro solvente, inchiostro a olio, inchiostro UV, FX8001, FX8201, cartuccia d'inchiostro Foenix, pulitore Foenix
+    distributors:
+      title: Distributori Foenix nel mondo
+      description: Le gamme di prodotti Foenix per il getto d'inchiostro e la codifica a contatto sono disponibili attraverso una rete globale di distributori qualificati che offrono un servizio completo di vendita e assistenza.
+      keywords: codifica e marcatura, riparazione stampante a getto d'inchiostro, distributori Foenix, rivenditori Foenix, formazione Foenix Coding
+    cost_of_ownership:
+      title: "Stampanti Foenix Coding: l'opzione più economica per la marcatura dei tuoi prodotti"
+      description: Le stampanti FX ONE offrono il costo per stampa più economico del mercato, senza contratto di manutenzione mensile o annuale
+    about:
+      title: Informazioni su Foenix - Gli esperti di codifica, marcatura e tracciabilità
+      description: Foenix Coding è un produttore leader nel Regno Unito e fornitore globale delle più recenti stampanti a getto d'inchiostro per l'industria
+      keywords: Stampante FX ONE, stampanti Foenix Coding, stampa e applica, stampante a foglio, getto d'inchiostro DOD, getto d'inchiostro Piezoelettrico, stampante a getto d'inchiostro Xaar, società di codifica Foenix, produttore Uk
+    contact:
+      title: Mettiti in contatto con il team Foenix Coding
+      description: Contattaci per avere maggiori informazioni sulle nostre stampanti industriali a getto d'inchiostro, i nostri inchiostri e materiali di consumo. Contatta Foenix Coding, email Foenix Coding, telefono Foenix Coding
+    faq:
+      title: Domande frequenti - Foenix Coding
+      description: Maggiori informazioni sulla gamma di stampanti e inchiostri Foenix Coding. Cartucce d'inchiostro Sauven, inchiostro solvente Sauven, inchiostro a olio Sauven, database di stampa, codici di stampa, alternativa TIJ, alternativa CIJ
+    industry:
+      title: Foenix Coding - Soluzione di codifica e marcatura per ogni settore industriale
+      description: Le stampanti FX ONE sono specificamente progettate per l'uso industriale in settori come quello alimentare, delle bevande, automobilistico, dell' edilizia, della trasformazione, dei dispositivi medici, farmaceutico, dell' elettronica e chimico.
+      keywords: marcatura a getto d'inchiostro, codificatore a getto d'inchiostro, codifica a getto d'inchiostro, marcatura a getto d'inchiostro, imballaggio farmaceutico, imballaggio medico, stampa su tubi, stampa estrusione, stampa su bottiglie, stampa su cartonee
+    video:
+      title: "Video - Foenix Coding"
+      description: Osserva le stampanti Foenix stampare su qualsiasi oggetto e qualsiasi materiale.
+    legal:
+      title: "Legale - Foenix Coding"
+      description: Visualizza le nostre politiche sui cookie e sulla privacy.
+    jobs:
+      title: "Carriere: Foenix coding sta crescendo. Unisciti a noi!"
+      description: Siamo sempre alla ricerca di nuovi amici di talento che condividano la nostra visione per dare impulso all'industria
+    posts:
+      title: News ed Eventi
+      description: Ricevi le ultime notizie ed eventi
+    software:
+      title: Foenix FX APP – Soluzioni software per l'industria della codifica e della marcatura
+      description: L'FX APP di Foenix Coding permette di progettare messaggi in tempo record grazie alla sua interfaccia facile da usare. Il miglior software di tracciabilità
+      keywords: Software di Etichettatura, software di Etichettatura, NiceLabel, FX APP, uso per data, contatore, numero di lotto, logo, codici a barre
+    contact_coders:
+      title: Codificatori di contatto - Marcatura tradizionale a basso costo
+      description: Stampanti convenienti e soluzioni per stampanti tradizionali a basso costo per la codifica e la marcatura a contatto
+      keywords: Codifica a contatto, macchine di marcatura e stampanti a rullo a contatto
+    foenix_codaprint:
+      title: Foenix Codaprint - Stampante semplice per la stampa ripetuta
+      description: Foenix Codaprint una stampante continua affidabile per la marcatura ad alta e bassa velocità di metallo, plastica, vetro, cartonee
+      keywords: Stampante a rullo continuo, numero di lotto, plastica, scatole, Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - Stampante di prodotti multiuso
+      description: Codamark stampante alternata compatta per macchine riempitrici in linea e rotative, stampa della data di scadenza e altri usi di Foenix Coding
+      keywords: Stampante compatta a pistoni, data di scadenza, Codamark
+    foenix_codapack:
+      title: Foenix Codapack - Dispositivo economico per la codifica dei cartonei
+      description: Risolvi i tuoi problemi di stampa su cartoneee con i codificatori a contatto codapack con rullo d'inchiostro in plastica e tipo di gomma baselock di Foenix Coding
+      keywords: Codificatori a contatto, stampanti a rullo d'inchiostro in plastica, Baselock Codapack
+    support:
+      title: Foenix Coding - Documentazione di supporto
+      description: Consulta il manuale utente e le guide informative di Foenix Coding per saperne di più sul nostro contatto e le soluzioni di stampa a getto d'inchiostro
+      keywords: Manuale utente Foenix Coding, Guide informative Foenix, Stampa a getto d'inchiostro, Manuale utente FX ONE, Manuale tecnico Foenix, FOENIX MSDS
+
+  news:
+    latest: Storia recente
+    news: News/Eventi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

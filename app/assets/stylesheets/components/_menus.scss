@@ -39,11 +39,22 @@
     display: flex;
     border-radius: 5px;
 
-    & img {
-      width: 20px !important;
+    .image-cropper {
+      justify-content: center;
+      display: flex;
+      width: 25px !important;
       height: 20px !important;
       margin-right: 10px;
-      border-radius: 3px;
+      border-radius: 50%;
+      overflow: hidden;
+      position: relative;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    & img {
+      position: relative;
+      max-height: 20px;
+      left: calc(50% - 10px);
 
       @include for-xsmall-phone-only {
         width: 40px;

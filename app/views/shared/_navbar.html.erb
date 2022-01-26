@@ -173,9 +173,21 @@
             <%= render 'shared/lang' %> <%= locale.capitalize %> <i class="fas fa-chevron-down small-chevron"></i>
           </a>
           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="productsDropdown">
-            <ul class="dropdown-menu-ul">
-              <li class="d-flex align-items-center"><%= image_tag 'uk.png' %><%= link_to "English", { :locale=>'en' }, class: "dropdown-item circle" %></li>
-              <li class="d-flex align-items-center"><%= image_tag 'france.png' %> <%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item circle" %></li>
+            <ul class="dropdown-menu-ul " style="display: inline-grid; grid-template-columns: 1fr 1fr 1fr 1fr;">
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'uk.png' %></span><%= link_to "English", { :locale=>'en' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'france.png' %></span> <%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'arabic.png' %></span> <%= link_to "العربية", { :locale=>'ar' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'china.png' %></span> <%= link_to "中国人", { :locale=>'ch' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'netherlands.png' %></span> <%= link_to "Nederlands", { :locale=>'du' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'germany.png' %></span> <%= link_to "Deutsch", { :locale=>'ge' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'indonesia.png' %></span> <%= link_to "Bahasa Indonesia", { :locale=>'in' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'italy.png' %></span> <%= link_to "Italiano", { :locale=>'it' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'japan.png' %></span> <%= link_to "日本", { :locale=>'ja' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'korea.png' %></span> <%= link_to "한국인", { :locale=>'ko' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'poland.png' %></span> <%= link_to "Polskie", { :locale=>'pl' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'portugal.png' %></span> <%= link_to "Português", { :locale=>'pt' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'russia.png' %></span> <%= link_to "Pусский", { :locale=>'rus' }, class: "dropdown-item circle" %></li>
+              <li class="d-flex align-items-center"><span class='image-cropper'><%= image_tag 'spain.png' %></span> <%= link_to "Español", { :locale=>'sp' }, class: "dropdown-item circle" %></li>
             </ul>
           </div>
         </div>

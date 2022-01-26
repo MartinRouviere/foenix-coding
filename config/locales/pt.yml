@@ -1,0 +1,1310 @@
+pt:
+  navbar:
+    home: Inicio
+    products: Produtos
+    services: Serviço & Suporte
+    company: Companhia
+    admin: Administrador
+    countries: Países
+    jobs: Empregos
+    posts: Posts
+    login: Conecte-se
+    logout: Sair
+    contact: Fale conosco
+    contact_o: Contato
+    printers: Impressoras
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: Software
+    inks: Tintas & Consumíveis
+    distributors: Distribuidores mundiais
+    cost: Custo de propriedade
+    FAQ: FAQ
+    about: Sobre
+    careers: Carreiras
+    news: Notícias & Eventos
+    privacy_policy: Política de Privacidade
+    cookie_policy: Política de Cookies
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | REINO UNIDO
+    printers: Impressoras
+    contact_coders: Codificadores de contato
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: Documentação de suporte
+    industry: Indústria
+    video: Vídeo
+    demo: Demo de solicitação
+    bar: Pare de gastar uma fortuna em cartuchos de tinta e contrato de manutenção! Impressoras Foenix oferecem os menores custos de execução do setor e o menor custo por impressão
+    legal: Legal
+
+  cookie_bar:
+    content: Usando este site, você concorda com o nosso
+    cookie_policy: Política de Cookies
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: Pesquisar
+    prompts:
+      search:
+        team: Equipes
+        country: Localização
+        job_type: Tipo
+
+  jobs:
+    title: FOENIX CODING está crescendo
+    tagline: Estamos sempre procurando novos amigos talentosos que compartilham nossa visão para empurrar a indústria para a frente
+
+  jobs_show:
+    roles_at: Papéis em
+    apply_now: Inscreva-se agora
+    you_will: Você vai
+    we_are_looking: Estamos procurando alguém que tenha
+    we_look_forward: Estamos ansiosos para ouvir de você
+
+  faq:
+    title: Perguntas frequentes
+    tagline: Basta clicar em uma das seções abaixo para encontrar a resposta. Estamos aqui para ajudar. Se você não pode encontrar a resposta para a sua pergunta, sinta-se livre para
+    contact: Entre em contato conosco
+    title1: O que é a impressora FX ONE?
+    desc1: O FX One é o dispositivo de impressora all-in-one que é feito para uso por todos. Não é necessário perícia. Configuração em minutos, e pode ser executado na grande maioria das linhas de produção. O que é que ele faz? Ele pode imprimir virtualmente em qualquer produto qualquer coisa, desde um simples uso por data, até um número de lote complexo, um contador ao vivo, data e hora ou um código de turno, um código de barras e muito mais.  Além desses recursos, o FX One virá com upgrades para trazer os desenvolvimentos e aplicações mais de ponta no ecossistema de codificação e marcação. Confira isso  
+    desc1vid: vídeo
+    desc1end: para ver o quão simples e poderoso ele realmente é de usar.
+    title2: Que idiomas você suporta?
+    desc2: Você pode imprimir em qualquer idioma sem qualquer limitação
+    desc2end: Em relação à interface de software, ele suporta 16 idiomas, mas adicionaremos outros idiomas em breve.  Se você tiver solicitações de idiomas, envie-os para sales@foenixcoding.com
+    title3: Quais são as Dimensões?
+    desc3: É 242mm por 178mm por 90mm ou se você preferir 9,52 polegadas por 7 polegadas por 3,54 polegadas.
+    title4: Onde posso encontrar distribuidores oficiais Foenix?
+    desc4_1: Através da nossa grande rede de distribuidores estamos presentes em todos os continentes e somos capazes de oferecer as impressoras em quase todos os países!!
+    desc4_2: Acreditamos que só podemos garantir totalmente a qualidade consistente do produto e o melhor atendimento ao cliente, oferecendo-os através de nossos representantes locais.
+    desc4_3: Nossa gama de distribuidores existentes é de pequenas empresas de uma pessoa a corporações internacionais. Por experiência, descobrimos que não é tamanho, mas comprometimento, amplo conhecimento do mercado local e contatos e competências relevantes que são os principais fatores para o sucesso.
+    desc4_4: Nossos revendedores estão sempre lá para você oferecer
+    desc4_5: Suporte rápido e profissional em seu fuso horário e idioma.
+    desc4_6: Envio rápido e econômico.
+    desc4_7: Serviço de garantia local confiável.
+    desc4_8: Por favor, não hesite em
+    desc4_9: Entre em contato conosco
+    desc4_10: se você tiver alguma dúvida ou quiser receber mais informações sobre nossos revendedores.
+    title5: Por que eu não posso entrar?
+    desc5: Nossa página de login só está disponível para nossos distribuidores existentes para dar-lhes acesso ao seu painel personalizado. Não é possível que mais ninguém tenha acesso a esta página. Se você é um distribuidor FOENIX e ainda não tem acesso ao seu painel, por favor, avise-nos.
+    title6: Posso obter um teste gratuito antes de comprar? 
+    desc6_1: Se você está baseado no Reino Unido Sim
+    desc6_2: Você pode obter um teste grátis, sete dias.
+    desc6_3: Durante a avaliação gratuita, você terá acesso a toda a funcionalidade da impressora e poderá monitorar o custo por impressão e ver rapidamente quanto dinheiro você pode economizar usando nossa impressora.
+    desc6_4: A avaliação gratuita está sujeita à disponibilidade.
+    title7: Se eu possuir diferentes impressoras Foenix – Standard ou Remote – precisarei de um software separado para cada uma delas?
+    desc7: Não. Todas as nossas impressoras são totalmente compatíveis com o nosso Software. Não importa qual modelo você está usando, você pode monitorar todas as suas impressoras a partir do FX APP.
+    title8: Quais são as diferenças entre a impressora FX ONE Standard e FX ONE Remote?
+    desc8_1: O FX One Standard é a impressora perfeita para todos os aplicativos de codificação de caixas. Ele trabalha com tinta à base de óleo para superfícies porosas e lhe dará um excelente resultado para imprimir na lateral de uma caixa.
+    desc8_2: Você pode imprimir qualquer coisa desde 8 linhas de texto simples até códigos de barras variáveis, datas de validade, logotipo, shift, contadores, dados externos do banco de dados, códigos QR...
+    desc8_3: Esta impressora irá imprimir em alta resolução com uma altura de impressão de 18mm.
+    desc8_4: Tem o menor custo por impressão no mercado, é a maneira mais eficiente de você imprimir informações em uma caixa.
+    desc8_5: O FX One Remote também tem uma cabeça de impressão de alta resolução de 18mm de altura.
+    desc8_6: A impressora Remote vem em 2 modelos, seja obturador manual ou obturador motorizado.
+    desc8_7: Esta impressora funciona com tinta à base de óleo para superfícies porosas (como caixa, papel, madeira...) ou tinta à base de solvente para superfícies não porosas (como plástico, metal, vidro...).
+    desc8_8: Você pode virtualmente imprimir em qualquer produto com essa impressora.
+    title9_1: FX ONE Remote
+    title9_2: Obturador motorizado ou manual, qual é a diferença?
+    desc9:  A impressora FX ONE Remote tem um obturador para proteger os cabeços de impressão. Com a versão motorizada, o obturador fechará automaticamente após a impressão. Com a versão manual você terá que abrir o obturador manualmente no início do dia e fechá-lo manualmente no final do dia, quando a produção parar.
+    title10: Posso imprimir na parte superior de um produto?
+    desc10: Sim, com o cabeçote de impressão remoto você pode imprimir tecnicamente em qualquer ângulo
+    title11: Que tipo de tinta você oferece? 
+    desc11_1: Temos tintas controladas de alta qualidade que são inodoras e não são baseadas em M.E.K. A tecnologia piezo usada nas impressoras FX ONE só precisa de um único cartucho de tinta selada e não requer solvente de maquiagem adicional. Isso reduz substancialmente os custos operacionais. 
+    desc11_2: Oferecemos tinta à base de óleo para imprimir em materiais porosos (bandejas, caixa, madeira...) e tinta à base de solvente para imprimir em materiais não porosos (metal, plástico, vidro...)
+    title12: Existem contratos de manutenção?
+    desc12_1: Sem contratos de manutenção dispendioso.
+    desc12_2: As impressoras Foenix são fabricadas com componentes mínimos para dar a máxima confiabilidade. Sem bombas, sem válvulas, sem ar comprimido, sem carregamento de gotículas e sem filtros de ar significam manutenção muito baixa.
+    title13: Como posso ter certeza de que vou economizar dinheiro com a impressora FX ONE?
+    desc13_1: Nosso software tem o recurso de calcular o número de impressões por cartuchos e o custo por impressão para cada mensagem que você criará no FX APP.
+    desc13_2: É uma ferramenta muito poderosa porque você pode ver quanto dinheiro você vai economizar usando a nossa impressora. Você está sempre no controle dos custos
+
+  home:
+    # FIRST SECTION
+    title: Codificação e Marcação
+    title_bottom: Tornar
+    mobile_title: Tornar Codificação e Marcação
+    play: Reproduzir vídeo
+    download: Baixar folhetos
+    title_span1: Fácil
+    title_span2: Confiável
+    title_span3: Versátil
+    title_span4: Consistente
+    title_description: A impressora FX ONE é uma impressora a jato de tinta compacta de alta resolução para imprimir números de lote, uso por datas, texto, logotipos e códigos de barras em todos os materiais como caixas, bandejas, garrafas, sacos plásticos, papel alumínio, embalagens de alimentos, latas, extrusões e praticamente qualquer produto.
+    #SECOND SECTION
+    title_second: Uma nova geração de impressoras a jato de tinta livres de manutenção
+    title_second_description: FEITO NO REINO UNIDO
+    second_section_one_title: Embalagem & Codificação
+    second_section_one_description: impressão pequena ou grande para sua embalagem primária e secundária
+    second_section_two_title: Para todas as indústrias
+    second_section_two_description: Solução de marcação de alta resolução e alta adesão para cada indústria
+    second_section_three_title: FX APP Software
+    second_section_three_description: Gerenciamento avançado de impressora e otimização de processos de impressão
+    #THIRD SECTION
+    third_section_title: O que é codificação e marcação?
+    third_section_description: Codificação e marcação é imprimir informações variáveis sobre produtos durante o processo de fabricação.
+    first_image: Fabricação, Códigos de Lote e Data
+    second_image: Código de barras
+    third_image: Informações de marca e produto
+    fourth_image: Rastreabilidade Track & Trace
+    third_section_statement_one: A Foenix Coding entende o quão importante é uma linha de produção ininterrupta.
+    third_section_statement_two: Fizemos nossa missão de desenvolver a impressora mais confiável do mercado.
+    #FOURTH SECTION
+    box_coding_title: Codificação de caixa
+    box_coding_description: A aplicação mais típica é a codificação de caixas. Com o FX ONE Standard e o FX ONE Plus, não há mais necessidade de etiquetas caras. Use a impressora FX ONE para impressão de alta resolução diretamente em caixas, bandejas, sacos ou outros produtos em uma linha de produção para eliminar a necessidade de embalagens pré-impressas caras ou etiquetas caras. Pequenas execuções em lote e os requisitos do cliente para texto, gráficos e códigos de barras personalizados são facilmente alcançados.
+    product_coding_title: Codificação de produtos
+    product_coding_description: As aplicações típicas são a codificação de embalagens individuais como garrafas, pequenas caixas, tambores, latas, potes, embalagens, sacos, papel alumínio, etc. A maioria de nossos clientes para codificação de produtos são tipicamente empresas que procuram uma alternativa ao CIJ (Continuous Ink Jet) . Preço, simplicidade e baixa manutenção são os fatores de motivação. Neste mercado, sempre usamos a impressora FX ONE Remote, uma impressora verdadeiramente multifuncional para todos os setores, incluindo alimentos, bebidas, farmacêuticos e eletrônicos. A FX ONE também é ideal para marcação de extrusões, impressão em fitas e outras aplicações industriais.
+    fifth_section_title_html: "Projetado para uso <span class='text-orange'>Industrial</span> e <span class='text-orange'>Baixo custo</span> impressão a jato de tinta"
+    fifth-section_description_one: Nos últimos anos, a Foenix investiu pesado no desenvolvimento de uma gama de impressoras a jato de tinta industrial livres de manutenção. Estes codificadores são especificamente projetados para uso industrial em setores como alimentos, bebidas, automotivo, construção, conversão, dispositivos médicos, farmacêuticos, eletrônicos e químicos.
+    fifth-section_description_two: Graças ao design inteligente, as impressoras a jato de tinta FX ONE têm um uso notavelmente baixo de tinta e, portanto, oferecem um dos menores custos por impressão no mercado. Custos de impressão reduzidos - normalmente de 50% a 80%
+    food: Alimentos
+    cosmetics: Cosméticos
+    extrusion: Extrusão
+    automotive: Automotivo
+    beverage: Bebida
+    pharmaceutical: Farmacêutica
+    electronics: Eletrônica
+    construction: Construção
+    packaging: Embalagem
+    industrial_parts: Peças industriais
+    chemicals: Produtos químicos
+    and_many_more: E muito mais
+    inks_title: Ampla gama de tintas
+    inks_description: Oferecemos tintas de alta adesão e alto contraste para atender a maioria das aplicações. Diferentes tintas permitem a impressão em materiais não porosos (plástico, vidro, metal...) ou superfícies porosas (papelão, madeira, gesso...). Ampla gama de cores disponíveis, bem como tintas UV legíveis e UV Curable.
+    become_distributor_title: Torne-se um distribuidor da Foenix Coding
+    become_distributor_description: Atualmente, estamos convidando empresas para ingressar em nossa rede internacional de distribuidores
+    eight_section_title_one: Poderoso Controlador Inteligente de Software
+    eight_section_description_one: O FX APP Software está disponível no PC e no nosso FX ONE Touch Controller sob medida. O FX ONE Touch Controller foi projetado para controlar um ou mais modelos de impressora FX ONE. O controlador permite a criação de mensagens, armazenamento e gerenciamento de impressoras em uma carcaça pequena e robusta. Ele pode ser montado em uma posição fixa em um local conveniente e é portátil, por isso pode ser facilmente movido de uma impressora para outra. A interface foi projetada para ser fácil de usar e corresponde à versão do PC.
+    eight_section_title_two: Impressões de Teste e Teste Gratuitos
+    eight_section_description_two_html: "Se você está sediado no Reino Unido, você pode obter um teste gratuito de sete dias. Durante a avaliação gratuita, você terá acesso a toda a funcionalidade da impressora e poderá monitorar o custo por impressão e ver rapidamente quanto dinheiro você pode economizar usando nossa impressora. <br><br>Para uma demonstração em primeira mão da simplicidade e qualidade da impressora FX ONE entre em contato conosco hoje!<br> <small>*A avaliação gratuita está sujeita à disponibilidade.</small> <br><br>Depara que você esteja no mundo, você pode nos enviar uma amostra do seu produto e realizaremos impressões de teste de Alta Resolução."
+
+  newsletter:
+    card_title: Junte-se a nós, estamos contratando!
+    card_text: Pronto para uma mudança de carreira e quer trabalhar em uma start-up com grandes ambições? Junte-se a nós!
+    title: Obtenha o último boletim de notícias
+    text: Inscreva-se para receber atualizações de e-mail sobre anúncios de novos produtos, atualizações técnicas, mostrar que vamos participar e muito mais.
+    button: Exibir aberturas
+    placeholder: Digite seu e-mail para se inscrever
+    unsubscribe: Você pode cancelar a inscrição a qualquer momento.
+    privacy: Leia nossa política de privacidade
+
+  about:
+    title: Dentro de Foenix Coding
+    first_section_title_one: QUEM SOMOS
+    first_section_text_one: A Foenix Coding é um dos principais fabricantes e fornecedores globais das mais recentes impressoras a jatos de tinta para as indústrias de alimentos, bebidas, produtos farmacêuticos, industriais e eletrônicos para codificação, marcação, (impressão) e identificação de produtos em linha. Há mais de 5 anos a Foenix construiu uma reputação mundial de qualidade e criatividade, combinada com custo-benefício e baixa manutenção no design de nossas impressoras.
+    first_section_title_two: A EMPRESA
+    first_section_text_two: "A Foenix Coding é conhecida por suas impressoras industriais de jato de tinta especializadas no design e fabricação de sistemas de jato livre de tinta de manutenção. Para um fabricante britânico ganhar globalmente temos que fazer muito mais do que apenas oferecer um produto competitivo. O design inteligente da Foenix resultou em uma redução radical de componentes dentro de suas impressoras. Essa abordagem levou a uma redução nos custos de fabricação, bem como a um aumento na confiabilidade da impressora, tornando a Foenix um jogador mundial inspirador."
+    first_section_title_three: O MERCADO
+    hiring_title: Junte-se a nós, estamos contratando!
+    hiring_text: Pronto para uma mudança de carreira e trabalhar em uma start-up com grandes ambições? Junte-se a nós!
+    view_openings: Exibir aberturas
+    our_values_title: NOSSOS VALORES
+    our_values_text: Os produtos Foenix são baseados nos valores fundamentais da empresa de inovação, design e qualidade.
+    ov_card_title_one: A INOVAÇÃO
+    ov_card_text_one_html: "O jato de tinta piezoelétrica é aceite como oferecendo o mais alto nível de qualidade de impressão de qualquer tecnologia de impressão, sendo simples de manter e, portanto, alcançando o mais alto nível de confiabilidade do tempo de atividade.
+                           <br>
+                           Sua impressão consistente garante legibilidade confiável nos produtos."
+    ov_card_title_two: DESIGN
+    ov_card_text_two_html: "Muitas vezes as impressoras a jato de tinta são projetadas para ser uma solução complexa que leva a rotinas de manutenção complexas desnecessárias.
+                           <br>
+                           A Foenix projetou sua gama de impressoras a jato de tinta com componentes mínimos para maximizar o tempo de atividade e minimizar a manutenção."
+    ov_card_title_three: QUALIDADE
+    ov_card_text_three: Todos os nossos produtos, impressoras, tintas, consumíveis são fabricados no Reino Unido e construídos para durar. Os sistemas de software e hardware foram desenvolvidos em colaboração com profissionais de fabricação e embalagem para ajudá-los com seus desafios diários para imprimir melhor antes de datas, códigos de lote, códigos de barras 2D, logotipos gráficos e outros requisitos.
+    whats_next_title: O QUE VEM A SEGUIR
+    whats_next_text_html: "Após o crescimento global e exponencial dos últimos anos, a Foenix Coding está concentrada no fortalecimento da rede de distribuidores existente.
+                          <br>
+                          A equipe de P&D está em pleno desenvolvimento da nova geração de impressoras FX ONE com maior altura de impressão, várias cabeças de impressão e um conjunto de funções de comunicação fáceis de usar."
+
+    first_section_text_three: As impressoras Foenix oferecem soluções de economia de custos em toda a codificação de embalagens primárias e secundárias. Isso inclui substituição de etiqueta e alternativas para TIJ (Thermal Ink Jet) e CIJ (Continuous Ink Jet). Nossas impressoras são diferentes porque usam outra tecnologia. Portanto, as impressoras Foenix podem ser oferecidas como uma solução alternativa. Ao mesmo tempo, eles se encaixam facilmente em qualquer gama de produtos de soluções de codificação e marcação.
+    second_section_title: NOSSA MISSÃO
+    second_section_text: "A Foenix Coding é uma empresa sediada no Reino Unido e todos os nossos produtos são fabricados no Reino Unido. Somos apaixonados por novas tecnologias e soluções inovadoras de impressão e a equipe é composta exclusivamente por especialistas da área de tecnologia de impressão de jatos de tinta. Somos todos ex-funcionários da Sauven Marking e trouxemos conosco todas as nossas habilidades, experiência, conhecimento, experiência e, mais importante, nosso entusiasmo nesta nova aventura."
+    second_section_text_two: "A Foenix Coding é uma empresa sediada no Reino Unido e todos os nossos produtos são fabricados no Reino Unido. Somos apaixonados por novas tecnologias e soluções inovadoras de impressão e a equipe é composta exclusivamente por especialistas da área de tecnologia de impressão de jatos de tinta. Somos todos ex-funcionários da Sauven Marking e trouxemos conosco todas as nossas habilidades, experiência, conhecimento, experiência e, mais importante, nosso entusiasmo nesta nova aventura." 
+    second_section_text_three: Seus desafios complexos de codificação e marcação não exigem soluções complexas e caras.
+    third_section_title: Focamos na importância do custo de propriedade na impressão industrial.
+    third_section_text: Se você está procurando uma impressora a jato de tinta para codificação de caixa ou marcação de produto, o investimento em impressão não é mais apenas sobre o preço da impressora. Os materiais de consumo e manutenção tornaram-se os principais fatores para determinar seu custo de propriedade.
+    fourth_section_text_right: A Foenix Coding oferece uma gama de impressoras que estão mantendo o custo de propriedade. Somos guiados por uma filosofia de manutenção zero para impressão de pequenos personagens. Também estamos trabalhando duro para oferecer a impressora industrial mais amigável. As impressoras Foenix funcionam com um simples software de PC Windows com teclas pictóricas e/ou um controlador Touch muito evoluído e intuitivo.
+    fifth_section_title: Feito no Reino Unido e construído para durar
+    fifth_section_text_one: "Todos os nossos produtos - impressoras, tintas, consumíveis - são fabricados no Reino Unido. Os sistemas de software e hardware foram desenvolvidos em colaboração com profissionais de fabricação e embalagem para ajudá-los com seus desafios diários para imprimir melhor antes de datas, códigos de lote, códigos de barras 2D, logotipos gráficos e outros requisitos."
+    fifth_section_text_two: "Nossa gama de impressoras industriais de jato de tinta Xaar são livres de manutenção. Estes são especificamente projetados para uso industrial em setores como alimentos, bebidas, automotivo, construção, conversão, dispositivos médicos, farmacêuticos, eletrônicos e químicos..."
+
+  inks_and_consumables:
+    first_section_text: Grandes cartuchos de tinta
+    first_section_text_two: A impressora FX ONE é compatível com muitos tipos diferentes de tinta, tornando-a a impressora mais versátil do mercado. Imprimir em qualquer substrato e até 15 milhões de caracteres por cartucho. Oferecemos a mais ampla gama de fluidos de jato de tinta para atender até mesmo as aplicações mais especializadas do cliente
+    inks_card_title_one_html: "Classe de alta adesão<span='text-laranja'>.</span>"
+    inks_card_text_one: Tinta de alta adesão especificamente projetada para aplicação de extrusão de PVC. Obtenha qualidade de impressão sem precedentes em tubos de PVC.
+    inks_card_title_two_html: "Ampla gama de tintas<span class='text-orange'>.</span>"
+    inks_card_text_two: Diferentes tintas permitem a impressão em materiais não porosos (plástico, vidro, metal) ou superfícies porosas (papelão, madeira, gesso). Ampla gama de cores disponíveis, bem como tintas UV legíveis e UV Curable.
+    inks_card_title_three_html: "Classe de alto contraste<span='text-laranja'>.</span>"
+    inks_card_text_three: Maior contraste em produtos mais escuros graças à nossa gama de tinta pigmentada. Certifique-se de que seus códigos se destaquem em substratos escuros e claros.
+    grid_title_one: Cartucho de tinta selada
+    grid_text_one: Um cartucho de tinta integral e substituível mantém um sistema de tinta limpo livre de contaminação. Nossas tintas têm uma excelente adesão e contraste em uma ampla gama de materiais porosos e não porosos, como caixa, metal, vidro, papel, madeira e muitos plásticos. Nossas tintas oferecem um desempenho excelente em condições de aplicação mais comuns.
+    grid_title_two: Tintas amigáveis à produção
+    grid_text_two: Para aplicações nos mercados de alimentos, bebidas, cosméticos, bens domésticos, industriais e extrusões, temos tintas controladas de alta qualidade que são virtualmente inodoras e não são baseadas em M.E.K. Também oferecemos tintas coloridas.
+    grid_title_three: Tintas HDPVC para extrusão de tubos de PVC
+    grid_text_three: Agora oferecemos uma tinta de alta adesão especificamente projetada para aplicação de extrusão de PVC. Obtenha qualidade de impressão sem precedentes em tubos de PVC.
+    grid_title_four: Sistema de tinta simples
+    grid_text_four: O fornecimento de tinta está contido em um sistema de cartucho conveniente que slots na parte traseira da máquina. A substituição do cartucho de tinta é simples e limpa e pode ser concluída em poucos segundos sem interromper o processo de impressão. Nunca perca uma impressão e sempre obtenha uma qualidade de impressão de Alta Resolução que se encaixe com a imagem do seu produto
+    lowest_ink_title: Menor uso de tinta no mercado
+    lowest_ink_text: Se você está procurando uma impressora a jato de tinta para codificação de caixa ou marcação de produto, o investimento na impressão não é mais apenas sobre o preço da impressora. Os materiais de consumo e manutenção tornaram-se os principais fatores para determinar seu custo de propriedade. Graças ao design inteligente, as impressoras piezo inkjet têm um uso notavelmente baixo de tinta e, portanto, oferecem um custo muito baixo por impressão.
+    # NEW
+    standard_ink_one: Nossa gama de tintas padrão
+    standard_ink_two: para todas as suas aplicações
+    sdct_one_html: "FX 8001<br> Tinta de Óleo Preto"
+    sdct_text_one: Para caixa, papel, madeira ou quaisquer outros substratos porosos
+    sdct_two_html: "FX8201<br>Tinta solvente preta "
+    sdct_text_two: Para a maioria dos substratos como PVC, metal, vidro, plástico e quaisquer outras superfícies não porosas
+    sdct_three_html: "FX8203<br> Tinta azul solvente"
+    sdct_text_three: O mesmo uso da tinta não porosa FX8201 para embalagens primárias
+    sdct_four_html: "FX8308<br>Tinta solvente vermelha"
+    sdct_text_four: O mesmo uso da tinta não porosa FX8201 para embalagens primárias
+    sdct_five_html: "FX 8206<br> tinta solvente branca"
+    sdct_text_five: Tinta pigmentada para superfícies escuras não porosas
+    sdct_six_html: "FX8311<br>Tinta solvente amarela"
+    sdct_text_six: Substrato não poroso com tempo de secagem instantânea
+    sdct_seven_html: "FX8236<br>Tinta preta curável por UV"
+    sdct_text_seven: Substrato não poroso com tempo de secagem instantânea
+    sdct_eight_html: "FX8235<br>Tinta UV legível"
+    sdct_text_eight: Tinta invisível, só visível sob uma lâmpada UV
+    # NEW
+    special_ink_title: Você precisa de uma tinta especial?
+    special_ink_title_two: Nós podemos ajudar!
+    special_ink_text_one: Tintas baseadas em óleo
+    special_ink_text_two: Tintas baseadas em solventes
+    special_ink_text_three: Tintas Pigmentadas
+    special_ink_text_four: Tintas curáveis ​​por UV e legíveis por UV
+    stay_informed_title: Mantenha-se informado sobre o nosso mais recente desenvolvimento de tintas
+    stay_informed_text: Inscreva-se para ser o primeiro a saber quando lançarmos uma nova tinta.
+
+
+  distributor:
+    first_section_title: Alcance Global
+    first_section_text: Onde quer que você esteja no mundo, um de nossos distribuidores está por perto. Estamos presentes em todos os continentes e oferecemos suporte em sua língua e fuso horário.
+    second_section_title: Foenix tem distribuidores em
+    why_partner_title: Por que fazer parceria com
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: 'O QUE TORNA A FOENIX CODING DIFERENTE DA CONCORRÊNCIA?
+                           <br>
+                           A Foenix Coding ainda é uma "Start-up" administrada por um núcleo firme de pessoas que conhecem os produtos, a empresa e os clientes em todo o mundo.
+                           <br>
+                           <br>
+                           Ao trabalhar com a Foenix Coding, você pode esperar o seguinte:'
+    first_list_one: Preços competitivos em comparação com concorrentes diretos
+    first_list_two: Margens atraentes para distribuidores
+    first_list_three: Flexibilidade nos procedimentos
+    first_list_four: Flexibilidade no tempo de produção
+    first_list_five: Flexibilidade no tempo de entrega
+    second_list_one: Abordagem pessoal
+    second_list_two: Diretores ativamente envolvidos
+    second_list_three: Apoio a exposições
+    second_list_four: Suporte para impressões de teste
+    second_list_five: Apoio a programas de treinamento
+    second_list_six: Atualizações tecnológicas
+    third_list_one: "Competência técnica: ter impressoras em mais de 60 países significa que vimos quase todas as aplicações"
+    third_list_two: Equipe flexível de P&D que pode reagir rapidamente às necessidades específicas do cliente
+    third_list_three: "Conhecimento especializado: A gama restrita de produtos resulta em conhecimento especializado"
+    partnership_title: Caminho para a Parceria
+    partnership_text: Estamos entusiasmados por ter uma rede crescente de parceiros de distribuição comercializando produtos Foenix em todo o mundo. No momento, estamos convidando empresas a se juntarem à nossa rede internacional de distribuidores para promover nossa nova gama de impressoras para novos mercados.  Preencha este formulário e entraremos em contato em breve para discutir esta oportunidade
+    step_one: PASSO 1
+    step_one_title: Inscreva-se
+    step_one_text: Se você estiver interessado em discutir essa oportunidade, teremos o prazer de ouvir mais de sua empresa e seus objetivos
+    step_two: PASSO 2
+    step_two_title: Obtenha uma impressora demo
+    step_two_text: Para testar o desempenho do equipamento, mas também nossa reatividade e o suporte que você vai receber de nós
+    step_three: PASSO 3
+    step_three_title: Comece a vender
+    step_three_text: Nosso objetivo é facilitar que nossos parceiros de negócios se concentrem no desenvolvimento de novas perspectivas e desenvolvam seus negócios.
+
+  distributor_countries:
+    uk: Reino Unido
+    indonesia: Indonésia
+    south_africa: África do Sul
+    france: França
+    austria: Áustria
+    peru: Peru
+    turkey: Turquia
+    venezuela: Venezuela
+    malaysia: Malásia
+    vietnam: Vietnã
+    saudi_arabia: Arábia Saudita
+    egypt: Egito
+    greece: Grécia
+    spain: Espanha
+    latvia: Letônia
+    netherlands: Países Baixos
+    sri_lanka: Sri Lanka
+    italy: Itália
+    croatia: Croácia
+    brazil: Brasil
+    hungary: Hungria
+    portugal: Portugal
+    lithuania: Lituânia
+    ivory_coast: Costa do Marfim
+    poland: Polônia
+    malta: Malta
+    philippines: Filipinas
+    uae: "Árabes Unidos: Emirados Árabes Unidos"
+    chile: Chile
+    australia: Austrália
+    usa: EUA
+    argentina: Argentina
+    india: Índia
+    bulgaria: Bulgária
+    israel: Israel
+    singapore: Cingapore
+    germany: Alemanha
+    guatemala: Guatemala
+    china: China
+    ireland: Irlanda
+    morocco: Marrocos
+    nigeria: Nigéria
+    sweden: Suécia
+    be_the_next: Seja o próximo
+
+  cost_of_ownership:
+    first_section_title: Menor custo de propriedade no mercado
+    first_section_list_one: Menor consumo de tinta no mercado
+    first_section_list_two: Custo mais barato por impressão no mercado
+    first_section_list_three: Preço baixo da impressora
+    first_section_list_four: Sem contratos de manutenção/serviços
+    first_section_list_five: Tempo de baixa zero
+    first_section_list_six: Sem custo de instalação e treinamento
+    first_section_list_seven_html: Reduza seus custos de codificação e marcação em pelo menos 60%.<br>Pare de gastar uma fortuna em tinta e contrato de manutenção!
+    first_section_list_eight_html: Obtenha seu guia operacional para ver<br>quanto dinheiro você pode economizar
+    download: Baixar
+    first_section_two_title: Retorno do investimento claro e transparente
+    first_section_sub_title: AS IMPRESSORAS FX ONE REDUZEM DRASTICAMENTE O CUSTO POR IMPRESSÃO
+    first_section_text_html: "O custo por impressão é determinado por 3 fatores:<br>- o preço de compra da impressora<br>- o custo da tinta<br>- o custo de manutenção mensal.
+                              <br>
+                              <br>
+                              A Foenix Coding projetou uma impressora jato de tinta simples com a redução de custos como prioridade. A impressora jato de tinta FX ONE foi desenvolvida com simplicidade em mente e não contém partes móveis nem bombas ou válvulas. A alimentação de tinta é baseada em capilaridade e gravidade e não há necessidade de ar comprimido. O controle é controlado por 1 PCB simples que é conectada ao cabeçote de impressão com 1 cabo de dados simples. Graças à sua simplicidade e à ausência de partes móveis, NÃO é necessária manutenção mensal ou anual. Usar menos componentes significa que a impressora FX ONE tem um preço de compra muito competitivo.
+                              <br>
+                              <br>
+                              Custos de impressão reduzidos - normalmente de 50% a 80%. A tecnologia de impressão Xaar permite depósitos de tinta tão pequenos quanto 80 picolitros por gota (ou seja, 0,000000080ml), resultando em uma enorme economia de tinta. Você está no controle de seu custo por impressão. Calcule facilmente seus custos de impressão com nosso software intuitivo e veja quanto você pode economizar. A impressão com micro gotículas de tinta e um cartucho de tinta selado oferece baixo custo por impressão sem desperdício de tinta. Economias de custo adicionais podem ser obtidas usando o modo de economia de tinta.
+                              <br><br>
+                              Evite ficar preso a uma impressora jato de tinta cara que esgotará seu orçamento ao longo do tempo. Saiba detalhes da garantia, termos de serviço, custos de manutenção/reparos, custos de tinta e consumíveis. Ganhe a confiança para escolher a solução mais econômica para o seu negócio. Calcule o custo total de propriedade da sua impressora antes de tomar uma decisão. A Foenix Coding entende a arte da simplicidade e criou uma impressora simples e econômica projetada para atender às expectativas dos clientes."
+    inkjet_printer_title: Como escolher uma impressora jato de tinta
+    inkjet_printer_text_html: "Sabemos que escolher uma impressora a jato de tinta não é fácil. Existem diversos modelos e tecnologias de fabricantes disponíveis.
+                             <br>
+                             <br>
+                             Cada aplicativo tem um requisito diferente. Compreender sua aplicação economizará muito tempo e decepção.
+                             <br>
+                             Baixe nosso Guia Gratuito para comparar as impressoras Foenix com a concorrência."
+    newsletter_title: Receba nosso Guia Gratuito para ajudá-lo a escolher sua impressora jato de tinta
+    newsletter_description_html: "CIJ vs TIJ vs <span class='text-orange'>FX ONE</span>"
+    list_title: "Cada pergunta pode determinar se a impressora FX ONE será adequada para o seu projeto:"
+    list_left_one: Qual é o produto?
+    list_left_two: Qual é o tamanho do produto?
+    list_left_three: Do que é feito o produto/embalagem?
+    list_left_four: Para que serve o produto?
+    list_left_five: Qual é a velocidade do transportador/produto?
+    list_left_six: O produto é bem suportado no ponto de impressão?
+    list_left_seven: Qual é a temperatura do produto no momento da impressão?
+    list_left_eight: Existe algum requisito para resistir ao clima?
+    list_left_nine: Onde está o requisito de impressão superior/lado/abaixo
+    list_left_ten: Em qual direção a linha de produtos está indo para o cabeçote de impressão?
+    list_left_eleven: Qual é o tamanho da área de impressão e onde a impressão deve ser aplicada?
+    list_left_twelve: Que equipamento você está usando agora para aplicar a impressão, se houver?
+    list_right_one: Qual tinta de cor é necessária?
+    list_right_two: Qual é a cor do material/pack?
+    list_right_three: A superfície de impressão é porosa ou não porosa?
+    list_right_four: Qual é o tempo de secagem necessário?
+    list_right_five: Qual é a mensagem?
+    list_right_six: Qual é a altura da mensagem?
+    list_right_seven: Quantos caracteres?
+    list_right_eight: Qual é a altura do caractere?
+    list_right_nine: Quantas linhas de impressão?
+    list_right_ten: Quantas impressões por minuto/hora?
+    list_right_eleven:  A mensagem é contínua em materiais ou extrusões contínuas da web
+    list_right_twelve: Qual é o comprimento de repetição da mensagem?
+
+    second_section_title: Calculadora de Poupança/ROI
+    second_section_text: Controle facilmente seu custo por impressão e o número de impressões por cartucho. Nunca foi tão fácil manter seu custo baixo! Economize até 75% de tinta com nosso modo de economia de tinta.
+    second_section_text_two_html: "Evite ficar preso a uma impressora jato de tinta cara que esgotará seu orçamento ao longo do tempo.
+                             <br>
+                             Saiba detalhes da garantia, termos de serviço, custos de manutenção/reparos, custos de tinta e consumíveis.
+                             <br>
+                             Ganhe a confiança para escolher a solução mais econômica para o seu negócio.
+                             <br>
+                             Calcule o custo total de propriedade da sua impressora antes de tomar uma decisão."
+
+  printers:
+    title: FX ONE SERIES
+    text: A linha de impressoras a jato de tinta Foenix foi projetada como impressoras industriais a jato de tinta para soluções de codificação e marcação.
+          Os principais critérios de design para cada impressora são a facilidade de uso, baixa manutenção e custo-benefício, proporcionando impressão de resolução ultra-alta.
+    coming_soon: EM BREVE
+
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: A nova impressora a jato de tinta FX ONE é uma das impressoras com menor custo por código e menor manutenção. Oferece uma alternativa real para codificar seus produtos.
+    second_section_title: Visão Geral
+    grid_title_one: A melhor alternativa à impressão CIJ
+    grid_description_one_html: "A FX ONE Remote foi projetada como uma impressora jato de tinta muito simples, mas com a capacidade de imprimir de uma a oito linhas de código e inserir seus próprios estilos de fonte e gráficos.
+                                <br>
+                                <br>
+                                O FX ONE Remote oferece uma alternativa real para impressoras CIJ complexas a um preço muito acessível:
+                                <ul>
+                                  <li>O menor custo por impressão do mercado</li>
+                                  <li>Impressão em alta resolução</li>
+                                  <li>Projetado para manutenção zero</li>
+                                  <li>Flexível, permitindo imprimir em qualquer direção</li>
+                                  <li>Impressão em várias linhas sem custo extra</li>
+                                  <li>Não requer solvente de maquiagem adicional</li>
+                                </ul>"
+    grid_link_one: Obtenha uma cotação rápida
+    grid_title_two: Perfeito para aplicativos de extrusão e alimentados pela web
+    grid_description_two_html: "O FX ONE é um codificador modular a jato de tinta para uso industrial. É ideal para marcação de extrusões, impressão em fitas e outras aplicações industriais.
+                            <br>
+                            A impressora FX ONE é programada para impressão repetida contínua em intervalos definidos em uma linha de extrusão.
+                            <br>
+                            <br>
+                            Obtenha controle total para impressão repetida em uma teia de material. Várias impressoras FX ONE podem ser montadas em uma web para imprimir idênticas ou diferentes
+                             mensagens. O Touch Controller montado remotamente pode ser conectado a um codificador ou qualquer tipo de dispositivo para ativação de impressão."
+    grid_link_two: Obtenha uma amostra de impressão
+    grid_title_three: Fácil instalação e operação
+    grid_description_three_html: "A impressora FX ONE Remote pode ser facilmente instalada na maioria das máquinas ou em espaços limitados.
+                                  <br>
+                                  <br>
+                                  Imprima os dois lados do seu produto, mas use apenas um Touch Controller. Esteja você imprimindo nos dois lados de uma caixa ou nos dois lados de um produto maior, ter um único controlador simplifica a entrada das mensagens pelo operador.
+                                  Imprima facilmente mensagens idênticas ou diferentes em ambos os lados do produto.
+                                  <br>
+                                  <br>
+                                  Um grande ecrã táctil gráfico a cores e um visor WYSIWYG combinados com teclas de acção pictóricas tornam a edição e a programação de mensagens muito fáceis."
+    grid_link_three: Obtenha uma cotação rápida
+    grid_title_four: Desempenho de impressão consistente
+    grid_description_four_html: "Um obturador automático na cabeça de impressão garante que a impressão permaneça perfeita em aplicações contínuas ou intermitentes e ambientes agressivos, sem intervenção do operador.
+                                <br>
+                                <br>
+                                Este obturador pode ser fechado manual ou automaticamente durante os períodos sem uso do FX ONE. Quando o obturador está fechado, protege melhor a cabeça de impressão contra danos físicos e secagem da tinta dentro da cabeça de impressão.
+                                <br>
+                                <br>
+                                Melhor proteção contra ambientes hostis:
+                                <br>
+                                O tempo de abertura do obturador pode ser tão curto quanto 5 segundos. Isso significa que o obturador ficará aberto por apenas 5 segundos, durante a impressão. Imediatamente depois, ele fechará e protegerá o cabeçote de impressão contra correntes de ar, umidade, poeira e outras contaminações no ar."
+    grid_title_five: Gerenciamento de tinta limpo para impressão perfeita
+    grid_description_five_html: "A tinta à base de óleo ou solvente de fluxo fácil está em um cartucho de tinta selado para garantir que não haja desperdício, contaminação e sujeira. A substituição do cartucho leva segundos durante a impressão.
+                                <br>
+                                A impressora pode ser programada para purga e limpeza automáticas, proporcionando 100% de tempo de atividade."
+    grid_link_five: Saiba mais
+    grid_title_six: capacidade de integração completa
+    grid_description_six_html: "O pacote de software Foenix FX APP oferece capacidade de integração total para impressoras em rede, acesso a bancos de dados, criação de mensagens offline, conexão com scanners industriais, leitores de código de barras, verificadores e outros equipamentos de produção.
+                                <br>
+                                A seleção da mensagem pode ser manual ou segura usando um leitor de código de barras."
+    grid_link_six: Saiba mais
+    cards_section_description: Uma nova geração de
+    cards_section_description_two: impressoras jato de tinta sem manutenção
+    first_card_title: codificação e marcação de alta resolução
+    first_card_text: 1 a 8 linhas de impressão, com altura de impressão de 2-18mm.
+    second_card_title: Conectividade ao PC
+    second_card_text: Via cabo USB, RS485 ou Ethernet para criação de mensagem direta ou sistema de rede de fábrica.
+    third_card_title: gráficos, logotipos e códigos de barras
+    third_card_text: Importe facilmente gráficos JPEG, PNG e BMP usando o FX APP.
+    fourth_card_title: tela e teclado simples
+    fourth_card_text: Para controle local da velocidade e direção da impressora e atraso da mensagem.
+    fifth_card_title: Instalação pronta para uso
+    fifth_card_text: Com componentes mínimos para máxima confiabilidade.
+    sixth_card_title: Códigos de barras 1D e 2D
+    sixth_card_text: Impressão em alta resolução de códigos de barras 1D e 2D (QR Codes – data matrix) para incluir dados variáveis.
+    seventh_card_title: 2 anos de garantia*
+    seventh_card_text_html: Garantia estendida disponível<br>*Aplicam-se termos e condições
+    eigth_card_title: Controlador de toque
+    eigth_card_text: Programação de janelas interativas simples com FX App. Impressão confiável em um clique.
+    ninth_card_title: Rede
+    ninth_card_text: Gerencie várias impressoras de um só lugar. Monitore o progresso, rastreie falhas e obtenha insights com análises de impressão.
+    tenth_card_title: Fonte True Type e Unicode
+    tenth_card_text: Permite a criação de mensagens em qualquer fonte e em qualquer idioma
+    eleventh_card_title: Cartucho de tinta grande à base de solvente
+    eleventh_card_text: Sistema de codificação de baixo custo e tinta limpa, ideal para impressão em superfícies porosas e não porosas.
+    twelfth_card_title: Conexão multiporta
+    twelfth_card_text: Para codificadores, alarmes externos e dispositivos alternativos de detecção de produtos.
+    thirteenth_card_title: Modo de economia de tinta
+    thirteenth_card_text: Reduza o consumo de tinta em até 75%
+    pop_title: APP Software
+    pop_title_two: Para todos os seus aplicativos de codificação de produtos
+    pop_text_one: Análise de rede e impressão
+    pop_text_two: Programação de janelas interativas simples
+    pop_text_three: 'Disponibilidade no PC e controlador de tela sensível ao toque de 7"'
+    pop_text_four: Suporte a vários idiomas
+    pop_text_five: Integração total com nossa DLL
+    pop_text_six: Gerenciamento avançado de impressora
+    pop_link: Saiba mais
+    fourth_section_title: Especificações técnicas
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: Recursos
+    fifth_section_left_one: Imprime em qualquer orientação
+    fifth_section_left_two: 1 a 8 linhas de impressão
+    fifth_section_left_three: 2mm- 18mm de altura total de impressão
+    fifth_section_left_four: Cabeça de impressão peizo de alta resolução
+    fifth_section_left_five: Imprime texto, gráficos, logotipos e códigos de barras
+    fifth_section_left_six: Imprime hora e vários formatos de data
+    fifth_section_left_seven: Capacidade de impressão repetida contínua
+    fifth_section_left_eight: Velocidade de impressão de 100 m/min (50 m/min para código de barras e texto de 2 mm)
+    fifth_section_left_nine: Botão de impressão único iniciar/parar
+    fifth_section_left_ten: Indicador de alarme visual incluindo tinta baixa
+    fifth_section_left_eleven: Largura da mensagem, atraso e controle de direção de impressão
+    fifth_section_left_twelve: Fotocélula de detecção de produto
+    fifth_section_left_thirteen: Peso 1,7 Kg (excluindo cartucho de tinta e suportes)
+    fifth_section_left_fourteen: Tamanho 242 x 178 x 90 mm
+    fifth_section_right_title_one: Conectividade
+    fifth_section_right_one: RS232 e RS485 para controlador Sauven Touch
+    fifth_section_right_two: Pen drive USB-A incluído
+    fifth_section_right_three: USB-B para conexão a cabo
+    fifth_section_right_four: Ethernet (opcional)
+    fifth_section_right_five: Imprime texto, gráficos, logotipos e códigos de barras
+    fifth_section_right_six: Porta de E/S para encoder, sinalizador de alarme e fotocélulas externas
+    fifth_section_right_title_two: Tinta
+    fifth_section_right_seven: Cartucho de tinta substituível selado (até 15 milhões de caracteres)
+    fifth_section_right_eight: tintas à base de óleo para superfícies porosas
+    fifth_section_right_nine: tintas à base de solvente para superfícies não porosas
+    fifth_section_right_ten: tintas UV para cura instantânea de LED
+    fifth_section_right_eleven: Várias cores
+    fifth_section_right_title_three: Elétrica
+    fifth_section_right_twelve: fonte de alimentação de 90-260 VCA a 24 VCC incluída
+    fifth_section_message: A Foenix Coding Ltd melhora continuamente os produtos e software. As especificações estão sujeitas a alterações.
+    build_to_last: Construido para durar
+    build_to_last_description: Construção em fibra de carbono e um componente sólido
+    build_to_last_description_two: grupo significa que será seu nos próximos anos
+    discover: Descubra a gama FX ONE
+    shared_tech: Tecnologia Compartilhada
+    shared_tech_text_one: As impressoras FX ONE são construídas de forma modular usando muito poucos componentes.
+    shared_tech_text_two: As peças FX ONE são 100% intercambiáveis, sendo utilizadas em máquinas e modelos similares.
+    shared_tech_text_three: A única diferença entre os modelos é a localização da cabeça de impressão. O FX ONE Standard possui a cabeça de impressão incorporada na unidade de controle e o FX ONE Remote & FX ONE Plus possui uma cabeça de impressão remota conectada à unidade de controle com um conduíte flexível.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: A solução inteligente para alta
+    fx_one_standard_sub_two: impressão do pacote de resolução
+    fx_one_standard_text:  impressão de alta resolução diretamente em caixas, bandejas
+    fx_one_standard_text_two: e sacos em uma linha de produção para eliminar a necessidade
+    fx_one_standard_text_three: para embalagens pré-impressas caras ou etiquetas caras.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: A maneira inteligente de economizar
+    fx_one_plus_sub_two: na impressão de etiquetas
+    fx_one_plus_text: Impressora de caracteres grandes de até 72 mm de altura de impressão.
+    fx_one_plus_text_two: A alternativa perfeita para caros e complexos
+    fx_one_plus_text_three: e sistemas de rotulagem limitados.
+    sixth_section_title: Confiável, Poderoso, Versátil
+    sixth_section_left_sub_title_one: Sem contratos de manutenção caros
+    sixth_section_left_sub_text_one: As impressoras Foenix são fabricadas com componentes mínimos para oferecer confiabilidade máxima. Sem bombas, sem válvulas, sem ar comprimido, sem carregamento de gotículas e sem filtros de ar significa baixa manutenção.
+    sixth_section_left_sub_title_two: Menor custo por impressão
+    sixth_section_left_sub_text_two: A tecnologia piezo usada na impressora FX ONE precisa apenas de um único cartucho de tinta selado e não requer solvente de maquiagem adicional. Isso reduz substancialmente os custos operacionais.
+    sixth_section_left_sub_title_three: desempenho de impressão consistente
+    sixth_section_left_sub_text_three: As impressoras FX ONE estão imprimindo em alta resolução. Você pode imprimir logotipo, códigos de barras 1D e 2D, variáveis...
+    sixth_section_left_sub_title_four: Confiança do operador
+    sixth_section_left_sub_text_four: Fácil instalação, edição e programação de mensagens e fácil manutenção.
+    sixth_section_right_sub_title_one: Tecnologia comprovada
+    sixth_section_right_sub_text_one: Usa uma cabeça de impressão de alta resolução Xaar cuja tecnologia já foi comprovada com muitos milhares de impressoras vendidas com sucesso em todo o mundo.
+    sixth_section_right_sub_title_two: Integração do sistema
+    sixth_section_right_sub_text_two: Integrar a um sistema de rede de fábrica ou conectar-se a scanners industriais, codificadores, balanças de verificação ou outros equipamentos conforme necessário.
+    sixth_section_right_sub_title_three: 100% de tempo de atividade 0% de tempo de inatividade
+    sixth_section_right_sub_text_three: "Impressão 24 horas por dia, 7 dias por semana: nunca pare de imprimir mesmo quando estiver trocando o cartucho!"
+    sixth_section_right_sub_title_four: Inovação obturador automático
+    sixth_section_right_sub_text_four: "Para proteger a parte mais crítica de sua impressora: o mecanismo do cabeçote de impressão"
+    seventh_section_title: Impressões impecáveis, sempre
+    seventh_section_text: Alta qualidade, bem-feito, alta precisão é o que as impressoras FX ONE. Oferecemos a maneira mais simples e eficiente possível de codificar seu produto em alta resolução.
+    low_ink: Menor uso de tinta no mercado
+    low_ink_text: Pare de gastar uma fortuna em cartuchos de tinta e contrato de manutenção!
+    low_ink_text_two: As impressoras Foenix oferecem os custos operacionais mais baixos do setor e o menor custo por impressão
+
+
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: Impressão de alta resolução diretamente em caixas, bandejas e sacos em uma linha de produção para eliminar a necessidade de embalagens pré-impressas caras ou etiquetas caras.
+    grid_title_one: A solução inteligente para impressão de pacotes de alta resolução
+    grid_description_one_html: "O novo FX ONE Standard oferece qualidade de impressão inacreditável em uma impressora compacta com todos os recursos. Ele pode ser usado como uma impressora autônoma simples e fácil de programar ou integrado a um sistema de rede de produção completo. Não há necessidade de etiquetas caras: use o FX ONE Standard para impressão de alta resolução diretamente em caixas, bandejas, sacos ou outros produtos em uma linha de produção para eliminar a necessidade de embalagens pré-impressas caras ou etiquetas caras."
+    grid_link_one: Obtenha uma amostra de impressão
+    grid_title_two: Economize tempo, economize dinheiro
+    grid_description_two_html: "Não há necessidade de procedimentos complicados de inicialização e desligamento. Basta desligar a máquina no final do dia e ligá-la novamente no dia seguinte.
+                            <br>
+                            A impressora FX ONE foi projetada com componentes mínimos para oferecer confiabilidade máxima. Sem bombas, sem válvulas, sem ar comprimido e com um único PCB significa baixa manutenção e sem contratos de manutenção dispendiosos.
+                            <br>
+                            <br>
+                            Custos de impressão reduzidos - monitore e gerencie o custo por impressão para reduzir facilmente o consumo de tinta em 75%. A impressão com micro gotículas de tinta e um cartucho de tinta selado oferece baixo custo por impressão sem desperdício de tinta.
+                            A tinta à base de óleo de fluxo fácil está em um cartucho de tinta selado de 110 ml para garantir que não haja desperdício, contaminação e sujeira. A substituição do cartucho leva alguns segundos enquanto ainda imprime. A impressora pode ser programada para purga e limpeza automáticas."
+    grid_link_two: Obtenha uma cotação rápida
+    grid_title_three: Versatilidade de produção
+    grid_description_three_html: "O design industrial compacto e inovador da FX ONE permite que você mova a impressora para diferentes locais em minutos. Basta desconectá-la e movê-la. Ela funciona perfeitamente com sua grande tela sensível ao toque e todas as funções de impressão podem ser facilmente controladas. o botão de impressão e comece a imprimir em qualquer coisa.
+                                  <br>
+                                  <br>
+                                  As impressoras FX ONE podem ser conectadas para imprimir em ambos os lados de uma caixa com mensagens iguais ou diferentes. A impressão de alta resolução combinada com a capacidade de importar qualquer estilo de fonte, gráfico e impressão em qualquer idioma melhorará a imagem do seu produto."
+    grid_title_four: Capacidade de integração total
+    grid_description_four_html: "O pacote de software Foenix FX APP oferece capacidade de integração total para impressoras em rede, acesso a bancos de dados, criação de mensagens off-line, conexão com scanners industriais, leitores de código de barras, verificadores e outros equipamentos de produção.
+                                <br>
+                                A seleção da mensagem pode ser manual ou segura usando um leitor de código de barras."
+    grid_link_four: Saiba mais
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: A alternativa inteligente
+    fx_one_remote_sub_two: para impressão CIJ
+    fx_one_remote_text: A impressora jato de tinta FX ONE Remote é uma das de menor custo
+    fx_one_remote_text_two: por código e impressoras de caracteres pequenos de menor manutenção disponíveis.
+    fx_one_remote_text_three: Oferece uma alternativa real para codificar seus produtos
+    second_section_title: Visão geral
+    first_card_title: codificação e marcação de alta resolução
+    first_card_text: 1 a 8 linhas de impressão, com altura de impressão de 2-18mm.
+    second_card_title: Conectividade do PC
+    second_card_text: Via cabo USB ou Ethernet para criação de mensagem direta ou sistema de rede de fábrica.
+    third_card_title: Gráficos, logotipos e códigos de barras
+    third_card_text: Importe facilmente gráficos JPEG e BMP usando a FX App.
+    fourth_card_title: Tela e teclado simples
+    fourth_card_text: Para controle local da velocidade e direção da impressora e atraso da mensagem.
+    fifth_card_title: Instalação pronta para uso
+    fifth_card_text: Com componentes mínimos para máxima confiabilidade.
+    sixth_card_title: Códigos de barras 1D e 2D
+    sixth_card_text: Impressão em alta resolução de códigos de barras 1D e 2D (Códigos QR - matriz de dados) para incluir dados variáveis.
+    seventh_card_title: 2 anos de garantia
+    seventh_card_text: Estenda por mais um, dois ou três anos
+    eigth_card_title: Controlador de toque
+    eigth_card_text: Programação de janelas interativas simples com FX App. Impressão confiável em um clique.
+    ninth_card_title: Rede
+    ninth_card_text: Gerencie várias impressoras de um só lugar. Monitore o progresso, rastreie falhas e obtenha insights com análises de impressão.
+    tenth_card_title: Fonte True Type e Unicode
+    tenth_card_text: Permite a criação de mensagens em qualquer fonte e em qualquer idioma
+    eleventh_card_title: Cartucho de tinta grande à base de óleo
+    eleventh_card_text: Sistema de codificação de baixo custo e tinta limpa, ideal para impressão em superfícies porosas.
+    twelfth_card_title: Conexão multiporta
+    twelfth_card_text: Para codificadores, alarmes externos e dispositivos alternativos de detecção de produtos.
+    thirteenth_card_title: Modo de economia de tinta
+    thirteenth_card_text: Reduza o consumo de tinta em até 75%
+    seventh_section_title: Versatilidade de Produção
+    seventh_section_text: O design industrial compacto e inovador da FX ONE facilita a movimentação da impressora para diferentes locais em minutos. Basta desconectá-lo e movê-lo. Funciona perfeitamente com sua grande tela sensível ao toque e todas as operações de impressão podem ser controladas facilmente. Basta apertar o botão de impressão e começar a imprimir em qualquer coisa.
+
+
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: Impressora de caracteres grandes até 72 mm de altura de impressão. A alternativa perfeita para sistemas de rotulagem caros, complexos e limitados.
+    first_section_text_two: "A alternativa perfeita para sistemas de rotulagem caros, complexos e limitados."
+    coming_soon: EM BREVE
+    grid_title_one: A maneira inteligente de economizar na impressão de etiquetas
+    grid_description_one_html: "A impressora jato de tinta de caracteres grandes FX ONE Plus coloca o usuário no controle do custo por impressão para impressão de etiquetas.
+                               <br>
+                               <br>
+                               O software baseado em Windows foi especialmente desenvolvido com a impressão de etiquetas em mente, uma área onde o controle do custo por impressão é primordial. Ao imprimir diretamente em caixas em vez de usar etiquetas, a eficiência de custos aumenta drasticamente.
+                               <br>
+                               <br>
+                               O FX ONE Plus oferece maior flexibilidade de integração e pode se conectar a bancos de dados, permite controle remoto total pelo software de gerenciamento de produção existente e oferece capacidade total de rede, incluindo WiFi.
+                               <br>
+                               <br>
+                               Projetado para codificação e marcação de baixo custo em caixas e caixas, uma verdadeira alternativa a uma impressora de etiquetas.
+                               Não há necessidade de procedimentos complicados de inicialização e desligamento. Basta desligar a máquina no final do dia e ligá-la novamente no dia seguinte.
+                               <br>
+                               <br>
+                               Além de caixas, você pode imprimir em papéis, madeira, tecido, EPS, espuma, concreto, etc..."
+    huge_cost_savings: Enorme economia de custos ao substituir etiquetas e embalagens pré-impressas por impressão de alta resolução diretamente em caixas – ideal para caixas, sacos, bandejas, paletes de madeira e outros
+    plus_newsletter_title: BOLETIM FOENIX
+    plus_newsletter_description: Seja o primeiro a saber quando
+    plus_newsletter_description_two: lançamos o FX ONE Plus
+    placeholder: Digite seu e-mail e receba atualizações sobre o lançamento
+
+  software:
+    first_section_title_one: FX TOUCH Controller
+    first_section_text_one: Controle sua impressora com apenas um toque. Além das funções usuais como códigos de barras, contadores, logotipos, data, hora, turno etc, a impressora FX ONE vem com software para PC e conectividade de rede como padrão.
+    first_section_text_two: A Foenix Coding entende a arte da simplicidade e criou uma impressora simples e econômica que é exatamente adequada às especificações dos clientes.
+    first_section_text_three: Prestamos muita atenção ao design da interface do usuário do FX APP para simplificar o fluxo de trabalho de seus projetos diários.
+    first_section_text_four: O FX APP executado no FX Touch Controller também está disponível como um software de PC para que você possa controlar sua impressora de qualquer computador.
+    second_section_title: FX APP Software
+    second_section_text: A ferramenta definitiva para permitir que sua produção esteja sempre sob controle, ajudando você a reduzir seus custos. Nosso FX APP pode ser executado tanto no Foenix Controller quanto no PC, oferecendo integração e flexibilidade e pode se conectar com bancos de dados, permitindo controle remoto total pelo software de gerenciamento de produção existente com capacidade total de rede.
+    second_section_text_two: Foenix FX APP permite que você crie mensagens em tempo recorde através de sua interface amigável.
+    second_section_check_one: Programação de janelas interativas simples
+    second_section_check_two: Armazenamento ilimitado de mensagens
+    second_section_check_three: Modo de impressão de economia de tinta
+    second_section_check_four: Usa fonte True Type e Unicode
+    second_section_check_five: Importa logotipos JPEG e BMP
+    second_section_check_six: Suporte a vários idiomas
+    second_section_card_one: "Fx APP: Clique e imprima"
+    second_section_card_two: Otimize seus processos de impressão com o FX APP
+    second_section_card_three: Impressão confiável em um clique
+    second_section_card_four: Integração de software para se adequar ao seu fluxo de trabalho
+    third_section_left_title: FX APP
+    third_section_left_sub_title: Recursos
+    third_section_left_text_one: Compatível com Windows XP e superior
+    third_section_left_text_two: Criação de mensagem intuitiva liderada por ícone
+    third_section_left_text_three: Fonte True Type e Unicode suportados
+    third_section_left_text_four: Gráficos, logotipos e códigos de barras importados diretamente nos formatos JPEG e BMP
+    third_section_left_text_five: Formatos de hora e vários formatos de data
+    third_section_left_text_six: Modo de impressão de economia de tinta
+    third_section_left_text_seven: Armazenamento ilimitado de mensagens
+    third_section_left_text_eight: Suporte a vários idiomas
+    third_section_left_text_nine: Foenix Coding Ltd melhora continuamente produtos e software. As especificações estão sujeitas a alterações.
+    third_section_right_title: FX ONE TOUCH
+    third_section_right_sub_title: Recursos
+    third_section_right_title_two: Conectividade
+    third_section_right_text_one: tela sensível ao toque de 7"
+    third_section_right_text_two: Programação de janelas interativas simples
+    third_section_right_text_three: Usa o FX App
+    third_section_right_sub_title_two: Conectividade
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 Multiporta, Ethernet (opcional)
+    third_section_right_text_five: entrada de 24 v DC
+    third_section_right_text_six: Suporta alarmes externos, beacons, codificadores
+    third_section_right_text_seven: Programação automática com leitor de código de barras
+    third_section_final_text: Interface com tela sensível ao toque que simplifica cada ação com a FX APP. Fácil configuração e navegação eliminam a necessidade de treinamento e oferecem uma experiência de impressão intuitiva e sem complicações
+
+    extremely_simple: Extremamente simples de usar
+    extremely_simple_text: Demos muita atenção ao design da interface do usuário do FX APP para simplificar o fluxo de trabalho de seus projetos diários. Fácil configuração e navegação eliminam a necessidade de treinamento e proporcionam uma experiência de impressão intuitiva e sem complicações.
+    extremely_simple_button: Solicita acesso ao FX APP
+    grid_title_one: Suporte multilíngue
+    grid_description_one: Software traduzido em 19 idiomas e você pode imprimir em qualquer idioma
+    grid_title_two: Mantenha seus custos baixos
+    grid_description_two: Controle facilmente seu custo por impressão e o número de impressões por cartucho. Nunca foi tão fácil manter seu custo baixo!
+    grid_title_three: Rede e Integração
+    grid_description_three_html: "O FX APP oferece total capacidade de integração para impressoras em rede, acesso a bancos de dados, criação de mensagens off-line, conexão com scanners industriais, leitores de código de barras, verificadores e outros equipamentos de produção.
+                                 <br>
+                                 <br>
+                                 Gerenciamento avançado de impressora:
+                                 <br>
+                                 Maximize o tempo de atividade gerenciando a produção em várias impressoras Foenix de um só lugar. Monitore o progresso, rastreie falhas e obtenha insights com análises de impressão."
+    grid_title_four: Firmware Foenix
+    grid_description_four: Impressoras que ficam ainda melhores com o tempo. Torne sua impressora FX ONE ainda mais capaz com aprimoramentos de desempenho e funcionalidade adicional em cada atualização de firmware.
+    grid_title_five: Integração total com nossa DLL
+    grid_description_five_html: "O que é uma DLL?
+                                <br>
+                                <br>
+                                Uma DLL (Dynamic Link Library) é um conjunto de funções de software que podem ser usadas por um desenvolvedor de terceiros para incorporar em seus próprios aplicativos. A DLL Foenix fornece um conjunto de funções que permite que a impressora FX ONE seja controlada através do aplicativo FX APP ou do Foenix Touch Controller.
+                                A biblioteca torna o processo de comunicação com a impressora muito mais simples para o desenvolvedor, pois cuida do protocolo real utilizado. O desenvolvedor então usa um mecanismo relativamente simples para monitorar impressoras, carregar mensagens e transmitir dados."
+    grid_title_six: Evitando erros do usuário nas configurações de impressão
+    grid_description_six: Não há mais erros, graças à configuração automática das configurações de impressão através do leitor portátil. Um leitor de código de barras pode ser usado para selecionar uma mensagem a ser impressa ou para preencher campos em uma mensagem digitalizando os códigos de barras correspondentes. Menos intervenção manual significa menos erros de codificação.
+    newsletter_title: Receba nossas atualizações de software mais recentes
+    newsletter_description: Inscreva-se para ser o primeiro a saber quando uma atualização estiver disponível
+
+    fourth_section_title_one: Suporte multilíngue
+    fourth_section_text_one: Software traduzido em 19 idiomas e você pode imprimir em qualquer idioma
+    fourth_section_title_two: Mantenha seus custos baixos
+    fourth_section_text_two: Controle facilmente seu custo por impressão e os números de impressão por cartucho.
+    fourth_section_text_two_two: Nunca foi tão fácil manter seus custos baixos!
+    fourth_section_title_three: Rede e Integração
+    fourth_section_text_three: O FX APP oferece total capacidade de integração para impressoras em rede, acesso a bancos de dados, criação de mensagens off-line, conexão com scanners industriais, leitores de código de barras, verificadores e outros equipamentos de produção.
+    fourth_section_title_four: FX APP
+    fourth_section_text_four: Gerenciamento avançado de impressora.
+    fourth_section_text_four_two: Maximize o tempo de atividade gerenciando a produção em várias impressoras Foenix em um só lugar. Monitore o progresso, rastreie falhas e obtenha insights com análises de impressão.
+    fourth_section_title_five: Evitando erros do usuário nas configurações de impressão
+    fourth_section_text_five: Não há mais erros, graças à configuração automática das configurações de impressão através do leitor portátil. O scanner de código de barras pode ser usado para selecionar uma mensagem a ser impressa ou para preencher campos em uma mensagem digitalizando os códigos de barras correspondentes. Menos intervenção manual significa menos erros de codificação.
+    button: Software ao vivo para testar
+    fourth_section_title_six: Firmware Foenix
+    fourth_section_text_six: Impressoras que ficam ainda melhores com o tempo.
+    fourth_section_text_six_two: Torne sua impressora FX ONE ainda mais capaz com aprimoramentos de desempenho e funcionalidade adicionada em cada atualização de firmware.
+    fifth_section_title_one: Integração total com nossa DLL
+    fifth_section_sub_title: O que é uma DLL?
+    fifth_section_text_one: Uma DLL (Dynamic Link Library) é um conjunto de funções de software que podem ser usadas por um desenvolvedor de terceiros para incorporar em seus próprios aplicativos. A DLL Foenix descrita aqui fornece um conjunto de funções que permite que uma impressora FX ONE seja controlada por meio do aplicativo FXPro ou do Foenix Touch Controller. A biblioteca torna o processo de comunicação com a impressora muito mais simples para o desenvolvedor, pois cuida do protocolo real utilizado. O desenvolvedor então usa um mecanismo relativamente simples para monitorar impressoras, carregar mensagens e transmitir dados.
+    fifth_section_title_two: Como funciona uma DLL?
+    fifth_section_text_two: A DLL é usada pelos clientes para se comunicar com a impressora. O diagrama abaixo fornece uma visão geral básica mostrando como a DLL fica entre o aplicativo e a impressora.
+
+  industry:
+    first_section_title: Fornecemos soluções para todos os setores e todas as aplicações
+    first_section_text: Empresas emergentes com 1 pequena linha de produção a corporações multinacionais com as aplicações mais exigentes podem usar a impressora FX ONE para reduzir seus custos de codificação e marcação, evitar tempo de inatividade, automatizar processos manuais e melhorar a qualidade do produto com codificação de alta resolução.
+    first_section_button_one: Solicitar demonstração
+    first_section_button_two: Obter preços
+    trusted_title: Confiável por empresas
+    trusted_title_two: de todas as indústrias
+    trusted_text_html: "A Foenix Coding instalou impressoras a jato de tinta em todo o mundo nas indústrias de alimentos, bebidas, farmacêutica, industrial, eletrônica e construção.
+                  <br>
+                  Nossos clientes incluem muitos dos maiores fabricantes desses setores, mas igualmente importante a Foenix desfruta do costume de muitas pequenas empresas de manufatura em todo o mundo que apreciam igualmente os conceitos de baixo custo e baixa manutenção incorporados às impressoras."
+    fd_title: Comida e Bebida
+    fd_card_title_one: Produtos de panificação
+    fd_card_text_one: biscoitos, bolos ...
+    fd_card_title_two: Produtos de cereais
+    fd_card_text_two: cereais matinais, massas...
+    fd_card_title_three: Frutas e legumes processados
+    fd_card_text_three: conservas, frutas secas...
+    fd_card_title_four: Confeitaria
+    fd_card_text_four: chocolate, doces, goma de mascar...
+    fd_card_title_five: Produtos de lanches
+    fd_card_text_five: batatas fritas, salgadinhos, chocolate...
+    fd_card_title_six: Peixe e produtos à base de peixe
+    fd_card_text_six: Peixe enlatado, peixe seco, caixas frias de varejo...
+    fd_card_title_seven: Laticínios
+    fd_card_text_seven: Leite, iogurte, queijo, creme...
+    fd_card_title_eight: Bebidas alcoólicas
+    fd_card_text_eight: Vinho, destilados, licores...
+    fd_card_title_nine: Produtos moídos e descascados
+    fd_card_text_nine: farinha, arroz...
+    fd_card_title_ten: Carne
+    fd_card_text_ten: pré-embalado, fresco seco, congelado...
+    fd_card_title_eleven: Café, cacau, chá
+    fd_card_text_eleven: solo, embalagem individual...
+    fd_card_title_twelve: Comida para bebês
+    fd_card_title_thirteen: Refeições prontas
+    fd_card_text_thirteen: pizza, sanduíches...
+    fd_card_title_fourteen: Bebidas não alcoólicas
+    fd_card_text_fourteen: água, limonadas, sucos de frutas...
+    fd_card_title_fifteen: Produtos congelados
+    fd_card_title_sixteen: Especiarias, essências, agentes de cozinha e panificação
+    fd_card_title_seventeen: Óleos comestíveis e similares, gorduras duras
+    fd_card_text_seventeen: azeite, manteiga, banha...
+    fd_card_title_eighteen: Pacotes Tetra
+    cp_title: Cosméticos e
+    cp_title_two: Farmacêutico
+    cp_card_title_one: Cosméticos e higiene pessoal
+    cp_card_text_one: shampoo, sabonete, pasta de dente, lenços...
+    cp_card_title_two: Produtos de beleza
+    cp_card_text_two: perfume, produtos para cabelo, maquiagem...
+    cp_card_title_three: Produtos farmacêuticos
+    cp_card_text_three: remédios, xaropes, pílulas, tubos de creme...
+    cp_card_title_four: Equipamento médico
+    cp_card_text_four: máscaras faciais, seringas, bandagens, curativos...
+    ind_title: Industrial
+    ind_card_title_one: Produtos de metal
+    ind_card_text_one: peças acabadas ou semi-acabadas, submontagens...
+    ind_card_title_two: Indústria automotiva
+    ind_card_text_two: peças de reposição, tubulação do carro, interior do carro, peças de borracha...
+    ind_card_title_three: Produtos químicos
+    ind_card_text_three: Químicos industriais, detergentes, produtos de limpeza...
+    ind_card_title_four: Equipamentos eletrônicos, subconjuntos, componentes
+    ind_card_text_four: placas PCB, placas de segurança...
+    ind_card_title_five: Materiais de construção
+    ind_card_text_five: pisos, azulejos, madeiras, pedras, painéis de parede, placas de gesso...
+    ind_card_title_six: Fertilizantes, pesticidas e outros produtos para tratamento de plantas
+    ind_card_title_seven: Extrusão e produtos alimentados pela web
+    ind_card_text_seven: tubos de plástico, cabos, sachê...
+    ind_card_title_eight: Produtos de jardim, agricultura, silvicultura e pesca
+    ind_card_text_eight: teia de jardim...
+    ind_card_title_nine: Tintas, corantes, corantes, tintas, vernizes e produtos similares
+    ind_card_title_ten: Produtos de madeira e papel, celulose, madeira não processada
+    ind_card_title_eleven: Móveis e peças de móveis
+    ind_card_title_twelve: Produtos petrolíferos
+    tp_title: Aplicações típicas
+    tp1: Recipientes de aerossol
+    tp2: Baldes
+    tp3: Folha
+    tp4: Pacotes Tetra Pak
+    tp5: Ampolas
+    tp6: Vasilhas
+    tp7: Potes de vidro
+    tp8: Bandejas repuxadas, prensadas, dobradas
+    tp9: Embalagens Bag-in-box
+    tp10: Latas plásticas, metálicas
+    tp11: Jarros
+    tp12: Tubos
+    tp13: Sacos de papel, plástico, metálico
+    tp14: Garrafões
+    tp15: Latas de metal
+    tp16: Bolsas tubulares
+    tp17: Selo de preenchimento de forma de sacos
+    tp18: Embalagens cartonadas para líquidos e pastas
+    tp19: Bolsas
+    tp20: Pacotes envolventes
+    tp21: Barris
+    tp22: Cartuchos
+    tp23: Paletes - unidade de carregamento
+    tp24: Embalagens (torcidas, dobradas, seladas, retráteis, extensíveis)
+    tp25: Cestas
+    tp26: Bolsas
+    tp27: Carretéis
+    tp28: Placas de gesso
+    tp29: Cartela de comprimidos
+    tp30: Latas Compostas
+    tp31: Sacos de papel, plástico, metálico
+    tp32: Rolos de papel higiênico
+    tp33: Garrafas de vidro
+    tp34: Caixotes
+    tp35: Sacos/bolsas com fechamento lateral
+    tp36: Teia de Jardim
+    tp37: Garrafas Metálicas
+    tp38: Copos
+    tp39: Caixas de manga e slide
+    tp40: Protetores de livros
+    tp41: Garrafas de plástico
+    tp42: Tambor
+    tp43: Carretéis
+    tp44: Cintagem
+    tp45: Caixas de papelão, plástico
+    tp46: Capas de telemóvel
+    tp47: Pacotes amarrados
+    tp48: Madeira
+    tp49: Revestimento de pavimentos
+    tp50: Bolsas de fundo plano
+    tp51: Contêineres tanque
+    tp52: Sacos de farinha
+    tp53: Pedras
+    tp54: Curativo médico
+    tp55: Cartões de segurança
+    tp56: Blocos de pavimentação
+    tp_button_one: Solicite um teste gratuito
+    tp_button_one_msg: Experimente o FX ONE por 7 dias
+    tp_button_two: Obtenha uma impressão de teste grátis
+    tp_button_two_msg: Em qualquer um dos seus produtos
+
+  video:
+    first_section_title: Vídeos
+    first_section_text: Veja as impressoras Foenix imprimirem em qualquer item e em qualquer material.
+    first_section_text_two: Mais vídeos serão adicionados regularmente, certifique-se de verificar regularmente esta página e nossa página do youtube
+    more_videos: Mais vídeos em breve
+    video_text_one: Solução de codificação de embalagem primária
+    video_text_one_cont: A impressora FX ONE Remote, a solução mais econômica para marcar seus produtos
+    video_text_two: Solução de codificação de embalagem secundária
+    video_text_two_cont: A impressora FX ONE Standard, a solução mais econômica para suas aplicações de codificação de caixas
+    video_text_three: Como obter uma codificação eficiente e de alta qualidade em sua caixa de papelão? Descubra com a impressora FX ONE Standard
+    video_text_four: A FX ONE Standard, a melhor impressora para todas as suas aplicações industriais
+    video_text_five: A impressora FX ONE Standard, ideal para caixas externas, bandejas e papelão ondulado
+    video_text_six: "O FX ONE Standard: uma impressora, muitas aplicações: códigos de barras, logotipos, codificação de caixas e muito mais"
+    video_text_seven: Com o FX ONE Standard reduza os custos substituindo a impressora de etiquetas
+
+  legal:
+    first_section_title: LEGAL
+    cookie_policy: Política de cookies
+    privacy_policy: Política de Privacidade
+
+  contact_coders:
+    first_section_title: Máquinas de codificação e marcação de contato
+    first_section_text: Embora as impressoras a jato de tinta sejam o futuro, as impressoras tradicionais de codificação e marcação de contato de baixo custo ainda são amplamente utilizadas em todo o mundo como soluções muito econômicas.
+                        Codificadores de contato são ideais quando um produto requer trocas de mensagens pouco frequentes ou o ambiente requer uma solução não eletrônica com manutenção zero.
+                        A Foenix fabrica essas impressoras para uso com borracha intercambiável do tipo "Baselock" junto com rolos de tinta plástica pré-impregnados ou vários cartuchos de tinta selados.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: Impressão contínua em todos os materiais
+    codaprint_text: Uma impressora exclusiva para impressão repetida contínua em metal, plástico ou materiais porosos, incluindo chapas de aço, filme extrudado, tubos de plástico e enrolamentos de núcleo de papelão.
+                    Utiliza um tinteiro selado para simplicidade e limpeza, com escolha de tintas e cores; e está disponível com vários comprimentos de impressão repetida e uma altura máxima de impressão de 25 mm.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: Impressora multifuncional de preços e códigos
+    codamark_text: Uma impressora alternativa simples e compacta que é ideal para imprimir datas de validade em produtos em uma linha de produção com qualidade de impressão clara e precisa.
+                   Os cartuchos de tinta selados proporcionam secagem rápida da impressão na maioria das superfícies, incluindo latas de metal, frascos de vidro e potes de plástico. Esta impressora de aço inoxidável de baixo custo usa ar, sem necessidade de eletricidade.
+                   É ideal em ambientes agressivos ou úmidos para impressão na parte superior, lateral ou base de um produto.
+    handroller_title: Rolo de mão Codaprint
+    handroller_sub_title: Impressão manual em todas as superfícies
+    handroller_text: O rolo manual Codaprint é para impressão manual em todas as superfícies com a mesma gama de tintas de secagem rápida.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: Codificadores de contato e impressoras de rolo de tinta plástica
+    codapack_text: Resolva seus problemas de impressão de papelão com codificadores de contato codapack usando rolo de tinta plástica e tipo de borracha de travamento de base da Foenix Coding
+    baselock_title: Foenix Baselock
+    baselock_sub_title: Tipo de borracha intercambiável
+    baselock_sub_title_two: para todas as máquinas de codificação de contato
+    baselock_text_one: IMPRESSÃO RÁPIDA E FÁCIL DE MUDAR
+    baselock_text_two: EXTENSA GAMA DE ESTILOS DE TIPO
+    baselock_text_three: LOGOTIPO PERSONALIZADOS
+    baselock_text_four: ESTILOS PARA TODAS AS LÍNGUAS
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: Impressora contínua confiável da Foenix Coding para marcação de alta e baixa velocidade em metal, plástico, vidro, papelão. Um codificador de contato simples para impressão repetida do seu produto em alta velocidade usando cartuchos de tinta selados de secagem rápida.
+    get_prices: Obter preços
+    cp_title: Impressão contínua em todos os materiais
+    cp_sub_title_one: Aplicações
+    cp_text_one: O Codaprint é usado para aplicar marcas de identificação, datas de validade, logotipos de reciclagem, nomes de produtos de clientes etc.
+                     Algumas aplicações típicas são filme extrudado, impressão de sacos, chapas de aço, extrusões de janelas de plástico, filmes termoencolhíveis, enrolamentos de núcleo de papelão, placa de gesso, placa de embalagem de borda, costas de espelhos e papel.
+    cp_sub_title_two: Simples de instalar
+    cp_text_two: O Codaprint é facilmente montado em uma barra fixa sobre o material a ser marcado. O ajuste vertical na unidade fornece uma posição de impressão ligada/desligada. A impressora é acionada pelo contato de fricção entre os pneus de borracha no tambor tipo e o material.
+    cp_sub_title_three: Tintas
+    cp_text_three: Os cartuchos de tinta estão disponíveis em uma variedade de tipos e cores de tinta para se adequar à maioria das superfícies. Podemos aconselhá-lo sobre a gama mais adequada para o seu produto.
+    cp_sub_title_four: Escolha de impressão
+    cp_text_four: O tambor padrão do tipo Codaprint é equipado com anéis de travamento de metal para uso com o tipo de borracha intercambiável Baselock. O Baselock está disponível em vários estilos de caracteres e logotipos personalizados para permitir uma rápida mudança de impressão.
+    cp_sub_title_five: Almofadas de transferência
+    cp_text_five: O cabeçote de tinta do cartucho Codaprint deve ser equipado com um conjunto completo de almofadas de transferência sempre que um novo cartucho de tinta for usado.
+    cp_tp1:"TPS030: Para fluxo mínimo de tinta"
+    cp_tp2: "TPS060: Para fluxo máximo de tinta"
+    cp_sub_title_six: Rolo manual
+    cp_text_six: O rolo manual Codaprint é para impressão manual em todas as superfícies com a mesma gama de tintas de secagem rápida.
+    ps_title_one: Medidas
+    ps_title_two: Especificação da impressora Codaprint
+    ps_title_three: Modelo CP-24/1
+    ps_bp_one: "Comprimento de impressão: 240mm"
+    ps_bp_two: "Altura de impressão: 25mm"
+    ps_title_four: Manipulador CP-17/B
+    ps_bp_three: "Comprimento de impressão: 175mm"
+    ps_bp_four: "Altura de impressão: 25mm"
+    ps_title_five: Cartuchos Codaprint
+    ps_bp_five: Tinta CP111 Black Standard Dye para materiais não porosos
+    ps_bp_six: CP011 Preto Tinta corante de secagem extra rápida para materiais não porosos de alta velocidade
+    ps_bp_seven: Tinta CP5610 Black Dye para superfícies porosas
+    ps_bp_eight: CP256 Tinta pigmentada branca para superfícies de cor escura, materiais porosos e não porosos
+    ps_text: Uma seleção de cores está disponível em cada faixa
+    list_title: Visão Geral
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: Uma impressora exclusiva para impressão contínua em metal, plástico ou materiais porosos, incluindo chapas de aço, filme extrudado, tubos de plástico e enrolamentos de núcleo de papelão.
+    list_subtitle_two: Impressora de custo perdido
+    list_text_two: A impressora de baixo custo mais simples para aplicação de marcas de identificação repetitivas, datas de validade, logotipos de reciclagem ou nomes de produtos de clientes em material em movimento contínuo.
+    list_subtitle_three: Impressão de alta velocidade
+    list_text_three: A impressora pode operar a uma velocidade muito baixa, mas também imprimir até 100 metros por minuto.
+    list_subtitle_four: Sistema de tinta simples
+    list_text_four: A tinta está contida em um cartucho de tinta substituível que possui controle de tinta integral, independentemente da velocidade de impressão, proporcionando um sistema de tinta limpo e de baixa manutenção. Este sistema de tinta exclusivo garante que a impressão nunca desbota até que o cartucho esteja vazio.
+    list_subtitle_five: Carga de tinta
+    list_text_five: Nossos cartuchos de tinta padrão são adequados para metal, vidro, plástico, superfícies porosas e outros materiais. Algumas aplicações requerem tinta especial.
+    list_subtitle_six: Recursos
+    list_text_six_html: “A impressora é acionada por pneus no tipo tambor em contato com o material, eliminando a necessidade de qualquer acionamento mecânico ou elétrico.
+                                 <br>
+                                 <br>
+                                 Codificador de rolo contínuo perfeito para impressão de número de lote, data e logotipo.
+                                 <br>
+                                 <br>
+                                 A impressora é facilmente montada acima do material em movimento a ser marcado ou contra uma bobina de material que está diminuindo.
+                                 <br>
+                                 <br>
+                                 A altura de impressão pode ser de até 25 mm usando o tipo Baselock intercambiável ou estéreos planos.
+                                 <br>
+                                 Quatro comprimentos de impressão repetida estão disponíveis até 460 mm."
+    fncdm_title: Descubra o Foenix Codamark
+    fncdm_text: A marcação clara e precisa do produto foi alcançada de forma eficiente e econômica com a Impressora Alternadora Pneumática Codamark.
+    fncdm_button: Saiba mais
+
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: A marcação clara e precisa do produto foi alcançada de forma eficiente e econômica com a Impressora Alternadora Pneumática Codamark. Impressora alternativa compacta para máquinas de envase em linha e rotativas, melhor antes da impressão da data e outros usos.
+    phr_title: Impressora Alternativa Pneumática
+    phr_sub_title_one: Imprimindo com o toque leve
+    phr_text_one: Altas velocidades podem ser alcançadas com uma baixa pressão de impressão de 10-20 psi, permitindo que a Codamark imprima com um leve toque sem danificar o produto.
+    phr_sub_title_two: Sistema de tinta limpo
+    phr_text_two: Um cartucho de tinta limpo de secagem rápida é instalado na cabeça de impressão, proporcionando tempos de secagem de segundos na maioria das superfícies. O cartucho selado garante que o operador nunca toque em nenhuma tinta.
+    phr_sub_title_three: Folhas de dados Codamark
+    phr_text_three: Mais informações estão disponíveis nas folhas de dados com dimensões, sistemas de controle e posições de montagem.
+    phr_sub_title_four: Suportes tipo Baselock de troca rápida
+    phr_text_four: A cabeça de impressão está equipada com um suporte de tipo que pode ser trocado em segundos. Os suportes sobressalentes podem ser usados ​​para pré-ajustar o tipo de borracha Baselock.
+    phr_sub_title_five: Cartuchos Codamark
+    phr_sub_title_six: Vasos Pequenos
+    phr_sub_title_seven: Vasos Grandes
+    phr_list_text_one: Cartucho de tinta preta CM501/38
+    phr_list_text_two: Cartucho de tinta vermelha CM502/38
+    phr_list_text_three: Cartucho de tinta verde CM503/38
+    phr_list_text_four: Cartucho de tinta azul CM504/38
+    phr_list_text_five: Cartucho de tinta branca CM506/38
+    phr_list_text_six: Cartucho de tinta amarela CM505/38
+    phr_list_text_seven: Cartucho de tinta preta CM501/50
+    phr_list_text_eight: Cartucho de tinta vermelha CM502/50
+    phr_list_text_nine: Cartucho de tinta verde CM503/50
+    phr_list_text_ten: Cartucho de tinta azul CM504/50
+    phr_list_text_eleven: Cartucho de tinta branca CM506/50
+    phr_list_text_twelve: Cartucho de tinta amarela CM505/50
+    ps_title_one: Especificação da impressora Codamark
+    ps_sub_title_one: Modelo CM-MKV/25
+    ps_bp_one: "Área de impressão: 24 mm x 24 mm"
+    ps_bp_two: "Dimensões do contorno da cabeça de impressão: 170 mm x 155 mm x 85 mm"
+    ps_sub_title_two: Modelo CM-MKV/38
+    ps_bp_three: "Área de impressão: 37mm x 37mm"
+    ps_bp_four: "Dimensões do contorno da cabeça de impressão: 170 mm x 155 mm x 85 mm"
+    ps_sub_title_three: Modelo CM-MKV/50
+    ps_bp_five: "Área de impressão: 24 mm x 48 mm"
+    ps_bp_six: "Dimensões do contorno da cabeça de impressão: 170 mm x 155 mm x 85 mm"
+    list_one: "Impressão eficiente de datas de validade, preços e códigos em:"
+    list_bp_one: Tubos de plástico
+    list_bp_two: Tampas de papel alumínio
+    list_bp_three: Caixas
+    list_bp_four: Pacotes Formflow
+    list_bp_five: Garrafas de vidro
+    list_bp_six: Latas metálicas etc.
+    list_two: Montagem superior, inferior ou lateral
+    list_three: Sistemas automáticos on-line ou off-line
+    list_four: Cartucho de tinta de secagem rápida
+    list_five: Feito no Reino Unido
+    fncdp_title: Descubra o Foenix Codaprint
+    fncdp_text: Uma impressora simples para imprimir continuamente seu produto em alta velocidade usando cartuchos de tinta selados de secagem rápida
+
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Todas as impressoras Codapack usam rolos de tinta plástica pré-impregnados substituíveis e tipo Baselock intercambiável. Eles são facilmente montados para imprimir na parte superior, inferior ou lateral de um produto. Essas impressoras são amplamente utilizadas onde o tempo de inatividade zero é uma necessidade e o menor custo de impressão por produto é necessário.
+                        Ao alterar apenas o código ou a data de validade uma vez por dia ou uma vez por semana, as impressoras Codapack são as melhores.
+    ccirp_title: Codificadores de contato e impressoras de rolo de tinta
+    ccirp_sub_title_one: Aplicações
+    ccirp_text_one_html: A linha de codificadores mais econômica para suas caixas, sacos, bandejas termoencolhíveis ou material contínuo.
+                    <br>
+                    A linha simples e eficiente de codificadores de contato Codapack usa todos os rolos de tinta plástica pré-impregnados substituíveis e o tipo Baselock intercambiável para imprimir em superfícies porosas.
+    ccirp_sub_title_two: Benefícios
+    ccirp_text_two: Sem manutenção as codificadoras são todas impressoras mecânicas simples que proporcionam uma impressão perfeita dia após dia sem necessidade de qualquer manutenção.
+    ccirp_sub_title_three: Impressão personalizada
+    ccirp_text_three: Muitos estilos de fonte padrão estão disponíveis na variedade de tipos Baselock, mas estilos de impressão, logotipos e gráficos personalizados são prontamente produzidos.
+    ccirp_sub_title_four: Mudança de impressão rápida
+    ccirp_text_four: Alterar o texto de impressão no tambor de tipo é um trabalho rápido e simples Recursos Seis modelos diferentes de altura de impressão estão disponíveis para satisfazer os requisitos do cliente.
+    ccirp_sub_title_five: Menor custo de impressão
+    ccirp_text_five: Usando o tipo Baselock e rolos de tinta plástica de longa duração, oferecem o menor custo possível de impressão do produto.
+    cdp_title: Informações Codapack
+    cdp_sub_title_one: Tipo de Baselock
+    cdp_text_one: Uma ampla variedade de estilos do tipo Baselock é oferecida para criar uma mensagem simplesmente encaixando o tipo nos anéis de travamento de metal ou manga com nervuras à base de borracha.
+    cdp_sub_title_two: Rolos de tinta plástica
+    cdp_text_two_html: Esses rolos de tinta são colocados rapidamente na linha de impressoras Codapack para fornecer uma impressão de qualidade densa em superfícies porosas, como caixas, bandejas e sacos de papel.
+                  <br>
+                  Esses rolos pré-tintados de longa duração são descartáveis, proporcionando um sistema de tinta limpo e eficiente. Eles estão disponíveis em preto, azul, vermelho e verde.
+    cdp_sub_title_three: Rolos de fibra e esponja
+    cdp_text_three: Para superfícies não porosas, qualquer um desses rolos pode ser usado com tintas líquidas especiais
+    list_text_one: A montagem ajustável da mola permite que a pressão de impressão seja ajustada para se adequar à resistência da caixa e obter uma impressão perfeita.
+    list_text_two: As impressoras são fabricadas a partir de fundições de alumínio robustas e rolamentos de rolos, proporcionando uma vida útil longa e sem problemas.
+    list_text_three: A rotação do tambor de tipo é controlada para fornecer uma posição de impressão idêntica em cada caixa.
+    list_text_four: A linha de impressoras Codapack é facilmente montada em um transportador com um suporte de montagem simples.
+
+  support:
+    first_section_title: Documentação de suporte
+    sds_title: Fichas de Dados de Segurança (SDS)
+    sds_card_title_one: FX8001
+    sds_card_text_one: Tinta à base de óleo preto
+    sds_card_title_two: FX8201
+    sds_card_text_two: Tinta à base de solvente preto
+    sds_card_title_three: CP111
+    sds_card_text_three: Tinta de marcação preta
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: Limpador à base de óleo
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: Limpador à base de solvente
+    sds_card_title_six: CP011
+    sds_card_text_six: Tinta de marcação preta
+    sds_card_title_seven: CM011
+    sds_card_text_seven: Tinta de marcação preta
+    sds_card_title_eight: CM501
+    sds_card_text_eight: Tinta de marcação preta
+    sds_card_title_nine: CM500
+    sds_card_text_nine: Reativando Solvente
+    sds_button: Contacte-nos para mais informações
+    sds_hint: Certificados regulamentares
+    sds_hint_two: disponível a pedido
+    manuals: Manuais do usuário FX ONE
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: Manual do usuário
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: Manual do usuário
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: Manual do usuário
+    tech_support: Entre em contato com o suporte técnico
+
+  components:
+    yellow_button: Saiba mais
+
+  contact:
+    contact_title: Entre em contato conosco
+    contact_title_description: Entre em contato com nossa equipe para saber mais sobre o Foenix Coding.
+    contact_text_one: "Solicite uma impressão de teste grátis: envie-nos uma amostra do seu projeto."
+    contact_text_two: Avaliação gratuita de 7 dias disponível se você estiver no Reino Unido
+    phone: Telefone
+    phone_number: 0044 1932 701 449
+    email: E-mail
+    email_add: sales@foenixcoding.com
+    address: Endereço
+    address_text_html: Foenix Coding Ltd
+                  <br>
+                  The Barns - Hilltop Farm | Lyne Lane
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  Reino Unido
+    whatsapp: Fale conosco no WhatsApp
+    statement: Junte-se a centenas de empresas que já trabalham conosco
+    talk_to_sales: Fale com as vendas
+    email_us: Você também pode nos enviar um e-mail diretamente para
+
+
+    contact_happy: A nossa equipa terá todo o prazer em responder a todas as suas questões.
+    icon_text: A nossa equipa terá todo o prazer em responder a todas as suas questões. Preencha o formulário e entraremos em contato o mais breve possível.
+    icon_text_two: Teste de impressão grátis, envie-nos uma amostra do seu produto e faremos um teste de impressão.
+    form_name: Nome e Sobrenome
+    form_email: Endereço de e-mail
+    form_company: Companhia
+    form_country: País
+    form_message: Sua mensagem
+    form_phone: Telefone
+
+  error:
+    four_four_text: Página não encontrada
+    five_zero_zero_text: Desculpe, algo deu errado
+
+  login:
+    fpassword: Esqueceu sua senha?
+    dont_have_account: Não tem uma conta?
+    sign_up: Inscrever-se
+    email: E-mail
+    password: Senha
+
+  seo:
+    home_page:
+      title: "Foenix Coding: Codificação e marcação facilitadas"
+      description: Impressoras de marcação e codificação industrial para imprimir em alta resolução em todos os materiais. Foenix Coding Codificação e marcação, jato de tinta industrial, impressora FX One Remote, impressora FX One Standard
+      keywords: "marcação de codificação, impressora Foenix, marcação industrial, jato de tinta industrial, codificação e marcação de caixas, codificação e marcação de produtos, codificação e marcação a jato de tinta, impressão de data, impressora de número de lote, impressora de código de barras"
+    printers:
+      title: "Impressoras jato de tinta industriais Foenix"
+      description: Projetado para codificação e marcação de baixo custo em superfícies porosas, uma verdadeira alternativa ao codificador TIJ para imprimir códigos de barras, número de lote, logotipo, data de validade
+      keywords: Impressoras a jato de tinta industriais, codificadores a jato de tinta, sistemas de marcação de peças, codificação de produtos, máquinas de marcação de metal, máquinas de marcação, impressora de número de série, identificação de produto, impressão de número de série, impressão de códigos de barras
+    fxone_standard:
+      title: FX ONE Standard – Melhor alternativa de impressora TIJ - codificador de caixa de alta resolução
+      description: Projetado para codificação e marcação de baixo custo em superfícies porosas, uma verdadeira alternativa ao codificador TIJ para imprimir códigos de barras, número de lote, logotipo, data de validade
+      keywords: "codificação de baixo custo, impressão de datas, impressão em superfícies porosas, alternativa TIJ, impressora HP, jato de tinta térmico, codificador de caixas, codificação de caixas, impressora de código de barras, impressora de madeira"
+    fxone_remote:
+      title: FX ONE Remote – Melhor alternativa de impressora CIJ - impressora jato de tinta industrial de alta resolução
+      description: As impressoras Foenix são uma das impressoras com menor custo por código e menor manutenção. Oferece uma alternativa real para impressoras CIJ complexas a um preço muito acessível.
+      keywords: "máquinas de marcação, impressora jato de tinta industrial, impressão em garrafas, impressora CIJ, impressora jato de tinta contínuo, sistemas de jato de tinta contínuo, impressora de vidro, impressora de metal, impressora de garrafa, impressora de PVC"
+    fxone_plus:
+      title: FX ONE Plus – Melhor alternativa de etiquetas e caixas pré-impressas - Impressora de caracteres grandes
+      description: Impressora de caracteres grandes até 72 mm de altura de impressão. A alternativa perfeita para sistemas de etiquetagem limitados para imprimir códigos, logotipos e códigos de barras.
+      keywords: "impressora de etiquetas, impressora de código de barras, impressora térmica, impressora de transferência térmica, sistema de etiquetagem, etiqueta de código de barras, impressora de caracteres grandes, codificador de caixa, impressoras de etiquetas, impressão de caixas"
+    inks_and_consumables:
+      title: Cartuchos de tinta grandes Foenix – Imprima mais de 15 milhões de caracteres
+      description: Tintas para aplicações nos mercados de alimentos, bebidas, cosméticos, eletrodomésticos, indústria e extrusão
+      keywords: Tinta MEK, tinta CIJ, cartucho de tinta TIJ, tinta solvente, tinta a óleo, tinta UV, FX8001, FX8201, cartucho de tinta Foenix, limpador Foenix
+    distributors:
+      title: Distribuidores Mundiais Foenix
+      description: As gamas de produtos de jato de tinta e codificação de contato da Foenix estão disponíveis através de uma rede global de distribuidores qualificados que oferecem um serviço total de vendas e suporte.
+      keywords: codificação e marcação, reparo de impressoras a jato de tinta, distribuidores Foenix, revendedores Foenix, treinamento em codificação Foenix
+    cost_of_ownership:
+      title: Impressoras Foenix Coding – a opção mais barata para marcar seus produtos
+      description: As impressoras FX ONE oferecem o custo por impressão mais barato do mercado, sem contrato de manutenção mensal ou anual
+    about:
+      title: Sobre a Foenix – Os especialistas em codificação, marcação e rastreabilidade
+      description: A Foenix Coding é um fabricante líder no Reino Unido e fornecedor global das mais recentes impressoras a jato de tinta para a indústria
+      keywords: Impressora FX ONE, impressoras Foenix Coding, imprimir e aplicar, impressora de folha, jato de tinta DOD, jato de tinta Piezo, impressora jato de tinta Xaar, empresa de Foenix Coding, fabricante do Reino Unido
+    contact:
+      title: Entre em contato com a equipe Foenix Coding
+      description: Entre em contato conosco para obter mais informações sobre nossas impressoras jato de tinta industriais, nossas tintas e consumíveis. Entre em contato com a Foenix Coding, e-mail da Foenix Coding, telefone da Foenix Coding
+    faq:
+      title: FAQ - Foenix Coding
+      description: Mais informações sobre a linha de impressoras e tintas Foenix Coding. Cartuchos de tinta Sauven, tinta solvente Sauven, tinta a óleo Sauven, banco de dados de impressão, códigos de impressão, alternativa TIJ, alternativa CIJ
+    industry:
+      title: Foenix Coding - Solução de codificação e marcação para todas as indústrias
+      description: As impressoras FX ONE são projetadas especificamente para uso industrial em setores como alimentos, bebidas, automotivo, construção, conversão, dispositivos médicos, farmacêutico, eletrônico e químico.
+      keywords: marcação a jato de tinta, codificador a jato de tinta, codificação a jato de tinta, marcação a jato de tinta, embalagem farmacêutica, embalagem médica, impressão em tubos, extrusão de impressão, impressão em garrafas, impressão em caixa
+    video:
+      title: "Vídeo - Foenix Coding"
+      description: Veja as impressoras Foenix imprimirem em qualquer item e em qualquer material.
+    legal:
+      title: "Legal - Foenix Coding"
+      description: Veja nossas políticas de cookies e privacidade.
+    jobs:
+      title: "Carreiras: A Foenix Coding está crescendo. Junte-se a nós!"
+      description: Estamos sempre à procura de novos amigos talentosos que compartilhem nossa visão de impulsionar a indústria
+    posts:
+      title: Noticias & Eventos
+      description: Receba as últimas notícias e eventos
+    software:
+      title: Foenix FX APP – Soluções de software para a indústria de codificação e marcação
+      description: O FX APP da Foenix Coding permite que você crie mensagens em tempo recorde através de sua interface amigável. Melhor software de rastreabilidade
+      keywords: Software de rotulagem, software de rotulagem, NiceLabel, FX APP, data de uso, contador, número de lote, logotipo, códigos de barras
+    contact_coders:
+      title: Codificadores de contato - Marcação tradicional de baixo custo
+      description: Impressoras e soluções econômicas para impressoras tradicionais de codificação e marcação de contato de baixo custo
+      keywords: Codificação de contato, máquinas de marcação e impressoras de rolo de contato
+    foenix_codaprint:
+      title: Foenix Codaprint - Impressora simples para impressão repetida
+      description: Foenix Codaprint uma impressora contínua confiável para marcação de alta e baixa velocidade de metal, plástico, vidro, papelão
+      keywords: Impressora de rolo contínuo, número de lote, plástico, caixas, Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - Impressora de produtos multiuso
+      description: Impressora alternativa compacta Codamark para máquinas de envase em linha e rotativas, melhor antes da impressão da data e outros usos da Foenix Coding
+      keywords: Impressora compacta alternativa, data de validade,Codamark
+    foenix_codapack:
+      title: Foenix Codapack - Codificadoras de papelão econômicas
+      description: Resolva seus problemas de impressão de papelão com codificadores de contato codapack usando rolo de tinta plástica e tipo de borracha baselock da Foenix Coding
+      keywords: Codificadores de contato, impressoras de rolo de tinta plástica, Baselock Codapack
+    support:
+      title: Foenix Coding – Documentação de suporte
+      description: Manual do usuário e guias de informações da Foenix Coding para saber mais sobre nossas soluções de impressão por contato e jato de tinta
+      keywords: Manual do usuário da Foenix Coding, Guias de informações da Foenix, Impressão a jato de tinta, Manual do usuário da FX ONE, Manual tecnico da Foenix, FOENIX MSDS
+
+  news:
+    latest: História mais recente
+    news: Noticias & Eventos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1115 @@
+pl:
+  navbar:
+    home: Strona główna
+    products: Produkty
+    services: Serwis i wsparcie
+    company: Firma
+    admin: Administrator
+    countries: Kraje
+    jobs: Praca
+    posts: Stanowiska
+    login: Zaloguj się
+    logout: Wyloguj się
+    contact: skontaktuj się z nami
+    contact_o: Kontakt
+    printers: Drukarki
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: Oprogramowanie
+    inks: Tusze i materiały eksploatacyjne
+    distributors: Dystrybutorzy na całym świecie
+    cost: Koszt posiadania
+    FAQ: FAQ
+    about: O nas
+    careers: Kariera
+    news: Aktualności i wydarzenia
+    privacy_policy: Polityka prywatności
+    cookie_policy: Polityka dotycząca plików cookie
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | UK
+    printers: Drukarki
+    contact_coders: Kontakt
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: Dokumentacja pomocnicza
+    industry: Przemysł
+    video: Film
+    demo: Zamów demo
+    bar: Przestań wydawać fortunę na wkłady atramentowe i umowy serwisowe! Drukarki Foenix zapewniają najniższe w branży koszty eksploatacji i najniższy koszt wydruku
+    legal: Informacje prawne
+  cookie_bar:
+    content: Korzystając z tej strony internetowej, wyrażasz zgodę na nasze
+    cookie_policy: polityka plików cookie
+  simple_form:
+    hints: ''
+    placeholders:
+      search:
+        name: Szukaj
+    prompts:
+      search:
+        team: Drużyny
+        country: Lokalizacja
+        job_type: Typ
+  jobs:
+    title: FOENIX CODING rozwija się
+    tagline: Zawsze szukamy nowych, utalentowanych przyjaciół, którzy podzielają naszą wizję pchania przemysłu do przodu.
+  jobs_show:
+    roles_at: Role w
+    apply_now: Aplikuj teraz
+    you_will: Będziesz
+    we_are_looking: Poszukujemy osoby, która ma
+    we_look_forward: Czekamy na Twoją wiadomość
+  faq:
+    title: Najczęściej zadawane pytania
+    tagline: Wystarczy kliknąć na jedną z poniższych sekcji, aby znaleźć odpowiedź. Jesteśmy tutaj, aby pomóc. Jeśli nie możesz znaleźć odpowiedzi na swoje pytanie, zapraszamy do
+    contact: skontaktuj się z nami
+    title1: Czym jest drukarka FX ONE?
+    desc1: FX One to urządzenie drukujące typu "wszystko w jednym", które jest przeznaczone dla każdego. Nie wymaga specjalistycznej wiedzy. Ustawienie w ciągu kilku minut i może pracować na większości linii produkcyjnych. Do czego służy? Może drukować praktycznie na każdym produkcie, od prostej daty przydatności do spożycia, po skomplikowane numery partii, liczniki, daty i godziny, kody zmianowe, kody kreskowe i wiele innych.  Poza tymi funkcjami, FX One będzie dostarczany z aktualizacjami, aby zapewnić Ci najnowocześniejsze osiągnięcia i aplikacje w ekosystemie kodowania i znakowania. Sprawdź to 
+    desc1vid: film
+    desc1end:  aby zobaczyć, jak proste i potężne jest jego użycie.
+    title2: Jaki język (języki) obsługujecie?
+    desc2: Możesz drukować w dowolnym języku bez żadnych ograniczeń
+    desc2end: Jeśli chodzi o interfejs oprogramowania, obsługuje on 16 języków, ale wkrótce będziemy dodawać kolejne języki.  Jeśli masz życzenia językowe, prosimy o przesłanie ich na adres sales@foenixcoding.com.
+    title3: Jakie są wymiary?
+    desc3: Jego wymiary to 242 mm na 178 mm na 90 mm lub jak kto woli 9,52 cala na 7 cali na 3,54 cala.
+    title4: Gdzie mogę znaleźć oficjalnych dystrybutorów Foenixa?
+    desc4_1: Dzięki rozbudowanej sieci dystrybutorów jesteśmy obecni na wszystkich kontynentach i jesteśmy w stanie zaoferować drukarki w prawie każdym kraju!!!
+    desc4_2: Wierzymy, że możemy w pełni zagwarantować stałą jakość produktów i najlepszą obsługę klienta, oferując je tylko poprzez naszych lokalnych przedstawicieli.
+    desc4_3: Wśród naszych obecnych dystrybutorów znajdują się zarówno małe, jednoosobowe firmy, jak i międzynarodowe korporacje. Z doświadczenia wiemy, że to nie wielkość, ale zaangażowanie, rozległa wiedza o lokalnym rynku oraz odpowiednie kontakty i kompetencje są kluczowymi czynnikami sukcesu.
+    desc4_4: Nasi resellerzy są zawsze do Twojej dyspozycji, oferując
+    desc4_5: Szybkie, profesjonalne wsparcie w Twojej strefie czasowej i języku.
+    desc4_6: Szybka i korzystna cenowo wysyłka.
+    desc4_7: Niezawodny lokalny serwis gwarancyjny.
+    desc4_8: Nie wahaj się i  
+    desc4_9: skontaktuj się z nami
+    desc4_10: jeśli masz jakiekolwiek pytania lub chcesz uzyskać więcej informacji na temat naszych sprzedawców.
+    title5: Dlaczego nie mogę się zalogować?
+    desc5: Nasza strona logowania jest dostępna tylko dla naszych obecnych dystrybutorów, aby dać im dostęp do ich spersonalizowanego pulpitu nawigacyjnego. Nie jest możliwe, aby ktokolwiek inny miał dostęp do tej strony. Jeśli jesteś dystrybutorem FOENIX i nie masz jeszcze dostępu do swojego panelu, prosimy o poinformowanie nas o tym.
+    title6: Czy mogę otrzymać darmową wersję próbną przed zakupem?
+    desc6_1: Jeśli mieszkasz w Wielkiej Brytanii - Tak
+    desc6_2: Możesz otrzymać jeden darmowy, siedmiodniowy okres próbny.
+    desc6_3: Podczas bezpłatnego okresu próbnego będziesz miał dostęp do wszystkich funkcji drukarki i będziesz mógł monitorować koszt wydruku i szybko sprawdzić, ile pieniędzy możesz zaoszczędzić używając naszej drukarki.
+    desc6_4: Bezpłatny okres próbny jest uzależniony od dostępności.
+    title7: Jeśli posiadam różne drukarki Foenix - standardowe lub zdalne - czy będę potrzebował oddzielnego Oprogramowania dla każdej z nich?
+    desc7: Nie. Wszystkie nasze drukarki są w pełni kompatybilne z naszym oprogramowaniem. Bez względu na to, jakiego modelu używasz, możesz monitorować wszystkie swoje drukarki za pomocą FX APP.
+    title8: Jakie są różnice między drukarką FX ONE Standard i FX ONE Remote?
+    desc8_1: FX One Standard jest idealną drukarką do wszystkich zastosowań związanych z kodowaniem na kartonach. Pracuje z tuszem na bazie oleju do powierzchni porowatych i daje doskonałe rezultaty przy drukowaniu na boku kartonu.
+    desc8_2: Możesz drukować wszystko, od 8 linii prostego tekstu do zmiennych kodów kreskowych, dat ważności, logo, przesunięcia, liczników, zewnętrznych danych z bazy danych, kodów QR...
+    desc8_3: Ta drukarka będzie drukować w wysokiej rozdzielczości z 18mm wysokości druku.
+    desc8_4: Ma najniższy koszt wydruku na rynku, jest to najbardziej efektywny sposób drukowania informacji na kartonie.
+    desc8_5: FX One Remote posiada również głowicę drukującą o wysokiej rozdzielczości i wysokości 18 mm.
+    desc8_6: Zdalna drukarka jest dostępna w 2 modelach, z ręczną lub zmotoryzowaną migawką.
+    desc8_7: Ta drukarka pracuje albo z tuszem olejowym do powierzchni porowatych (jak karton, papier, drewno...) albo z tuszem rozpuszczalnikowym do powierzchni nieporowatych (jak plastik, metal, szkło...).
+    desc8_8: Za pomocą tej drukarki można praktycznie drukować na każdym produkcie.
+    title9_1: FX ONE Remote
+    title9_2: Migawka automatyczna czy ręczna, jaka jest różnica?
+    desc9: Zdalna drukarka FX ONE Remote posiada migawkę chroniącą głowicę drukującą. W wersji z napędem migawka zamyka się automatycznie po zakończeniu drukowania. W przypadku wersji ręcznej musisz ręcznie otworzyć migawkę na początku dnia i zamknąć ją ręcznie na koniec dnia, gdy produkcja zostanie zakończona.
+    title10: Czy mogę drukować na górnej części produktu?
+    desc10: Tak, dzięki zdalnej głowicy drukującej można technicznie drukować pod dowolnym kątem.
+    title11: Jaki rodzaj tuszu oferujecie?
+    desc11_1: Dysponujemy wysokiej jakości kontrolowanymi atramentami, które są bezwonne i nie są oparte na M.E.K. Technologia piezoelektryczna zastosowana w drukarkach FX ONE wymaga tylko jednego szczelnego wkładu z tuszem i nie wymaga dodatkowego uzupełniania rozpuszczalnikiem. Znacznie obniża to koszty eksploatacji.
+    desc11_2: Oferujemy farby olejowe do druku na materiałach porowatych (tace, kartony, drewno...) oraz farby rozpuszczalnikowe do druku na materiałach nieporowatych (metal, plastik, szkło...).
+    title12: Czy istnieją umowy serwisowe?
+    desc12_1: Brak kosztownych umów serwisowych.
+    desc12_2: Drukarki Foenix są produkowane z minimalną ilością komponentów, aby zapewnić maksymalną niezawodność. Brak pomp, zaworów, sprężonego powietrza, ładowania kropli i filtrów powietrza oznacza bardzo niskie koszty utrzymania.
+    title13: Skąd mogę mieć pewność, że dzięki drukarce FX ONE zaoszczędzę pieniądze?
+    desc13_1: Nasze oprogramowanie posiada funkcję obliczania liczby wydruków na wkłady oraz kosztu wydruku dla każdej wiadomości, którą stworzysz na FX APP.
+    desc13_2: Jest to bardzo potężne narzędzie, ponieważ możesz zobaczyć, ile pieniędzy zaoszczędzisz używając naszej drukarki. Zawsze masz kontrolę nad kosztami.
+  home:
+  # FIRST SECTION
+    title: Kodowanie i znakowanie
+    title_bottom: Powstanie
+    mobile_title: Wykonane kodowanie i znakowanie
+    play: Odtwórz wideo
+    download: Pobierz broszury
+    title_span1: Łatwa w obsłudze
+    title_span2: Niezawodna
+    title_span3: Wszechstronna
+    title_span4: Konsekwentna
+    title_description: Drukarka FX ONE to kompaktowa drukarka atramentowa o wysokiej rozdzielczości do drukowania numerów partii, dat przydatności do spożycia, tekstu, logo i kodów kreskowych na wszystkich materiałach, takich jak kartony, tacki, butelki, torby plastikowe, folie, opakowania żywności, puszki, wytłoczki i praktycznie każdy produkt.
+    # SECOND SECTION
+    title_second: Nowa generacja bezobsługowych drukarek atramentowych
+    title_second_description: WYPRODUKOWANO W WIELKIEJ BRYTANII
+    second_section_one_title: Pakowanie i kodowanie
+    second_section_one_description: mały lub duży nadruk na opakowaniach głównych i pomocniczych
+    second_section_two_title: Dla wszystkich branż
+    second_section_two_description: Rozwiązanie do znakowania o wysokiej rozdzielczości i wysokiej przyczepności dla każdej branży
+    second_section_three_title: Oprogramowanie FX APP
+    second_section_three_description: Zaawansowane zarządzanie drukarkami i optymalizacja procesów drukowania
+    # THIRD SECTION
+    third_section_title: Co to jest kodowanie i znakowanie?
+    third_section_description: Kodowanie i znakowanie to drukowanie zmiennych informacji na produktach podczas procesu produkcyjnego.
+    first_image: Kody produkcji, partii i daty
+    second_image: Kody paskowe
+    third_image: Branding i informacje o produktach
+    fourth_image: Identyfikowalność
+    third_section_statement_one: Foenix Coding rozumie jak ważna jest nieprzerwana linia produkcyjna.
+    third_section_statement_two: Naszą misją stało się stworzenie najbardziej niezawodnej drukarki na rynku.
+    # FOURTH SECTION
+    box_coding_title: Kodowanie kartonów
+    box_coding_description: Najbardziej typowym zastosowaniem jest kodowanie kartonów. Dzięki FX ONE Standard i FX ONE Plus nie ma już potrzeby stosowania drogich etykiet. Użyj drukarki FX ONE do drukowania w wysokiej rozdzielczości bezpośrednio na kartonach, tackach, workach lub innych produktach na linii produkcyjnej, aby wyeliminować konieczność stosowania kosztownych opakowań z nadrukiem lub drogich etykiet. Krótkie serie i wymagania klientów dotyczące spersonalizowanego tekstu, grafiki i kodów kreskowych są łatwe do zrealizowania.
+    product_coding_title: Kodowanie produktów
+    product_coding_description: Typowe zastosowania to kodowanie opakowań jednostkowych, takich jak butelki, małe kartony, beczki, puszki, słoiki, opakowania, torby, folie, itp. Większość naszych klientów zajmujących się kodowaniem produktów to zazwyczaj firmy poszukujące alternatywy dla CIJ (system stałego zasilania atramentem). Czynnikami motywującymi są cena, prostota i niskie koszty utrzymania. Na tym rynku zawsze używamy zdalnej drukarki FX ONE Remote, prawdziwie wielofunkcyjnej drukarki dla wszystkich branż, w tym spożywczej, napojów, farmaceutycznej i elektronicznej. FX ONE jest również idealna do znakowania wytłoczek, drukowania na taśmach i innych zastosowań przemysłowych.
+    fifth_section_title_html: "Przeznaczony do użytku <span class='text-orange'>przemysłowego</span> i <span class='text-orange'>taniego</span> druku atramentowego"
+    fifth-section_description_one: 'W ciągu ostatnich kilku lat firma Foenix zainwestowała znaczne środki w rozwój gamy bezobsługowych przemysłowych drukarek atramentowych. Kodery te są specjalnie zaprojektowane do użytku przemysłowego w takich sektorach jak: żywność, napoje, motoryzacja, budownictwo, przetwórstwo, urządzenia medyczne, farmacja, elektronika i chemia.'
+    fifth-section_description_two: Dzięki przemyślanej konstrukcji drukarki atramentowe FX ONE charakteryzują się wyjątkowo niskim zużyciem atramentu, a tym samym oferują jeden z najniższych na rynku kosztów wydruku. Zmniejszone koszty druku - zazwyczaj od 50% do 80%.
+    food: Żywność
+    cosmetics: Kosmetyki
+    extrusion: Wyciskanie
+    automotive: Automotive
+    beverage: Napoje
+    pharmaceutical: Leki
+    electronics: Elektronika
+    construction: Budowa
+    packaging: Opakowania
+    industrial_parts: Części przemysłowe
+    chemicals: Chemikalia
+    and_many_more: I wiele innych
+    inks_title: Szeroka gama tuszów
+    inks_description: Oferujemy atramenty o wysokiej przyczepności i wysokim kontraście, odpowiednie do większości zastosowań. Różne tusze umożliwiają drukowanie na materiałach nieporowatych (plastik, szkło, metal...) lub porowatych (karton, drewno, gips...). Dostępna jest szeroka gama kolorów, jak również tusze UV czytelne i utwardzane promieniami UV.
+    become_distributor_title: Zostań dystrybutorem Foenix Coding
+    become_distributor_description: Obecnie zapraszamy firmy do przyłączenia się do naszej międzynarodowej sieci dystrybutorów
+    eight_section_title_one: Zaawansowane oprogramowanie Inteligentny sterownik
+    eight_section_description_one: Oprogramowanie FX APP jest dostępne na PC oraz na naszym kontrolerze dotykowym FX ONE. Kontroler FX ONE Touch Controller jest przeznaczony do sterowania jednym lub kilkoma modelami drukarek FX ONE. Kontroler umożliwia tworzenie i przechowywanie wiadomości oraz zarządzanie drukarkami w małej, wytrzymałej obudowie. Może być zamontowany na stałe w dogodnym miejscu i jest przenośny, więc można go łatwo przenosić z jednej drukarki do drugiej. Interfejs został zaprojektowany w taki sposób, aby był łatwy w użyciu i odpowiadał wersji dla komputerów PC.
+    eight_section_title_two: Bezpłatne testy i wydruki próbne
+    eight_section_description_two_html: "Jeśli mieszkasz w Wielkiej Brytanii, możesz skorzystać z bezpłatnego, siedmiodniowego okresu próbnego. Podczas bezpłatnego okresu próbnego będziesz miał dostęp do wszystkich funkcji drukarki i będziesz mógł monitorować koszt wydruku i szybko sprawdzić, ile pieniędzy możesz zaoszczędzić, korzystając z naszej drukarki.<br><br>Aby przekonać się z pierwszej ręki o prostocie i jakości drukarki FX ONE, skontaktuj się z nami już dziś!<br><small>*Darmowy okres próbny jest uzależniony od dostępności.</small><br><br>Gdziekolwiek jesteś na świecie, możesz przesłać nam próbkę swojego produktu, a my wykonamy wydruki testowe w wysokiej rozdzielczości."
+  newsletter:
+    card_title: Dołącz do nas, zatrudniamy!
+    card_text: Gotowy na zmianę kariery? Chcesz pracować w start-upie z dużymi ambicjami? Dołącz do nas!
+    title: Pobierz najnowszy biuletyn
+    text: Zarejestruj się, aby otrzymywać wiadomości e-mail z informacjami o nowych produktach, aktualizacjach technicznych, targach, w których będziemy uczestniczyć i nie tylko.
+    button: Przeglądanie ofert pracy
+    placeholder: Wpisz swój e-mail, aby się zapisać
+    unsubscribe: W każdej chwili możesz zrezygnować z subskrypcji.
+    privacy: Przeczytaj naszą politykę prywatności
+  about:
+    title: Wewnątrz Foenix Coding
+    first_section_title_one: KIM JESTEŚMY
+    first_section_text_one: Foenix Coding jest wiodącym producentem i globalnym dostawcą najnowszych drukarek atramentowych dla przemysłu spożywczego, napojów, farmaceutycznego, przemysłowego i elektronicznego do kodowania, znakowania (drukowania) i identyfikacji produktów w linii produkcyjnej. Przez ponad 5 lat Foenix zbudował światową reputację dzięki jakości i kreatywności, w połączeniu z efektywnością kosztową i niską obsługą techniczną naszych drukarek.
+    first_section_title_two: PRZEDSIĘBIORSTWO
+    first_section_text_two: "Foenix Coding jest znany ze swoich przemysłowych drukarek atramentowych, specjalizujących się w projektowaniu i produkcji bezobsługowych systemów atramentowych. Aby brytyjski producent mógł odnieść globalne zwycięstwo, musi zrobić o wiele więcej niż tylko zaoferować konkurencyjny produkt. Przemyślany projekt firmy Foenix zaowocował radykalnym zmniejszeniem liczby komponentów wewnątrz drukarek. Takie podejście doprowadziło do obniżenia kosztów produkcji, a także do zwiększenia niezawodności drukarek, dzięki czemu Foenix stał się inspirującym graczem na skalę światową."
+    first_section_title_three: RYNEK
+    hiring_title: Dołącz do nas, zatrudniamy!
+    hiring_text: Gotowy na zmianę kariery? Chcesz pracować w start-upie z dużymi ambicjami? Dołącz do nas!
+    view_openings: Przeglądanie ofert pracy
+    our_values_title: NASZE WARTOŚCI
+    our_values_text: 'Produkty Foenix opierają się na podstawowych wartościach firmy: innowacyjności, wzornictwie i jakości.'
+    ov_card_title_one: INNOWACJA
+    ov_card_text_one_html: "Piezoelektryczny strumień atramentu jest akceptowany jako oferujący najwyższy poziom jakości druku spośród wszystkich technologii druku, a jednocześnie jest łatwy w utrzymaniu i dlatego osiąga najwyższy poziom niezawodności w czasie pracy. <br> Jego stały druk zapewnia niezawodną czytelność na produktach. "
+    ov_card_title_two: DESIGN
+    ov_card_text_two_html: "Tak często drukarki atramentowe są projektowane jako skomplikowane rozwiązanie prowadzące do niepotrzebnych skomplikowanych procedur konserwacyjnych. <br> Foenix zaprojektował swoją gamę drukarek atramentowych z minimalną ilością komponentów, aby zmaksymalizować czas pracy i zminimalizować konieczność konserwacji. "
+    ov_card_title_three: JAKOŚĆ
+    ov_card_text_three: Wszystkie nasze produkty, drukarki, tusze, materiały eksploatacyjne są produkowane w Wielkiej Brytanii i zbudowane z myślą o trwałości. Oprogramowanie i systemy sprzętowe zostały opracowane we współpracy z profesjonalistami w dziedzinie produkcji i pakowania, aby pomóc im w codziennych wyzwaniach związanych z drukowaniem dat przydatności do spożycia, kodów partii, kodów kreskowych 2D, logo graficznych i innych wymagań.
+    whats_next_title: CO DALEJ
+    whats_next_text_html: "Po globalnym i gwałtownym wzroście firmy w ostatnich latach Foenix Coding koncentruje się na wzmocnieniu istniejącej sieci dystrybutorów. <br> Zespół badawczo-rozwojowy jest w trakcie opracowywania nowej generacji drukarek FX ONE o zwiększonej wysokości druku, z wieloma głowicami drukującymi i zestawem łatwych w użyciu funkcji komunikacyjnych. "
+    first_section_text_three: Drukarki Foenix oferują oszczędne rozwiązania zarówno w zakresie kodowania opakowań pierwotnych, jak i wtórnych. Obejmuje to wymianę etykiet i alternatywy dla TIJ (Thermal Ink Jet) i CIJ (Continuous Ink Jet). Nasze drukarki są inne, ponieważ wykorzystują inną technologię. Dlatego drukarki Foenix mogą być oferowane jako rozwiązanie alternatywne. Jednocześnie łatwo wpasowują się w dowolną gamę produktów z zakresu kodowania i znakowania.
+    second_section_title: Nasza misja
+    second_section_text: "Foenix Coding jest firmą z siedzibą w Wielkiej Brytanii i wszystkie nasze produkty są wytwarzane w tym kraju. Jesteśmy pasjonatami nowych technologii i innowacyjnych rozwiązań w zakresie druku, a nasz zespół składa się wyłącznie z ekspertów w dziedzinie technologii druku atramentowego. Wszyscy jesteśmy byłymi pracownikami Sauven Marking i wnieśliśmy do tej nowej przygody wszystkie nasze umiejętności, doświadczenie, wiedzę, a co ważniejsze nasz entuzjazm."
+    second_section_text_two: Naszą misją jest uczynienie naszych wysokiej jakości i prostych w obsłudze drukarek dostępnymi dla każdego na świecie. Jesteśmy tutaj, aby pomóc Ci zwiększyć wydajność Twojej linii produkcyjnej i pomóc Ci z wyzwaniami związanymi z identyfikowalnością produktów.
+    second_section_text_three: Twoje złożone wyzwania związane z kodowaniem i znakowaniem nie wymagają skomplikowanych i drogich rozwiązań.
+    third_section_title: Koncentrujemy się na znaczeniu kosztów posiadania w druku przemysłowym.
+    third_section_text: Niezależnie od tego, czy szukasz drukarki atramentowej do kodowania na kartonach czy znakowania produktów, inwestycja w druk nie sprowadza się już tylko do ceny drukarki. Materiały eksploatacyjne i konserwacja stały się głównymi czynnikami określającymi koszt posiadania.
+    fourth_section_text_right: Foenix Coding oferuje gamę drukarek, które obniżają koszty posiadania. Kierujemy się filozofią "zero konserwacji" w przypadku drukowania małych znaków. Pracujemy również ciężko, aby zaoferować najbardziej przyjazną dla użytkownika drukarkę przemysłową. Drukarki Foenix współpracują z prostym oprogramowaniem Windows PC z obrazkowymi klawiszami i/lub bardzo rozwiniętym i intuicyjnym kontrolerem dotykowym.
+    fifth_section_title: Wyprodukowano w Wielkiej Brytanii i zbudowano z myślą o trwałości
+    fifth_section_text_one: "Wszystkie nasze produkty - drukarki, tusze, materiały eksploatacyjne - są produkowane w Wielkiej Brytanii. Oprogramowanie i sprzęt zostały opracowane we współpracy z profesjonalistami z branży produkcyjnej i opakowaniowej, aby pomóc im w codziennych wyzwaniach związanych z drukowaniem dat przydatności do spożycia, kodów partii, kodów kreskowych 2D, logotypów graficznych i innych wymagań."
+    fifth_section_text_two: "Nasza oferta przemysłowych drukarek atramentowych opartych na Xaar jest bezobsługowa. Zostały one specjalnie zaprojektowane do użytku przemysłowego w takich sektorach jak: żywność, napoje, motoryzacja, budownictwo, przetwórstwo, urządzenia medyczne, farmacja, elektronika i chemia...."
+  inks_and_consumables:
+    first_section_text: Duże wkłady atramentowe
+    first_section_text_two: Drukarka FX ONE jest kompatybilna z wieloma różnymi rodzajami atramentów, co czyni ją najbardziej uniwersalną drukarką na rynku. Drukowanie na dowolnym podłożu i do 15 milionów znaków na wkład. Oferujemy najszerszą gamę płynów do drukarek atramentowych, aby sprostać nawet najbardziej specjalistycznym zastosowaniom klientów.
+    inks_card_title_one_html: "Wysoka przyczepność<span class='text-orange'>.</span>"
+    inks_card_text_one: Atrament o wysokiej adhezji zaprojektowany specjalnie do zastosowań przy wytłaczaniu PVC. Uzyskaj bezprecedensową jakość druku na rurach PVC.
+    inks_card_title_two_html: "Szeroka gama atramentów<span class='text-orange'>.</span>"
+    inks_card_text_two: Różnorodne atramenty umożliwiają nadruk na materiałach nieporowatych (plastik, szkło, metal) lub porowatych (karton, drewno, gips). Dostępna jest szeroka gama kolorów oraz tusze UV czytelne i utwardzane promieniami UV.
+    inks_card_title_three_html: "Wysoki Kontrast<span class='text-orange'>.</span>"
+    inks_card_text_three: Najwyższy kontrast na ciemniejszych produktach dzięki naszej gamie atramentów pigmentowych. Upewnij się, że Twoje kody wyróżniają się zarówno na ciemnych, jak i jasnych podłożach.
+    grid_title_one: Zapieczętowany wkład atramentowy
+    grid_text_one: Zintegrowany i wymienny wkład z atramentem utrzymuje system atramentowy w czystości, wolny od zanieczyszczeń. Nasze atramenty charakteryzują się doskonałą przyczepnością i kontrastem na szerokiej gamie porowatych i nieporowatych materiałów, takich jak karton, metal, szkło, papier, drewno i wiele tworzyw sztucznych. Nasze atramenty oferują wyjątkową wydajność w większości typowych warunków aplikacji.
+    grid_title_two: Farby przyjazne dla produkcji
+    grid_text_two: Do zastosowań na rynkach żywności, napojów, kosmetyków, artykułów gospodarstwa domowego, artykułów przemysłowych i wytłaczania, oferujemy wysokiej jakości kontrolowane atramenty, które są praktycznie bezwonne i nie są oparte na M.E.K. Oferujemy również tusze kolorowe.
+    grid_title_three: Farby HDPVC do wytłaczania rur PVC
+    grid_text_three: Oferujemy teraz atrament o wysokiej adhezji zaprojektowany specjalnie do zastosowań przy wytłaczaniu PVC. Uzyskaj bezprecedensową jakość druku na rurach PVC.
+    grid_title_four: Prosty system atramentowy
+    grid_text_four: Zapas atramentu znajduje się w wygodnym systemie wkładów, które są umieszczone w tylnej części urządzenia. Wymiana wkładu z atramentem jest prosta i czysta i można ją przeprowadzić w ciągu kilku sekund bez przerywania procesu drukowania. Nigdy nie przegapisz wydruku i zawsze uzyskasz jakość druku w wysokiej rozdzielczości, która pasuje do wizerunku Twojego produktu.
+    lowest_ink_title: Najniższe zużycie atramentu na rynku
+    lowest_ink_text: Niezależnie od tego, czy szukasz drukarki atramentowej do kodowania na kartonach czy znakowania produktów, inwestycja w druk nie sprowadza się już tylko do ceny drukarki. Materiały eksploatacyjne i konserwacja stały się głównymi czynnikami określającymi koszt posiadania. Dzięki przemyślanej konstrukcji, drukarki atramentowe piezoelektryczne mają wyjątkowo niskie zużycie atramentu i dlatego oferują bardzo niski koszt wydruku.
+    # NEW
+    standard_ink_one: Nasz standardowy asortyment tuszy
+    standard_ink_two: dla wszystkich zastosowań
+    sdct_one_html: "FX8001<br>Czarny tusz olejny"
+    sdct_text_one: Do kartonu, papieru, drewna lub innych porowatych podłoży
+    sdct_two_html: "FX8201<br>Czarny tusz rozpuszczalnikowy"
+    sdct_text_two: Do większości podłoży, takich jak PCV, metal, szkło, plastik i inne nieporowate powierzchnie
+    sdct_three_html: "FX8203<br>Niebieski tusz rozpuszczalnikowy"
+    sdct_text_three: Takie samo zastosowanie jak w przypadku nieporowatego atramentu FX8201 do opakowań podstawowych
+    sdct_four_html: "FX8308Red<br>Czerwony tusz rozpuszczalnikowy"
+    sdct_text_four: Takie samo zastosowanie jak w przypadku nieporowatego atramentu FX8201 do opakowań podstawowych
+    sdct_five_html: "FX 8206<br>Biały tusz rozpuszczalnikowy"
+    sdct_text_five: Tusz pigmentowy do ciemnych, nieporowatych powierzchni
+    sdct_six_html: "FX8311<br>Żółty tusz rozpuszczalnikowy"
+    sdct_text_six: Tusz pigmentowy do ciemnych, nieporowatych powierzchni
+    sdct_seven_html: "FX8236<br>Czarny atrament utwardzany promieniami UV"
+    sdct_text_seven: Nieporowate podłoże z błyskawicznym czasem schnięcia
+    sdct_eight_html: "FX8235UV<br>Atrament czytelny"
+    sdct_text_eight: Niewidoczny tusz, widoczny tylko pod lampą UV
+    # NEW
+    special_ink_title: Potrzebujesz specjalnego tuszu?
+    special_ink_title_two: Możemy pomóc!
+    special_ink_text_one: Farby olejne
+    special_ink_text_two: Farby rozpuszczalnikowe
+    special_ink_text_three: Farby pigmentowe
+    special_ink_text_four: Farby utwardzane promieniami UV i odczytywane promieniami UV
+    stay_informed_title: Bądź na bieżąco z naszymi najnowszymi rozwiązaniami w zakresie atramentów
+    stay_informed_text: Zapisz się, aby jako pierwszy dowiedzieć się, kiedy wprowadzimy nowy atrament.
+  distributor:
+    first_section_title: Globalny zasięg
+    first_section_text: Gdziekolwiek jesteś na świecie, jeden z naszych dystrybutorów jest w pobliżu. Jesteśmy obecni na wszystkich kontynentach i oferujemy wsparcie w Twoim języku i strefie czasowej.
+    second_section_title: Foenix posiada dystrybutorów w
+    why_partner_title: Dlaczego warto współpracować z
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: 'CO ODRÓŻNIA FOENIX CODING OD KONKURENCJI? <br> Foenix Coding to wciąż "Start-up" prowadzony przez solidny trzon ludzi, którzy znają produkty, firmę i klientów na wylot. <br> <br> Pracując z Foenix Coding możesz spodziewać się następujących rzeczy: '
+    first_list_one: Konkurencyjne ceny w porównaniu do bezpośrednich konkurentów
+    first_list_two: Atrakcyjne marże dla dystrybutorów
+    first_list_three: Elastyczność w procedurach
+    first_list_four: Elastyczność w zakresie czasu produkcji
+    first_list_five: Elastyczność w zakresie czasu dostawy
+    second_list_one: Indywidualne podejście
+    second_list_two: Aktywnie zaangażowani dyrektorzy
+    second_list_three: Wsparcie dla wystaw
+    second_list_four: Obsługa wydruków testowych
+    second_list_five: Wsparcie dla programów szkoleniowych
+    second_list_six: Aktualizacje technologiczne
+    third_list_one: "Kompetencje techniczne: posiadając drukarki w ponad 60 krajach, widzieliśmy prawie wszystkie zastosowania"
+    third_list_two: Elastyczny zespół badawczo-rozwojowy, który może szybko reagować na specyficzne potrzeby klientów
+    third_list_three: "Wiedza ekspercka: Ograniczony asortyment produktów skutkuje wiedzą ekspercką"
+    partnership_title: Droga do partnerstwa
+    partnership_text: Jesteśmy podekscytowani rosnącą siecią partnerów dystrybucyjnych, którzy wprowadzają na rynek produkty Foenix na całym świecie. Obecnie zapraszamy firmy do przyłączenia się do naszej międzynarodowej sieci dystrybutorów, aby promować naszą nową gamę drukarek na nowych rynkach.  Wypełnij ten formularz, a my wkrótce skontaktujemy się z Tobą, aby omówić tę możliwość.
+    step_one: KROK 1
+    step_one_title: Aplikuj
+    step_one_text: Jeśli jesteś zainteresowany omówieniem tej możliwości, z przyjemnością dowiemy się więcej o Twojej firmie i jej celach.
+    step_two: KROK 2
+    step_two_title: Pobierz drukarkę demonstracyjną
+    step_two_text: Aby przetestować wydajność sprzętu, ale także naszą reaktywność i wsparcie, które od nas otrzymasz
+    step_three: KROK 3
+    step_three_title: Rozpocznij sprzedaż
+    step_three_text: Naszym celem jest ułatwienie naszym partnerom biznesowym skupienia się na zdobywaniu nowych klientów i rozwijaniu biznesu.
+  distributor_countries:
+    uk: Wielka Brytania
+    indonesia: Indonezja
+    south_africa: Republika Południowej Afryki
+    france: Francja
+    austria: Austria
+    peru: Peru
+    turkey: Turcja
+    venezuela: Wenezuela
+    malaysia: Malezja
+    vietnam: Wietnam
+    saudi_arabia: Arabia Saudyjska
+    egypt: Egipt
+    greece: Grecja
+    spain: Hiszpania
+    latvia: Łotwa
+    netherlands: Niderlandy
+    sri_lanka: Sri Lanka
+    italy: Włochy
+    croatia: Chorwacja
+    brazil: Brazylia
+    hungary: Węgry
+    portugal: Portugalia
+    lithuania: Litwa
+    ivory_coast: Wybrzeże Kości Słoniowej
+    poland: Polska
+    malta: Malta
+    philippines: Filipiny
+    uae: ZEA
+    chile: Chile
+    australia: Australia
+    usa: USA
+    argentina: Argentyna
+    india: Indie
+    bulgaria: Bułgaria
+    israel: Izrael
+    singapore: Singapur
+    germany: Niemcy
+    guatemala: Gwatemala
+    china: Chiny
+    ireland: Irlandia
+    morocco: Maroko
+    nigeria: Nigeria
+    sweden: Szwecja
+    be_the_next: Bądź następny
+  cost_of_ownership:
+    first_section_title: Najniższy koszt posiadania na rynku
+    first_section_list_one: Najniższe zużycie atramentu na rynku
+    first_section_list_two: Najtańszy koszt wydruku na rynku
+    first_section_list_three: Niska cena drukarki
+    first_section_list_four: Brak umów konserwacyjnych/serwisowych
+    first_section_list_five: Zero czasu przestoju
+    first_section_list_six: Brak kosztów instalacji i szkolenia
+    first_section_list_seven_html: Zmniejsz swoje koszty kodowania i znakowania o co najmniej 60%.<br>Przestań wydawać fortunę na tusze i umowy serwisowe!
+    first_section_list_eight_html: Pobierz nasz przewodnik, aby sprawdzić,<br>ile pieniędzy możesz zaoszczędzić
+    download: Pobierz
+    first_section_two_title: Jasny i przejrzysty zwrot z inwestycji
+    first_section_sub_title: DRUKARKI FX ONE DRASTYCZNIE OBNIŻAJĄ KOSZT WYDRUKU
+    first_section_text_html: "Koszt wydruku zależy od 3 czynników:- ceny zakupu drukarki- kosztu<br><br>tuszu-<br>miesięcznego kosztu utrzymania. <br> <br> Firma Foenix Coding zaprojektowała prostą drukarkę atramentową, której priorytetem jest redukcja kosztów. Drukarka atramentowa FX ONE została opracowana z myślą o prostocie i nie zawiera ruchomych części, pomp ani zaworów. Podawanie atramentu odbywa się na zasadzie kapilarności i grawitacji, nie ma potrzeby stosowania sprężonego powietrza. Sterowanie odbywa się za pomocą pojedynczej płytki drukowanej, która jest połączona z głowicą drukującą za pomocą pojedynczego kabla do transmisji danych. Dzięki swojej prostocie i braku ruchomych części, nie wymaga miesięcznej lub rocznej konserwacji. Zastosowanie mniejszej ilości komponentów oznacza, że drukarka FX ONE ma bardzo konkurencyjną cenę zakupu. <br> <br> Obniżone koszty druku - typowo od 50% do 80%. Technologia druku Xaar pozwala na nanoszenie atramentu w ilości zaledwie 80 pikolitrów na kroplę (czyli 0,000000080ml), co daje ogromne oszczędności atramentu. Masz kontrolę nad kosztem wydruku. Łatwo oblicz koszty drukowania za pomocą naszego intuicyjnego oprogramowania i zobacz, ile możesz zaoszczędzić. Drukowanie przy użyciu mikrokropelek atramentu i szczelnego wkładu z atramentem zapewnia niski koszt wydruku bez marnowania atramentu. Dodatkowe oszczędności można uzyskać korzystając z trybu oszczędzania atramentu. <br><br> Uniknij uzależnienia się od drogiej drukarki atramentowej, która z czasem uszczupli Twój budżet. Poznaj szczegóły gwarancji, warunki serwisowania, koszty konserwacji/napraw, koszty atramentu i materiałów eksploatacyjnych. Zdobądź pewność, aby wybrać najbardziej opłacalne rozwiązanie dla swojej firmy. Oblicz całkowity koszt posiadania swojej drukarki przed podjęciem decyzji. Foenix Coding rozumie sztukę prostoty i stworzył prostą i ekonomiczną drukarkę zaprojektowaną tak, aby spełnić oczekiwania klientów."
+    inkjet_printer_title: Jak wybrać drukarkę atramentową
+    inkjet_printer_text_html: "Wiemy, że wybór drukarki atramentowej nie jest łatwy. Dostępnych jest wiele modeli i technologii różnych producentów. <br> <br> Każda aplikacja ma inne wymagania. Zrozumienie aplikacji pozwoli ci zaoszczędzić wiele czasu i rozczarowań. <br> Pobierz nasz darmowy przewodnik, aby porównać drukarki Foenix z konkurencją. "
+    newsletter_title: Odbierz nasz bezpłatny przewodnik, który pomoże Ci wybrać drukarkę atramentową
+    newsletter_description_html: "CIJ vs TIJ vs <span class='text-orange'>FX ONE</span>"
+    list_title: "Każde pytanie może zadecydować o tym, czy drukarka FX ONE będzie odpowiednia dla Twojego projektu:"
+    list_left_one: Czym jest ten produkt?
+    list_left_two: Jaki jest rozmiar produktu?
+    list_left_three: Z czego wykonany jest produkt/opakowanie?
+    list_left_four: Do czego służy ten produkt?
+    list_left_five: Jaka jest prędkość przenośnika/produktu?
+    list_left_six: Czy produkt jest dobrze wspierany w miejscu druku?
+    list_left_seven: Jaka jest temperatura produktu w momencie drukowania?
+    list_left_eight: Czy są jakieś wymagania odnośnie odporności na warunki atmosferyczne?
+    list_left_nine: Gdzie jest wymagany nadruk u góry/ z boku/ pod spodem
+    list_left_ten: W którym kierunku biegnie przewód produktu do głowicy drukującej?
+    list_left_eleven: Jaka jest wielkość obszaru zadruku i gdzie ma być naniesiony nadruk?
+    list_left_twelve: Jakiego sprzętu używasz teraz do nakładania druku, jeśli w ogóle?
+    list_right_one: Jaki kolor tuszu jest wymagany?
+    list_right_two: Jaki jest kolor materiału/opakowania?
+    list_right_three: Czy powierzchnia wydruku jest porowata czy nieporowata?
+    list_right_four: Jaki jest wymagany czas schnięcia?
+    list_right_five: Jaki jest komunikat?
+    list_right_six: Jaka jest wysokość komunikatu?
+    list_right_seven: Ile znaków?
+    list_right_eight: Jaka jest wysokość znaków?
+    list_right_nine: Ile wierszy druku?
+    list_right_ten: Ile wydruków na minutę/godzinę?
+    list_right_eleven: Czy komunikat jest ciągły na ciągłych materiałach internetowych lub wytłoczkach
+    list_right_twelve: Jaka jest długość powtórzenia komunikatu?
+    second_section_title: Kalkulator oszczędności/ROI
+    second_section_text: Z łatwością kontroluj koszt wydruku i liczbę wydruków na wkład. Utrzymanie kosztów na niskim poziomie nigdy nie było łatwiejsze! Zaoszczędź do 75% atramentu dzięki trybowi oszczędzania atramentu.
+    second_section_text_two_html: "Unikaj zakupu drogiej drukarki atramentowej, która z czasem pochłonie Twój budżet. <br> Poznaj szczegóły gwarancji, warunki serwisowania, koszty konserwacji/napraw, koszty atramentu i materiałów eksploatacyjnych. <br> Zdobądź pewność siebie, aby wybrać najbardziej opłacalne rozwiązanie dla swojej firmy. <br> Oblicz całkowity koszt posiadania drukarki przed podjęciem decyzji. "
+  printers:
+    title: SERIA FX ONE
+    text: Wszystkie drukarki atramentowe z serii Foenix zostały zaprojektowane jako przemysłowe drukarki atramentowe do kodowania i znakowania. Główne kryteria projektowe dla każdej drukarki to łatwość obsługi, niskie koszty utrzymania i efektywność kosztowa przy zapewnieniu ultra wysokiej rozdzielczości druku.
+    coming_soon: JUŻ WKRÓTCE
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: Nowa drukarka atramentowa FX ONE jest jedną z najtańszych w eksploatacji drukarek do małych znaków. Stanowi ona prawdziwą alternatywę dla kodowania produktów.
+    second_section_title: Przegląd
+    grid_title_one: Najlepsza alternatywa dla druku CIJ
+    grid_description_one_html: "Urządzenie FX ONE Remote zostało zaprojektowane jako bardzo prosta drukarka atramentowa, ale z możliwością drukowania od jednej do ośmiu linii kodu oraz wprowadzania własnych stylów czcionek i grafiki. <br> <br> Urządzenie FX ONE Remote stanowi prawdziwą alternatywę dla skomplikowanych drukarek CIJ w bardzo przystępnej cenie: <ul> <li>Najniższy koszt wydruku na rynku</li> <li>Wysoka rozdzielczość druku</li> <li>Zaprojektowany z myślą o zerowej konserwacji</li> <li>Elastyczność, umożliwiająca drukowanie w dowolnym kierunku</li> <li>Druk wieloliniowy bez dodatkowych kosztów</li> <li>Nie wymaga dodatkowego rozpuszczalnika do uzupełniania</li> </ul>"
+    grid_link_one: Uzyskaj szybką wycenę
+    grid_title_two: Doskonałe do wytłaczania i zastosowań z podawaniem zwojów
+    grid_description_two_html: "FX ONE to modułowy koder atramentowy do użytku przemysłowego. Idealnie nadaje się do znakowania wytłoczek, drukowania na taśmach i innych zastosowań przemysłowych. <br> Drukarka FX ONE jest zaprogramowana do ciągłego, powtarzającego się drukowania w określonych odstępach czasu na linii wytłaczania. <br> <br> Uzyskaj pełną kontrolę nad powtarzalnym drukowaniem na wstędze materiału. Wiele drukarek FX ONE może być zamontowanych na całej wstędze, aby drukować identyczne lub różne komunikaty. Zdalnie zamontowany kontroler dotykowy może być podłączony do kodera lub dowolnego urządzenia do aktywacji druku. "
+    grid_link_two: Pobierz próbkę wydruku
+    grid_title_three: Łatwa instalacja i obsługa
+    grid_description_three_html: "Zdalna drukarka FX ONE Remote może być łatwo zamontowana w większości maszyn lub w ograniczonej przestrzeni. <br> <br> Drukuj obie strony swojego produktu, ale używaj tylko jednego kontrolera dotykowego. Niezależnie od tego, czy drukujesz dwie strony kartonu, czy obie strony większego produktu, posiadanie jednego kontrolera upraszcza wprowadzanie komunikatów przez operatora. Łatwe drukowanie identycznych lub różnych komunikatów na obu stronach produktu. <br> <br> Duży, kolorowy, graficzny ekran dotykowy i wyświetlacz WYSIWYG w połączeniu z obrazkowymi przyciskami akcji sprawia, że edycja i programowanie komunikatów są naprawdę łatwe."
+    grid_link_three: Uzyskaj szybką wycenę
+    grid_title_four: Stała wydajność druku
+    grid_description_four_html: "Automatyczna migawka na głowicy drukującej zapewnia, że druk pozostaje doskonały w zastosowaniach ciągłych lub przerywanych oraz w trudnych warunkach, bez interwencji operatora. <br> <br> Ta migawka może być ręcznie lub automatycznie zamknięta podczas okresów nieużywania FX ONE. Kiedy migawka jest zamknięta, daje ona lepszą ochronę głowicy drukującej przed fizycznymi uszkodzeniami i wysychaniem atramentu wewnątrz głowicy drukującej. <br> <br> Lepsza ochrona przed nieprzyjaznym środowiskiem: <br> Czas otwarcia migawki może być tak krótki, jak 5 sekund. Oznacza to, że migawka będzie otwarta tylko przez 5 sekund, podczas drukowania. Natychmiast po tym, zamknie się i będzie chronić głowicę drukującą przed przeciągiem, wilgocią, kurzem i innymi zanieczyszczeniami w powietrzu. "
+    grid_title_five: Czyste zarządzanie atramentem dla perfekcyjnego drukowania
+    grid_description_five_html: "Łatwo przepływający atrament na bazie oleju lub rozpuszczalnika znajduje się w szczelnie zamkniętym wkładzie z atramentem, co zapewnia brak odpadów, zanieczyszczeń i bałaganu. Wymiana wkładu trwa kilka sekund, podczas gdy drukarka nadal drukuje. <br> Drukarka może być zaprogramowana do automatycznego oczyszczania i czyszczenia, co zapewnia 100% czasu pracy. "
+    grid_link_five: Dowiedz się więcej
+    grid_title_six: Pełna zdolność do integracji
+    grid_description_six_html: "Pakiet oprogramowania Foenix FX APP umożliwia pełną integrację z drukarkami sieciowymi, dostęp do baz danych, tworzenie komunikatów w trybie off-line, łączenie ze skanerami przemysłowymi, czytnikami kodów kreskowych, weryfikatorami i innymi urządzeniami produkcyjnymi. <br> Wybór komunikatów może być ręczny lub zabezpieczony za pomocą czytnika kodów kreskowych. "
+    grid_link_six: Dowiedz się więcej
+    cards_section_description: Nowa generacja
+    cards_section_description_two: bezobsługowej drukarki atramentowej
+    first_card_title: Kodowanie i znakowanie w wysokiej rozdzielczości
+    first_card_text: Od 1 do 8 linii nadruku o wysokości 2-18 mm.
+    second_card_title: Łączność Pc
+    second_card_text: Poprzez kabel USB, RS485 lub Ethernet do bezpośredniego tworzenia wiadomości lub system sieci fabrycznej.
+    third_card_title: Grafika, loga i kody kreskowe
+    third_card_text: Łatwe importowanie grafiki JPEG, PNG i BMP za pomocą aplikacji FX APP.
+    fourth_card_title: Prosty ekran i klawiatura
+    fourth_card_text: Do lokalnego sterowania prędkością i kierunkiem pracy drukarki oraz opóźnieniem komunikatu.
+    fifth_card_title: Instalacja Out of the Box
+    fifth_card_text: Minimalna ilość komponentów zapewnia maksymalną niezawodność.
+    sixth_card_title: Kody kreskowe 1D i 2D
+    sixth_card_text: Wysokiej rozdzielczości druk kodów kreskowych 1D i 2D (QR Codes - matryca danych) zawierających zmienne dane.
+    seventh_card_title: 2 lata gwarancji*.
+    seventh_card_text_html: Dostępna przedłużona gwarancja*<br>Obowiązują warunki
+    eigth_card_title: Sterownik dotykowy
+    eigth_card_text: Proste interaktywne programowanie okienkowe z FX APP. Niezawodne drukowanie za pomocą jednego kliknięcia.
+    ninth_card_title: Tworzenie sieci
+    ninth_card_text: Zarządzaj wieloma drukarkami z jednego miejsca. Monitoruj postępy, śledź usterki i zyskaj wgląd dzięki analityce druku.
+    tenth_card_title: Czcionka True Type i Unicode
+    tenth_card_text: Umożliwia tworzenie wiadomości przy użyciu dowolnej czcionki i w dowolnym języku
+    eleventh_card_title: Duży wkład na atramenty rozpuszczalnikowe
+    eleventh_card_text: Niski koszt kodowania i czysty system farbowy, idealny do drukowania na porowatych i nieporowatych powierzchniach.
+    twelfth_card_title: Połączenie wieloportowe
+    twelfth_card_text: Do enkoderów, alarmów zewnętrznych i alternatywnych urządzeń wykrywających produkt.
+    thirteenth_card_title: Tryb oszczędzania atramentu
+    thirteenth_card_text: Zmniejszenie zużycia atramentu nawet o 75%
+    pop_title: Oprogramowanie APP
+    pop_title_two: Dla wszystkich zastosowań kodowania produktów
+    pop_text_one: Analityka sieci i druku
+    pop_text_two: Proste interaktywne programowanie windowsowe
+    pop_text_three: 'Dostępność na PC i kontroler z ekranem dotykowym 7"'
+    pop_text_four: Obsługa wielu języków
+    pop_text_five: Pełna integracja z naszą biblioteką DLL
+    pop_text_six: Zaawansowane zarządzanie drukarkami
+    pop_link: Dowiedz się więcej
+    fourth_section_title: Specyfikacja techniczna
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: Cechy
+    fifth_section_left_one: Drukuje w dowolnej orientacji
+    fifth_section_left_two: 1 do 8 linii druku
+    fifth_section_left_three: 2mm- 18mm całkowita wysokość druku
+    fifth_section_left_four: Głowica drukująca peizo o wysokiej rozdzielczości
+    fifth_section_left_five: Drukuje tekst, grafikę, loga i kody kreskowe
+    fifth_section_left_six: Drukuje czas i wiele formatów daty
+    fifth_section_left_seven: Możliwość ciągłego powtarzania druku
+    fifth_section_left_eight: Prędkość druku 100m/min (50m/min dla kodów kreskowych i tekstu 2mm)
+    fifth_section_left_nine: Pojedynczy przycisk rozpoczęcia/zatrzymania drukowania
+    fifth_section_left_ten: Wizualny wskaźnik alarmowy informujący o niskim poziomie atramentu
+    fifth_section_left_eleven: Kontrola szerokości komunikatu, opóźnienia i kierunku druku
+    fifth_section_left_twelve: Fotokomórka wykrywania produktu
+    fifth_section_left_thirteen: Waga 1,7 Kg (bez pojemnika z tuszem i wsporników)
+    fifth_section_left_fourteen: Rozmiar 242 x 178 x 90mm
+    fifth_section_right_title_one: Łączność
+    fifth_section_right_one: RS232 i RS485 dla sterownika Sauven Touch
+    fifth_section_right_two: Pamięć USB-A w zestawie
+    fifth_section_right_three: USB-B do połączenia kablowego
+    fifth_section_right_four: Ethernet (opcjonalnie)
+    fifth_section_right_five: Drukuje tekst, grafikę, loga i kody kreskowe
+    fifth_section_right_six: Port wejścia i wyjścia dla enkodera, sygnalizatora alarmowego i zewnętrznych fotokomórek
+    fifth_section_right_title_two: Atrament
+    fifth_section_right_seven: Szczelny wymienny wkład atramentowy (do 15 milionów znaków)
+    fifth_section_right_eight: farby olejne do powierzchni porowatych
+    fifth_section_right_nine: Farby rozpuszczalnikowe do powierzchni nieporowatych
+    fifth_section_right_ten: Atramenty UV do natychmiastowego utwardzania diodami LED
+    fifth_section_right_eleven: Różne kolory
+    fifth_section_right_title_three: Elektryczny
+    fifth_section_right_twelve: Zasilacz 90-260 VAC do 24VDC w zestawie
+    fifth_section_message: Foenix Coding Ltd nieustannie ulepsza produkty i oprogramowanie. Specyfikacje mogą ulec zmianie.
+    build_to_last: Trwałe budowanie
+    build_to_last_description: Konstrukcja z włókna węglowego i solidna grupa
+    build_to_last_description_two: komponentów sprawiają, że będzie on służył Ci przez lata
+    discover: Odkryj program FX ONE
+    shared_tech: Technologia współdzielona
+    shared_tech_text_one: Drukarki FX ONE są zbudowane modułowo z bardzo niewielu elementów.
+    shared_tech_text_two: Części FX ONE są w 100% wymienne, stosowane w podobnych maszynach i modelach.
+    shared_tech_text_three: Jedyna różnica między modelami polega na umiejscowieniu głowicy drukującej. W modelu FX ONE Standard głowica drukująca jest wbudowana w jednostkę sterującą, a w modelach FX ONE Remote i FX ONE Plus zdalna głowica drukująca jest połączona z jednostką sterującą za pomocą elastycznego przewodu.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: Inteligentne rozwiązanie dla wysokich
+    fx_one_standard_sub_two: druk opakowań w rozdzielczości
+    fx_one_standard_text: Wysokiej rozdzielczości nadruk bezpośrednio na kartonach, tackach
+    fx_one_standard_text_two: i worków na linii produkcyjnej, aby wyeliminować potrzebę
+    fx_one_standard_text_three: dla kosztownych opakowań z nadrukiem lub drogich etykiet.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: Inteligentny sposób na oszczędzanie
+    fx_one_plus_sub_two: na drukowaniu etykiet
+    fx_one_plus_text: Drukarka dużych znaków do 72mm wysokości druku.
+    fx_one_plus_text_two: Doskonała alternatywa dla drogich, skomplikowanych
+    fx_one_plus_text_three: i ograniczonych systemów etykietowania.
+    sixth_section_title: Niezawodna, wydajna, wszechstronna
+    sixth_section_left_sub_title_one: Brak kosztownych umów serwisowych
+    sixth_section_left_sub_text_one: Drukarki Foenix są produkowane z minimalną ilością komponentów, aby zapewnić maksymalną niezawodność. Brak pomp, zaworów, sprężonego powietrza, ładowania kropli i filtrów powietrza oznacza niskie koszty utrzymania.
+    sixth_section_left_sub_title_two: Najniższy koszt wydruku
+    sixth_section_left_sub_text_two: Technologia piezoelektryczna zastosowana w drukarce FX ONE wymaga tylko jednego szczelnego wkładu z atramentem i nie wymaga dodatkowego rozpuszczalnika do uzupełniania. Znacznie obniża to koszty eksploatacji.
+    sixth_section_left_sub_title_three: Stała wydajność druku
+    sixth_section_left_sub_text_three: Drukarki FX ONE drukują w wysokiej rozdzielczości. Możesz drukować logo, kody kreskowe 1D i 2D, zmienne...
+    sixth_section_left_sub_title_four: Zaufanie operatora
+    sixth_section_left_sub_text_four: Łatwa instalacja, edycja komunikatów, programowanie i łatwe serwisowanie.
+    sixth_section_right_sub_title_one: Sprawdzona technologia
+    sixth_section_right_sub_text_one: Wykorzystuje głowicę drukującą Xaar o wysokiej rozdzielczości, której technologia została już sprawdzona w wielu tysiącach drukarek z powodzeniem sprzedanych na całym świecie.
+    sixth_section_right_sub_title_two: Integracja systemu
+    sixth_section_right_sub_text_two: Zintegruj się z fabrycznym systemem sieciowym lub podłącz do skanerów przemysłowych, enkoderów, wag kontrolnych lub innych urządzeń, zgodnie z wymaganiami.
+    sixth_section_right_sub_title_three: 100% czasu sprawności 0% przestojów
+    sixth_section_right_sub_text_three: "Drukowanie 24x7: Nigdy nie przerywaj drukowania nawet podczas wymiany wkładu!"
+    sixth_section_right_sub_title_four: Innowacjyjna automatyczna migawka
+    sixth_section_right_sub_text_four: "Aby chronić najbardziej krytyczną część drukarki: silnik głowicy drukującej"
+    seventh_section_title: Bezbłędne wydruki, za każdym razem
+    seventh_section_text: Wysoka jakość, dobre wykonanie, wysoka precyzja to właśnie drukarki FX ONE. Oferujemy najprostszy i najbardziej efektywny sposób kodowania Twojego produktu w wysokiej rozdzielczości.
+    low_ink: Najniższe zużycie atramentu na rynku
+    low_ink_text: Przestań wydawać fortunę na wkłady atramentowe i umowy serwisowe!
+    low_ink_text_two: Drukarki Foenix zapewniają najniższe w branży koszty eksploatacji i najniższy koszt wydruku
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: Wysoka rozdzielczość druku bezpośrednio na kartonach, tackach i workach na linii produkcyjnej eliminuje konieczność stosowania kosztownych opakowań z nadrukiem lub drogich etykiet.
+    grid_title_one: Inteligentne rozwiązanie do druku opakowań w wysokiej rozdzielczości
+    grid_description_one_html: "Nowy FX ONE Standard oferuje niewiarygodną jakość druku w kompaktowej drukarce o pełnych możliwościach. Może być używana jako prosta, samodzielna, łatwa w programowaniu drukarka lub zintegrowana z systemem sieciowym o pełnym zakresie produkcji. Nie ma potrzeby stosowania drogich etykiet: Użyj FX ONE Standard do drukowania w wysokiej rozdzielczości bezpośrednio na kartonach, tackach, workach lub innych produktach na linii produkcyjnej, aby wyeliminować konieczność stosowania kosztownych opakowań z nadrukiem lub drogich etykiet."
+    grid_link_one: Pobierz próbkę wydruku
+    grid_title_two: Oszczędzaj czas, oszczędzaj pieniądze
+    grid_description_two_html: "Nie ma potrzeby stosowania skomplikowanych procedur uruchamiania i wyłączania. Wystarczy wyłączyć urządzenie na koniec dnia i włączyć je ponownie następnego. <br> Drukarka FX ONE została zaprojektowana z minimalną ilością komponentów, aby zapewnić maksymalną niezawodność. Brak pomp, zaworów, sprężonego powietrza i pojedynczej płytki drukowanej oznacza niskie koszty utrzymania i brak kosztownych umów serwisowych. <br> <br> Niższe koszty druku - monitoruj i zarządzaj kosztem wydruku, aby łatwo zmniejszyć zużycie atramentu o 75%. Drukowanie za pomocą mikrokropelek atramentu i szczelnego wkładu z atramentem zapewnia niski koszt wydruku bez marnowania atramentu. Łatwo przepływający atrament na bazie oleju znajduje się w szczelnie zamkniętym wkładzie z atramentem o pojemności 110 ml, co zapewnia brak odpadów, zanieczyszczeń i bałaganu. Wymiana wkładu trwa kilka sekund, podczas gdy drukarka nadal drukuje. Drukarka może być zaprogramowana do automatycznego oczyszczania i czyszczenia. "
+    grid_link_two: Uzyskaj szybką wycenę
+    grid_title_three: Wszechstronność produkcji
+    grid_description_three_html: "Kompaktowa i innowacyjna konstrukcja przemysłowa FX ONE umożliwia przenoszenie drukarki w różne miejsca w ciągu kilku minut. Wystarczy ją odłączyć i przenieść. Dzięki dużemu ekranowi dotykowemu można bezproblemowo sterować wszystkimi funkcjami drukowania. Wystarczy nacisnąć przycisk drukowania i rozpocząć drukowanie na czymkolwiek. <br> <br> Drukarki FX ONE mogą być połączone w celu zapewnienia druku po obu stronach kartonu z takimi samymi lub różnymi komunikatami. Wysoka rozdzielczość druku w połączeniu z możliwością importowania dowolnych stylów czcionek, grafiki i drukowania w dowolnych językach poprawi wizerunek Twojego produktu."
+    grid_title_four: Pełna zdolność do integracji
+    grid_description_four_html: "Pakiet oprogramowania Foenix FX APP umożliwia pełną integrację z drukarkami sieciowymi, dostęp do baz danych, tworzenie komunikatów w trybie off-line, łączenie ze skanerami przemysłowymi, czytnikami kodów kreskowych, weryfikatorami i innymi urządzeniami produkcyjnymi. <br> Wybór komunikatów może być ręczny lub zabezpieczony za pomocą czytnika kodów kreskowych. "
+    grid_link_four: Dowiedz się więcej
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: Inteligentna alternatywa
+    fx_one_remote_sub_two: dla druku CIJ
+    fx_one_remote_text: Zdalna drukarka atramentowa FX ONE Remote jest jedną z najtańszych drukarek
+    fx_one_remote_text_two: na kod i najniższe koszty utrzymania dostępnych drukarek małych znaków.
+    fx_one_remote_text_three: Oferuje prawdziwą alternatywę dla kodowania Twoich produktów.
+    second_section_title: Przegląd
+    first_card_title: Kodowanie i znakowanie w wysokiej rozdzielczości
+    first_card_text: Od 1 do 8 linii nadruku o wysokości 2-18 mm.
+    second_card_title: Łączność Pc
+    second_card_text: Przez kabel USB lub Ethernet do bezpośredniego tworzenia wiadomości lub system sieci fabrycznej.
+    third_card_title: Grafika, loga i kody kreskowe
+    third_card_text: Łatwe importowanie grafiki JPEG i BMP za pomocą FX App.
+    fourth_card_title: Prosty ekran i klawiatura
+    fourth_card_text: Do lokalnego sterowania prędkością i kierunkiem pracy drukarki oraz opóźnieniem komunikatu.
+    fifth_card_title: Instalacja Out of the Box
+    fifth_card_text: Minimalna ilość komponentów zapewnia maksymalną niezawodność.
+    sixth_card_title: Kody kreskowe 1D i 2D
+    sixth_card_text: Wysokiej rozdzielczości wydruk kodów kreskowych 1D i 2D (QR Codes - data matrix) zawierających zmienne dane.
+    seventh_card_title: 2 lata gwarancji
+    seventh_card_text: Przedłużenie o jeden, dwa lub trzy lata
+    eigth_card_title: Sterownik dotykowy
+    eigth_card_text: Proste interaktywne programowanie okienkowe z FX APP. Niezawodne drukowanie za pomocą jednego kliknięcia.
+    ninth_card_title: Tworzenie sieci
+    ninth_card_text: Zarządzaj wieloma drukarkami z jednego miejsca. Monitoruj postępy, śledź usterki i zyskaj wgląd dzięki analityce druku.
+    tenth_card_title: Czcionka True Type i Unicode
+    tenth_card_text: Umożliwia tworzenie wiadomości przy użyciu dowolnej czcionki i w dowolnym języku
+    eleventh_card_title: Duży wkład z tuszem olejowym
+    eleventh_card_text: Niski koszt kodowania i czysty system farbowy, idealny do drukowania na porowatych powierzchniach.
+    twelfth_card_title: Połączenie wieloportowe
+    twelfth_card_text: Do enkoderów, alarmów zewnętrznych i alternatywnych urządzeń wykrywających produkt.
+    thirteenth_card_title: Tryb oszczędzania atramentu
+    thirteenth_card_text: Zmniejszenie zużycia atramentu nawet o 75%
+    seventh_section_title: Wszechstronność produkcji
+    seventh_section_text: Kompaktowa i innowacyjna konstrukcja przemysłowa FX ONE ułatwia przenoszenie drukarki w różne miejsca w ciągu kilku minut. Wystarczy ją odłączyć i przenieść. Dzięki dużemu ekranowi dotykowemu można bezproblemowo kontrolować wszystkie operacje drukowania. Wystarczy nacisnąć przycisk drukowania i rozpocząć drukowanie na czymkolwiek.
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: Drukarka dużych znaków o wysokości druku do 72mm. Doskonała alternatywa dla drogich, skomplikowanych i ograniczonych systemów etykietowania.
+    first_section_text_two: "Doskonała alternatywa dla drogich, skomplikowanych i ograniczonych systemów etykietowania."
+    coming_soon: JUŻ WKRÓTCE
+    grid_title_one: Inteligentny sposób na oszczędzanie na druku etykiet
+    grid_description_one_html: "Drukarka atramentowa FX ONE Plus do druku dużych znaków daje użytkownikowi kontrolę nad kosztem wydruku etykiet. <br> <br> Oprogramowanie oparte na systemie Windows zostało zaprojektowane specjalnie z myślą o druku etykiet, czyli obszarze, w którym kontrola kosztów wydruku jest najważniejsza. Dzięki drukowaniu bezpośrednio na kartonach, zamiast na etykietach, efektywność kosztowa wzrasta znacząco. <br> <br> FX ONE Plus oferuje dalszą elastyczność integracji i może łączyć się z bazami danych, pozwala na pełne zdalne sterowanie przez istniejące oprogramowanie do zarządzania produkcją i oferuje pełne możliwości sieciowe, w tym WiFi. <br> <br> Zaprojektowana do taniego kodowania i znakowania na kartonach i pudełkach, prawdziwa alternatywa dla drukarki etykiet. Nie ma potrzeby stosowania skomplikowanych procedur uruchamiania i wyłączania. Wystarczy wyłączyć maszynę na koniec dnia i włączyć ją ponownie następnego. <br> <br> Oprócz kartonów można drukować na papierze, drewnie, tkaninie, EPS, piance, betonie itd."
+    huge_cost_savings: Ogromna oszczędność kosztów dzięki zastąpieniu etykiet i wstępnie zadrukowanych opakowań drukiem o wysokiej rozdzielczości bezpośrednio na kartonach - idealne rozwiązanie dla pudełek, worków, tacek, palet drewnianych i innych
+    plus_newsletter_title: BIULETYN FOENIX
+    plus_newsletter_description: Bądź pierwszą osobą, która dowie się, kiedy
+    plus_newsletter_description_two: wprowadzamy na rynek FX ONE Plus
+    placeholder: Wpisz swój adres e-mail i otrzymuj powiadomienia o premierze
+  software:
+    first_section_title_one: Kontroler FX TOUCH
+    first_section_text_one: Steruj swoją drukarką za pomocą jednego dotknięcia. Oprócz typowych funkcji, takich jak kody kreskowe, liczniki, loga, data, czas, zmiana itp. drukarka FX ONE jest standardowo wyposażona w oprogramowanie na PC i łączność sieciową.
+    first_section_text_two: Foenix Coding rozumie sztukę prostoty i stworzył prostą i efektywną kosztowo drukarkę, która jest dokładnie dopasowana do specyfikacji klienta.
+    first_section_text_three: Dużo uwagi poświęciliśmy projektowi interfejsu użytkownika FX APP, aby ułatwić Ci pracę nad codziennymi projektami.
+    first_section_text_four: FX APP działająca na kontrolerze dotykowym FX jest również dostępna jako oprogramowanie dla komputerów PC, dzięki czemu można sterować drukarką z dowolnego komputera.
+    second_section_title: Oprogramowanie FX APP
+    second_section_text: Ostateczne narzędzie, które zawsze pozwala na kontrolę produkcji, pomagając w redukcji kosztów. Nasza FX APP może być uruchomiona zarówno na sterowniku Foenix jak i na komputerze PC oferując integrację i elastyczność oraz może łączyć się z bazami danych, pozwalając na pełne zdalne sterowanie przez istniejące oprogramowanie do zarządzania produkcją z pełną możliwością pracy w sieci.
+    second_section_text_two: Foenix FX APP umożliwia projektowanie wiadomości w rekordowym czasie dzięki przyjaznemu interfejsowi użytkownika.
+    second_section_check_one: Proste interaktywne programowanie windowsowe
+    second_section_check_two: Nieograniczone przechowywanie wiadomości
+    second_section_check_three: Tryb drukowania oszczędzający atrament
+    second_section_check_four: Używa czcionki True Type i Unicode
+    second_section_check_five: Importuje loga w formacie JPEG i BMP
+    second_section_check_six: Obsługa wielu języków
+    second_section_card_one: "Fx App: Kliknij i drukuj"
+    second_section_card_two: Zoptymalizuj swoje procesy drukowania dzięki FX APP
+    second_section_card_three: Niezawodne drukowanie za pomocą jednego kliknięcia
+    second_section_card_four: Integracja oprogramowania w celu dostosowania do Twojego przepływu pracy
+    third_section_left_title: FX APP
+    third_section_left_sub_title: Cechy
+    third_section_left_text_one: Zgodność z systemem Windows XP i nowszym
+    third_section_left_text_two: Intuicyjne tworzenie wiadomości za pomocą ikon
+    third_section_left_text_three: Obsługa czcionek True Type i Unicode
+    third_section_left_text_four: Grafika, loga i kody kreskowe bezpośrednio importowane w formacie JPEG i BMP
+    third_section_left_text_five: Czas i wiele formatów daty
+    third_section_left_text_six: Tryb drukowania oszczędzający atrament
+    third_section_left_text_seven: Nieograniczone przechowywanie wiadomości
+    third_section_left_text_eight: Obsługa wielu języków
+    third_section_left_text_nine: Foenix Coding Ltd nieustannie ulepsza produkty i oprogramowanie. Specyfikacje mogą ulec zmianie.
+    third_section_right_title: FX ONE TOUCH
+    third_section_right_sub_title: Cechy
+    third_section_right_title_two: Łączność
+    third_section_right_text_one: 7" ekran dotykowy
+    third_section_right_text_two: Proste interaktywne programowanie windowsowe
+    third_section_right_text_three: Obsługuje FX APP
+    third_section_right_sub_title_two: Łączność
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 Multi port, Ethernet (opcja)
+    third_section_right_text_five: Wejście 24 V DC
+    third_section_right_text_six: Obsługa zewnętrznych alarmów, sygnalizatorów, enkoderów
+    third_section_right_text_seven: Automatyczne programowanie z czytnikiem kodów kreskowych
+    third_section_final_text: Interfejs z ekranem dotykowym, który upraszcza każdą czynność dzięki aplikacji FX APP. Łatwa konfiguracja i nawigacja eliminują potrzebę szkolenia i zapewniają bezproblemowe, intuicyjne drukowanie.
+    extremely_simple: Niezwykle prosty w użyciu
+    extremely_simple_text: Dużo uwagi poświęciliśmy projektowi interfejsu użytkownika aplikacji FX APP, aby uprościć przepływ pracy w codziennych projektach. Łatwa konfiguracja i nawigacja eliminują potrzebę szkolenia i zapewniają bezproblemowe, intuicyjne drukowanie.
+    extremely_simple_button: Poproś o dostęp do aplikacji FX APP
+    grid_title_one: Obsługa wielu języków
+    grid_description_one: Oprogramowanie przetłumaczone na 19 języków i można drukować w każdym języku
+    grid_title_two: Utrzymuj koszty na niskim poziomie
+    grid_description_two: Łatwo kontroluj koszt wydruku i liczbę wydruków z jednego wkładu. Utrzymanie kosztów na niskim poziomie jeszcze nigdy nie było tak proste!
+    grid_title_three: Praca w sieci i integracja
+    grid_description_three_html: "FX APP daje pełną możliwość integracji z drukarkami sieciowymi, dostępu do baz danych, tworzenia komunikatów off-line, łączenia się ze skanerami przemysłowymi, czytnikami kodów kreskowych, weryfikatorami i innymi urządzeniami produkcyjnymi. <br> <br> Zaawansowane zarządzanie drukarkami: <br> Maksymalizacja czasu sprawności poprzez zarządzanie produkcją na wielu drukarkach Foenix z jednego miejsca. Monitoruj postępy, śledź błędy i zyskaj wgląd dzięki analityce druku. "
+    grid_title_four: Oprogramowanie firmware Foenix
+    grid_description_four: Drukarki, które z czasem stają się jeszcze lepsze. Spraw, aby Twoja drukarka FX ONE była jeszcze bardziej wydajna dzięki ulepszeniom wydajności i dodatkowym funkcjom w każdej aktualizacji oprogramowania sprzętowego.
+    grid_title_five: Pełna integracja z naszą biblioteką DLL
+    grid_description_five_html: "Co to jest DLL? <br> <br> DLL (Dynamic Link Library) to zestaw funkcji oprogramowania, które mogą być wykorzystane przez zewnętrznych programistów do włączenia do ich własnych aplikacji. Foenix DLL dostarcza zestaw funkcji, które umożliwiają sterowanie drukarką FX ONE za pomocą aplikacji FX APP lub kontrolera dotykowego Foenix. Biblioteka znacznie upraszcza proces komunikacji z drukarką, ponieważ zajmuje się samym protokołem. Programista wykorzystuje wtedy stosunkowo prosty mechanizm do monitorowania drukarek, ładowania wiadomości i przesyłania danych."
+    grid_title_six: Zapobieganie błędom użytkownika w ustawieniach drukowania
+    grid_description_six: Koniec z błędami dzięki automatycznej konfiguracji ustawień drukowania za pomocą czytnika ręcznego. Skaner kodów kreskowych może być użyty do wybrania wiadomości do wydrukowania lub do wypełnienia pól w wiadomości poprzez zeskanowanie odpowiednich kodów kreskowych. Mniej ręcznej interwencji oznacza mniej błędów w kodowaniu.
+    newsletter_title: Otrzymuj nasze najnowsze aktualizacje oprogramowania
+    newsletter_description: Zapisz się, aby jako pierwszy otrzymać informację o dostępności aktualizacji
+    fourth_section_title_one: Obsługa wielu języków
+    fourth_section_text_one: Oprogramowanie przetłumaczone na 19 języków i można drukować w każdym języku
+    fourth_section_title_two: Utrzymuj koszty na niskim poziomie
+    fourth_section_text_two: Łatwo kontroluj koszt wydruku i liczbę wydruków na wkład.
+    fourth_section_text_two_two: Utrzymanie kosztów na niskim poziomie jeszcze nigdy nie było tak proste!
+    fourth_section_title_three: Praca w sieci i integracja
+    fourth_section_text_three: FX APP daje pełne możliwości integracji z drukarkami sieciowymi, dostępu do baz danych, tworzenia komunikatów off-line, łączenia się ze skanerami przemysłowymi, czytnikami kodów kreskowych, weryfikatorami i innymi urządzeniami produkcyjnymi.
+    fourth_section_title_four: FX APP
+    fourth_section_text_four: Zaawansowane zarządzanie drukarkami.
+    fourth_section_text_four_two: Maksymalizuj czas sprawności poprzez zarządzanie produkcją na wielu drukarkach Foenix z jednego miejsca. Monitoruj postępy, śledź błędy i zyskaj wgląd dzięki analityce druku.
+    fourth_section_title_five: Zapobieganie błędom użytkownika w ustawieniach drukowania
+    fourth_section_text_five: Koniec z błędami, dzięki automatycznej konfiguracji ustawień drukowania za pomocą czytnika ręcznego. Skaner kodów kreskowych może być używany do wybierania wiadomości do wydruku lub do wypełniania pól w wiadomości poprzez skanowanie odpowiednich kodów kreskowych. Mniej ręcznej interwencji oznacza mniej błędów w kodowaniu.
+    button: Oprogramowanie do testowania na żywo
+    fourth_section_title_six: Oprogramowanie firmware Foenix
+    fourth_section_text_six: Drukarki, które z czasem stają się jeszcze lepsze.
+    fourth_section_text_six_two: Spraw, aby Twoja drukarka FX ONE była jeszcze bardziej wydajna dzięki ulepszeniom wydajności i dodatkowym funkcjom w każdej aktualizacji oprogramowania sprzętowego.
+    fifth_section_title_one: Pełna integracja z naszą biblioteką DLL
+    fifth_section_sub_title: Co to jest DLL?
+    fifth_section_text_one: DLL (Dynamic Link Library) jest zestawem funkcji oprogramowania, które mogą być wykorzystane przez zewnętrznych programistów do włączenia do ich własnych aplikacji. Opisana tutaj Foenix DLL dostarcza zestaw funkcji, które umożliwiają sterowanie drukarką FX ONE za pomocą aplikacji FXPro lub kontrolera dotykowego Foenix. Biblioteka znacznie upraszcza proces komunikacji z drukarką dla programisty, ponieważ zajmuje się ona faktycznym stosowaniem protokołu. Programista używa wtedy stosunkowo prostego mechanizmu do montowania drukarek, ładowania wiadomości i przesyłania danych.
+    fifth_section_title_two: Jak działa DLL?
+    fifth_section_text_two: Biblioteka DLL jest wykorzystywana przez klientów do komunikacji z drukarką. Poniższy diagram przedstawia podstawowy przegląd pokazujący, w jaki sposób DLL znajduje się pomiędzy aplikacją a drukarką.
+  industry:
+    first_section_title: Dostarczamy rozwiązania dla wszystkich branż i każdego zastosowania
+    first_section_text: Zarówno początkujące firmy z jedną małą linią produkcyjną, jak i międzynarodowe korporacje z najbardziej wymagającymi aplikacjami mogą wykorzystać drukarkę FX ONE do obniżenia kosztów znakowania, zapobiegania przestojom, automatyzacji procesów ręcznych i poprawy jakości produktów dzięki kodowaniu w wysokiej rozdzielczości.
+    first_section_button_one: Zamów demo
+    first_section_button_two: Sprawdź ceny
+    trusted_title: Zaufanie przedsiębiorstw
+    trusted_title_two: ze wszystkich branż
+    trusted_text_html: "Firma Foenix Coding zainstalowała drukarki atramentowe na całym świecie w przemyśle spożywczym, napojów, farmaceutycznym, przemysłowym, elektronicznym i budowlanym. <br> Wśród naszych klientów znajduje się wielu największych producentów w tych sektorach, ale równie ważne jest to, że Foenix cieszy się zwyczajem wielu małych firm produkcyjnych na całym świecie, które również doceniają koncepcje niskich kosztów, niskich nakładów na konserwację, które są wbudowane w drukarki. "
+    fd_title: Żywność i napoje
+    fd_card_title_one: Wyroby piekarnicze
+    fd_card_text_one: ciastka, ciasteczka...
+    fd_card_title_two: Produkty zbożowe
+    fd_card_text_two: płatki śniadaniowe, makaron...
+    fd_card_title_three: Przetworzone owoce i warzywa
+    fd_card_text_three: produkty w puszkach, suszone owoce...
+    fd_card_title_four: Wyroby cukiernicze
+    fd_card_text_four: czekolada, słodycze, guma do żucia...
+    fd_card_title_five: Produkty przekąskowe
+    fd_card_text_five: chrupki, słodkie przekąski, czekolada...
+    fd_card_title_six: Ryby i produkty rybne
+    fd_card_text_six: ryby w puszkach, ryby suszone, pudełka chłodnicze do sprzedaży detalicznej...
+    fd_card_title_seven: Produkty mleczarskie
+    fd_card_text_seven: mleko, jogurt, ser, śmietana...
+    fd_card_title_eight: Napoje alkoholowe
+    fd_card_text_eight: wino, napoje alkoholowe, likiery...
+    fd_card_title_nine: Produkty mielone i łuskane
+    fd_card_text_nine: mąka, ryż...
+    fd_card_title_ten: Mięso
+    fd_card_text_ten: paczkowane, suszone, świeże, mrożone...
+    fd_card_title_eleven: Kawa, kakao, herbata
+    fd_card_text_eleven: szlifowane, indywidualne opakowania...
+    fd_card_title_twelve: Żywność dla niemowląt
+    fd_card_title_thirteen: Dania gotowe
+    fd_card_text_thirteen: pizza, kanapki...
+    fd_card_title_fourteen: Napoje bezalkoholowe
+    fd_card_text_fourteen: woda, lemoniady, soki owocowe...
+    fd_card_title_fifteen: Produkty mrożone
+    fd_card_title_sixteen: Przyprawy, esencje, środki do gotowania i pieczenia
+    fd_card_title_seventeen: Oleje jadalne i podobne produkty, tłuszcze twarde
+    fd_card_text_seventeen: oliwa z oliwek, masło, smalec...
+    fd_card_title_eighteen: Opakowania Tetra
+    cp_title: Kosmetyki i
+    cp_title_two: Leki
+    cp_card_title_one: Kosmetyki i higiena osobista
+    cp_card_text_one: szampon, mydło, pasta do zębów, chusteczki...
+    cp_card_title_two: Produkty kosmetyczne
+    cp_card_text_two: perfumy, produkty do włosów, kosmetyki do makijażu...
+    cp_card_title_three: Produkty farmaceutyczne
+    cp_card_text_three: leki, syropy, pigułki, tubki z kremem...
+    cp_card_title_four: Sprzęt medyczny
+    cp_card_text_four: maski na twarz, strzykawki, bandaże, opatrunki...
+    ind_title: Przemysłowe
+    ind_card_title_one: Wyroby metalowe
+    ind_card_text_one: części gotowe lub półfabrykaty, podzespoły...
+    ind_card_title_two: Przemysł motoryzacyjny
+    ind_card_text_two: części zamienne, orurowanie samochodowe, wnętrze samochodu, części gumowe...
+    ind_card_title_three: Produkty chemiczne
+    ind_card_text_three: Chemia przemysłowa, detergenty, środki czyszczące...
+    ind_card_title_four: Sprzęt elektroniczny, podzespoły, części składowe
+    ind_card_text_four: Płyty PCB, karty bezpieczeństwa...
+    ind_card_title_five: Materiały budowlane
+    ind_card_text_five: podłogi, płytki, drewno, kamienie, panele ścienne, płyty gipsowe...
+    ind_card_title_six: Nawozy, pestycydy i inne produkty do obróbki roślin
+    ind_card_title_seven: Produkty wytłaczane i podawane przez wstęgę
+    ind_card_text_seven: rury plastikowe, kable, saszetki...
+    ind_card_title_eight: Produkty ogrodnictwa, rolnictwa, leśnictwa i rybołówstwa
+    ind_card_text_eight: taśma ogrodowa...
+    ind_card_title_nine: Farby, barwniki, środki barwiące, tusze, lakiery i podobne produkty
+    ind_card_title_ten: Produkty z drewna i papieru, masa celulozowa, drewno nieprzetworzone
+    ind_card_title_eleven: Meble i części mebli
+    ind_card_title_twelve: Produkty naftowe
+    tp_title: Typowe zastosowania
+    tp1: Pojemniki aerozolowe
+    tp2: Wiadra
+    tp3: Folia
+    tp4: Opakowania Tetra
+    tp5: Ampułki
+    tp6: Kanistry
+    tp7: Szklane słoje
+    tp8: Tace głęboko wyciągnięte, sprasowane, złożone
+    tp9: Bag-in-box (kombinacja opakowania foliowego i kartonowego)
+    tp10: Puszki plastikowe, metalowe
+    tp11: Dzbanki
+    tp12: Rury
+    tp13: Torby papierowe, plastikowe, metalowe
+    tp14: Balony, naczynia do picia
+    tp15: Metalowe puszki
+    tp16: Torebki/ woreczki rurowe
+    tp17: Torebki do zgrzewania
+    tp18: Opakowania kartonowe dla płynów i past
+    tp19: Woreczki
+    tp20: Opakowania z folii
+    tp21: Beczki
+    tp22: Wkłady
+    tp23: Palety - jednostka ładunkowa
+    tp24: Owijarki (skręcane, składane, zgrzewane, obkurczane, rozciągane)
+    tp25: Kosze
+    tp26: Pudełka
+    tp27: Szpule
+    tp28: Płyty gipsowo-kartonowe
+    tp29: Opakowania blistrowe
+    tp30: Puszki kompozytowe
+    tp31: Worki papierowe, plastikowe, metalowe
+    tp32: Rolki toaletowe
+    tp33: Butelki Szkło
+    tp34: Skrzynki
+    tp35: Worki/ woreczki z bocznym uszczelnieniem
+    tp36: Taśma ogrodowa
+    tp37: Butelki Metaliczne
+    tp38: Filiżanki
+    tp39: Kartony składane
+    tp40: Okładki na książki
+    tp41: Butelki z tworzywa sztucznego
+    tp42: Perkusja
+    tp43: Szpule
+    tp44: Taśmy
+    tp45: Pudełka kartonowe, plastikowe
+    tp46: Etui
+    tp47: Pakiety wiązane
+    tp48: Drewno
+    tp49: Wykładzina podłogowa
+    tp50: Torby z płaskim dnem
+    tp51: Kontenery zbiornikowe
+    tp52: Worki na mąkę
+    tp53: Kamienie
+    tp54: Opatrunek medyczny
+    tp55: Karty bezpieczeństwa
+    tp56: Kostka brukowa
+    tp_button_one: Zamów bezpłatną wersję próbną
+    tp_button_one_msg: Wypróbuj FX ONE przez 7 dni
+    tp_button_two: Pobierz darmowy wydruk testowy
+    tp_button_two_msg: Na każdym z Twoich produktów
+  video:
+    first_section_title: Filmy
+    first_section_text: Obejrzyj drukarki Foenix drukujące na dowolnych przedmiotach i dowolnych materiałach.
+    first_section_text_two: Więcej filmów już wkrótce, upewnij się, że regularnie sprawdzasz tę stronę i naszą stronę youtube.
+    more_videos: Więcej filmów już wkrótce
+    video_text_one: Rozwiązanie do kodowania opakowań podstawowych
+    video_text_one_cont: Drukarka FX ONE Remote, najbardziej ekonomiczne rozwiązanie do znakowania produktów
+    video_text_two: Rozwiązanie do kodowania opakowań wtórnych
+    video_text_two_cont: Drukarka FX ONE Standard, najbardziej ekonomiczne rozwiązanie dla aplikacji znakowania kartonów
+    video_text_three: Jak uzyskać wysokiej jakości, wydajne kodowanie na kartonie? Dowiedz się tego dzięki drukarce FX ONE Standard.
+    video_text_four: FX ONE Standard - najlepsza drukarka do wszystkich zastosowań przemysłowych
+    video_text_five: Drukarka FX ONE Standard, idealna do produkcji pudełek zewnętrznych, tacek i tektury falistej
+    video_text_six: "FX ONE Standard: Jedna drukarka, wiele zastosowań: Kody kreskowe, loga, kodowanie kartonów i wiele innych."
+    video_text_seven: Dzięki FX ONE Standard można obniżyć koszty, zastępując drukarkę etykiet
+  legal:
+    first_section_title: INFORMACJE PRAWNE
+    cookie_policy: Polityka dotycząca plików cookie
+    privacy_policy: Polityka prywatności
+  contact_coders:
+    first_section_title: Kontakt Maszyny kodujące i znakujące
+    first_section_text: Podczas gdy drukarki atramentowe są przyszłością, tradycyjne, tanie drukarki do kodowania i znakowania kontaktowego są nadal szeroko stosowane na całym świecie jako bardzo efektywne kosztowo rozwiązania. Kodery stykowe są idealne tam, gdzie produkt wymaga rzadkiej zmiany wiadomości lub środowisko wymaga rozwiązania nieelektronicznego i bezobsługowego. Foenix produkuje te drukarki do użytku z wymienną gumą typu "Baselock" wraz z preimpregnowanymi rolkami atramentowymi lub różnymi uszczelnionymi wkładami atramentowymi.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: Ciągły druk na wszystkich materiałach
+    codaprint_text: Unikalna drukarka do ciągłego, powtarzalnego drukowania na metalu, plastiku lub materiałach porowatych, w tym na arkuszach stalowych, folii wytłaczanej, rurach plastikowych i tekturowych zwojach rdzeniowych. Wykorzystuje szczelny wkład z atramentem dla prostoty i czystości, z wyborem atramentów i kolorów; i jest dostępna z różnymi długościami powtarzania druku i maksymalną wysokością druku 25 mm.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: Wielofunkcyjna drukarka cen i kodów
+    codamark_text: Kompaktowa, prosta drukarka tłokowa, która jest idealna do drukowania dat przydatności na produktach na linii produkcyjnej z wyraźną, precyzyjną jakością druku. Uszczelnione wkłady atramentowe zapewniają szybkie schnięcie nadruku na większości powierzchni, w tym na metalowych puszkach, szklanych słoikach i plastikowych doniczkach Ta tania drukarka ze stali nierdzewnej wykorzystuje powietrze i nie wymaga zasilania elektrycznego. Jest idealna w trudnych lub wilgotnych środowiskach do drukowania na górnej, bocznej lub dolnej części produktu.
+    handroller_title: Wałek ręczny Codaprint
+    handroller_sub_title: Ręczny nadruk na wszystkich powierzchniach
+    handroller_text: Wałek ręczny Codaprint jest przeznaczony do ręcznego drukowania na wszystkich powierzchniach przy użyciu tej samej gamy szybkoschnących farb.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: Kodery stykowe i drukarki z plastikowym wałkiem
+    codapack_text: Rozwiąż swoje problemy z drukowaniem kartonów za pomocą koderów kontaktowych codapack z plastikowym wałkiem farbowym i gumą baselock firmy Foenix Coding.
+    baselock_title: Foenix Baselock
+    baselock_sub_title: Wymienny typ gumy
+    baselock_sub_title_two: dla wszystkich maszyn do kodowania kontaktowego
+    baselock_text_one: SZYBKA I ŁATWA ZMIANA DRUKU
+    baselock_text_two: SZEROKI ZAKRES STYLÓW CZCIONEK
+    baselock_text_three: INDYWIDUALNE LOGA
+    baselock_text_four: STYLE DLA WSZYSTKICH JĘZYKÓW
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: Niezawodna drukarka ciągła firmy Foenix Coding do znakowania z dużą i małą prędkością na metalu, plastiku, szkle, kartonie. Prosty koder kontaktowy do powtarzalnego drukowania produktów z dużą prędkością przy użyciu szybkoschnących, szczelnych wkładów atramentowych.
+    get_prices: Sprawdź ceny
+    cp_title: Ciągły druk na wszystkich materiałach
+    cp_sub_title_one: Zastosowania
+    cp_text_one: Codaprint jest używany do nanoszenia znaków identyfikacyjnych, dat przydatności do spożycia, logo recyklingu, nazw produktów klientów itp. na materiały, które są w ciągłym ruchu lub indeksowane i gdzie wymagany jest powtarzalny nadruk. Niektóre typowe zastosowania to folia wytłaczana, drukowanie toreb, blachy stalowe, wytłaczanie okien plastikowych, folie termokurczliwe, nawijanie rdzeni kartonowych, płyty gipsowe, płyty do pakowania na krawędziach, grzbiety luster i papier.
+    cp_sub_title_two: Łatwy montaż
+    cp_text_two: Codaprint jest łatwo montowany na stałej listwie w poprzek materiału, który ma być znakowany. Pionowa regulacja na urządzeniu daje pozycje włączania i wyłączania drukowania. Drukarka jest napędzana przez tarcie pomiędzy gumowymi oponami na bębnie typograficznym a materiałem.
+    cp_sub_title_three: Atramenty
+    cp_text_three: Wkłady atramentowe są dostępne w wielu rodzajach i kolorach atramentu, aby pasowały do większości powierzchni. Możemy Ci doradzić, jaki asortyment jest najbardziej odpowiedni dla Twojego produktu.
+    cp_sub_title_four: Wybór druku
+    cp_text_four: Standardowy bęben Codaprint jest wyposażony w metalowe pierścienie blokujące do stosowania z wymiennymi gumowymi czcionkami Baselock. Baselock jest dostępny w wielu stylach znaków i niestandardowych logotypach, aby umożliwić szybką zmianę nadruku.
+    cp_sub_title_five: Podkładki transferowe
+    cp_text_five: Głowica drukująca Codaprint powinna być wyposażona w kompletny zestaw podkładek transferowych za każdym razem, gdy używany jest nowy wkład z atramentem.
+    cp_tp1: "TPS030: Dla minimalnego przepływu atramentu"
+    cp_tp2: "TPS060: Dla maksymalnego przepływu atramentu"
+    cp_sub_title_six: Wałek ręczny
+    cp_text_six: Wałek ręczny Codaprint jest przeznaczony do ręcznego drukowania na wszystkich powierzchniach przy użyciu tej samej gamy szybkoschnących farb.
+    ps_title_one: Pomiary
+    ps_title_two: Specyfikacja drukarki Codaprint
+    ps_title_three: Model CP-24/1
+    ps_bp_one: "Długość nadruku: 240mm"
+    ps_bp_two: "Wysokość nadruku: 25 mm"
+    ps_title_four: CP-17/B Wałek ręczny
+    ps_bp_three: "Długość nadruku: 175mm"
+    ps_bp_four: "Wysokość nadruku: 25 mm"
+    ps_title_five: Wkłady Codaprint
+    ps_bp_five: CP111 Czarny standardowy tusz barwnikowy do materiałów nieporowatych
+    ps_bp_six: CP011 Czarny szybkoschnący tusz barwnikowy do materiałów nieporowatych
+    ps_bp_seven: CP5610 Czarny tusz barwnikowy do powierzchni porowatych
+    ps_bp_eight: CP256 Biała farba pigmentowa do ciemnych powierzchni, materiałów porowatych i nieporowatych
+    ps_text: W każdej gamie dostępny jest wybór kolorów
+    list_title: Przegląd
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: Unikalna drukarka do ciągłego drukowania na metalu, plastiku lub materiałach porowatych, takich jak blachy stalowe, folie wytłaczane, rury plastikowe i tekturowe zwoje rdzeniowe.
+    list_subtitle_two: Drukarka kosztów utraconych
+    list_text_two: Najprostsza, tania drukarka do nanoszenia powtarzalnych znaków identyfikacyjnych, dat przydatności do spożycia, logo recyklingu lub nazw produktów klienta na materiał, który jest w ciągłym ruchu.
+    list_subtitle_three: Wysoka prędkość drukowania
+    list_text_three: Drukarka może pracować z bardzo niską prędkością, ale również drukować do 100 metrów na minutę.
+    list_subtitle_four: Prosty system atramentowy
+    list_text_four: Tusz znajduje się w wymiennym wkładzie z tuszem, który posiada zintegrowaną kontrolę tuszu niezależnie od prędkości drukowania, co zapewnia czysty system atramentowy o niskich wymaganiach konserwacyjnych. Ten unikalny system atramentowy zapewnia, że wydruk nigdy nie wyblaknie, aż do opróżnienia wkładu.
+    list_subtitle_five: Wkłady atramentowe
+    list_text_five: Nasze standardowe wkłady atramentowe są odpowiednie do metalu, szkła, plastiku, porowatych powierzchni i innych materiałów. Niektóre zastosowania wymagają specjalnego atramentu.
+    list_subtitle_six: Cechy
+    list_text_six_html: "Drukarka jest napędzana przez opony na bębnie stykającym się z materiałem, co eliminuje konieczność stosowania napędu mechanicznego lub elektrycznego. <br> <br> Ciągły koder rolkowy idealny do: Numeru partii, daty i nadruku logo. <br> <br> Drukarkę można łatwo zamontować nad poruszającym się materiałem do znakowania lub przy zmniejszającej się rolce materiału. <br> <br> Wysokość nadruku może wynosić do 25 mm przy użyciu wymiennych elementów typu Baselock lub płaskich stereolitografów. <br> Dostępne są cztery długości powtarzalnych nadruków do 460mm. "
+    fncdm_title: Odkryj Foenix Codamark
+    fncdm_text: Wyraźne i precyzyjne znakowanie produktów uzyskane w sposób wydajny i ekonomiczny dzięki pneumatycznej drukarce tłokowej Codamark.
+    fncdm_button: Dowiedz się więcej
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Wyraźne i precyzyjne znakowanie produktów osiągane wydajnie i ekonomicznie za pomocą pneumatycznej drukarki tłokowej Codamark. Kompaktowa drukarka tłokowa do maszyn napełniających w linii i obrotowych, drukowania daty przydatności do spożycia i innych zastosowań.
+    phr_title: Pneumatyczna drukarka tłokowa
+    phr_sub_title_one: Drukowanie bez nacisku
+    phr_text_one: Wysokie prędkości można osiągnąć przy niskim ciśnieniu druku 10-20 psi, co umożliwia Codamark drukowanie bez nacisku bez uszkodzenia produktu.
+    phr_sub_title_two: Czysty system atramentowy
+    phr_text_two: Czysty, szybkoschnący wkład z atramentem jest zamontowany w głowicy drukującej, zapewniając czas schnięcia rzędu sekund na większości powierzchni. Uszczelniony wkład sprawia, że operator nigdy nie dotyka atramentu.
+    phr_sub_title_three: Karty katalogowe Codamark
+    phr_text_three: Dalsze informacje dostępne są w kartach katalogowych zawierających wymiary, systemy sterowania i pozycje montażowe.
+    phr_sub_title_four: Szybkozmienne uchwyty typu Baselock
+    phr_text_four: Głowica drukująca jest wyposażona w uchwyt typu, który można zmienić w ciągu kilku sekund. Zapasowe uchwyty mogą być użyte do wstępnego ustawienia typu gumy Baselock.
+    phr_sub_title_five: Wkłady Codamark
+    phr_sub_title_six: Małe
+    phr_sub_title_seven: Duże
+    phr_list_text_one: CM501/38 Czarny wkład atramentowy
+    phr_list_text_two: CM502/38 Czerwony wkład atramentowy
+    phr_list_text_three: CM503/38 Zielony wkład atramentowy
+    phr_list_text_four: CM504/38 Niebieski wkład atramentowy
+    phr_list_text_five: CM506/38 Biały wkład atramentowy
+    phr_list_text_six: CM505/38 Żółty wkład atramentowy
+    phr_list_text_seven: CM501/50 Czarny wkład atramentowy
+    phr_list_text_eight: CM502/50 Czerwony wkład atramentowy
+    phr_list_text_nine: CM503/50 Zielony wkład atramentowy
+    phr_list_text_ten: CM504/50 Niebieski wkład atramentowy
+    phr_list_text_eleven: CM506/50 Biały wkład atramentowy
+    phr_list_text_twelve: CM505/50 Żółty wkład atramentowy
+    ps_title_one: Specyfikacja drukarki Codamark
+    ps_sub_title_one: Model CM-MKV/25
+    ps_bp_one: "Powierzchnia nadruku: 24mm x 24mm"
+    ps_bp_two: "Wymiary obrysu głowicy drukującej: 170mm x 155mm x 85mm"
+    ps_sub_title_two: Model CM-MKV/38
+    ps_bp_three: "Obszar nadruku: 37mm x 37mm"
+    ps_bp_four: "Wymiary obrysu głowicy drukującej: 170mm x 155mm x 85mm"
+    ps_sub_title_three: Model CM-MKV/50
+    ps_bp_five: "Powierzchnia nadruku: 24mm x 48mm"
+    ps_bp_six: "Wymiary obrysu głowicy drukującej: 170mm x 155mm x 85mm"
+    list_one: "Efektywne drukowanie dat przydatności, cen i kodów na:"
+    list_bp_one: Plastikowych tubach
+    list_bp_two: Pokrywach foliowych
+    list_bp_three: Kartonach
+    list_bp_four: Pakietach przepływowych
+    list_bp_five: Butelkach szklanych
+    list_bp_six: Metalowych puszkach itp.
+    list_two: Montaż górny, dolny lub boczny
+    list_three: Automatyczne systemy on-line lub off-line
+    list_four: Szybkoschnący wkład z atramentem
+    list_five: WYPRODUKOWANO W WIELKIEJ BRYTANII
+    fncdp_title: Odkryj Foenix Codaprint
+    fncdp_text: Prosta drukarka do ciągłego drukowania produktów z dużą prędkością przy użyciu szybkoschnących, szczelnych wkładów atramentowych
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Wszystkie drukarki Codapack wykorzystują wymienne, wstępnie impregnowane plastikowe rolki do tuszu i wymienne typu Baselock. Są one łatwo montowane w celu drukowania na górze, na dole lub na boku produktu. Drukarki te są szeroko stosowane tam, gdzie brak czasu przestoju jest koniecznością i wymagany jest najniższy koszt druku na produkcie. W przypadku zmiany kodu lub daty przydatności tylko raz dziennie lub raz w tygodniu, drukarki Codapack są najlepsze.
+    ccirp_title: Kodery stykowe i drukarki z wałkiem farbowym
+    ccirp_sub_title_one: Zastosowania
+    ccirp_text_one_html: 'Najbardziej ekonomiczna gama koderów dla kartonów, worków, tacek z folią termokurczliwą lub materiałów ciągłych. <br> Prosty i wydajny asortyment koderów kontaktowych Codapack wykorzystuje wymienne, wstępnie impregnowane wałki Plastic-Ink i wymienny typ Baselock do drukowania na porowatych powierzchniach. '
+    ccirp_sub_title_two: Korzyści
+    ccirp_text_two: Brak konserwacji. Wszystkie kodery są prostymi mechanicznymi drukarkami, które zapewniają perfekcyjny wydruk dzień po dniu, bez potrzeby jakiejkolwiek konserwacji.
+    ccirp_sub_title_three: Druk dostosowany do potrzeb klienta
+    ccirp_text_three: W asortymencie Baselock dostępnych jest wiele standardowych krojów czcionek, ale z łatwością można wyprodukować niestandardowe style druku, loga i grafiki.
+    ccirp_sub_title_four: Szybka zmiana druku
+    ccirp_text_four: Zmiana tekstu drukowanego na bębnie jest szybką i prostą czynnością. Dostępnych jest sześć różnych modeli wysokości druku, aby spełnić wymagania klientów.
+    ccirp_sub_title_five: Najniższy koszt wydruku
+    ccirp_text_five: Zastosowanie wałków typu Baselock oraz rolek o długiej żywotności z atramentem plastikowym zapewnia najniższy możliwy koszt wydruku produktu.
+    cdp_title: Informacje o Codapack
+    cdp_sub_title_one: Typ Baselock
+    cdp_text_one: Szeroki zakres stylów czcionek Baselock jest oferowany w celu stworzenia komunikatu poprzez proste wciśnięcie czcionki w metalowe pierścienie blokujące lub żebrowaną gumową tuleję.
+    cdp_sub_title_two: Plastikowe rolki do tuszu
+    cdp_text_two_html: 'Te rolki z tuszem są szybko umieszczane w drukarkach Codapack, aby zapewnić gęstą jakość druku na porowatych powierzchniach, takich jak kartony, tace i worki papierowe. <br> Te preinkrustowane rolki o długiej żywotności są jednorazowego użytku, dając czysty i wydajny system atramentowy. Są one dostępne w kolorach: czarnym, niebieskim, czerwonym i zielonym. '
+    cdp_sub_title_three: Rolki z włókna i gąbki
+    cdp_text_three: W przypadku powierzchni nieporowatych każdy z tych wałków może być stosowany ze specjalnymi farbami płynnymi.
+    list_text_one: Regulowane mocowanie sprężyny pozwala na dostosowanie nacisku druku do wytrzymałości kartonu i uzyskanie doskonałego wydruku.
+    list_text_two: Drukarki są produkowane z wytrzymałych odlewów aluminiowych i łożysk rolkowych, co zapewnia im długą bezproblemową żywotność.
+    list_text_three: Obroty bębna są kontrolowane tak, aby zapewnić identyczną pozycję nadruku na każdym kartonie.
+    list_text_four: Wszystkie drukarki z serii Codapack można łatwo zamontować na przenośniku za pomocą jednego prostego uchwytu montażowego.
+  support:
+    first_section_title: Dokumentacja pomocnicza
+    sds_title: Karty charakterystyki (SDS)
+    sds_card_title_one: FX8001
+    sds_card_text_one: Czarna farba olejna
+    sds_card_title_two: FX8201
+    sds_card_text_two: Czarna farba rozpuszczalnikowa
+    sds_card_title_three: CP111
+    sds_card_text_three: Czarny tusz do znakowania
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: Środek czyszczący na bazie oleju
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: Środek czyszczący na bazie rozpuszczalnika
+    sds_card_title_six: CP011
+    sds_card_text_six: Czarny tusz do znakowania
+    sds_card_title_seven: CM011
+    sds_card_text_seven: Czarny tusz do znakowania
+    sds_card_title_eight: CM501
+    sds_card_text_eight: Czarny tusz do znakowania
+    sds_card_title_nine: CM500
+    sds_card_text_nine: Rozpuszczalnik reaktywujący
+    sds_button: Skontaktuj się z nami, aby uzyskać więcej informacji
+    sds_hint: Certyfikaty regulacyjne
+    sds_hint_two: dostępne na życzenie
+    manuals: FX ONE Instrukcje obsługi
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: Instrukcja obsługi
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: Instrukcja obsługi
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: Instrukcja obsługi
+    tech_support: Skontaktuj się z pomocą techniczną
+  components:
+    yellow_button: Dowiedz się więcej
+  contact:
+    contact_title: skontaktuj się z nami
+    contact_title_description: Skontaktuj się z naszym zespołem, aby dowiedzieć się więcej o Foenix Coding.
+    contact_text_one: "Zamów bezpłatny wydruk próbny: Wyślij nam próbkę swojego projektu."
+    contact_text_two: Bezpłatna 7-dniowa wersja próbna dostępna dla osób mieszkających w Wielkiej Brytanii
+    phone: Telefon
+    phone_number: 0044 1932 701 449
+    email: E-mail
+    email_add: sales@foenixcoding.com
+    address: Adres
+    address_text_html: 'Foenix Coding Ltd <br>The Barns - Hilltop Farm | Lyne Lane <br>Lyne | Chertsey | Surrey | KT16 0AW <br>Wielka Brytania '
+    whatsapp: Skontaktuj się z nami na WhatsApp
+    statement: Dołącz do setek firm, które już z nami współpracują
+    talk_to_sales: Porozmawiaj z działem sprzedaży
+    email_us: Możesz również wysłać do nas e-mail bezpośrednio na adres
+    contact_happy: Nasz zespół chętnie odpowie na wszystkie pytania.
+    icon_text: Nasz zespół chętnie odpowie na wszystkie pytania. Wypełnij formularz, a my skontaktujemy się z Tobą tak szybko, jak to możliwe.
+    icon_text_two: Bezpłatny nadruk testowy, prześlij nam próbkę swojego produktu, a my wykonamy nadruk testowy.
+    form_name: Imię i Nazwisko
+    form_email: Adres e-mail
+    form_company: Firma
+    form_country: Kraj
+    form_message: Twoja wiadomość
+    form_phone: Telefon
+  error:
+    four_four_text: Nie znaleziono strony
+    five_zero_zero_text: Przepraszamy, coś poszło nie tak
+  login:
+    fpassword: Zapomniałeś hasła?
+    dont_have_account: Nie masz konta?
+    sign_up: Zarejestruj się
+    email: E-mail
+    password: Hasło
+  seo:
+    home_page:
+      title: "Foenix Coding: Łatwe kodowanie i znakowanie"
+      description: Przemysłowe drukarki do znakowania i kodowania do drukowania w wysokiej rozdzielczości na każdym materiale. Foenix Coding Kodowanie i znakowanie, przemysłowa drukarka atramentowa, drukarka zdalna FX ONE Remote, drukarka FX ONE Standard
+      keywords: '"kodowanie znakowanie, drukarka Foenix, znakowanie przemysłowe, przemysłowa drukarka atramentowa, kodowanie i znakowanie kartonów, kodowanie i znakowanie produktów, kodowanie i znakowanie atramentowe, drukowanie dat, drukarka numerów partii, drukarka kodów kreskowych"'
+    printers:
+      title: "Przemysłowe drukarki atramentowe Foenix"
+      description: Zaprojektowana do taniego kodowania i znakowania na porowatych powierzchniach, prawdziwa alternatywa dla koderów TIJ do drukowania kodów kreskowych, numerów partii, logo, daty przydatności do spożycia.
+      keywords: Przemysłowe drukarki atramentowe, kodery atramentowe, systemy znakowania części, kodowanie produktów, maszyny do znakowania metalu, maszyny znakujące, drukarka numerów seryjnych, identyfikacja produktów, drukowanie numerów seryjnych, drukowanie kodów kreskowych
+    fxone_standard:
+      title: FX ONE Standard - Najlepsza alternatywa dla drukarki TIJ - koder o wysokiej rozdzielczości
+      description: Zaprojektowana do taniego kodowania i znakowania na porowatych powierzchniach, prawdziwa alternatywa dla koderów TIJ do drukowania kodów kreskowych, numerów partii, logo, daty przydatności do spożycia.
+      keywords: "kodowanie niskim kosztem, drukowanie dat, drukowanie na porowatych powierzchniach, alternatywa TIJ, drukarka HP, termiczne drukowanie atramentowe, koder do kartonów, kodowanie na kartonach, drukarka kodów kreskowych, drukarka do drewna"
+    fxone_remote:
+      title: FX ONE Remote - Najlepsza alternatywa dla drukarek CIJ - Przemysłowa drukarka atramentowa o wysokiej rozdzielczości
+      description: Drukarki Foenix to jedne z najniższych kosztów na kod i najmniejszych kosztów utrzymania drukarek małych znaków. Stanowią prawdziwą alternatywę dla skomplikowanych drukarek CIJ w bardzo przystępnej cenie.
+      keywords: "maszyny znakujące, przemysłowa drukarka atramentowa, druk na butelkach, drukarka CIJ, drukarka atramentowa do druku ciągłego, systemy do druku ciągłego, drukarka do szkła, drukarka do metalu, drukarka do butelek, drukarka do PCV"
+    fxone_plus:
+      title: FX ONE Plus - Najlepsza alternatywa dla etykiet i kartonów z nadrukiem - drukarka dużych znaków
+      description: Drukarka dużych znaków o wysokości druku do 72mm. Doskonała alternatywa dla ograniczonych systemów etykietowania do drukowania kodów, logotypów i kodów kreskowych.
+      keywords: "Drukarka etykiet, drukarka kodów kreskowych, drukarka termiczna, drukarka termotransferowa, system etykietowania, etykieta z kodem kreskowym, drukarka dużych znaków, koder walizkowy, drukarki etykietujące, drukowanie kartonów"
+    inks_and_consumables:
+      title: Duże wkłady atramentowe Foenix - wydrukuj ponad 15 milionów znaków
+      description: Farby do zastosowań w sektorze żywności, napojów, kosmetyków, artykułów gospodarstwa domowego, przemysłu i wytłaczania
+      keywords: Tusz MEK, Tusz CIJ, Tusz TIJ, Tusz rozpuszczalnikowy, Tusz olejowy, Tusz UV, FX8001, FX8201, wkład z tuszem Foenix, środek czyszczący Foenix
+    distributors:
+      title: Światowi dystrybutorzy Foenix
+      description: Gama produktów Foenix do druku atramentowego i kodowania stykowego jest dostępna poprzez globalną sieć wykwalifikowanych dystrybutorów oferujących kompleksowe usługi sprzedaży i wsparcia.
+      keywords: kodowanie i znakowanie, naprawa drukarek atramentowych, dystrybutorzy Foenix, resellerzy Foenix, szkolenia Foenix Coding
+    cost_of_ownership:
+      title: Drukarki Foenix Coding - najtańsza opcja znakowania produktów
+      description: Drukarki FX ONE oferują najniższy na rynku koszt wydruku bez miesięcznej lub rocznej umowy serwisowej.
+    about:
+      title: O Foenix - Eksperci w dziedzinie kodowania, znakowania i identyfikowalności
+      description: Foenix Coding jest wiodącym brytyjskim producentem i globalnym dostawcą najnowszych drukarek atramentowych dla przemysłu
+      keywords: Drukarka FX ONE, Drukarki Foenix Coding, drukuj i naklejaj, drukarka do folii, DOD inkjet, Piezo inkjet, drukarka atramentowa Xaar, firma Foenix coding, producent Uk
+    contact:
+      title: Skontaktuj się z zespołem Foenix Coding
+      description: Skontaktuj się z nami, aby uzyskać więcej informacji na temat naszych przemysłowych drukarek atramentowych, naszych atramentów i materiałów eksploatacyjnych. Kontakt Foenix Coding, e-mail Foenix Coding, telefon Foenix Coding
+    faq:
+      title: FAQ - Foenix Coding
+      description: Więcej informacji o gamie drukarek i atramentów Foenix Coding. Wkłady atramentowe Sauven, atrament rozpuszczalnikowy Sauven, atrament olejowy Sauven, baza danych drukowania, kody drukowania, alternatywa TIJ, alternatywa CIJ
+    industry:
+      title: Foenix Coding - rozwiązania w zakresie kodowania i znakowania dla wszystkich gałęzi przemysłu
+      description: 'Drukarki FX ONE są specjalnie zaprojektowane do użytku przemysłowego w takich sektorach jak: żywność, napoje, motoryzacja, budownictwo, przetwórstwo, urządzenia medyczne, farmacja, elektronika i chemia.'
+      keywords: znakowanie atramentowe, kodowanie atramentowe, kodowanie atramentowe, znakowanie atramentowe, opakowania farmaceutyczne, opakowania medyczne, nadruk na rurach, nadruk wytłaczanie, nadruk na butelkach, nadruk na kartonie
+    video:
+      title: "Wideo - Foenix Coding"
+      description: Obejrzyj drukarki Foenix drukujące na dowolnych przedmiotach i dowolnych materiałach.
+    legal:
+      title: "Informacje prawne - Foenix Coding"
+      description: Zobacz nasze zasady dotyczące plików cookie i prywatności.
+    jobs:
+      title: "Kariera: Foenix coding rozwija się. Dołącz do nas!"
+      description: Zawsze szukamy nowych, utalentowanych przyjaciół, którzy podzielają naszą wizję pchania przemysłu do przodu.
+    posts:
+      title: Aktualności i wydarzenia
+      description: Sprawdź aktualności i wydarzenia
+    software:
+      title: Foenix FX APP - Rozwiązania programowe dla przemysłu kodowania i znakowania
+      description: Aplikacja FX APP od Foenix Coding umożliwia projektowanie wiadomości w rekordowym czasie dzięki przyjaznemu interfejsowi użytkownika. Najlepsze oprogramowanie do śledzenia
+      keywords: Oprogramowanie do etykietowania, Oprogramowanie do etykietowania, NiceLabel, FX APP, Użycie według daty, licznika, numeru partii, logo, kodów kreskowych
+    contact_coders:
+      title: Contact Coders - Tradycyjne znakowanie niskim kosztem
+      description: Ekonomiczne drukarki i rozwiązania dla tradycyjnych, tanich drukarek do kodowania i znakowania kontaktowego
+      keywords: Maszyny kodujące, znakujące i drukarki z rolką kontaktową
+    foenix_codaprint:
+      title: Foenix Codaprint - Prosta drukarka do wielokrotnego drukowania
+      description: Foenix Codaprint - niezawodna drukarka ciągła do znakowania metalu, plastiku, szkła, kartonu z dużą i małą prędkością.
+      keywords: Drukarka z rolką ciągłą, numer partii, plastik, kartony, Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - wielofunkcyjna drukarka produktów
+      description: Kompaktowa drukarka tłokowa Codamark do maszyn napełniających w linii i rotacyjnych, drukowania daty przydatności i innych zastosowań firmy Foenix Coding
+      keywords: Kompaktowa drukarka tłokowa, data przydatności, Codamark
+    foenix_codapack:
+      title: Foenix Codapack - Ekonomiczne urządzenia do kodowania kartonów
+      description: Rozwiąż swoje problemy z drukowaniem kartonów za pomocą koderów kontaktowych codapack z plastikowym wałkiem farbowym i gumą baselock firmy Foenix Coding.
+      keywords: Kodery kontaktowe, drukarki z plastikowym wałkiem farbowym, Baselock Codapack
+    support:
+      title: Foenix Coding - Dokumentacja pomocnicza
+      description: Sprawdź instrukcje obsługi i instrukcje użytkownika Foenix Coding, aby dowiedzieć się więcej o naszych rozwiązaniach w zakresie druku kontaktowego i atramentowego
+      keywords: instrukcja obsługi Foenix Coding, instrukcja użytkownika Foenix, Drukowanie atramentowe, instrukcja obsługi FX ONE, Foenix informacje techniczne, FOENIX MSDS
+  news:
+    latest: Najnowsza historia
+    news: Nowości/wydarzenia
