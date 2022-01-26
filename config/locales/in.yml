@@ -1,0 +1,1310 @@
+in:
+  navbar:
+    home: Beranda
+    products: Produk
+    services: Layanan & Dukungan
+    company: Perusahaan
+    admin: Admin
+    countries: Negara
+    jobs: Pekerjaan
+    posts: Postingan
+    login: Masuk
+    logout: Keluar
+    contact: Hubungi Kami
+    contact_o: Kontak
+    printers: Printer
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: Perangkat Lunak
+    inks: Tinta & Bahan Sekali Pakai
+    distributors: Distributor Diseluruh Dunia
+    cost: Biaya Kepemilikan
+    FAQ: FAQ
+    about: Tentang
+    careers: Karir
+    news: Berita & Event
+    privacy_policy: Kebijakan Privasi
+    cookie_policy: Kebijakan Cookie
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | Inggris
+    printers: Printer
+    contact_coders: Kontak Coders
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: Dokumentasi Dukungan
+    industry: Industri
+    video: Video
+    demo: Permintaan Demo
+    bar: Berhentilah menghabiskan banyak uang untuk catridge tinta & kontrak perawatan! Printer Foenix memberikan biaya operasional & biaya percetakan terendah untuk industri
+    legal: Legal
+
+  cookie_bar:
+    content: Dengan menggunakan situs web ini, Anda menyetujui
+    cookie_policy: kebijakan cookie kami
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: Pencarian
+    prompts:
+      search:
+        team: Tim
+        country: Lokasi
+        job_type: Jenis
+
+  jobs:
+    title: FOENIX CODING berkembang
+    tagline: Kami selalu mencari teman baru yang berbakat yang berbagi visi kami untuk mendorong industri lebih maju
+
+  jobs_show:
+    roles_at: Posisi di
+    apply_now: Lamar Sekarang
+    you_will: Anda akan
+    we_are_looking: Kami mencari seseorang yang memiliki
+    we_look_forward: Kami menantikan kabar dari Anda
+
+  faq:
+    title: Pertanyaan yang Sering Diajukan
+    tagline:  Cukup klik salah satu bagian di bawah ini untuk menemukan jawabannya. Kami di sini untuk membantu Anda. Jika Anda tidak dapat menemukan jawaban atas pertanyaan Anda, silakan
+    contact: hubungi kami
+    title1: Apa itu Printer FX ONE?
+    desc1: FX One adalah perangkat printer all-in-one yang dibuat untuk digunakan oleh semua orang. Tidak diperlukan keahlian. Setup dalam hitungan menit, dan dapat berjalan di sebagian besar jalur produksi. Apa fungsinya? Printer ini dapat mencetak hampir pada produk apa pun mulai dari pencetakan sederhana untuk tanggal, hingga nomor lot yang kompleks, penghitung langsung, tanggal dan waktu atau kode shift, barcode dan banyak lagi. Selain fitur-fitur tersebut, FX One akan hadir dengan peningkatan produk untuk menghadirkan pengembangan dan aplikasi paling mutakhir dalam ekosistem pengkodean dan penandaan. Silahkan lihat
+    desc1vid: video
+    desc1end: untuk melihat betapa mudah dan kuat penggunaannya.
+    title2: Bahasa-bahasa yang didukung?
+    desc2: Anda dapat mencetak dalam bahasa apa pun tanpa batasan apa pun
+    desc2end: Mengenai antarmuka perangkat lunak, printer ini mendukung 16 bahasa, tetapi kami akan segera menambahkan bahasa lain. Jika Anda memiliki permintaan bahasa, silahkan kirimkan email ke sales@foenixcoding.com
+    title3: Bagaimana ukuran nya?
+    desc3: Ukuran nya adalah 242mm kali 178mm kali 90mm atau jika Anda lebih suka 9,52 inci kali 7 inci kali 3,54 inci.
+    title4: Di mana saya dapat menemukan distributor resmi Foenix?
+    desc4_1: Melalui jaringan besar distributor kami, kami hadir di setiap benua dan kami dapat menawarkan printer di hampir setiap negara!!
+    desc4_2: Kami percaya bahwa kami hanya dapat sepenuhnya menjamin kualitas produk yang konsisten dan layanan pelanggan terbaik dengan menawarkannya melalui perwakilan lokal kami.
+    desc4_3: Rentang distributor kami yang ada adalah dari perusahaan kecil hingga perusahaan internasional. Berdasarkan pengalaman, kami telah menemukan bahwa bukan ukuran tetapi komitmen, pengetahuan pasar lokal yang luas dan kontak serta kompetensi yang relevan yang merupakan faktor kunci keberhasilan.
+    desc4_4: Reseller kami selalu ada untuk menawarkan kepada Anda
+    desc4_5: Dukungan profesional yang cepat di zona waktu dan bahasa Anda
+    desc4_6: Pengiriman cepat dan hemat biaya.
+    desc4_7: Layanan garansi lokal yang andal.
+    desc4_8: Jangan ragu untuk
+    desc4_9: hubungi kami
+    desc4_10: jika Anda memiliki pertanyaan atau ingin menerima informasi lebih lanjut tentang reseller kami.
+    title5: Kenapa saya tidak bisa masuk ke web?
+    desc5: Halaman masuk kami hanya tersedia untuk distributor kami yang ada untuk memberi mereka akses ke dasbor pribadi mereka. Tidak mungkin bagi orang lain untuk memiliki akses ke halaman ini. Jika Anda adalah distributor FOENIX dan belum memiliki akses ke dasbor Anda, silahkan beri tahu kami.
+    title6: Bisakah saya mendapat uji coba gratis?
+    desc6_1: Jika anda berlokasi di Inggris YA
+    desc6_2: Anda bisa mendapat uji coba gratis selama tujuh hari.
+    desc6_3: Selama uji coba gratis, Anda akan memiliki akses ke semua fungsi printer dan akan dapat memantau biaya per cetak dan dengan cepat melihat berapa banyak uang yang dapat Anda hemat dengan menggunakan printer kami.
+    desc6_4: Uji coba gratis tergantung ketersediaan.
+    title7: Jika saya memiliki printer Foenix yang berbeda - standard atau remote - Apakah saya memerlukan perangkat lunak terpisah untuk masing-masing printer?
+    desc7: Tidak. Semua printer kami sepenuhnya kompatibel dengan Perangkat Lumak kami. Apa pun model yang anda gunakan, and dapat memantau semua printer anda dari FX APP.
+    title8: Apa perbedaaan antara Printer FX ONE Standard dan FX ONE Remote?
+    desc8_1: FX One Standard adalah printer yang sempurna untuk semua kasus aplikasi pengkodean. ini bekerja dengan tinta berbasis minyak untuk permukaan berpori dan akan memberi anda hasil yang sangat baik untuk mencetak di sisi karton.
+    desc8_2: Anda dapat mencetak apa saja mulai dari 8 baris teks sederhana hingga barcode variabel, tanggal kadaluarsa, logo, shift, penghitung, data eksternal dari database, kode QR...
+    desc8_3: Printer ini akan mencetak dalam resolusi tinggi dengan tinggi cetak 18mm
+    desc8_4: Printer ini memiliki biaya percetakan terendah di pasaran, printer ini adalah cara efisien bagi anda untuk mencetak informasi pada sebuah karton
+    desc8_5: FX One Remote juga mempunyai print head dengan resolusi tinggi 18mm
+    desc8_6: Printer Remote hadir dalam 2 model, yaitu shutter manual dan shutter otomatis
+    desc8_7: Printer ini bekerja dengan baik dengan tinta berbasis minyak untuk permukaan berpori (seperti karton, kertas, kayu...) atau tinta berbasis pelarut untuk permukaan tidak berpori (seperti plastik, logam, kaca...).
+    desc8_8: Anda dapat mencetak hampir semua produk dengan printer tersebut
+    title9_1: FX ONE Remote
+    title9_2: Apa perbedaan shutter manual dan shutter otomatis?
+    desc9: Printer FX ONE Remote mempunyai shutter untuk melindungi print head. Dengan versi shutter otomatis, shutter akan menutup secara otomatis setelah percetakan. Dengan versi manual, anda harus membuka shutter secara manual di awal dan menutupnya juga secara manual setelah printer berhenti beroperasi
+    title10: Bisakah saya mencetak di atas produk?
+    desc10: Ya, dengan Print Head Remote dan anda secara teknik dapat mencetak di manapun
+    title11: Jenis tinta apa yang tersedia?
+    desc11_1: Kami mempunyai tinta berkualitas tinggi yang tidak berbau dan tidak berbasis M.E.K. Teknologi Piezo yang digunakan pada printer FX ONE hanya membutuhkan satu cartridge tinta tertutup dan tidak memerlukan pelarut tambahan. ini secara substansial mengurangi biaya operasional.
+    desc11_2: Kami menawarkan tinta berbasis minyak untuk mencetak pada bahan berpori (tatakan, karton, kayu...) dan tinta berbasis pelarut untuk mencetak pada bahan tidak berpori (logam, plastik, kaca...)
+    title12: Apakah ada kontrak perawatan?
+    desc12_1: Tidak ada kontrak perawatan yang mahal.
+    desc12_2: Printer Foenix diproduksi dengan komponen minimal untuk memberikan keandalan maksimum. Tidak ada pompa, tidak ada katup, tidak ada udara bertekanan, tidak ada pengisian tetesan dan tidak ada filter udara, ini berarti hanya memerlukan perawatan yang sangat rendah.
+    title13: Bagaimana saya bisa yakin bahwa saya akan menghemat uang dengan printer FX ONE?
+    desc13_1: Perangkat lunak kami memiliki fitur untuk menghitung jumlah cetak per cartridge dan biaya per cetak untuk setiap pesan yang Anda buat di FX APP.
+    desc13_2: Printer Ini adalah alat yang sangat hebat karena Anda dapat melihat berapa banyak uang yang akan Anda hemat dengan menggunakan printer kami. Anda selalu bisa mengatur biaya
+
+  home:
+    # FIRST SECTION
+    title: Coding and Marking
+    title_bottom: Pembuatan
+    mobile_title: Pembuatan Coding and Marking
+    play: Putar Video
+    download: Unduh Brosur
+    title_span1: Mudah
+    title_span2: Dapat diandalkan
+    title_span3: Sebaguna
+    title_span4: Konsisten
+    title_description: FX ONE Printer adalah printer inkjet solid ber Resolusi Tinggi untuk mencetak nomor lot, digunakan untuk tanggal, teks, logo dan barcode ke semua bahan seperti karton, nampan, botol, kantong plastik, foil, pembungkus makanan, kaleng, ekstrusi dan hampir semua produk.
+    #SECOND SECTION
+    title_second: Generasi baru printer inkjet bebas perawatan
+    title_second_description: DIBUAT DI INGGRIS
+    second_section_one_title: Packaging & Coding
+    second_section_one_description: cetakan kecil atau besar untuk kemasan primer dan sekunder Anda
+    second_section_two_title: Untuk semua industri
+    second_section_two_description: Solusi Marking ber Resolusi Tinggi & ber Adhesi Tinggi untuk setiap industri
+    second_section_three_title: Perangkat Lunak APP FX
+    second_section_three_description: Manajemen printer tingkat lanjut & Optimasi Proses Pencetakan
+    #THIRD SECTION
+    third_section_title: Apa itu coding and marking?
+    third_section_description: Coding and marking adalah mencetak informasi variabel pada produk selama proses manufaktur.
+    first_image: Kode Produksi, Batch & Tanggal
+    second_image: Barcoding
+    third_image: Branding & Informasi Produk
+    fourth_image: Kemampuan Telusur dan Tracking
+    third_section_statement_one: Foenix Coding memahami betapa pentingnya jalur produksi yang tidak terputus.
+    third_section_statement_two: Merupakan misi kami untuk mengembangkan printer yang paling dapat diandalkan di pasaran.
+    #FOURTH SECTION
+    box_coding_title: Box Coding
+    box_coding_description: Aplikasi yang paling umum adalah pengkodean karton. Dengan FX ONE Standard dan FX ONE Plus tidak perlu lagi label mahal. Gunakan printer FX ONE untuk pencetakan resolusi tinggi langsung ke karton, tatakan, karung, atau produk lain di jalur produksi untuk menghilangkan kebutuhan akan kemasan pra-cetak yang mahal atau label yang mahal. Proses batch pendek dan persyaratan pelanggan untuk teks, grafik, dan barcode yang dipersonalisasi dapat dilakukan dengan mudah.
+    product_coding_title: Pengkodean Produk
+    product_coding_description: Aplikasi sejenis pengkodean kemasan individu seperti botol, karton kecil, drum, kaleng, toples, kemasan, tas, foil, dll. Sebagian besar pelanggan kami untuk pengkodean produk biasanya adalah perusahaan yang mencari alternatif untuk CIJ (Continuous Ink Jet). Harga, kesederhanaan dan perawatan yang rendah adalah faktor motivasi. Di pasar ini kami selalu menggunakan printer FX ONE Remote, printer yang benar-benar multifungsi untuk semua industri termasuk makanan, minuman, farmasi, dan elektronik. FX ONE juga ideal untuk menandai ekstrusi, mencetak pada anyaman dan aplikasi industri lain.
+    fifth_section_title_html: "Di rancang untuk <span class='text-orange'>Industri</span> use & <span class='text-orange'>Biaya Minim</span> pencetakan inkjet"
+    fifth-section_description_one: Selama beberapa tahun terakhir Foenix telah banyak berinvestasi dalam mengembangkan berbagai printer inkjet industri bebas perawatan. Coders ini dirancang khusus untuk keperluan industri di sektor-sektor seperti makanan, minuman, otomotif, konstruksi, konversi, peralatan medis, farmasi, elektronik dan kimia.
+    fifth-section_description_two: Berkat desain yang cerdas, printer inkjet FX ONE memiliki penggunaan tinta yang sangat rendah dan oleh karena itu menawarkan salah satu biaya per cetakan terendah di pasar. Mengurangi biaya cetak - yang biasanya dari 50% menjadi 80%
+    food: Makanan
+    cosmetics: Kosmetik
+    extrusion: Ekstrusi
+    automotive: Otomotif
+    beverage: Minuman
+    pharmaceutical: Farmasi
+    electronics: Elektronik
+    construction: Konstruksi
+    packaging: Pengemasan
+    industrial_parts: Industri suku cadang
+    chemicals: Kimia
+    and_many_more: Dan banyak lainnya
+    inks_title: Berbagai macam dan jenis tinta
+    inks_description: Kami menawarkan tinta ber Adhesi Tinggi dan ber Kontras Tinggi yang sesuai dengan sebagian besar aplikasi. Tinta yang berbeda memungkinkan pencetakan pada bahan yang tidak berpori (plastik, kaca, logam...) atau permukaan berpori (karton, kayu, gipsum...). Berbagai macam warna yang tersedia serta tinta UV readable dan UV Curable.
+    become_distributor_title: Menjadi distributor Foenix Coding
+    become_distributor_description: Saat ini kami mengundang perusahaan untuk bergabung dengan jaringan distributor internasional kami
+    eight_section_title_one: Powerful Software Smart Controller
+    eight_section_description_one: Perangkat Lunak FX APP tersedia di PC dan di FX ONE Touch Controller kami yang dapat dipesan terlebih dahulu. FX ONE Touch Controller dirancang untuk mengontrol satu atau lebih model printer FX ONE. Pengontrol memungkinkan pembuatan pesan, penyimpanan, dan manajemen printer dalam wadah kecil yang kokoh. Ini dapat dipasang pada posisi tetap di lokasi yang nyaman dan portabel sehingga dapat dengan mudah dipindahkan dari satu printer ke printer lainnya. Antarmuka telah dirancang agar mudah digunakan dan cocok dengan versi PC.
+    eight_section_title_two: Uji Coba & Tes Gratis
+    eight_section_description_two_html: "Jika Anda berlokasi di Inggris Raya, Anda bisa mendapatkan uji coba gratis selama tujuh hari. Selama uji coba gratis, Anda akan memiliki akses ke semua fungsi printer dan akan dapat memantau biaya per cetak dan dengan cepat melihat berapa banyak uang yang dapat Anda hemat dengan menggunakan printer kami.<br><br>Untuk demonstrasi langsung dari kemudahan dan kualitas printer FX ONE hubungi kami hari ini!<br><small>*Uji Coba tergantung pada ketersediaan.</small><br><br>> Di mana pun Anda berada, Anda dapat mengirimkan sampel produk Anda kepada kami dan kami akan melakukan uji cetak Resolusi Tinggi."
+
+  newsletter:
+    card_title: Bergabunglah dengan kami, kami sedang membuka lowongan!
+    card_text: Siap untuk perubahan karier dan ingin bekerja di perusahaan rintisan dengan ambisi besar? Bergabunglah bersama kami!
+    title: Dapatkan buletin terbaru
+    text: Daftar untuk menerima pembaruan email tentang pengumuman produk baru, pembaruan teknis, acara yang akan kami hadiri, dan banyak lagi.
+    button: Lihat Opening
+    placeholder: Masukkan email Anda untuk berlangganan
+    unsubscribe: Anda dapat berhenti berlangganan kapan saja.
+    privacy: Baca kebijakan privasi kami
+
+  about:
+    title: Mengenal Foenix Coding
+    first_section_title_one: SIAPA KAMI
+    first_section_text_one: Foenix Coding adalah produsen terkemuka dan pemasok global printer ink jet terbaru untuk industri makanan, minuman, farmasi, industri dan elektronik dalam pengkodean, penandaan, (pencetakan) dan identifikasi produk. Selama lebih dari 5 tahun Foenix telah membangun reputasi dunia untuk kualitas dan kreativitas, dikombinasikan dengan efektivitas biaya dan perawatan yang rendah dalam desain printer kami.
+    first_section_title_two: PERUSAHAAN
+    first_section_text_two: "Foenix Coding dikenal dengan printer inkjet industrinya yang berspesialisasi dalam desain dan pembuatan sistem inkjet bebas perawatan. Agar pabrikan Inggris menang secara global, kami harus melakukan lebih dari sekadar menawarkan produk yang kompetitif. Desain pintar Foenix telah menghasilkan pengurangan radikal komponen di dalam printernya. Pendekatan ini telah menghasilkan pengurangan biaya produksi serta peningkatan keandalan printer, menjadikan Foenix sebagai pemain dunia yang menginspirasi."
+    first_section_title_three: PASAR
+    hiring_title: Bergabunglah dengan kami, kami sedang membuka lowongan!
+    hiring_text: Siap untuk perubahan karier dan ingin bekerja di perusahaan rintisan dengan ambisi besar? Bergabunglah bersama kami!
+    view_openings: Lihat Opening
+    our_values_title: NILAI KAMI
+    our_values_text: Produk Foenix didasarkan pada nilai-nilai inti perusahaan yaitu inovasi, desain, dan kualitas.
+    ov_card_title_one: INOVASI
+    ov_card_text_one_html: "Jet tinta piezoelektrik terkenal menawarkan tingkat kualitas cetak tertinggi dari semua teknologi pencetakan, sementara perawatannya mudah dan oleh karena itu mencapai tingkat keandalan uptime tertinggi.
+                           <br>
+                           Pencetakannya yang konsisten memastikan keterbacaan yang andal pada produk."
+    ov_card_title_two: DESAIN
+    ov_card_text_two_html: "Sering kali printer ink jet dirancang untuk menjadi solusi kompleks yang mengarah ke rutinitas perawatan kompleks yang tidak perlu.
+                           <br>
+                           Foenix telah merancang jajaran printer ink jet mereka dengan komponen minimal untuk memaksimalkan waktu kerja dan meminimalkan perawatan."
+    ov_card_title_three: KUALITAS
+    ov_card_text_three: Semua produk, printer, tinta, Bahan Sekali Pakai kami dibuat di Inggris dan dibuat agar tahan lama. Sistem perangkat lunak dan perangkat keras telah dikembangkan yang bekerja sama dengan profesional produksi dan pengemasan untuk membantu mereka menghadapi tantangan sehari-hari dalam mencetak yang terbaik seperti; baik sebelum tanggal, kode batch, barcode 2D, logo grafis, dan persyaratan lainnya.
+    whats_next_title: APA SELANJUTNYA
+    whats_next_text_html: "Setelah pertumbuhan global dan eksponensial dalam beberapa tahun terakhir, Foenix Coding berkonsentrasi pada penguatan jaringan distributor yang ada.
+                          <br>
+                          Tim R&D sedang mengembangkan sepenuhnya generasi baru printer FX ONE dengan peningkatan tinggi cetak, multiple print head, dan serangkaian fungsi komunikasi yang mudah digunakan."
+
+
+    first_section_text_three: Printer Foenix menawarkan solusi penghematan biaya di kedua pengkodean kemasan primer dan sekunder. Ini termasuk penggantian Label dan alternatif untuk TIJ (Thermal Ink Jet) dan CIJ (Continuous Ink Jet). Printer kami berbeda karena menggunakan teknologi lain dari yang lain. Oleh karena itu printer Foenix dapat ditawarkan sebagai solusi alternatif. Pada saat yang sama printer ini dapat mudah disesuaikan ke dalam berbagai produk solusi pengkodean dan penandaan.
+    second_section_title: Misi Kami
+    second_section_text: "Foenix Coding adalah perusahaan yang berbasis di Inggris dan semua produk kami dibuat di Inggris. Kami bersemangat tentang teknologi baru dan solusi pencetakan inovatif dan tim ini secara eksklusif terdiri dari para ahli dari bidang teknologi pencetakan inkjet. Kami semua adalah mantan karyawan Sauven Marking dan kami telah membawa semua keterampilan, pengalaman, pengetahuan, keahlian, dan yang lebih penting, antusiasme kami ke dalam petualangan baru ini."
+    second_section_text_two: Misi kami adalah membuat printer sederhana dan berkualitas tinggi yang dapat digunakan oleh semua orang di dunia. Kami di sini untuk membantu Anda meningkatkan efisiensi lini produksi dan membantu Anda mengatasi tantangan ketertelusuran produk.
+    second_section_text_three: Tantangan pengkodean dan penandaan Anda yang rumit tidak memerlukan solusi yang rumit dan mahal.
+    third_section_title: Kami berfokus pada pentingnya biaya kepemilikan di industri pencetakan.
+    third_section_text: Apakah Anda mencari printer inkjet untuk pengkodean atau penandaan produk, investasi dalam pencetakan tidak lagi hanya tentang harga printer. Konsumsi dan perawatan telah menjadi faktor utama untuk menentukan biaya kepemilikan Anda.
+    fourth_section_text_right: Foenix Coding menawarkan berbagai printer yang menekan biaya kepemilikan. Kami didorong oleh filosofi perawatan nol untuk pencetakan karakter kecil. Kami juga bekerja keras untuk menawarkan printer industri yang paling ramah pengguna. Printer Foenix bekerja dengan perangkat lunak PC Windows yang mudah dengan tombol bergambar dan/atau pengontrol Sentuh yang sangat berkembang dan intuitif.
+    fifth_section_title: Dibuat di Inggris dan dibuat untuk bertahan lama
+    fifth_section_text_one: "Semua produk kami - printer, tinta, Bahan Sekali Pakai - dibuat di Inggris. Sistem perangkat lunak dan perangkat keras telah dikembangkan bekerja sama dengan profesional produksi dan pengemasan untuk membantu mereka menghadapi tantangan sehari-hari seperti mencetak terbaik untuk; baik sebelum tanggal, kode batch, barcode 2D, logo grafis, dan persyaratan lainnya."
+    fifth_section_text_two: "Rangkaian printer inkjet berbasis Xaar industri kami bebas perawatan. Ini dirancang khusus untuk keperluan industri di sektor-sektor seperti makanan, minuman, otomotif, konstruksi, konversi, peralatan medis, farmasi, elektronik, dan kimia..."
+
+  inks_and_consumables:
+    first_section_text: Large Ink Cartridges
+    first_section_text_two: Printer FX ONE kompatibel dengan berbagai jenis tinta sehingga menjadikannya printer paling serbaguna di pasaran. Cetak pada media apa pun dan hingga 15 juta karakter per cartridge. Kami menawarkan jangkauan terluas cairan inkjet untuk memenuhi bahkan aplikasi pelanggan yang paling khusus
+    inks_card_title_one_html: "Adhesi Tinggi<span class='text-orange'>.</span>"
+    inks_card_text_one: Tinta Adhesi Tinggi yang dirancang khusus untuk aplikasi ekstrusi PVC. Dapatkan kualitas cetak yang belum pernah terjadi sebelumnya pada pipa PVC.
+    inks_card_title_two_html: "Tinta berjangkau luas<span class='text-orange'>.</span>"
+    inks_card_text_two: Tinta yang berbeda memungkinkan pencetakan pada bahan yang tidak berpori (plastik, kaca, logam) atau permukaan berpori (karton, kayu, gipsum). Berbagai macam warna yang tersedia serta tinta UV readable dan UV Curable.
+    inks_card_title_three_html: "Kontras Tinggi<span class='text-orange'>.</span>"
+    inks_card_text_three: Kontras tertinggi pada produk yang lebih gelap berkat rangkaian tinta berpigmen kami. Pastikan kode Anda menonjol pada media gelap dan terang.
+    grid_title_one: Sealed Ink Cartridge
+    grid_text_one: Cartridge tinta integral dan dapat diganti,menjaga sistem tinta bersih bebas dari kontaminasi. Tinta kami memiliki daya rekat dan kontras yang sangat baik pada berbagai bahan berpori dan tidak berpori seperti karton, logam, kaca, kertas, kayu, dan banyak plastik. Tinta kami menawarkan kinerja yang luar biasa di bawah kondisi aplikasi yang paling umum.
+    grid_title_two: Tinta ramah produksi
+    grid_text_two: Untuk aplikasi di pasar makanan, minuman, kosmetik, peralatan rumah tangga, industri dan ekstrusi, kami memiliki tinta terkontrol berkualitas tinggi yang hampir tidak berbau dan tidak berbasis MEK. Kami juga menawarkan tinta berwarna.
+    grid_title_three: Tinta HDPVC untuk ekstrusi pipa PVC
+    grid_text_three: Kami sekarang menawarkan Tinta Adhesi Tinggi yang dirancang khusus untuk aplikasi ekstrusi PVC. Dapatkan kualitas cetak yang belum pernah terjadi sebelumnya pada pipa PVC.
+    grid_title_four: Sistem tinta yang simpel
+    grid_text_four: Persediaan tinta terdapat dalam sistem cartridge yang nyaman yang ditempatkan di bagian belakang mesin. Penggantian cartridge tinta mudah dan bersih dan dapat diselesaikan dalam beberapa detik tanpa mengganggu proses cetak. Jangan pernah melewatkan hasil cetak dan selalu dapatkan kualitas cetak Resolusi Tinggi yang sesuai dengan gambar produk Anda
+    lowest_ink_title: Penggunaan Tinta ekonomis di pasar
+    lowest_ink_text: Apakah Anda mencari printer inkjet untuk pengkodean atau penandaan produk, investasi dalam pencetakan tidak lagi hanya tentang harga printer. Konsumsi dan perawatan telah menjadi faktor utama untuk menentukan biaya kepemilikan Anda. Berkat desain yang cerdas, printer inkjet piezo memiliki penggunaan tinta yang sangat rendah dan oleh karena itu menawarkan biaya yang sangat rendah per cetak.
+    # NEW
+    standard_ink_one: Kisaran tinta standar kami
+    standard_ink_two: untuk semua aplikasi Anda
+    sdct_one_html: "FX 8001<br>Black Oil ink"
+    sdct_text_one: Untuk Karton, kertas, kayu atau substrat berpori lainnya
+    sdct_two_html: "FX8201<br>Black Solvent ink"
+    sdct_text_two: Untuk Karton, kertas, kayu atau substrat berpori lainnya
+    sdct_three_html: "FX8203<br>Blue Solvent ink"
+    sdct_text_three: Untuk sebagian besar substrat seperti PVC, logam, kaca, plastik, dan permukaan tidak berpori lainnya
+    sdct_four_html: "FX8308<br>Red Solvent ink"
+    sdct_text_four: Penggunaan yang sama seperti tinta tidak berpori FX8201 untuk kemasan utama
+    sdct_five_html: "FX 8206<br>White Solvent ink"
+    sdct_text_five: Tinta berpigmen untuk permukaan gelap yang tidak berpori
+    sdct_six_html: "FX8311<br>Yellow Solvent ink"
+    sdct_text_six: Tinta berpigmen untuk permukaan gelap yang tidak berpori
+    sdct_seven_html: "FX8236<br>Black UV Curable ink"
+    sdct_text_seven: Substrat tidak berpori dengan waktu pengeringan instan
+    sdct_eight_html: "FX8235<br>UV Readable ink"
+    sdct_text_eight: Tinta tak terlihat, hanya terlihat di bawah lampu
+    # NEW
+    special_ink_title: Anda membutuhkan tinta khusus?
+    special_ink_title_two: Kami dapat membantu!
+    special_ink_text_one: Tinta Berbasis Minyak
+    special_ink_text_two: Tinta Berbasis Pelarut
+    special_ink_text_three: Tinta Berpigmen
+    special_ink_text_four: UV Curable && UV Readable Inks
+    stay_informed_title: Dapatkan informasi terbaru tentang perkembangan tinta terbaru kami
+    stay_informed_text: Daftar untuk menjadi yang pertama tahu saat kami meluncurkan tinta baru.
+
+
+  distributor:
+    first_section_title: Jangkauan Global
+    first_section_text: Di mana pun Anda berada, salah satu distributor kami ada di dekat Anda. Kami hadir di setiap benua dan menawarkan dukungan dalam bahasa dan zona waktu Anda.
+    second_section_title: Foenix memiliki distributor di
+    why_partner_title: Mengapa bermitra dengan
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: 'APA YANG MEMBUAT FOENIX CODING BERBEDA DENGAN KOMPETITOR?
+                           <br>
+                           Foenix Coding masih berupa "Start-up" yang dikelola oleh orang-orang didalam inti perusahaan yang mengetahui betul tentang produk, perusahaan, dan pelanggan secara keseluruhan.
+                           <br>
+                           <br>
+                           Saat bekerja dengan Foenix Coding, Anda dapat mengharapkan hal berikut:'
+    first_list_one: Harga kompetitif dibandingkan dengan kompetitor
+    first_list_two: Margin yang menarik untuk distributor
+    first_list_three: Fleksibilitas dalam prosedur
+    first_list_four: Fleksibilitas dalam waktu produksi
+    first_list_five: Fleksibilitas dalam waktu pengiriman
+    second_list_one: Pendekatan personal
+    second_list_two: Direktur terlibat secara aktif
+    second_list_three: Dukungan untuk pameran
+    second_list_four: Dukungan untuk test print
+    second_list_five: Dukungan untuk program pelatihan
+    second_list_six: Pembaruan teknologi
+    third_list_one: "Kompetensi teknis: memiliki printer di lebih dari 60 negara ini berarti kami telah berpengalaman di hampir semua aplikasi"
+    third_list_two: Tim R&D fleksibel yang dapat bereaksi cepat terhadap kebutuhan pelanggan tertentu
+    third_list_three: "Pengetahuan ahli: Rangkaian produk yang terbatas menghasilkan pengetahuan ahli"
+    partnership_title: Jalan Menuju Kemitraan
+    partnership_text: Kami senang memiliki jaringan mitra distribusi yang terus berkembang yang memasarkan produk Foenix di seluruh dunia. Saat ini kami mengundang perusahaan untuk bergabung dengan jaringan distributor internasional kami untuk mempromosikan rangkaian printer baru kami ke pasar baru. Isi formulir ini dan kami akan segera menghubungi Anda untuk membahas peluang ini
+    step_one: TAHAP 1
+    step_one_title: Aplikasi
+    step_one_text: Jika Anda tertarik untuk mendiskusikan peluang ini, kami akan senang mendengar lebih banyak dari perusahaan Anda dan tujuan Anda
+    step_two: TAHAP 2
+    step_two_title: Dapatkan Demo Printer
+    step_two_text: Untuk menguji kinerja peralatan tetapi juga reaktivitas kami dan dukungan yang akan Anda dapatkan dari kami
+    step_three: TAHAP 3
+    step_three_title: Mulai Menjual
+    step_three_text: Tujuan kami adalah untuk memudahkan mitra bisnis kami untuk fokus mengembangkan prospek baru dan mengembangkan bisnis mereka.
+
+  distributor_countries:
+    uk: Inggris
+    indonesia: Indonesia
+    south_africa: Afrika Selatan
+    france: Prancis
+    austria: Austria
+    peru: Peru
+    turkey: Turki
+    venezuela: Venezuela
+    malaysia: Malaysia
+    vietnam: Vietnam
+    saudi_arabia: Arab Saudi
+    egypt: Mesir
+    greece: Yunani
+    spain: Spanyol
+    latvia: Latvia
+    netherlands: Belanda
+    sri_lanka: Sri Lanka
+    italy: Itali
+    croatia: Kroasia
+    brazil: Brasil
+    hungary: Hungaria
+    portugal: Portugal
+    lithuania: Lithuania
+    ivory_coast: Pantai gading
+    poland: Polandia
+    malta: Malta
+    philippines: Filipina
+    uae: UAE
+    chile: Chili
+    australia: Australia
+    usa: Amerika Serikat
+    argentina: Argentina
+    india: India
+    bulgaria: Bulgaria
+    israel: Israel
+    singapore: Singapura
+    germany: Jerman
+    guatemala: Guatemala
+    china: China
+    ireland: Irlandia
+    morocco: Moroko
+    nigeria: Nigeria
+    sweden: Swedia
+    be_the_next: Jadilah yang berikutnya
+
+  cost_of_ownership:
+    first_section_title: Biaya kepemilikan terendah di pasaran
+    first_section_list_one: Konsumsi tinta terendah di pasaran
+    first_section_list_two: Biaya per cetakan termurah di pasaran
+    first_section_list_three: Harga printer murah
+    first_section_list_four: Tidak ada kontrak perawatan/layanan
+    first_section_list_five: Nol down time
+    first_section_list_six: Tidak ada biaya instalasi & pelatihan
+    first_section_list_seven_html: Mengurangi biaya coding & marking anda sampai 60%.<br>Berhentilah menghabiskan banyak uang untuk kontrak tinta & perawatan!
+    first_section_list_eight_html: Dapatkan panduan pengoperasian kami untuk dilihat<br>berapa banyak uang yang bisa Anda hemat?
+    download: Unduh
+    first_section_two_title: Pengembalian investasi yang jelas dan transparan
+    first_section_sub_title: FX ONE PRINTER MENGURANGI BIAYA PER CETAK SECARA DRASTIS
+    first_section_text_html: "Biaya per cetakan ditentukan oleh 3 faktor:<br>- harga pembelian printer<br>- biaya tinta<br>- biaya perawatan bulanan.
+                              <br>
+                              <br>
+                              Foenix Coding telah merancang printer ink jet sederhana dengan pengurangan biaya sebagai prioritas. Printer inkjet FX ONE telah dikembangkan dengan mempertimbangkan kesederhanaan dan tidak mengandung bagian yang bergerak, pompa, atau katup. Umpan tinta didasarkan pada kapilaritas dan gravitasi dan tidak perlu udara terkompresi. Kontrol tersebut dikuasai oleh 1 PCB tunggal yang terhubung ke print head dengan 1 kabel data tunggal. Berkat kesederhanaannya dan tidak adanya bagian yang bergerak, TIDAK diperlukan perawatan bulanan atau tahunan. Menggunakan lebih sedikit komponen berarti printer FX ONE memiliki harga pembelian yang sangat kompetitif.
+                              <br>
+                              <br>
+                              Mengurangi biaya cetak - yang biasanya dari 50% menjadi 80%. Teknologi cetak Xaar memungkinkan penyimpanan tinta sekecil 80 pico liter per tetes (yaitu 0,000000080ml), menghasilkan penghematan tinta yang sangat besar. Anda mengendalikan biaya per cetakan Anda. Hitung biaya pencetakan Anda dengan mudah dengan perangkat lunak intuitif kami dan lihat berapa banyak yang dapat Anda hemat. Mencetak dengan tetesan tinta mikro dan cartridge tinta tertutup memberikan biaya rendah per cetak tanpa pemborosan tinta. Penghematan biaya tambahan dapat diperoleh dengan menggunakan mode penghemat tinta.
+                              <br><br>
+                              Hindari terjebak dalam printer inkjet mahal yang akan menguras anggaran Anda dari waktu ke waktu. Pelajari detail garansi, persyaratan layanan, biaya perawatan/perbaikan, tinta & biaya Bahan Sekali Pakai. Dapatkan kepercayaan diri untuk memilih solusi yang paling hemat biaya untuk bisnis Anda. Hitung total biaya kepemilikan printer Anda sebelum mengambil keputusan. Foenix Coding memahami seni kesederhanaan dan telah menciptakan printer sederhana dan hemat biaya yang dirancang untuk memenuhi harapan pelanggan."
+    inkjet_printer_title: Bagaimana memilih printer inkjet
+    inkjet_printer_text_html: "Kami tahu memilih printer inkjet tidak mudah. Ada banyak model dan teknologi pabrikan yang tersedia.
+                             <br>
+                             <br>
+                             Setiap aplikasi memiliki persyaratan yang berbeda. Memahami aplikasi Anda akan menghemat banyak waktu dan kekecewaan.
+                             <br>
+                             Unduh Panduan Gratis kami untuk membandingkan printer Foenix vs pesaing."
+    newsletter_title: Dapatkan Panduan Gratis kami untuk membantu Anda memilih printer inkjet Anda
+    newsletter_description_html: "CIJ vs TIJ vs <span class='text-orange'>FX ONE</span>"
+    list_title: "Setiap pertanyaan dapat menentukan apakah printer FX ONE cocok untuk proyek Anda:"
+    list_left_one: Apa produknya?
+    list_left_two: Berapa ukuran produknya?
+    list_left_three: Produk/kemasannya terbuat dari apa?
+    list_left_four: Untuk apa produk itu digunakan?
+    list_left_five: Berapa kecepatan konveyor/produk?
+    list_left_six: Apakah produk didukung dengan baik pada saat dicetak?
+    list_left_seven: Berapa suhu produk saat dicetak?
+    list_left_eight: Apakah ada persyaratan untuk kondisi suhu?
+    list_left_nine: Di mana persyaratan cetak atas/samping/bawah
+    list_left_ten: Ke arah mana lini produk berjalan ke print head?
+    list_left_eleven: Berapa ukuran area cetak dan di mana pencetakan akan diterapkan?
+    list_left_twelve: Peralatan apa yang sekarang Anda gunakan untuk menerapkan pencetakan jika ada?
+    list_right_one: Tinta warna apa yang diperlukan?
+    list_right_two: Apa warna bahan/bungkusnya?
+    list_right_three: Apakah permukaan cetak berpori atau tidak?
+    list_right_four: Berapa waktu pengeringan yang dibutuhkan?
+    list_right_five: Apa pesannya?
+    list_right_six: Berapa tinggi pesan?
+    list_right_seven: Berapa banyak karakter?
+    list_right_eight: Berapa tinggi karakter?
+    list_right_nine: Berapa banyak baris yang dicetak?
+    list_right_ten: Berapa banyak cetakan per menit/jam?
+    list_right_eleven: Apakah pesan terus-menerus terjadi pada material web atau pada ekstrusi
+    list_right_twelve: Berapa lama pengulangan pesan?
+
+    second_section_title: Kalkulator Efisiensi/ROI
+    second_section_text: Kendalikan biaya per cetakan dan jumlah cetakan per cartridge dengan mudah. Tidak pernah semudah ini untuk menekan biaya Anda! Hemat tinta hingga 75% dengan mode Ink saver kami.
+    second_section_text_two_html: "Hindari terjebak dalam printer inkjet mahal yang akan menghabiskan anggaran Anda seiring waktu.
+                             <br>
+                             Pelajari detail garansi, persyaratan layanan, biaya perawatan/perbaikan, tinta & biaya Bahan Sekali Pakai.
+                             <br>
+                             Dapatkan kepercayaan diri untuk memilih solusi yang paling hemat biaya untuk bisnis Anda.
+                             <br>
+                             Hitung total biaya kepemilikan printer Anda sebelum mengambil keputusan."
+
+  printers:
+    title: FX ONE SERIES
+    text: Rangkaian printer ink jet Foenix semuanya dirancang sebagai printer inkjet industri untuk solusi pengkodean dan penandaan.
+          Kriteria desain utama untuk setiap printer adalah kemudahan penggunaan, perawatan yang rendah, dan efektivitas biaya yang menyediakan pencetakan resolusi ultra-tinggi.
+    coming_soon: SEGERA HADIR
+
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: Printer inkjet FX ONE yang baru adalah salah satu printer berkarakter kecil dengan biaya per kode terendah dan perawatan terendah. Ini menawarkan alternatif nyata untuk mengkodekan produk Anda.
+    second_section_title: Ikhtisar
+    grid_title_one: Alternatif terbaik untuk pencetakan CIJ
+    grid_description_one_html: "FX ONE Remote telah dirancang sebagai printer ink jet yang sangat sederhana tetapi dengan kemampuan untuk mencetak dari satu hingga delapan baris kode dan memasukkan gaya font dan grafik Anda sendiri.
+                                <br>
+                                <br>
+                                FX ONE Remote memberikan alternatif nyata untuk printer CIJ yang kompleks dengan harga yang sangat terjangkau:
+                                <ul>
+                                  <li>Biaya terendah per cetak di pasar</li>
+                                  <li>Pencetakan Resolusi Tinggi</li>
+                                  <li>Dirancang untuk perawatan Nol</li>
+                                  <li>Fleksibel, memungkinkan pencetakan ke segala arah</li>
+                                  <li>Pencetakan multi baris tanpa biaya tambahan</li>
+                                  <li>Tidak memerlukan pelarut tambahan</li>
+                                </ul>"
+    grid_link_one: Dapatkan penawaran cepat
+    grid_title_two: Sempurna untuk aplikasi ekstrusi & web-fed
+    grid_description_two_html: "FX ONE adalah pembuat kode inkjet modular untuk penggunaan industri. Ini sangat ideal untuk menandai ekstrusi, mencetak pada anyaman dan aplikasi industri lainnya.
+                            <br>
+                            FX ONE Printer diprogram untuk pencetakan berulang terus menerus pada interval yang ditentukan pada garis ekstrusi.
+                            <br>
+                            <br>
+                            Dapatkan kontrol total untuk pencetakan berulang di seluruh jaringan materi. Beberapa printer FX ONE dapat dipasang di seluruh web untuk mencetak identik atau berbedaDapatkan kontrol total untuk pencetakan berulang di seluruh jaringan materi. Beberapa printer FX ONE dapat dipasang di seluruh web untuk mencetak identik atau pesan yang
+                             berbeda. Touch Controller yang dipasang dari jarak jauh dapat dihubungkan ke encoder atau jenis perangkat apa pun untuk aktivasi cetak."
+    grid_link_two: Dapatkan sampel Cetak
+    grid_title_three: Instalasi & Pengoperasian Mudah
+    grid_description_three_html: "Printer FX ONE Remote dapat dengan mudah dipasang di sebagian besar mesin atau ruang terbatas.
+                                  <br>
+                                  <br>
+                                  Cetak kedua sisi produk Anda tetapi hanya gunakan satu Pengontrol Sentuh. Baik Anda mencetak dua sisi karton atau kedua sisi produk yang lebih besar, memiliki pengontrol tunggal menyederhanakan penginputan pesan oleh operator.
+                                  Cetak pesan yang identik atau berbeda dengan mudah di kedua sisi produk.
+                                  <br>
+                                  <br>
+                                  Layar Sentuh grafis berwarna yang besar dan tampilan WYSIWYG yang dikombinasikan dengan tombol aksi bergambar membuat pengeditan dan pemrograman pesan menjadi sangat mudah."
+    grid_link_three: Dapatkan penawaran cepat
+    grid_title_four: Performa cetak yang konsisten
+    grid_description_four_html: "Shutter otomatis pada print head memastikan hasil cetak tetap sempurna dalam aplikasi berkelanjutan atau terputus-putus dan lingkungan yang keras, tanpa campur tangan operator.
+                                <br>
+                                <br>
+                                Shutter ini dapat ditutup secara manual atau otomatis selama periode FX ONE tidak digunakan. Saat shutter ditutup, ini memberikan perlindungan yang lebih baik pada print head terhadap kerusakan fisik dan pengeringan tinta di dalam print head.
+                                <br>
+                                <br>
+                                Perlindungan yang lebih baik terhadap lingkungan yang tidak bersahabat:
+                                <br>
+                                Waktu buka shutter bisa sesingkat 5 detik. Ini berarti shutter akan terbuka hanya selama 5 detik, selama pencetakan. Segera setelah itu, itu akan menutup dan melindungi print head dari angin, kelembapan, debu, dan kontaminasi lain di udara."
+    grid_title_five: Manajemen Pembersih tinta untuk pencetakan sempurna
+    grid_description_five_html: "Tinta berbasis minyak atau pelarut yang mudah mengalir ada dalam cartridge tinta tertutup untuk memastikan tidak ada limbah, tidak ada kontaminasi, dan tidak ada kekacauan. Mengganti cartridge membutuhkan waktu beberapa detik saat masih mencetak.
+                                <br>
+                                Printer dapat diprogram untuk pembersihan dan pembersihan otomatis sehingga memberikan waktu aktif 100%."
+    grid_link_five: Pelajari Lebih Lanjut
+    grid_title_six: Kemampuan integrasi penuh
+    grid_description_six_html: "The Foenix FX APP Software suite memberikan kemampuan integrasi penuh untuk printer jaringan, mengakses database, membuat pesan off line, menghubungkan ke scanner industri, pembaca barcode, verifier dan peralatan produksi lainnya.
+                                <br>
+                                Pemilihan pesan bisa manual atau aman menggunakan pembaca barcode."
+    grid_link_six: Pelajari Lebih Lanjut
+    cards_section_description: Generasi baru dari
+    cards_section_description_two: Printer ink jet bebas perawatan
+    first_card_title: Pengodean & Penandaan Resolusi Tinggi
+    first_card_text: 1 hingga 8 baris cetakan, dengan tinggi cetakan 2-18m.
+    second_card_title: Konektivitas Pc
+    second_card_text: Melalui kabel USB, RS485 atau Ethernet untuk pembuatan pesan langsung atau sistem jaringan pabrik.
+    third_card_title: Grafik, Logo & Barcode
+    third_card_text: Impor grafik JPEG, PNG & BMP dengan mudah menggunakan FX APP.
+    fourth_card_title: Layar & Keyboard Sederhana
+    fourth_card_text: Untuk kontrol lokal kecepatan dan arah printer, dan penundaan pesan.
+    fifth_card_title: Instalasi lain dari yang lain
+    fifth_card_text: Dengan komponen minimal untuk keandalan maksimum.
+    sixth_card_title: 1D & 2D Barcode
+    sixth_card_text: Pencetakan resolusi tinggi dari barcode 1D dan 2D (Kode QR – matriks data) untuk memasukkan data variabel.
+    seventh_card_title: Garansi 2 Tahun*
+    seventh_card_text_html: Tersedia perpanjangan garansi<br>*Syarat dan ketentuan berlaku
+    eigth_card_title: Touch Controller
+    eigth_card_text: Pemrograman windows interaktif sederhana dengan FX APP. Pencetakan yang andal dalam satu klik.
+    ninth_card_title: Jaringan
+    ninth_card_text: Kelola beberapa printer dari satu tempat. Pantau kemajuan, lacak kesalahan, dan dapatkan wawasan dengan analitik cetak.
+    tenth_card_title: Truer Type Font & Unicode
+    tenth_card_text: Memungkinkan pembuatan pesan dalam font apa pun dan dalam bahasa apa pun
+    eleventh_card_title: Catridge Tinta Berbasis Pelarut Besar
+    eleventh_card_text: Pengodean biaya rendah dan sistem tinta bersih, ideal untuk mencetak pada permukaan berpori dan tidak berpori.
+    twelfth_card_title: Koneksi Multi Port
+    twelfth_card_text: Untuk pembuat enkode, alarm eksternal, dan perangkat pendeteksi produk alternatif.
+    thirteenth_card_title: Mode Penghemat Tinta
+    thirteenth_card_text: Mengurangi konsumsi tinta hingga 75%
+    pop_title: Perangkat Lunak APLIKASI
+    pop_title_two: Untuk semua aplikasi pengkodean produk Anda
+    pop_text_one: Analisis jaringan & cetak
+    pop_text_two: Pemrograman windows interaktif sederhana
+    pop_text_three: 'Ketersediaan di PC & 7" Pengontrol layar sentuh'
+    pop_text_four: Dukungan multi bahasa
+    pop_text_five: Integrasi penuh dengan DLL kami
+    pop_text_six: Manajemen printer tingkat lanjut
+    pop_link: Pelajari Lebih Lanjut
+    fourth_section_title: Spesifikasi Teknis
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: Fitur
+    fifth_section_left_one: Mencetak dalam orientasi apa pun
+    fifth_section_left_two: 1 hingga 8 baris cetakan
+    fifth_section_left_three: tinggi cetak total 2mm- 18mm
+    fifth_section_left_four: print head peizo resolusi tinggi
+    fifth_section_left_five: Mencetak teks, grafik, logo, dan barcode
+    fifth_section_left_six: Mencetak waktu dan berbagai format tanggal
+    fifth_section_left_seven: Kemampuan cetak berulang terus menerus
+    fifth_section_left_eight: Kecepatan cetak 100m/mnt (50m/mnt untuk barcode dan teks 2mm)
+    fifth_section_left_nine: Tombol cetak mulai/berhenti tunggal
+    fifth_section_left_ten: Indikator alarm visual termasuk tinta rendah
+    fifth_section_left_eleven: Lebar pesan, penundaan, dan kontrol arah cetak
+    fifth_section_left_twelve: Fotosel pendeteksi produk
+    fifth_section_left_thirteen: Berat 1,7 Kg (tidak termasuk catridge tinta dan braket)
+    fifth_section_left_fourteen: Ukuran 242 x 178 x 90mm
+    fifth_section_right_title_one: Konektivitas
+    fifth_section_right_one: RS232 dan RS485 untuk pengontrol Sauven Touch
+    fifth_section_right_two: USB-A memory stick disertakan
+    fifth_section_right_three: USB-B untuk koneksi kabel
+    fifth_section_right_four: Ethernet (optional)
+    fifth_section_right_five: Mencetak teks, grafik, logo, dan barcode
+    fifth_section_right_six: Port I/O untuk encoder, suar alarm, dan sel foto eksternal
+    fifth_section_right_title_two: Tinta
+    fifth_section_right_seven: Catridge tinta yang dapat diganti dan disegel (hingga 15 juta karakter)
+    fifth_section_right_eight: Tinta berbasis minyak untuk permukaan berpori
+    fifth_section_right_nine: Tinta berbasis pelarut untuk permukaan yang tidak berpori
+    fifth_section_right_ten: Tinta UV untuk pengawetan LED instan
+    fifth_section_right_eleven: Berbagai warna
+    fifth_section_right_title_three: Listrik
+    fifth_section_right_twelve: 90-260 VAC ke catu daya 24VDC disertakan
+    fifth_section_message: Foenix Coding Ltd terus meningkatkan produk dan perangkat lunak. Spesifikasi dapat berubah.
+    build_to_last: Dibuat untuk tahan lama
+    build_to_last_description: Konstruksi serat karbon dan komponen padat
+    build_to_last_description_two: grup berarti itu akan menjadi milik Anda selama bertahun-tahun yang akan datang
+    discover: Pelajari jangkauan FX ONE
+    shared_tech: Shared Technology
+    shared_tech_text_one: Printer FX ONE dibuat secara modular dengan menggunakan sedikit komponen.
+    shared_tech_text_two: Suku cadang FX ONE 100% dapat dipertukarkan, digunakan pada mesin serupa dan model serupa.
+    shared_tech_text_three: Satu-satunya perbedaan antara model adalah lokasi print head. FX ONE Standard memiliki print head yang tergabung dalam unit kontrol dan FX ONE Remote & FX ONE Plus memiliki print head jarak jauh yang terhubung ke unit kontrol dengan saluran fleksibel.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: Solusi cerdas untuk tinggi
+    fx_one_standard_sub_two: pencetakan paket resolusi
+    fx_one_standard_text: Pencetakan resolusi tinggi langsung ke karton, tatakan
+    fx_one_standard_text_two: dan masuk ke jalur produksi untuk menghilangkan kebutuhan
+    fx_one_standard_text_three: untuk kemasan pracetak yang mahal atau label yang mahal.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: Cara cerdas untuk menghemat
+    fx_one_plus_sub_two: pada pencetakan label
+    fx_one_plus_text: Printer karakter besar hingga tinggi cetak 72mm.
+    fx_one_plus_text_two:  Alternatif sempurna untuk yang mahal dan rumit
+    fx_one_plus_text_three: dan sistem pelabelan terbatas.
+    sixth_section_title: Handal, Kuat, Serbaguna
+    sixth_section_left_sub_title_one: Tidak ada kontrak perawatan yang mahal
+    sixth_section_left_sub_text_one: Printer Foenix diproduksi dengan komponen minimal untuk memberikan keandalan maksimum. Tidak ada pompa, tidak ada katup, tidak ada udara bertekanan, tidak ada pengisian tetesan dan tidak ada filter udara berarti perawatannya rendah.
+    sixth_section_left_sub_title_two: Biaya per cetakan terendah
+    sixth_section_left_sub_text_two: Teknologi piezo yang digunakan pada printer FX ONE hanya membutuhkan satu cartridge tinta tertutup dan tidak memerlukan pelarut make-up tambahan. Ini secara substansial mengurangi biaya operasional.
+    sixth_section_left_sub_title_three: Performa cetak yang konsisten
+    sixth_section_left_sub_text_three: Printer FX ONE mencetak dalam Resolusi Tinggi. Anda dapat mencetak logo, barcode 1D dan 2D, variabel...
+    sixth_section_left_sub_title_four: Keyakinan operator
+    sixth_section_left_sub_text_four: Instalasi mudah, pengeditan pesan dan pemrograman & perawatan mudah.
+    sixth_section_right_sub_title_one: Teknologi yang telah terbukti
+    sixth_section_right_sub_text_one: Menggunakan print head resolusi tinggi Xaar yang teknologinya telah terbukti dengan ribuan printer yang berhasil terjual di seluruh dunia.
+    sixth_section_right_sub_title_two: Integrasi sistem
+    sixth_section_right_sub_text_two: Integrasikan ke sistem jaringan pabrik atau sambungkan ke pemindai industri, pembuat enkode, timbangan cek, atau peralatan lain sesuai kebutuhan.
+    sixth_section_right_sub_title_three: 100% waktu aktif 0% waktu henti
+    sixth_section_right_sub_text_three: "Cetak 24x7: Jangan pernah berhenti mencetak bahkan saat Anda mengganti cartridge!"
+    sixth_section_right_sub_title_four: Inovasi Shutter otomatis
+    sixth_section_right_sub_text_four: "Untuk melindungi bagian terpenting dari printer Anda: mesin printhead"
+    seventh_section_title: Cetakan sempurna, setiap saat
+    seventh_section_text: Kualitas tinggi, dibuat dengan baik, presisi tinggi adalah printer FX ONE. Kami menawarkan cara termudah dan paling efisien untuk mengkodekan produk Anda dalam Resolusi Tinggi.
+    low_ink: Penggunaan Tinta terendah di pasaran
+    low_ink_text: Berhenti menghabiskan banyak uang untuk cartridge tinta & kontrak perawatan!
+    low_ink_text_two: Printer Foenix memberikan biaya operasional terendah di industri & biaya per cetakan terendah
+
+
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: Pencetakan resolusi tinggi langsung ke karton, tatakan, dan karung di jalur produksi untuk menghilangkan kebutuhan akan kemasan pra-cetak yang mahal atau label yang mahal.
+    grid_title_one: Solusi cerdas untuk pencetakan paket resolusi tinggi
+    grid_description_one_html: "FX ONE Standard baru menawarkan kualitas cetak yang luar biasa dalam printer ringkas berfitur lengkap. Ini dapat digunakan sebagai printer yang berdiri sendiri dan mudah diprogram atau diintegrasikan ke dalam sistem jaringan produksi penuh. Tidak perlu label mahal: Gunakan FX ONE Standard untuk pencetakan resolusi tinggi langsung ke karton, tatakan, karung, atau produk lain di jalur produksi untuk menghilangkan kebutuhan akan kemasan pracetak yang mahal atau label mahal."
+    grid_link_one: Dapatkan sampel Cetak
+    grid_title_two: Hemat waktu, Hemat Uang
+    grid_description_two_html: "Tidak perlu prosedur startup dan shutdown yang rumit. Cukup matikan mesin di penghujung hari dan nyalakan lagi keesokan harinya.
+                            <br>
+                            Printer FX ONE telah dirancang dengan komponen minimal untuk memberikan keandalan maksimum. Tanpa pompa, tanpa katup, tanpa udara terkompresi dan dengan satu PCB berarti perawatan yang rendah dan tidak ada kontrak perawatan yang mahal.
+                            <br>
+                            <br>
+                            Mengurangi biaya cetak - pantau dan kelola biaya per cetak untuk mengurangi konsumsi tinta hingga 75% dengan mudah. Mencetak dengan tetesan tinta mikro dan cartridge tinta tertutup memberikan biaya rendah per cetak tanpa pemborosan tinta.
+                            Tinta berbasis minyak yang mudah mengalir ada dalam cartridge tinta 110ml yang disegel untuk memastikan tidak ada limbah, tidak ada kontaminasi, dan tidak ada kekacauan. Mengganti cartridge membutuhkan waktu beberapa detik saat masih mencetak. Printer dapat diprogram untuk pembersihan dan pembersihan otomatis."
+    grid_link_two: Dapatkan penawaran cepaat
+    grid_title_three: Keserbagunaan produksi
+    grid_description_three_html: "Desain industri yang ringkas dan inovatif dari FX ONE memungkinkan Anda memindahkan printer ke berbagai lokasi dalam hitungan menit. Cabut saja dan pindahkan. Dapat bekerja dengan mulus dengan layar sentuhnya yang besar, dan semua fungsi pencetakan dapat dikontrol dengan mudah. Tekan saja tombol cetak dan mulai mencetak apa saja.
+                                  <br>
+                                  <br>
+                                  Printer FX ONE dapat dihubungkan untuk memberikan pencetakan pada kedua sisi karton dengan pesan yang sama atau berbeda. Pencetakan resolusi tinggi yang dikombinasikan dengan kemampuan untuk mengimpor gaya font, grafik, dan pencetakan apa pun dalam bahasa apa pun akan meningkatkan citra produk Anda."
+    grid_title_four: Kemampuan integrasi penuh
+    grid_description_four_html: "The Foenix FX APP Software suite memberikan kemampuan integrasi penuh untuk printer jaringan, mengakses database, membuat pesan off line, menghubungkan ke scanner industri, pembaca barcode, verifier dan peralatan produksi lainnya.
+                                <br>
+                                Pemilihan pesan bisa manual atau aman menggunakan pembaca barcode."
+    grid_link_four: Pelajari Lebih Lanjut
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: Alternatif cerdas
+    fx_one_remote_sub_two: ke pencetakan CIJ
+    fx_one_remote_text: Printer inkjet FX ONE Remote adalah salah satu yang termurah
+    fx_one_remote_text_two: per kode dan printer karakter kecil perawatan terendah yang tersedia.
+    fx_one_remote_text_three: Menawarkan alternatif nyata untuk mengkodekan produk Anda.
+    second_section_title: Ikhtisar
+    first_card_title: Pengodean & Penandaan Resolusi Tinggi
+    first_card_text: 1 hingga 8 baris cetakan, dengan tinggi cetakan 2-18mm.
+    second_card_title: Konektivitas Pc
+    second_card_text: Melalui kabel USB atau Ethernet untuk pembuatan pesan langsung atau sistem jaringan pabrik.
+    third_card_title: Grafik, Logo & Barcode
+    third_card_text: Impor grafik JPEG & BMP dengan mudah menggunakan FX APP.
+    fourth_card_title: Layar & Keyboard Sederhana
+    fourth_card_text: Untuk kontrol lokal kecepatan dan arah printer, dan penundaan pesan.
+    fifth_card_title: Instalasi Out of the Box
+    fifth_card_text: Dengan komponen minimal untuk keandalan maksimum.
+    sixth_card_title: 1D & 2D Barcodes
+    sixth_card_text: Pencetakan resolusi tinggi dari barcode 1D dan 2D (Kode QR – matriks data) untuk memasukkan data variabel.
+    seventh_card_title: Garansi 2 Tahun
+    seventh_card_text: Perpanjang untuk satu, dua atau tiga tahun lagi
+    eigth_card_title: Touch Controller
+    eigth_card_text: Pemrograman windows interaktif sederhana dengan FX APP. Pencetakan yang andal dalam satu klik.
+    ninth_card_title: Jaringan
+    ninth_card_text: Kelola beberapa printer dari satu tempat. Pantau kemajuan, lacak kesalahan, dan dapatkan wawasan dengan analitik cetak.
+    tenth_card_title: True Type Font & Unicode
+    tenth_card_text: Memungkinkan pembuatan pesan dalam font apa pun dan dalam bahasa apa pun
+    eleventh_card_title: Catridge Tinta Berbasis Minyak Besar
+    eleventh_card_text: Pengodean biaya rendah dan sistem tinta bersih, ideal untuk mencetak pada permukaan berpori.
+    twelfth_card_title: Koneksi Multi Port
+    twelfth_card_text: Untuk pembuat enkode, alarm eksternal, dan perangkat pendeteksi produk alternatif.
+    thirteenth_card_title: Mode Penghemat Tinta
+    thirteenth_card_text: Mengurangi konsumsi tinta hingga 75%
+    seventh_section_title: Keserbagunaan Produksi
+    seventh_section_text: Desain industri yang ringkas dan inovatif dari FX ONE memfasilitasi pemindahan printer ke lokasi yang berbeda dalam hitungan menit. Cabut saja dan pindahkan. Dapat bekerja dengan mulus dengan layar sentuhnya yang besar, dan semua operasi pencetakan dapat dikontrol dengan mudah. Tekan saja tombol cetak dan mulai mencetak apa saja.
+
+
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: Printer karakter besar hingga tinggi cetak 72mm. Alternatif sempurna untuk sistem pelabelan yang mahal, kompleks, dan terbatas.
+    first_section_text_two: "Alternatif sempurna untuk sistem pelabelan yang mahal, kompleks, dan terbatas."
+    coming_soon: SEGERA HADIR
+    grid_title_one: Cara cerdas untuk menghemat pencetakan label
+    grid_description_one_html: "Printer inkjet karakter besar FX ONE Plus membuat pengguna mengendalikan biaya per cetakan untuk pencetakan label.
+                               <br>
+                               <br>
+                               Perangkat lunak berbasis Windows dirancang khusus dengan mempertimbangkan pencetakan label, area di mana pengendalian biaya per cetak adalah yang terpenting. Dengan mencetak langsung ke karton daripada menggunakan label, efisiensi biaya meningkat secara dramatis.
+                               <br>
+                               <br>
+                               FX ONE Plus menawarkan fleksibilitas integrasi lebih lanjut dan dapat terhubung dengan database, memungkinkan kendali jarak jauh penuh dengan perangkat lunak manajemen produksi yang ada dan menawarkan kemampuan jaringan penuh termasuk WiFi.
+                               <br>
+                               <br>
+                               Dirancang untuk pengkodean dan penandaan berbiaya rendah pada karton dan karton, alternatif yang benar untuk printer label.
+                               Tidak perlu prosedur startup dan shutdown yang rumit. Cukup matikan mesin di penghujung hari dan nyalakan lagi keesokan harinya.
+                               <br>
+                               <br>
+                               Selain karton, Anda dapat mencetak di atas kertas, kayu, kain, EPS, busa, beton, dll..."
+    huge_cost_savings: Penghematan biaya besar dengan mengganti label dan kemasan pra-cetak dengan pencetakan resolusi tinggi langsung ke karton – ideal untuk karton, karung, tatakan, palet kayu, dan lainnya
+    plus_newsletter_title: BULETIN FOENIX
+    plus_newsletter_description: Jadilah yang pertama tahu kapan
+    plus_newsletter_description_two: kami meluncurkan FX ONE Plus
+    placeholder: Masukkan email Anda & dapatkan pembaruan tentang peluncuran
+
+  software:
+    first_section_title_one: FX TOUCH Controller
+    first_section_text_one: Kontrol printer Anda hanya dengan satu sentuhan. Selain fungsi biasa seperti barcode, counter, logo, tanggal, waktu, shift dll, printer FX ONE dilengkapi dengan perangkat lunak PC dan konektivitas jaringan sebagai standar.
+    first_section_text_two: Foenix Coding memahami seni kesederhanaan dan telah menciptakan printer yang sederhana dan hemat biaya yang sangat sesuai dengan spesifikasi pelanggan.
+    first_section_text_three: Kami memberikan banyak perhatian pada desain antarmuka pengguna dari FX APP untuk menyederhanakan alur kerja proyek harian Anda.
+    first_section_text_four: FX APP yang berjalan pada FX Touch Controller juga tersedia sebagai perangkat lunak PC sehingga Anda dapat mengontrol printer dari komputer mana pun.
+    second_section_title: FX APP Software
+    second_section_text: Alat utama untuk selalu memungkinkan produksi Anda terkendali membantu Anda mengurangi biaya. FX APP kami dapat dijalankan pada Foenix Controller serta PC yang menawarkan integrasi dan fleksibilitas dan dapat terhubung dengan database, memungkinkan kendali jarak jauh penuh dengan perangkat lunak manajemen produksi yang ada dengan kemampuan jaringan penuh.
+    second_section_text_two: Foenix FX APP memungkinkan Anda merancang pesan dalam waktu singkat melalui antarmuka yang ramah pengguna.
+    second_section_check_one: Pemrograman windows interaktif sederhana
+    second_section_check_two: Penyimpanan pesan tak terbatas
+    second_section_check_three: Mode cetak penghemat tinta
+    second_section_check_four: Menggunakan font True Type & Unicode
+    second_section_check_five: Mengimpor logo JPEG & BMP
+    second_section_check_six: Dukungan multi bahasa
+    second_section_card_one: "FX APP: Klik & Cetak"
+    second_section_card_two: Optimalkan Proses Pencetakan Anda dengan FX APP
+    second_section_card_three: Pencetakan yang andal dalam satu klik
+    second_section_card_four: Integrasi perangkat lunak agar sesuai dengan alur kerja Anda
+    third_section_left_title: FX APP
+    third_section_left_sub_title: Fitur
+    third_section_left_text_one: Kompatibel dengan Windows XP dan di atasnya
+    third_section_left_text_two: Ikon intuitif memimpin pembuatan pesan
+    third_section_left_text_three: Font True Type dan didukung Unicode
+    third_section_left_text_four: Grafik, logo & barcode langsung diimpor dalam format JPEG dan BMP
+    third_section_left_text_five: Waktu dan beberapa format tanggal
+    third_section_left_text_six: Mode cetak penghemat tinta
+    third_section_left_text_seven: Penyimpanan pesan tak terbatas
+    third_section_left_text_eight: Dukungan multi bahasa
+    third_section_left_text_nine: Foenix Coding Ltd terus Meningkatkan produk dan perangkat lunak. Spesifikasi dapat berubaH.
+    third_section_right_title: FX ONE TOUCH
+    third_section_right_sub_title: Fitur
+    third_section_right_title_two: Konektivitas
+    third_section_right_text_one: Layar Sentuh 7”
+    third_section_right_text_two: Pemrograman windows interaktif sederhana
+    third_section_right_text_three: Menggunakan FX APP
+    third_section_right_sub_title_two: Konektivitas
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 Multi port, Ethernet (Opsional)
+    third_section_right_text_five: input 24 v DC
+    third_section_right_text_six: Mendukung alarm eksternal, lampu sinyal, encoder
+    third_section_right_text_seven: Pemrograman otomatis dengan pembaca barcode
+    third_section_final_text: Antarmuka layar sentuh yang menyederhanakan setiap tindakan dengan FX APP. Pengaturan dan navigasi yang mudah menghilangkan kebutuhan akan pelatihan dan memberikan pengalaman pencetakan intuitif yang bebas repot.
+
+    extremely_simple: Sangat mudah digunakan
+    extremely_simple_text: Kami memberikan banyak perhatian pada desain antarmuka pengguna dari FX APP untuk menyederhanakan alur kerja proyek harian Anda. Pengaturan dan navigasi yang mudah menghilangkan kebutuhan akan pelatihan dan memberikan pengalaman pencetakan intuitif yang bebas repot.
+    extremely_simple_button: Permintaan akses ke FX APP
+    grid_title_one: Dukungan multi-bahasa
+    grid_description_one: Perangkat lunak yang diterjemahkan dalam 19 bahasa dan Anda dapat mencetak dalam bahasa apa pun
+    grid_title_two: Hemat biaya Anda
+    grid_description_two: Mengontrol biaya per cetakan dan jumlah cetakan per cartridge dengan mudah. Tidak pernah semudah ini untuk menekan biaya Anda!
+    grid_title_three: Jaringan & Integrasi
+    grid_description_three_html: "FX APP memberikan kemampuan integrasi penuh untuk printer jaringan, mengakses database, membuat pesan offline, menghubungkan ke pemindai industri, pembaca barcode, verifier, dan peralatan produksi lainnya.
+                                 <br>
+                                 <br>
+                                 Manajemen printer tingkat lanjut:
+                                 <br>
+                                 Maksimalkan waktu kerja dengan mengelola produksi di beberapa printer Foenix dari satu tempat. Pantau kemajuan, lacak kesalahan, dan dapatkan wawasan dengan analitik cetak."
+    grid_title_four: Foenix firmware
+    grid_description_four: Printer yang semakin baik dari waktu ke waktu. Jadikan printer FX ONE Anda lebih mumpuni dengan peningkatan kinerja dan fungsionalitas tambahan di setiap pembaruan firmware.
+    grid_title_five: Integrasi Penuh Dengan DLL Kami
+    grid_description_five_html: "Apa itu DLL?
+                                <br>
+                                <br>
+                                DLL (Dynamic Link Library) adalah seperangkat fungsi perangkat lunak yang dapat digunakan oleh pengembang pihak ketiga untuk dimasukkan ke dalam aplikasi mereka sendiri. Foenix DLL menyediakan serangkaian fungsi yang memungkinkan printer FX ONE dikontrol melalui FX APP APP atau Foenix Touch Controller.
+                                Pengetahuan membuat proses komunikasi ke printer lebih sederhana bagi pengembang karena menangani protokol aktual yang digunakan. Pengembang kemudian menggunakan mekanisme yang relatif sederhana untuk memantau printer, memuat pesan, dan mengirimkan data."
+    grid_title_six: Mencegah kesalahan pengguna dalam pengaturan cetak
+    grid_description_six: Tidak ada lagi kesalahan, berkat konfigurasi otomatis pengaturan cetak melalui pembaca genggam. Pemindai barcode dapat digunakan untuk memilih pesan yang akan dicetak, atau untuk mengisi kolom dalam pesan dengan memindai barcode yang sesuai. Lebih sedikit intervensi manual berarti lebih sedikit kesalahan pengkodean.
+    newsletter_title: Terima pembaruan perangkat lunak terbaru kami
+    newsletter_description: Daftar untuk menjadi yang pertama mengetahui kapan pembaruan tersedia
+
+    fourth_section_title_one: Dukungan multi-bahasa
+    fourth_section_text_one: Perangkat lunak yang diterjemahkan dalam 19 bahasa dan Anda dapat mencetak dalam bahasa apa pun
+    fourth_section_title_two: Hemat biaya Anda
+    fourth_section_text_two: Kendalikan biaya per cetakan dan jumlah cetakan per cartridge dengan mudah.
+    fourth_section_text_two_two: Tidak pernah semudah ini menekan biaya Anda!
+    fourth_section_title_three: Jaringan & Integrasi
+    fourth_section_text_three: FX APP memberikan kemampuan integrasi penuh untuk printer jaringan, mengakses database, membuat pesan off line, menghubungkan ke scanner industri, pembaca barcode, verifier dan peralatan produksi lainnya.
+    fourth_section_title_four: FX APP
+    fourth_section_text_four: Manajemen printer tingkat lanjut.
+    fourth_section_text_four_two: Maksimalkan waktu aktif dengan mengelola produksi di beberapa printer Foenix dari satu tempat. Pantau kemajuan, lacak kesalahan, dan dapatkan wawasan dengan analitik cetak.
+    fourth_section_title_five: Mencegah kesalahan pengguna dalam pengaturan cetak
+    fourth_section_text_five: Tidak ada lagi kesalahan, berkat konfigurasi otomatis pengaturan cetak melalui pembaca genggam. Pemindai barcode dapat digunakan untuk memilih pesan yang akan dicetak, atau untuk mengisi bidang dalam pesan dengan memindai barcode yang sesuai. Lebih sedikit intervensi manual berarti lebih sedikit kesalahan pengkodean.
+    button: Perangkat lunak langsung untuk diuji
+    fourth_section_title_six: Foenix firmware
+    fourth_section_text_six: Printer yang menjadi lebih baik dari waktu ke waktu.
+    fourth_section_text_six_two: Jadikan printer FX ONE Anda lebih mumpuni dengan peningkatan kinerja dan fungsionalitas tambahan di setiap pembaruan firmware.
+    fifth_section_title_one: Integrasi Penuh Dengan DLL Kami
+    fifth_section_sub_title: Apa itu DLL?
+    fifth_section_text_one: DLL (Dynamic Link Library) adalah seperangkat fungsi perangkat lunak yang dapat digunakan oleh pengembang pihak ketiga untuk dimasukkan ke dalam aplikasi mereka sendiri. Foenix DLL yang dijelaskan di sini menyediakan serangkaian fungsi yang memungkinkan printer FX ONE dikontrol melalui FX APPPro atau Foenix Touch Controller. Pengetahuan membuat proses komunikasi ke printer lebih sederhana bagi pengembang karena menangani protokol aktual yang digunakan. Pengembang kemudian menggunakan mekanisme yang relatif sederhana untuk memantau printer, memuat pesan, dan mengirimkan data.
+    fifth_section_title_two: Bagaimana Cara Kerja DLL?
+    fifth_section_text_two: DLL digunakan oleh pelanggan untuk berkomunikasi dengan printer. Diagram di bawah ini memberikan gambaran umum dasar yang menunjukkan bagaimana DLL berada di antara aplikasi dan printer.
+
+  industry:
+    first_section_title: Kami menyediakan solusi untuk semua industri dan setiap aplikasi
+    first_section_text: Bisnis yang sedang berkembang dengan 1 lini produksi kecil hingga perusahaan multi-nasional dengan aplikasi yang paling menuntut semuanya dapat menggunakan printer FX ONE untuk menurunkan biaya pengkodean dan penandaan, mencegah waktu henti, mengotomatiskan proses manual, dan meningkatkan kualitas produk dengan pengkodean resolusi tinggi.
+    first_section_button_one: Permintaan Demo
+    first_section_button_two: Dapatkan Info Harga
+    trusted_title: Dipercaya oleh bisnis
+    trusted_title_two: dari semua industri
+    trusted_text_html: "Foenix Coding telah memasang printer ink jet di seluruh dunia dalam industri makanan, minuman, farmasi, industri, elektronik, dan konstruksi.
+                  <br>
+                  Pelanggan kami mencakup banyak produsen terbesar di sektor ini, tetapi Foenix sama pentingnya menikmati kebiasaan banyak perusahaan manufaktur kecil di seluruh dunia yang sama-sama menghargai konsep biaya rendah dan perawatan rendah yang dibangun ke dalam printer."
+    fd_title: Makanan & Minuman
+    fd_card_title_one: Produk Bakeri
+    fd_card_text_one: biskuit, kue kering...
+    fd_card_title_two: Produk sereal
+    fd_card_text_two: sereal sarapan, pasta...
+    fd_card_title_three: Olahan buah dan sayur
+    fd_card_text_three: produk kalengan, buah kering...
+    fd_card_title_four: Permen
+    fd_card_text_four: coklat, permen, permen karet...
+    fd_card_title_five: Produk makanan ringan
+    fd_card_text_five: keripik, snack gurih, coklat...
+    fd_card_title_six: Ikan dan produk ikan
+    fd_card_text_six: ikan kaleng, ikan kering, karton pendingin eceran...
+    fd_card_title_seven: Produk susu
+    fd_card_text_seven: susu, yoghurt, keju, krim...
+    fd_card_title_eight: Minuman beralkohol
+    fd_card_text_eight: anggur, minuman keras, minuman keras...
+    fd_card_title_nine: Produk yang digiling dan dikuliti
+    fd_card_text_nine: tepung, beras...
+    fd_card_title_ten: Daging
+    fd_card_text_ten: olahan pak, olahan kering segar, olahan beku...
+    fd_card_title_eleven: Kopi, kakao, teh
+    fd_card_text_eleven: ground, kemasan individual...
+    fd_card_title_twelve: Makanan bayi
+    fd_card_title_thirteen: Makanan siap saji
+    fd_card_text_thirteen: pizza, sandwich...
+    fd_card_title_fourteen: Minuman non-alkohol
+    fd_card_text_fourteen: air, limun, jus buah...
+    fd_card_title_fifteen: Produk beku
+    fd_card_title_sixteen: Rempah-rempah, esens, bahan memasak dan membuat kue
+    fd_card_title_seventeen: Minyak yang dapat dikonsumsi dan sejenisnya, lemak keras
+    fd_card_text_seventeen: minyak zaitun, mentega, lemak babi...
+    fd_card_title_eighteen: Tetra packs
+    cp_title: Kosmetik &
+    cp_title_two: Farmasi
+    cp_card_title_one: Kosmetik dan kebersihan pribadi
+    cp_card_text_one: sampo, sabun, pasta gigi, tisu...
+    cp_card_title_two: Produk kecantikan
+    cp_card_text_two: parfum, produk rambut, make-up...
+    cp_card_title_three: Produk farmasi
+    cp_card_text_three: obat-obatan, sirup, pil, tabung krim...
+    cp_card_title_four: Peralatan medis
+    cp_card_text_four: masker wajah, jarum suntik, perban, pembalut...
+    ind_title: Industrial
+    ind_card_title_one: Produk logam
+    ind_card_text_one: bagian jadi atau setengah jadi, sub-rakitan...
+    ind_card_title_two: Industri otomotif
+    ind_card_text_two: suku cadang, pipa mobil, interior mobil, suku cadang karet...
+    ind_card_title_three: Produk kimia
+    ind_card_text_three: Bahan kimia industri, deterjen, produk pembersih...
+    ind_card_title_four: Peralatan elektronik, sub-rakitan, komponen
+    ind_card_text_four: papan PCB, kartu keamanan...
+    ind_card_title_five: Bahan bangunan
+    ind_card_text_five: lantai, ubin, kayu, batu, panel dinding, papan plester...
+    ind_card_title_six: Pupuk, pestisida, dan produk perawatan tanaman lainnya
+    ind_card_title_seven: Ekstrusi dan produk web-fed
+    ind_card_text_seven: pipa plastik, kabel, sachet...
+    ind_card_title_eight: Hasil kebun, pertanian, kehutanan dan perikanan
+    ind_card_text_eight: anyaman taman...
+    ind_card_title_nine: Cat, pewarna, pewarna, tinta, pernis dan produk serupa
+    ind_card_title_ten: Produk kayu dan kertas, pulp, kayu yang belum diproses
+    ind_card_title_eleven: Furnitur dan suku cadang furnitur
+    ind_card_title_twelve: Produk minyak
+    tp_title: Aplikasi Khas
+    tp1: Wadah aerosol
+    tp2: Keranjang
+    tp3: Kertas timah
+    tp4: Tetra packs
+    tp5: Ampul
+    tp6: Toples
+    tp7: toples kaca
+    tp8: tatakan ditarik, ditekan, dilipat
+    tp9: Tas-dalam-karton
+    tp10: Kaleng plastik, metalik
+    tp11: Kendi
+    tp12: Tabung
+    tp13: Kantong kertas, plastik, logam
+    tp14: Carboys, demijohns
+    tp15: kaleng logam
+    tp16: Tas/kantong berbentuk tabung
+    tp17: Segel isi formulir tas
+    tp18: Paket karton untuk cairan dan pasta
+    tp19: Kantong
+    tp20: Wrap-around packs
+    tp21: Barrel
+    tp22: Cartridges
+    tp23: Palet - unit pemuatan
+    tp24: Pembungkus (dipelintir, dilipat, disegel, menyusut, pembungkus peregangan
+    tp25: Keranjang
+    tp26: Pembungkus
+    tp27: Gulungan
+    tp28: Papan gipsum
+    tp29: Blister packs
+    tp30: Kaleng Komposit
+    tp31: Karung kertas, plastik, logam
+    tp32: tisu toilet
+    tp33: Botol Gelas
+    tp34: Peti
+    tp35: Kantong/kantong yang disegel samping
+    tp36: Anyaman Taman
+    tp37: Botol Metalik
+    tp38: Piala
+    tp39: Karton Sleeve-and-slide
+    tp40: pelindung buku
+    tp41: Botol plastik
+    tp42: Drums
+    tp43: Koil
+    tp44: Gulungan
+    tp45: karton kardus, plastik
+    tp46: Etuis
+    tp47: Strapped packs
+    tp48: Kayu
+    tp49: Penutup lantai
+    tp50: Flat-bottom bags
+    tp51: Wadah tangki
+    tp52: Karung tepung
+    tp53: Batu
+    tp54: Pembalut medis
+    tp55: Kartu keamanan
+    tp56: Paving blok
+    tp_button_one: Minta Uji Coba Gratis
+    tp_button_one_msg: Coba FX ONE selama 7 Hari
+    tp_button_two: Dapatkan Uji Cetak Gratis
+    tp_button_two_msg: Pada salah satu produk Anda
+
+  video:
+    first_section_title: Video
+    first_section_text: Tonton printer Foenix mencetak pada item dan material apa pun.
+    first_section_text_two: Lebih banyak video akan ditambahkan secara teratur, pastikan untuk memeriksa halaman ini dan halaman youtube kami secara teratur
+    more_videos: Lebih banyak video segera hadir
+    video_text_one: Solusi Pengkodean Kemasan Utama
+    video_text_one_cont: Printer FX ONE Remote, solusi paling hemat biaya untuk menandai produk Anda
+    video_text_two: Solusi Pengodean Kemasan Sekunder
+    video_text_two_cont: FX ONE Standard, solusi paling hemat biaya untuk aplikasi pengkodean kasus Anda
+    video_text_three: Bagaimana cara mencapai pengkodean yang efisien dan berkualitas tinggi pada karton Anda? Cari tahu dengan printer FX ONE Standard
+    video_text_four: FX ONE Standard, printer terbaik untuk semua aplikasi industri Anda
+    video_text_five: Printer FX ONE Standard, ideal untuk casing luar, tatakan, dan karton bergelombang
+    video_text_six: "FX ONE Standard: Satu Printer, Banyak Aplikasi: barcode, logo, kode karton, dan lainnya"
+    video_text_seven: Dengan FX ONE Standard memangkas biaya dengan mengganti printer label
+
+  legal:
+    first_section_title: LEGAL
+    cookie_policy: Kebijakan Cookie
+    privacy_policy: Kebijakan Privasi
+
+  contact_coders:
+    first_section_title: Mesin Contact Coding & Marking
+    first_section_text: Sementara printer ink jet adalah masa depan, printer pengkodean dan penandaan kontak berbiaya rendah tradisional masih banyak digunakan di seluruh dunia sebagai solusi yang sangat hemat biaya.
+                       Pengkode kontak ideal di mana produk memerlukan perubahan pesan yang jarang atau lingkungan memerlukan solusi non-elektronik tanpa perawatan.
+                        Foenix memproduksi printer ini untuk digunakan dengan jenis "Baselock" karet yang dapat diganti bersama-sama dengan rol Tinta Plastik pra-diresapi atau berbagai cartridge tinta tertutup.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: Pencetakan berkelanjutan pada semua material
+    codaprint_text: Printer unik untuk pencetakan berulang terus menerus pada bahan logam, plastik atau berpori termasuk lembaran baja, film ekstrusi, pipa plastik dan gulungan inti kardus.
+                    Menggunakan cartridge tinta tertutup untuk kesederhanaan dan kebersihan, dengan pilihan tinta dan warna; dan tersedia dengan berbagai panjang cetak berulang dan tinggi cetak maksimum 25mm.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: Printer reciprocating ringkas dan sederhana yang ideal untuk mencetak paling baik seperti;  baik sebelum tanggal, pada produk di lini produksi dengan kualitas cetak yang jelas dan presisi.
+                   Cartridge tinta tertutup memberikan pengeringan cepat hasil cetak ke sebagian besar permukaan termasuk kaleng logam, stoples kaca, dan pot plastik Printer baja tahan karat berbiaya rendah ini menggunakan udara, tanpa kebutuhan listrik.
+                   Ini sangat ideal di lingkungan yang keras atau basah untuk mencetak di bagian atas, samping atau dasar produk.
+    handroller_title: Codaprint Handroller
+    handroller_sub_title: Pencetakan manual ke semua permukaan
+    handroller_text: Codaprint hand roller adalah untuk pencetakan manual ke semua permukaan dengan kisaran tinta cepat kering yang sama.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: Pengode Kontak & Printer Rol Tinta Plastik
+    codapack_text: Selesaikan masalah pencetakan karton Anda dengan coder kontak codapack menggunakan roller tinta plastik dan jenis karet baselock dari Foenix Coding
+    baselock_title: Foenix Baselock
+    baselock_sub_title: Jenis karet yang dapat dipertukarkan
+    baselock_sub_title_two: untuk semua mesin pengkodean kontak
+    baselock_text_one: CEPAT DAN MUDAH MENGUBAH CETAK
+    baselock_text_two: JENIS GAYA JENIS YANG LUAS
+    baselock_text_three: LOGO DISESUAIKAN
+    baselock_text_four: GAYA UNTUK SEMUA BAHASA
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: Printer kontinu yang andal dari Foenix Coding untuk penandaan kecepatan tinggi dan rendah pada logam, plastik, kaca, kardus. Pengkode kontak sederhana untuk pencetakan berulang produk Anda dengan kecepatan tinggi menggunakan cartridge tinta tertutup yang cepat kering.
+    get_prices: Dapatkan Info Harga
+    cp_title: Pencetakan berkelanjutan pada semua materi
+    cp_sub_title_one: Aplikasi
+    cp_text_one: Codaprint digunakan untuk menerapkan tanda identifikasi, digunakan berdasarkan tanggal, logo daur ulang, nama produk pelanggan, dll... ke materi yang terus bergerak atau diindeks, dan di mana cetakan ulang diperlukan.
+                    Aplikasi sejenis film ekstrusi, pencetakan tas, lembaran baja, ekstrusi jendela plastik, film pembungkus menyusut, gulungan inti karton, papan gipsum, papan tepi kemasan, bagian belakang cermin dan kertas.
+    cp_sub_title_two: Mudah dipasang
+    cp_text_two: Codaprint mudah dipasang pada batang tetap di seluruh materi yang akan ditandai. Penyesuaian vertikal pada unit memberikan posisi on/off cetak. Printer digerakkan oleh gesekan kontak antara ban karet pada jenis drum dan material.
+    cp_sub_title_three: Tinta
+    cp_text_three: cartridge Tinta tersedia dalam berbagai jenis dan warna tinta yang sesuai dengan sebagian besar permukaan. Kami dapat memberi tahu Anda tentang kisaran yang paling cocok untuk produk Anda.
+    cp_sub_title_four: Pilihan cetakan
+    cp_text_four: Drum tipe Codaprint standar dilengkapi dengan cincin pengunci logam untuk digunakan dengan tipe karet Baselock yang dapat diganti. Baselock tersedia dalam banyak gaya karakter dan logo yang disesuaikan untuk memungkinkan perubahan cepat pada cetakan.
+    cp_sub_title_five: Transfer Pads
+    cp_text_five: Kepala tinta cartridge Codaprint harus dilengkapi dengan satu set bantalan transfer yang lengkap setiap kali cartridge tinta baru digunakan.
+    cp_tp1: "TPS030: Untuk aliran tinta Minimum"
+    cp_tp2: "TPS060: Untuk aliran tinta Maksimum"
+    cp_sub_title_six: Handroller
+    cp_text_six: Hand roller Codaprint adalah untuk pencetakan manual ke semua permukaan dengan kisaran tinta cepat kering yang sama.
+    ps_title_one: Pengukuran
+    ps_title_two: Spesifikasi Printer Codaprint
+    ps_title_three: Model CP-24/1
+    ps_bp_one: "Panjang Cetak: 240mm"
+    ps_bp_two: "Tinggi Cetak: 25mm"
+    ps_title_four: CP-17/B Handroller
+    ps_bp_three: "Panjang Cetak: 175mm"
+    ps_bp_four: "Tinggi Cetak: 25mm"
+    ps_title_five: Codaprint Cartridges
+    ps_bp_five: CP111 Tinta Pewarna Standar Hitam untuk bahan yang tidak berpori
+    ps_bp_six: CP011 Hitam Tinta pewarna ekstra cepat kering untuk bahan tidak berpori berkecepatan tinggi
+    ps_bp_seven: CP5610 Tinta Pewarna Hitam untuk permukaan berpori
+    ps_bp_eight: CP256 Tinta putih berpigmen untuk permukaan berwarna gelap, bahan berpori dan tidak berpori
+    ps_text: Pilihan warna tersedia di setiap rentang
+    list_title: Overview
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: Printer unik untuk terus mencetak pada bahan logam, plastik atau berpori termasuk lembaran baja, film ekstrusi, pipa plastik dan gulungan inti kardus.
+    list_subtitle_two: Printer tanpa biaya
+    list_text_two: Printer murah paling sederhana untuk menerapkan tanda identifikasi berulang, penggunaan berdasarkan tanggal, logo daur ulang atau nama produk pelanggan ke bahan yang terus bergerak.
+    list_subtitle_three: High speed printing
+    list_text_three: Printer dapat beroperasi pada kecepatan yang sangat rendah tetapi juga mencetak hingga 100 meter per menit.
+    list_subtitle_four: Simple ink system
+    list_text_four: Tinta terkandung dalam cartridge tinta yang dapat diganti yang memiliki kontrol tinta integral terlepas dari kecepatan cetak yang memberikan sistem tinta perawatan rendah yang bersih. Sistem tinta unik ini memastikan bahwa hasil cetak tidak pernah pudar sampai cartridge kosong.
+    list_subtitle_five: Ink cartridge
+    list_text_five: Cartridge tinta standar kami cocok untuk permukaan logam, kaca, plastik, dan berpori, serta bahan lainnya. Beberapa aplikasi memang membutuhkan tinta khusus.
+    list_subtitle_six: Fitur
+    list_text_six_html: "Printer digerakkan oleh ban pada jenis drum yang menyentuh material, menghilangkan kebutuhan akan penggerak mekanis atau elektrik.
+                                 <br>
+                                 <br>
+                                 Pengode rol kontinu sempurna untuk: Nomor batch, tanggal & pencetakan logo.
+                                 <br>
+                                 <br>
+                                 Printer mudah dipasang baik di atas material bergerak yang akan ditandai atau pada gulungan material yang semakin berkurang.
+                                 <br>
+                                 <br>
+                                 Tinggi cetak dapat mencapai 25mm baik menggunakan Baselock Type yang dapat diganti atau Flat stereo.
+                                 <br>
+                                Empat panjang cetak berulang tersedia hingga 460mm."
+    fncdm_title: Pelajari lebih lanjut Foenix Codamark
+    fncdm_text: Penandaan produk yang jelas dan tepat dicapai secara efisien dan ekonomis dengan Codamark Pneumatic Reciprocating Printer.
+    fncdm_button: Pelajari Lebih Lanjut-
+
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Penandaan produk yang jelas dan tepat dicapai secara efisien dan ekonomis dengan Codamark Pneumatic Reciprocating Printer. Printer reciprocating solid untuk mesin pengisian inline dan rotary, terbaik sebelum pencetakan tanggal dan penggunaan lainnya.
+    phr_title: Pneumatic Reciprocating Printer
+    phr_sub_title_one: Mencetak dengan sedikit sentuhan
+    phr_text_one: Kecepatan tinggi dapat dicapai dengan tekanan cetak rendah 10-20 psi yang memungkinkan Codamark mencetak dengan sedikit sentuhan tanpa merusak produk.
+    phr_sub_title_two: Clean inking system
+    phr_text_two: cartridge tinta cepat kering yang bersih dipasang ke print head yang memberikan waktu pengeringan dalam hitungan detik pada sebagian besar permukaan. cartridge yang disegel memastikan operator tidak pernah menyentuh tinta apa pun.
+    phr_sub_title_three: Lembar data Codamark
+    phr_text_three: Informasi lebih lanjut tersedia pada lembar data yang memberikan dimensi, sistem kontrol, dan posisi pemasangan.
+    phr_sub_title_four: Quick change Baselock type holders
+    phr_text_four: print head dilengkapi dengan penahan tipe yang dapat diubah dalam hitungan detik. Pemegang cadangan dapat digunakan untuk menyetel jenis karet Baselock sebelumnya.
+    phr_sub_title_five: Codamark Cartridges
+    phr_sub_title_six: Small pots
+    phr_sub_title_seven: Large Pots
+    phr_list_text_one: CM501/38 Black Ink Cartridge
+    phr_list_text_two: CM502/38 Red Ink Cartridge
+    phr_list_text_three: CM503/38 Green Ink Cartridge
+    phr_list_text_four: CM504/38 Blue Ink Cartridge
+    phr_list_text_five: CM506/38 White Ink Cartridge
+    phr_list_text_six: CM505/38 Yellow Ink Cartridge
+    phr_list_text_seven: CM501/50 Black Ink Cartridge
+    phr_list_text_eight: CM502/50 Red Ink Cartridge
+    phr_list_text_nine: CM503/50 Green Ink Cartridge
+    phr_list_text_ten: CM504/50 Blue Ink Cartridge
+    phr_list_text_eleven: CM506/50 White Ink Cartridge
+    phr_list_text_twelve: CM505/50 Yellow Ink Cartridge
+    ps_title_one: Spesifikasi Printer Codamark
+    ps_sub_title_one: Model CM-MKV/25
+    ps_bp_one: "Area Cetak: 24mm x 24mm"
+    ps_bp_two: "Dimensi Garis Besar print head: 170mm x 155mm x 85mm"
+    ps_sub_title_two: Model CM-MKV/38
+    ps_bp_three: "Area Cetak: 37mm x 37mm"
+    ps_bp_four: "Dimensi Garis Besar print head: 170mm x 155mm x 85mm"
+    ps_sub_title_three: Model CM-MKV/50
+    ps_bp_five: "Area Cetak: 24mm x 48mm"
+    ps_bp_six: "Dimensi Garis Besar print head: 170mm x 155mm x 85mm"
+    list_one: "Pencetakan tanggal, harga, dan kode penjualan yang efisien ke:"
+    list_bp_one: Tube Plastik
+    list_bp_two: Tutup Aluminium+
+    list_bp_three: Karton
+    list_bp_four: Form flow packs
+    list_bp_five: Botol Kaca
+    list_bp_six: Kaleng Logam dll.
+    list_two: Pemasangan atas, Bawah atau samping
+    list_three: Sistem on-line atau off-line otomatis
+    list_four: Cartridge tinta cepat kering
+    list_five: Dibuat di Inggris
+    fncdp_title: Pelajari lebih lanjut Foenix Codaprint
+    fncdp_text: Printer sederhana untuk terus mencetak produk Anda dengan kecepatan tinggi menggunakan cartridge tinta tertutup yang cepat kering
+
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Semua printer Codapack menggunakan Rol Tinta Plastik pra-impregnasi yang dapat diganti dan Tipe Baselock yang dapat diganti. Mereka mudah dipasang untuk mencetak di bagian atas, bawah atau samping produk. Printer ini banyak digunakan di mana zero down time adalah kebutuhan dan biaya cetak terendah per produk diperlukan.
+                        Ketika hanya mengganti kode atau baik sebelum tanggal sekali sehari atau seminggu sekali, printer Codapack adalah yang terbaik.
+    ccirp_title: Contact coders and ink roller printers
+    ccirp_sub_title_one: Aplikasi
+    ccirp_text_one_html: Kisaran coders yang paling hemat biaya untuk karton, karung, nampan bungkus susut, atau bahan kontinu Anda.
+                    <br>
+                    Rangkaian kode kontak Codapack yang sederhana dan efisien semuanya menggunakan Rol Tinta Plastik pra-impregnasi yang dapat diganti dan Baselock Type yang dapat dipertukarkan untuk mencetak ke permukaan berpori.
+    ccirp_sub_title_two: Manfaat
+    ccirp_text_two: Tanpa perawatan Coders adalah semua printer mekanis sederhana yang memberikan pencetakan sempurna hari demi hari tanpa memerlukan perawatan apa pun.
+    ccirp_sub_title_three: Pencetakan kostum
+    ccirp_text_three: Banyak gaya font standar tersedia dalam kisaran Baselock Type, tetapi gaya cetak, logo, dan grafik yang disesuaikan siap diproduksi.
+    ccirp_sub_title_four: Fast print change
+    ccirp_text_four: Mengubah teks cetak pada drum jenis adalah pekerjaan yang cepat dan sederhana Fitur Enam model ketinggian cetak yang berbeda tersedia untuk memenuhi kebutuhan pelanggan.
+    ccirp_sub_title_five: Lowest print cost
+    ccirp_text_five: Menggunakan jenis Baselock dan Rol tinta plastik tahan lama, memberikan biaya cetak produk serendah mungkin.
+    cdp_title: Informasi Codapack
+    cdp_sub_title_one: Baselock Type
+    cdp_text_one: Beragam gaya Baselock Type ditawarkan untuk membuat pesan hanya dengan menekan paskan tipe ke dalam cincin pengunci logam atau lengan berbahan dasar karet bergaris.
+    cdp_sub_title_two: Plastic-ink Rollers
+    cdp_text_two_html: Rol tinta ini dengan cepat ditempatkan pada jajaran printer Codapack untuk memberikan kualitas cetak yang padat pada permukaan berpori seperti karton, tatakan, dan karung kertas.
+                  <br>
+                  Rol pra-tinta yang tahan lama ini sekali pakai, memberikan sistem tinta yang bersih dan efisien. Mereka tersedia dalam warna hitam, biru, merah dan hijau.
+    cdp_sub_title_three: Fibre and Sponge Rollers
+    cdp_text_three: Untuk permukaan yang tidak berpori, salah satu rol ini dapat digunakan dengan tinta cair khusus
+    list_text_one: Pemasangan pegas yang dapat disesuaikan memungkinkan tekanan cetak disesuaikan agar sesuai dengan kekuatan karton dan untuk mendapatkan cetakan yang sempurna.
+    list_text_two: Printer dibuat dari coran aluminium yang kuat dan bantalan rol yang memberikan masa pakai yang lama tanpa masalah.
+    list_text_three: Rotasi drum jenis dikontrol untuk memberikan posisi cetak yang identik pada setiap karton.
+    list_text_four: Rangkaian printer Codapack semuanya mudah dipasang ke konveyor dengan satu braket pemasangan sederhana.
+
+  support:
+    first_section_title: Dokumentasi Dukungan
+    sds_title: Safety Data Sheets (SDS)
+    sds_card_title_one: FX8001
+    sds_card_text_one: Black Oil based ink
+    sds_card_title_two: FX8201
+    sds_card_text_two: Black Solvent based ink
+    sds_card_title_three: CP111
+    sds_card_text_three: Black Marking ink
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: Oil based cleaner
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: Solvent based cleaner
+    sds_card_title_six: CP011
+    sds_card_text_six: Black Marking ink
+    sds_card_title_seven: CM011
+    sds_card_text_seven: Black Marking ink
+    sds_card_title_eight: CM501
+    sds_card_text_eight: Black Marking ink
+    sds_card_title_nine: CM500
+    sds_card_text_nine: Reactivating Solvent
+    sds_button: Hubungi kami untuk info lebih lanjut
+    sds_hint: Sertifikat Peraturan
+    sds_hint_two: Tersedia berdasarkan permintaan
+    manuals: Panduan Pengguna FX ONE
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: Panduan Pengguna
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: Panduan Pengguna
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: Panduan Pengguna
+    tech_support: Hubungi Bantuan Teknis
+
+  components:
+    yellow_button: Pelajari Lebih Lanjut
+
+  contact:
+    contact_title: Hubungi Kami
+    contact_title_description: Hubungi tim kami untuk mengetahui lebih banyak tentang Foenix Coding.
+    contact_text_one: "Permintaan Uji Cetak Gratis: Kirimkan contoh proyek Anda kepada kami."
+    contact_text_two: Uji Coba 7 Hari Gratis tersedia jika Anda berlokasi di Inggris
+    phone: Telephone
+    phone_number: 0044 1932 701 449
+    email: Email
+    email_add: sales@foenixcoding.com
+    address: Address
+    address_text_html: Foenix Coding Ltd
+                  <br>
+                  The Barns - Hilltop Farm | Lyne Lane
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  United Kingdom
+    whatsapp: Hubungi kami di WhatsApp
+    statement: Bergabunglah dengan ratusan perusahaan yang sudah bekerja sama dengan kami
+    talk_to_sales: Berbicara dengan sales
+    email_us: Anda juga dapat mengirim email langsung kepada kami di
+
+
+    contact_happy: Tim kami dengan senang hati menjawab semua pertanyaan Anda.
+    icon_text: Tim kami dengan senang hati menjawab semua pertanyaan Anda. Isi formulir dan kami akan menghubungi Anda sesegera mungkin.
+    icon_text_two: Uji cetak gratis, kirimkan sampel produk Anda kepada kami dan kami akan melakukan uji cetak.
+    form_name: Nama Depan dan Nama Belakang
+    form_email: Alamat Email
+    form_company: Perusahaan
+    form_country: Negara
+    form_message: Pesan Anda
+    form_phone: Telepon
+
+  error:
+    four_four_text: Halaman tidak ditemukan
+    five_zero_zero_text: Maaf sepertinya terjadi kesalahan
+
+  login:
+    fpassword: Lupa kata sandi Anda?
+    dont_have_account: Belum punya akun?
+    sign_up: Daftar
+    email: Email
+    password: Kata sandi
+
+  seo:
+    home_page:
+      title: "Foenix Coding: Coding and Marking menjadi mudah"
+      description: Printer Industrial Marking and Coding untuk mencetak dalam resolusi tinggi pada setiap material. Pengodean dan Penandaan Pengodean Foenix, inkjet industri, printer FX One Remote, printer FX One Standard
+      keywords: "Penandaan kode, printer Foenix, penandaan industri, inkjet industri, pengkodean dan penandaan bungkus, pengkodean dan penandaan produk, pengkodean dan penandaan inkjet, pencetakan tanggal, printer nomor lot, printer barcode"
+    printers:
+      title: "Foenix industrial inkjet printers"
+      description: Dirancang untuk pengkodean dan penandaan berbiaya rendah pada permukaan berpori, alternatif nyata untuk pembuat kode TIJ untuk mencetak barcode, nomor lot, logo, penggunaan berdasarkan tanggal
+      keywords:  Printer Inkjet Industri, coder inkjet, sistem penandaan bagian, pengkodean produk, mesin penandaan logam, mesin penandaan, printer nomor seri, identifikasi produk, cetak nomor seri, pencetakan barcode
+    fxone_standard:
+      title: FX ONE Standard – Alternatif printer TIJ terbaik - pembuat kode kasus Resolusi Tinggi
+      description: Dirancang untuk pengkodean dan penandaan berbiaya rendah pada permukaan berpori, alternatif nyata untuk pembuat kode TIJ untuk mencetak barcode, nomor lot, logo, penggunaan berdasarkan tanggal
+      keywords: "Coding biaya rendah, pencetakan tanggal, pencetakan pada permukaan berpori, alternatif TIJ, printer HP, Thermal inkjet, case coder, karton coding, printer barcode, printer kayu"
+    fxone_remote:
+      title: FX ONE Remote – Alternatif printer CIJ terbaik - Printer inkjet industri Resolusi Tinggi
+      description: Printer Foenix adalah salah satu printer karakter kecil dengan biaya per kode terendah dan perawatan terendah. Ini menawarkan alternatif nyata untuk printer CIJ yang kompleks dengan harga yang sangat terjangkau.
+      keywords: "mesin penanda, printer inkjet industri, pencetakan pada botol, printer CIJ, printer inkjet kontinu, sistem inkjet kontinu, printer kaca, printer logam, printer botol, printer PVC"
+    fxone_plus:
+      title: FX ONE Plus – Label terbaik dan alternatif karton pra-cetak - Printer karakter besar
+      description: Printer karakter besar hingga tinggi cetak 72mm. Alternatif sempurna untuk sistem pelabelan terbatas untuk mencetak kode, logo, dan barcode.
+      keywords: "printer label, printer barcode, printer termal, printer transfer termal, sistem pelabelan, label barcode, printer karakter besar, pembuat kode kasus, Printer pelabelan, pencetakan karton"
+    inks_and_consumables:
+      title: Foenix Large Ink Cartridges - Cetak 15+ juta karakter
+      description: Tinta untuk aplikasi di pasar makanan, minuman, kosmetik, barang-barang rumah tangga, industri dan ekstrusi
+      keywords: tinta MEK, tinta CIJ, Cartridge tinta TIJ, Tinta pelarut, Tinta minyak, Tinta UV, FX8001, FX8201, Cartridge tinta Foenix, Pembersih Foenix
+    distributors:
+      title: Distributor Foenix Seluruh Dunia
+      description: Berbagai produk jet tinta Foenix dan Pengodean Kontak tersedia melalui jaringan global distributor yang memenuhi syarat yang menawarkan total penjualan dan layanan dukungan.
+      keywords: Coding dan marking, perbaikan printer inkjet, distributor Foenix, reseller Foenix, pelatihan Foenix Coding
+    cost_of_ownership:
+      title: Printer Foenix Coding – opsi termurah untuk menandai produk Anda
+      description: Printer FX ONE menawarkan biaya per cetakan termurah di pasaran tanpa kontrak perawatan bulanan atau tahunan
+    about:
+      title: Tentang Foenix – Pakar Pengodean, penandaan, dan ketelusuran
+      description: Foenix Coding adalah produsen Inggris terkemuka dan pemasok global printer ink jet terbaru untuk industri
+      keywords: Printer FX ONE, printer Foenix Coding, cetak dan terapkan, printer foil, inkjet DOD, inkjet Piezo, printer inkjet Xaar, perusahaan pengkodean Foenix, pabrikan Inggris
+    contact:
+      title: Hubungi tim Foenix Coding
+      description: Hubungi kami untuk mendapatkan informasi lebih lanjut tentang printer inkjet industri kami, tinta dan Bahan Sekali Pakai kami. Hubungi Foenix Coding, email Foenix Coding, telepon Foenix Coding
+    faq:
+      title: FAQ - Foenix Coding
+      description: Informasi lebih lanjut tentang jajaran printer dan tinta Foenix Coding. cartridge tinta Sauven, tinta pelarut Sauven, tinta minyak Sauven, database cetak, kode cetak, alternatif TIJ, alternatif CIJ
+    industry:
+      title: Foenix Coding - Coding and Marking solution untuk semua industri
+      description: Printer FX ONE dirancang khusus untuk keperluan industri di sektor-sektor seperti makanan, minuman, otomotif, konstruksi, konversi, peralatan medis, farmasi, elektronik, dan kimia.
+      keywords: penandaan ink jet, pengkode inkjet, pengkodean inkjet, penandaan inkjet, kemasan farmasi, kemasan medis, cetak pada pipa, ekstrusi cetak, cetak pada botol, cetak pada karton
+    video:
+      title: "Video - Foenix Coding"
+      description: Lihatlah bagaimana printer Foenix mencetak pada item apa pun dan materi apa pun.
+    legal:
+      title: "Legal - Foenix Coding"
+      description: Lihat kebijakan Cookie dan Privasi kami.
+    jobs:
+      title: "Karir: Foenix coding sedang berkembang. Bergabunglah bersama kami!"
+      description: Kami selalu mencari teman baru yang berbakat yang berbagi visi kami untuk mendorong industri lebih maju
+    posts:
+      title: Berita & Event
+      description: Dapatkan Berita & Event terbaru
+    software:
+      title: Foenix FX APP – Solusi perangkat lunak untuk industri pengkodean dan penandaan
+      description: FX APP dari Foenix Coding memungkinkan Anda merancang pesan dalam waktu singkat melalui antarmuka yang ramah pengguna. Perangkat lunak keterlacakan terbaik
+      keywords: Perangkat Lunak Pelabelan, Perangkat lunak pelabelan, NiceLabel, FX APP, Gunakan berdasarkan tanggal, penghitung, nomor lot, logo, barcode
+    contact_coders:
+      title: Contact Coders - Penandaan biaya rendah tradisional
+      description: Printer dan solusi hemat biaya untuk printer pengkodean dan penandaan kontak berbiaya rendah tradisional
+      keywords: Pengodean Kontak, Mesin Penanda & Printer Rol Kontak
+    foenix_codaprint:
+      title: Foenix Codaprint - Printer sederhana untuk pencetakan berulang
+      description: Foenix Codaprint printer kontinu yang andal untuk penandaan logam, plastik, kaca, kardus dengan kecepatan tinggi dan rendah
+      keywords: Continuous Roller Printer, Batch Number, Plastik, Karton, Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - Printer Serbaguna
+      description: Printer reciprocating solid Codamark untuk mesin pengisi inline dan rotary, mencetak dengan baik Baik Sebelum Tanggal dan kegunaan lain dari Foenix Coding
+      keywords: Compact Reciprocating Printer, Baik Sebelum Tanggal, Codamark
+    foenix_codapack:
+      title: Foenix Codapack - Pembuat kode karton hemat biaya
+      description: Selesaikan masalah pencetakan karton Anda dengan coder kontak codapack menggunakan roller tinta plastik dan jenis karet baselock dari Foenix Coding
+      keywords: Kode Kontak, Printer Roller Tinta Plastik, Baselock Codapack
+    support:
+      title: Foenix Coding – Dokumentasi Dukungan
+      description: Panduan pengguna Foenix Coding dan panduan informasi untuk mempelajari lebih lanjut tentang solusi pencetakan kontak & inkjet kami
+      keywords: panduan pengguna Foenix Coding, Panduan Informasi Foenix, Pencetakan Inkjet, panduan pengguna FX ONE, panduan teknis Foenix, FOENIX MSDS
+
+  news:
+    latest: Berita terbaru
+    news: Berita/Event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

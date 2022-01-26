@@ -1,0 +1,1310 @@
+ko:
+  navbar:
+    home: 첫 페이지로 가기
+    products: 모든 제품
+    services: 서비스 & 지원
+    company: 회사
+    admin: 관리자
+    countries: 국가
+    jobs: 책무
+    posts: 배송
+    login: 로그인
+    logout: 로그아웃
+    contact: 고객센터
+    contact_o: 연락
+    printers: 프린터
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: 소프트웨어
+    inks: 잉크 & 소모품
+    distributors: 전 세계 대리점
+    cost: 소유 비용
+    FAQ: FAQ
+    about: 소개
+    careers: 연혁
+    news: 새 소식 & 이벤트
+    privacy_policy: 개인 정보 보호 정책
+    cookie_policy: 쿠키 정책
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | UK
+    printers: 프린터
+    contact_coders: 코더에게 연락하기
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: 지원 문서
+    industry: 제조업
+    video: 영상
+    demo: 데모 요청
+    bar: 잉크 카트리지와 유지 보수 계약에 많은 돈을 쓰지 마십시오! Foenix 프린터는 업계 최저 운영 비용 및 최저 인쇄 비용을 제공합니다
+    legal: 정책
+
+  cookie_bar:
+    content: 이 웹사이트를 사용함으로써, 귀하는 당사의
+    cookie_policy: 쿠키 정책에 동의하게 됩니다
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: 검색하기
+    prompts:
+      search:
+        team: 팀
+        country: 지역
+        job_type: 직종
+
+  jobs:
+    title: FOENIX CODING 은 성장하고 있습니다
+    tagline: 산업 발전을 위한 당사의 비전을 함께할 수 있는 재능있는 인재를 찾고 있습니다
+
+  jobs_show:
+    roles_at: 역할
+    apply_now: 지원하기
+    you_will: 하게 될 겁니다
+    we_are_looking: 가진 분을 찾고 있습니다
+    we_look_forward: 귀하의 의견을 기다립니다
+
+  faq:
+    title: 자주하는 질문
+    tagline: 아래 섹션 중 하나를 클릭하여 답변을 찾으실 수 있습니다. 도와드리겠습니다. 질문에 대한 답을 찾지 못하셨다면,
+    contact: 저희에게 연락주세요
+    title1: FX ONE 프린터는 무엇인가요?
+    desc1: FX One은 모든 사람이 사용할 수 있도록 만들어진 올인원 프린트기입니다. 별도의 전문 지식이 필요하지 않습니다. 단 몇 분만에 설치하고 대부분의 생산 라인에서 사용할 수 있습니다. 무엇을 하나요? 간단한 날짜별 용도부터 복잡한 로트 번호, 실시간 카운터, 날짜와 시간 또는 시프트 코드, 바코드 등 모든 제품에 인쇄 가능합니다. 이러한 기능 외에도, FX One은 코딩 및 마킹 시스템에서의 가장 최신 개발과 어플리케이션을 제공하기 위한 업그레이드가 함께 제공됩니다. 얼마나 간단하고 강력한지 
+    desc1vid: 영상
+    desc1end: 확인 해보세요.
+    title2: 어떤 언어를 지원하나요?
+    desc2: 어느 언어든 제약없이 인쇄하실 수 있습니다
+    desc2end: 소프트웨어 인터페이스는 16개의 언어를 지원하고 있으며, 더 많은 언어들이 추가 될 예정입니다. 추가되기를 원하는 언어가 있으시다면 sales@foenixcoding.com로 연락주세요.
+    title3: 크기가 어떻게 되나요?
+    desc3: 242mm x 178mm x 90mm 또는 9.52인치 x 7인치 x 3.54 인치 입니다.
+    title4: Foenix 공식 대리점은 어떻게 찾을 수 있나요?
+    desc4_1: 저희의 대 규모 유통망을 통해 현재 모든 대륙에 대리점이 입점하고 있으며 거의 모든 국가에 프린트기를 제공하고 있습니다!
+    desc4_2: 저희는 오직 지역 대리점을 통해서만 일관된 제품 품질과 최상의 고객 서비스를 제공하고 있다고 자부할 수 있습니다.
+    desc4_3: 현재 저희의 유통업체는 소규모 1인 기업에서부터 국제 기업에 이르기까지 다양합니다. 이 경험을 통해 저희는 성공의 핵심 요소는 유통의 규모가 아닌 헌신, 광범위한 현지 시장 지식 및 해당 기관과의 연락 그리고 역량이라는 것을 깨닳았습니다.
+    desc4_4: 당사의 리셀러들은 항상 귀하의 시간대와 언어에 맞춰
+    desc4_5: 신속하고 전문적인 지원을 제공하기위해 대기하고 있습니다.
+    desc4_6: 빠르고 비용 효율적인 배송.
+    desc4_7: 믿을 수 있는 현지 보증 서비스.
+    desc4_8: 리셀러에 관한 더 많은 정보를 원하시거나 궁금하신 사항이 있으시다면 
+    desc4_9: 주저하지 말고
+    desc4_10: 저희에게 연락주세요.
+    title5: 왜 로그인을 할 수 없죠?
+    desc5: 로그인 페이지는 개인화된 데시보드에 접근할 수 있도록 기존 유통업체들에게만 제공되고 있습니다. 다른 사용자는 이 페이지에 접근할 수 없습니다. FOENIX 배포자이지만 데시보드에 접근 하실 수 없는 경우 저희에게 알려주십시오.
+    title6: 구매 전 무료 평가판을 사용해 볼 수 있나요? 
+    desc6_1: 영국에 계십니까 네
+    desc6_2: 7일 무료 서비스를 이용 하실 수 있습니다.
+    desc6_3: 무료 평가판 사용 기간 동안, 프린터의 모든 기능을 사용해 보실 수 있으며 프린트기 당 가격과 당사의 프린트기를 사용함으로써 얼마나 비용을 절약할 수 있는지를 모니터링 하실 수 있습니다.
+    desc6_4: 무료 평가판은 가능한 경우에 한 해 제공됩니다.
+    title7: 만약 다른 Foenix 프린터 – Standard 또는 Remote -를 가지고 있는 경우 각각에 대해 별도의 소프트웨어가 필요합니까?
+    desc7: 아니오. 당사의 모든 프린터는 하나의 소프트웨어로 완벽하게 호환됩니다. 어느 모델을 사용하시든지 FX APP을 통해 모든 프린트기를 모니터링 하실 수 있습니다.
+    title8: FX ONE Standard와 FX ONE Remote 프린트기의 차이점이 무엇입니까?
+    desc8_1: FX One Standard는 모든 코딩 응용 프로그램에 적합한 프린트기입니다. 다공성 표면 용을 위한 유성 기반의 잉크로 작동하며 판지 측면에 인쇄할 경우 최상의 결과를 제공합니다.
+    desc8_2: 8 줄의 간단한 문구부터 바코드, 유통기한, 로고, 시프트,카운터, 데이터 베이스의 외부 데이터, QR코드 등 다양하게 이용하실 수 있습니다.
+    desc8_3: 본 프린터는 18mm 인쇄 높이의 고 해상도로 인쇄합니다.
+    desc8_4: 시장 최저 가격의 인쇄당 비용을 자랑하며, 판지 위에 정보를 인쇄 시 가장 효율적인 방법입니다.
+    desc8_5: FX One Remote 역시 18mm 높이의 고 해상도 프린터 헤드를 자랑합니다.
+    desc8_6: Remote 프린트기는 수동 셔터 혹은 전동 셔터 2가지 모델로 제공됩니다.
+    desc8_7: 본 프린터는 다공성 표면 (판지, 종이, 목재...)을 위한 유성 기반의 잉크 또는 비 다공성 표면 (플라스틱, 금속, 유리...)을 위한 용매 기반 잉크로 작동합니다.
+    desc8_8: 본 프린터로 사실상 모든 제품에 인쇄하실 수 있습니다.
+    title9_1: FX ONE Remote
+    title9_2: 전동 셔터와 수동셔터의 차이점은 무엇입니까?
+    desc9: FX ONE Remote 프린트기에는 프린터 헤드를 보호하기 위한 셔터가 있습니다. 전동 버전은 프린터가 완료 된 후 자동으로 셔터가 닫힙니다. 수동 버전은 인쇄 시작과 끝에 수동으로 셔터를 열고 닫아줘야 합니다.
+    title10: 제품 상단에도 인쇄할 수 있나요?
+    desc10: 네, 프린트헤드를 조정하여 어느 각도에서든 인쇄하실 수 있습니다
+    title11: 어떤 종류의 잉크를 제공하나요? 
+    desc11_1: 메틸,에틸,케톤 기반이 아닌 무취의 고품질 제어 잉크를 보유하고 있습니다. FX ONE 프린트기에 사용되는 피에조 기술은 단일 밀봉 잉크 카트리지만 필요하며 추가 보충 용매가 필요하지 않습니다. 이는 결과적으로 운영 비용을 크게 절감시켜 줍니다. 
+    desc11_2: 다공성 표면 (트레이, 판지, 목재...)를 위한 유성 기반 잉크와 비 다공성 표면 (금속, 플라스틱, 유리...)를 위한 용매 기반 잉크를 제공합니다
+    title12: 유지 보수 계약이 있습니까?
+    desc12_1: 비용이 드는 유지보수 계약은 없습니다.
+    desc12_2: Foenix 프린트기는 최소한의 부품으로 최대의 신뢰성을 제공합니다. 펌프, 벨브, 압축 공기, 용적 충전 및 공기 필터가 없으므로 매우 적은 비용으로 유지 관리 할 수 있습니다.
+    title13: FX ONE 프린터로 비용을 절감하고 있다는 것을 어떻게 확신할 수 있나요?
+    desc13_1: 당사의 소프트웨어는 FX APP에서 생산하실 모든 메시지에 대한 인쇄 당 비용 및 카트리지 당 인쇄 횟수를 계산할 수 있습니다.
+    desc13_2: 이는 당사의 프린트기를 사용함으로써 얼마의 비용을 절약했는지를 보여주는 아주 강력한 도구입니다. 이를 통해 항상 비용을 관리하실 수 있습니다
+
+  home:
+    # FIRST SECTION
+    title: 코딩 및 마킹
+    title_bottom: 제작
+    mobile_title: 코딩 및 마킹 제작
+    play: 영상 재생하기
+    download: 브로슈어 다운로드
+    title_span1: 간편함
+    title_span2: 신뢰 가능성
+    title_span3: 다 방면
+    title_span4: 지속 가능성
+    title_description: FX ONE 프린터는 판지, 트레이, 병, 비닐 봉지, 포일, 식품 패키지, 캔, 압출기를 비롯한 거의 모든 제품에 로트 번호, 사용 가능 날짜, 문구, 로고, 바코드를 인쇄하기 위한 고 해상도의 소형 잉크젯 프린트기입니다.
+    #SECOND SECTION
+    title_second: 유지 보수가 필요없는 차 세대 잉크젯 프린터
+    title_second_description: 영국 생산
+    second_section_one_title: 포장 및 코딩
+    second_section_one_description: 일차 및 이차 포장용 소형 문자 또는 대형 문자
+    second_section_two_title: 모든 산업용
+    second_section_two_description: 모든 산업을 위한 고 해상도 및 고 접착 마킹 솔루션
+    second_section_three_title: FX APP 소프트웨어
+    second_section_three_description: 고급 프린터 관리 & 인쇄 프로세스 최적화
+    #THIRD SECTION
+    third_section_title: 코딩과 마킹은 무엇입니까?
+    third_section_description: 코딩 및 마킹은 제조 과정에서 제품에 대한 다양한 정보를 인쇄하는 것입니다.
+    first_image: 제조, 배치 및 날짜 코드
+    second_image: 바코드
+    third_image: 브랜드 및 제품 정보
+    fourth_image: 트레이서빌리티 추적
+    third_section_statement_one: Foenix Coding은 중단 없는 생산라인의 중요성을 아주 잘 알고 있습니다.
+    third_section_statement_two: 저희는 시장에서 가장 안정적인 프린터를 개발하는 것을 저희의 미션으로 삼았습니다.
+    #FOURTH SECTION
+    box_coding_title: 판지 코딩
+    box_coding_description: 판지 코딩은 가장 전형적인 응용 프로그램입니다. FX ONE Standard와 FX ONE Plus로 더 이상 라벨에 비용을 지불하지 마세요. FX ONE 프린터기를 사용하여 판자, 트레이, 자루 또는 다른 생산 라인의 제품에 직접 고 해상도의 인쇄를 한다면, 사전 인쇄 포장이나 라벨에 들어가는 비용을 감축할 수 있습니다. 짧은 배치 실행과 개인화 된 문구, 그래픽 및 바코드에 대한 고객의 요구 사항을 쉽게 달성할 수 있습니다.
+    product_coding_title: 제품 코딩
+    product_coding_description: 기본적인 활용은 병, 작은 상자, 통, 캔, 유리병, 팩, 가방, 포일 등과 같은 개별적 포장의 코딩입니다. 상품 코딩을 위한 대부분 저희 고객들은 일반적으로 CIJ (연속 잉크젯)의 대안을 찾으시는 분 들입니다. 가격, 간단함 그리고 낮은 유지보수 비용이 동기 요인입니다. 이 시장에서 저희는 항상 식품, 음료, 의약품 및 전자 장치 등을 포함한 모든 산업 분야를 위한 다 기능적 프린터기인 FX ONE Remote 프린터를 사용합니다. FX ONE은 또한 돌출부 마킹, 웨빙 인쇄 및 다른 산업 응용 분야에도 적용 가능합니다.
+    fifth_section_title_html: "산업 사용을 위한 <span class='text-orange'> 설계 </span> & <span class='text-orange'>저렴한</span> 잉크젯 프린팅"
+    fifth-section_description_one: 지난 몇 년동안 Foenix는 유지 보수가 필요없는 산업용 잉크젯 프린터를 개발하는데에 막대한 투자를 해왔습니다. 이 코더는 특히나 식품, 음료, 자동차, 건설, 전환, 의료기기, 의약품, 전자 장치 및 화학과 같은 산업 분야를 위해 설계되었습니다.
+    fifth-section_description_two: 기발한 설계 덕분에, FX ONE 잉크젯 프린트기는 현저하게 낮은 잉크 사용량을 자랑하며 그 결과 시장에서 가장 저렴한 인쇄 당 비용을 제공합니다. 인쇄 비용 절감 - 일반적으로 50%-80%
+    food: 식료품
+    cosmetics: 화장품
+    extrusion: 압출 가공
+    automotive: 자동차 관련
+    beverage: 음료
+    pharmaceutical: 의약품
+    electronics: 전자 장치
+    construction: 건설
+    packaging: 포장
+    industrial_parts: 산업 부품
+    chemicals: 화학 물질
+    and_many_more: 그 외 다수
+    inks_title: 다양한 잉크
+    inks_description: 저희는 대부분에 적용할 수 있는 고접착 및 고대비 잉크를 제공합니다. 다양한 잉크를 사용하여 비 다공성 표면 (플라스틱, 유리, 금속...) 혹은 다공성 표면 (판지, 목재, 석고...)에 인쇄할 수 있습니다. UV 판독 및 경화 잉크와 더불어 다양한 색상의 잉크를 경험해 보실 수 있습니다.
+    become_distributor_title: Foenix Coding 대리점 되기
+    become_distributor_description: 저희의 국제 유통망에 함께하실 회사를 모집하고 있습니다
+    eight_section_title_one: 강려한 소프트웨어 스마트 컨트롤러
+    eight_section_description_one: FX APP 소프트웨어는 PC 및 맞춤형 FX ONE 터치 컨트롤러에서 사용하실 수 있습니다. FX ONE 터치 컨트롤러는 하나 이상의 FX ONE 프린터 모델을 관리하도록 설계 되었습니다. 이 컨트롤러를 통해 작고 견고한 하우징에서 메시지 생성, 저장 및 프린트 관리가 가능합니다. 편리한 곳에 고정할 수 있으며 하나의 프린트기에서 다른 프린트기로 쉽게 이동 가능합니다. 접속기는 사용하기 쉽게 디자인 되었으며 PC 버전과 동일합니다.
+    eight_section_title_two: 무료 평가판 사용 & 테스트 인쇄
+    eight_section_description_two_html: "만약 영국 내에 계신다면, 무료 7일 평가판을 사용해 보실 수 있습니다. 평가판 사용 기간 동안, 프린터의 모든 기능을 사용해 보실 수 있으며 프린터기 당 가격과 당사의 프린터기를 사용함으로써 얼마나 비용을 절약할 수 있는지를 모니터링 하실 수 있습니다. <br><br> FX ONE 프린터의 단순성과 품질에 대한 직접 시연을 원하신다면 지금 저희에게 연락주세요! <br><small>*무료 평가판은 가능한 경우에 한 해 제공됩니다.</small><br><br>전 세계 어디에서나 제품 샘플을 보내주신다면 고해상도 테스트 인쇄를 해드립니다."
+
+  newsletter:
+    card_title: 저희와 함께 하실 분을 구합니다!
+    card_text: 경력을 바꾸고 야망있는 스타트업에서 일 하고 싶으십니까? 저희와 함께 하세요!
+    title: 최신 뉴스레터 받기
+    text: 앞으로 저희가 선 보일 새 상품, 업데이트 등을 이메일로 수신 하시려면 등록하세요.
+    button: 구인 현황 보기
+    placeholder: 구독을 원하시면 이메일 주소를 입력 해 주세요
+    unsubscribe: 언제든 구독 가능 하십니다.
+    privacy: 개인 정보 보호 정책 읽기
+
+  about:
+    title: Foenix Coding
+    first_section_title_one: 소개
+    first_section_text_one: Foenix Coding은 라인 제품 코딩, 마킹, (인쇄) 및 식별을 위한 식품, 음료, 의약품, 산업 및 전자 산업에 최신 잉크젯 프린터를 공급하는 선도적인 제조업체이자 글로벌 공급업체입니다. 5년 이상 동안 Foenix는 프린터 디자인 분야에서 품질과 창의성, 비용 효율성 및 낮은 유지 관리비용과 함께 품질과 창의성으로 세계적인 명성을 쌓아왔습니다.
+    first_section_title_two: 회사
+    first_section_text_two: "Foenix Coding은 유지 보수가 필요 없는 잉크젯 시스템을 설계 및 제조를 전문으로 하는 잉크젯 프린터 산업으로 잘 알려져있습니다. 영국의 제조업체로서 글로벌 적 성공을 이루기 위해선 경쟁력있는 제품을 제공하는 것 이상의 노력이 필요합니다. Foenix의 창의적인 디자인은 프린트기 내부의 부품을 근본적으로 줄이는 결과를 가지고 왔습니다. 이러한 접근은 프린터의 신뢰성을 높이는 것 뿐 아니라 제조 비용 절감의 효과를 보였으며, Foenix가 세계적인 기업 중 하나로 자리매김하게 해 주었습니다."
+    first_section_title_three: 시장
+    hiring_title: 저희와 함께 하실 분을 구합니다!
+    hiring_text: 경력을 바꾸고 야망있는 스타트업에서 일 하고 싶으십니까? 저희와 함께 하세요!
+    view_openings: 구인 현황 보기
+    our_values_title: 기업 가치
+    our_values_text: Foenix 제품들은 혁신, 디자인 및 품질이라는 회사의 핵심 가치를 기반으로 합니다.
+    ov_card_title_one: 혁신
+    ov_card_text_one_html: "압전 잉크젯은 유지 관리가 간단하며 최고 수준의 가동 시간 안정성을 달성함으로써 모든 인쇄 기술 중 최고 수준의 인쇄 품질을 제공한다고 인정되어지고 있습니다.
+                           <br>
+                           일관된 인쇄는 제품에 대한 안정적인 가독성을 보장합니다."
+    ov_card_title_two: 디자인
+    ov_card_text_two_html: "대부분의 잉크젯 프린트기들은 복잡한 유지 관리 루틴으로 이어지는 복잡한 솔루션이 되도록 설계되어져 있습니다.
+                           <br>
+                           Foenix는 가동 시간을 최대화 하고 유지 보수를 최소화 하기 위해 최소한의 구성 요소들로 다양한 잉크젯 프린트기들을 설계했습니다."
+    ov_card_title_three: 품질
+    ov_card_text_three: 당사의 모든 제품, 프린트기, 잉크, 소모품은 영국에서 생산되며 지속 가능하도록 제작되었습니다. 소프트웨어와 하드웨어 시스템은 제조 및 포장 전문가와 공동 제작되었으며 유통 기한, 배치 코드, 2D 바코드, 그래픽 로고 및 기타 요구사항들에 대한 일상적인 인쇄 문제를 해결할 수 있게 도와줍니다.
+    whats_next_title: 향후 계획
+    whats_next_text_html: "Foenix Coding은 지난 몇 년간 글로벌 성장 및 기하 급수적인 성장 이후 기존 유통망 강화에 집중하고 있습니다.
+                          <br>
+                          R&D팀은 증가된 인쇄 높이, 다중 프린트 헤드 및 손 쉽게 사용할 수 있는 통신 기능을 갖춘 차 세대 FX ONE 프린트기 개발에 힘쓰고 있습니다."
+
+
+    first_section_text_three: Foenix 프린트기는 1차 및 2차 포장 인쇄 모두에서 비용 절감 효과를 제공합니다. 이는 라벨 교체 및 TIJ (열전사 잉크젯)과 CIJ(연속 잉크젯)에 대한 대안을 포함합니다. 당사의 프린터기들은 다른 기술을 사용하기 때문에 특별합니다. 그러므로  Foenix 프린트기들은 다른 솔루션을 제공할 수 있습니다. 동시에, 저희의 프린트기들은 다양한 상품의 코딩 및 마킹 솔루션에 쉽게 적용될 수 있습니다.
+    second_section_title: 기업 미션
+    second_section_text: "Foenix Coding은 영국 기반의 회사로 당사의 모든 제품은 영국에서 생산되어집니다. 저희는 새로운 기술과 혁신적인 인쇄 솔루션에 대한 열정을 가지고 있으며 저희 팀은 잉크젯 인쇄 기술 분야의 전문가들로만 구성되어 있습니다. 직원 모두는 Sauven Marking의 직원이었으며 저희의 모든 기술, 경험, 지식, 전문성 그리고 더 중요한 이에 대한 열정은 저희를 이 새로운 모험으로 이끌어줬습니다."
+    second_section_text_two: 당사의 미션은 전 세계의 모든 사람들이 쉽게 사용할 수 있는 고 품질의 간단한 프린트기를 만드는 것입니다. 귀하의 생산 라인의 효율성을 높이고 작품 추적 가능성의 문제를 해결 해 드리겠습니다. 
+    second_section_text_three: 복잡한 코딩 및 마킹 문제는 복잡하고 비싼 해결책을 요구하지 않습니다.
+    third_section_title: 저희는 산업용 인쇄에서의 소유 비용의 중요성에 중점을 두고있습니다.
+    third_section_text: 케이스 코딩 혹은 상품 마킹을 위한 잉크젯 프린트기를 찾고 계신다면, 인쇄에 대한 투자는 더 이상 프린트기의 가격에 있지 않습니다. 소모품 및 유지관리는 소유 비용을 결정하는 주요 요소가 되었습니다.
+    fourth_section_text_right: Foenix Coding은 소유 비용을 절감할 수 있는 다양한 종류의 프린터기들을 제공합니다. 저희는 소형 문자 인쇄를 위한 제로 유지보수 철학에 기반하고 있습니다. 또한 저희는 최고로 사용자 친화적인 산업용 프린트기를 제공하기 위해 노력하고 있습니다. Foenix 프린트기들은 그림 키 및/또는 매우 진화되고 직관적인 터치 컨트롤러가 있는 간단한 윈도우 PC 소프트웨어로 작동합니다.
+    fifth_section_title: 영국에서 만들어진 지속 가능한 제품
+    fifth_section_text_one: "당사의 모든 제품, 프린트기, 잉크, 소모품은 영국에서 생산되며 지속 가능하도록 제작되었습니다. 소프트웨어와 하드웨어 시스템은 제조 및 포장 전문가와 공동 제작되었으며 유통 기한, 배치 코드, 2D 바코드, 그래픽 로고 및 기타 요구사항들에 대한 일상적인 인쇄 문제를 해결할 수 있게 도와줍니다."
+    fifth_section_text_two: "당사의 산업용 Xaar 기반의 잉크젯 프린트기들은 유지 보수가 필요 없습니다. 프린트기들은 식품, 음료, 자동차, 건설, 전환, 의료 기기, 의약품, 전자 및 화학과 같은 분야의 산업용으로 특별히 설계되었습니다"
+
+  inks_and_consumables:
+    first_section_text: 대 용량 잉크 카트리지
+    first_section_text_two: FX ONE 프린트기는 다양한 종류의 잉크와 호환되는 시중에서 가장 다재다능한 프린터기입니다. 어느 표면 위에든 인쇄가 가능하며 카트리지 당 1,500만 글자까지 인쇄 가능합니다. 가장 전문화 된 적용 분야도 충족할 수 있도록 가장 광범위한 잉크젯을 제공합니다
+    inks_card_title_one_html: "고접착<span class='text-orange'>.</span>"
+    inks_card_text_one: 고접착 잉크는 PVC 압출에 적용할 수 있도록 특별 제작되었습니다. 이전에는 느껴보실 수 없었던 PVC 파이프 인쇄 품질을 경험 해보세요.
+    inks_card_title_two_html: "다양한 종류의 잉크<span class='text-orange'>.</span>"
+    inks_card_text_two: 다양한 잉크를 사용하여 비 다공성 표면 (플라스틱, 유리, 금속...) 혹은 다공성 표면 (판지, 목재, 석고...)에 인쇄할 수 있습니다. UV 판독 및 경화 잉크와 더불어 다양한 색상의 잉크를 경험해 보실 수 있습니다.
+    inks_card_title_three_html: "고대비<span class='text-orange'>.</span>"
+    inks_card_text_three: 당사의 다양한 안료 잉크는 어두운 제품에서 가장 높은 명암비를 보여줍니다. 어두운 인쇄물과 밝은 인쇄물 모두에서 코드가 잘 보이는지 확인 해 보세요.
+    grid_title_one: 밀봉된 잉크 카트리지
+    grid_text_one: 교체 가능한 일체형 잉크 카트리지로 오염 없는 깨끗한 잉크 시스템을 유지하세요. 당사의 잉크는 판지, 금속, 유리, 종이, 목재 및 그 외 플라스틱과 같은 다양한 다공성 및 비 다공성 물질 위에서 훌륭한 접착과 대비를 보여줍니다. 당사의 잉크는 가장 일반적인 적용 조건에서 탁월한 성능을 제공합니다.
+    grid_title_two: 생산 친화적인 잉크
+    grid_text_two: 식품, 음료, 화장품, 가정 용품, 공업 및 압출 시장에서의 적용을 위해, 냄새가 나지 않으며 메틸,에틸,케톤 기반이 아닌 고 품질 잉크를 제공합니다. 유색 잉크 또한 제공하고 있습니다.
+    grid_title_three: PVC 파이프 압출 인쇄를 위한 HDPVC 잉크
+    grid_text_three: PVC 압출 적용을 위해 특별히 설계된 고 접착 잉크를 제공합니다. 이전에는 느껴보실 수 없었던 PVC 파이프 인쇄 품질을 경험 해보세요.
+    grid_title_four: 간단한 잉크 시스템
+    grid_text_four: 잉크 공급 장치는 기기 후면에 삽입되어 있는 편리한 카트리지 시스템에 포함되어 있습니다. 잉크 카트리지 교환은 간단하고 깨끗하며 인쇄 과정 중단 없이 단 몇 초 내에 실행할 수 있습니다. 인쇄물을 놓치지 않고 항상 귀하의 제품 이미지에 맞는 고 해상도의 인쇄 품질을 얻으세요.
+    lowest_ink_title: 시중 최저 잉크 사용량
+    lowest_ink_text: 케이스 코딩 혹은 제품 마킹을 위한 잉크젯 프린터기를 찾고 계시다면, 인쇄에 대한 투자는 더 이상 프린트기의 가격에 있지 않습니다. 소모품 및 유지관리는 소유 비용을 결정하는 주요 요소가 되었습니다. 영리한 디자인으로, 피에조 잉크젯 프린트기는 현저히 낮은 잉크 사용량으로 가장 저렴한 인쇄 당 비용을 제공합니다.
+    # NEW
+    standard_ink_one: 이용 가능 한
+    standard_ink_two: Standard 잉크 범주
+    sdct_one_html: "FX 8001<br>검은색 유성 잉크"
+    sdct_text_one: 판지, 종이, 목재 또는 기타 다공성 물질용
+    sdct_two_html: "FX8201<br>검은색 용매 잉크"
+    sdct_text_two: PVC, 금속, 유리, 플라스틱 또는 기타 비 다공성 물질과 같은 대부분 재료용
+    sdct_three_html: "FX8203<br>파란색 용매 잉크"
+    sdct_text_three: FX8201 비 다공성 잉크와 같은 용도로 일차 포장용
+    sdct_four_html: "FX8308<br>빨간색 용매 잉크"
+    sdct_text_four: FX8201 비 다공성 잉크와 같은 용도로 일차 포장용
+    sdct_five_html: "FX 8206<br>흰색 용매 잉크"
+    sdct_text_five: 어두운 비 다공성 표현을 위한 안료 잉크
+    sdct_six_html: "FX8311<br>노란색 용매 잉크"
+    sdct_text_six: 비 다공성 표현을 위한 안료 잉크
+    sdct_seven_html: "FX8236<br>검은색 UV 경화 잉크"
+    sdct_text_seven: 즉시 건조되는 비 다공성 물질용
+    sdct_eight_html: "FX8235<br>UV 판독 잉크"
+    sdct_text_eight: UV 램프 아래에서만 판독 가능한 보이지 않는 잉크
+    # NEW
+    special_ink_title: 특수 잉크가 필요하십니까?
+    special_ink_title_two: 저희가 도와드릴게요!
+    special_ink_text_one: 유성 잉크
+    special_ink_text_two: 용매 기반 잉크
+    special_ink_text_three: 안료 잉크
+    special_ink_text_four: UV 경화 및 UV 판독 잉크
+    stay_informed_title: 최신 잉크 개발에 관한 정보를 얻으세요.
+    stay_informed_text: 새로운 잉크 출시에 가장 먼저 알림을 받으시려면 등록하세요.
+
+
+  distributor:
+    first_section_title: 글로벌 도달
+    first_section_text: 세계 어디에 계시든, 저희의 대리점 중 한 곳이 여러분 가까이에 있을 것입니다. 저희는 모든 대륙에 위치하고 있으며 귀하의 시간대 및 언어에 맞춘 지원을 제공합니다.
+    second_section_title: Foenix 대리점
+    why_partner_title: 왜 파트너가 되어야 하는가
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: '무엇이 Foenix CODING을 다른 경쟁업체와 다르게 하는가?
+                           <br>
+                           Foenix Coding은 제품, 회사 그리고 고객을 잘 아는 사람들이 모여 이루어진 "스타트업" 기업입니다.
+                           <br>
+                           <br>
+                           Foenix Coding과 함께 하신다면 다음과 같은 것을 기대하실 수 있습니다:'
+    first_list_one: 직접적인 경쟁 업체와 비교하였을 때 경쟁력 있는 가격
+    first_list_two: 대리점을 위한 매력적인 이윤
+    first_list_three: 절차 유연성
+    first_list_four: 생산 시간 유연성
+    first_list_five: 배송 시간 유연성
+    second_list_one: 개인 접근 방식
+    second_list_two: 이사들의 적극적 참여
+    second_list_three: 전시회 지원
+    second_list_four: 테스트 인쇄 지원
+    second_list_five: 교육 프로그램 지원
+    second_list_six: 기술적 업데이트
+    third_list_one: "기술 역량: 60개가 넘는 국가에 프린트기를 보유하고 있다는 것은 거의 모든 적용 가능성을 보았다는 것을 의미합니다"
+    third_list_two: 고객의 특정 요구에 빠르게 대응할 수 있는 유연한 R&D 팀
+    third_list_three: "전문 지식: 제한된 제품의 범위는 전문적인 지식을 제공합니다"
+    partnership_title: 파트너쉽을 위한 경로
+    partnership_text: 저희는 전 세계적으로 Foenix 제품을 마케팅할 수 있는 유통 파트너와의 네트워크를 확장할 수 있게 되어 기쁩니다. 저희는 현재 새로운 시장에 저희의 새로운 프린트기 제품군을 홍보하기 위해 국제 유통 네트워크에 기업들을 초대하고 있습니다. 이 양식을 작성해 주신다면 이 기회에 대해 더 논의하실 수 있도록 빠른 시일 내에 연락 드리겠습니다
+    step_one: STEP 1
+    step_one_title: 지원하기
+    step_one_text: 이 기회에 대해 더 논의하고 싶으시다면, 저희는 귀사와 귀하의 목표에 대해 들을 준비가 되어있습니다
+    step_two: STEP 2
+    step_two_title: 데모 프린터 받아보기
+    step_two_text: 장비의 성능 뿐 아니라 반응성 및 지원을 테스트하기 위해 귀사에서 받아보실 수 있습니다
+    step_three: STEP 3
+    step_three_title: 판매 하기
+    step_three_text: 저희의 목표는 당사의 비지니스 파트너가 새로운 잠재 고객 개발과 비지니스 개발에 쉽게 집중할 수 있도록 하는 것입니다.
+
+  distributor_countries:
+    uk: 영국
+    indonesia: 인도네시아
+    south_africa: 남 아프리카 공화국
+    france: 프랑스
+    austria: 오스트리아
+    peru: 페루
+    turkey: 터키
+    venezuela: 베네수엘라
+    malaysia: 말레이시아
+    vietnam: 베트남
+    saudi_arabia: 사우디 아라비아
+    egypt: 이집트
+    greece: 그리스
+    spain: 스페인
+    latvia: 라트비아
+    netherlands: 네덜란드
+    sri_lanka: 스리랑카
+    italy: 이탈리아
+    croatia: 크로아티아
+    brazil: 브라질
+    hungary: 헝가리
+    portugal: 포루투갈
+    lithuania: 리투아니아
+    ivory_coast: 코트디부아르
+    poland: 폴란드
+    malta: 몰타
+    philippines: 필리핀
+    uae: 아랍에미레이트
+    chile: 칠레
+    australia: 호주
+    usa: 미국
+    argentina: 아르헨티나
+    india: 인도
+    bulgaria: 불가리아
+    israel: 이스라엘
+    singapore: 싱가포르
+    germany: 독일
+    guatemala: 과테말라
+    china: 중국
+    ireland: 아일랜드
+    morocco: 모로코
+    nigeria: 나이지리아
+    sweden: 스웨덴
+    be_the_next: 다음 국가가 되어보세요
+
+  cost_of_ownership:
+    first_section_title: 시중 최저 소유 비용
+    first_section_list_one: 시중 최저 잉크 소비량
+    first_section_list_two: 시중에서 최고로 저렴한 인쇄 당 비용
+    first_section_list_three: 저렴한 프린터 가격
+    first_section_list_four: 유지보수/서비스 계약 없음
+    first_section_list_five: 보급 대기시간 없음
+    first_section_list_six: 설치비 및 교육비 없음
+    first_section_list_seven_html: 코딩 & 마킹 비용을 최소 60% 절감하세요.<br>잉크 & 유지보수 관리 계약에 더 이상 많은 돈을 소비하지 마세요!
+    first_section_list_eight_html: 저희의 운영 가이드를 통해<br>얼마나 많은 돈을 절약하실 수 있는지 확인 해 보세요
+    download: 다운로드
+    first_section_two_title: 명확하고 투명한 투자 수익
+    first_section_sub_title: FX ONE 프린트기는 인쇄 당 비용을 대폭 절감합니다
+    first_section_text_html: "인쇄 당 비용은 3가지 요소에 의해 결정되어집니다:<br>- 프린터기 구입 비용<br>- 잉크 비용<br>- 매달 유지 비용.
+                              <br>
+                              <br>
+                              Foenix Coding은 비용 절감을 최 우선으로 설계 된 간단한 잉크젯 프린트기입니다. FX ONE 잉크젯 프린트기는 단순함을 염두에 두고 개발되었으며 움직이는 부품이나 펌프 혹은 벨브가 없습니다. 잉크 공급은 모세관과 중력에 기반하여 이루어지며 압축 공기가 필요하지 않습니다. 제어는 단일 데이터 케이블 1개로 연결된 단일 PCB 1개로 마스터 됩니다. 단순함과 움직이는 부품의 부재는, 매달 혹은 매년 유지보수의 필요성을 없애줍니다. 적은 구성품의 사용은 FX ONE 프린트기가 매우 경쟁력있는 구매 가격을 가지고 있음을 의미합니다.
+                              <br>
+                              <br>
+                              절감된 인쇄 비용 - 일반적으로 50%에서 80%까지 절감. Xaar 프린트 기술은 한 방울 당 80피코 리터(0.000000080ml)만큼의 작은 잉크 침전물만을 허용하여, 막대한 잉크 절약을 가져옵니다. 인쇄 당 비용을 조절하실 수 있습니다. 저희의 직관적인 소프트웨어로 귀하의 인쇄 비용을 쉽게 계산하고 얼마나 절약할 수 있는지 확인 해 보세요. 마이크로 잉크 방울과 밀봉된 잉크 카트리지를 통한 인쇄는 잉크 낭비 없이 저렴한 인쇄 당 비용을 제공합니다. 잉크 절약모드를 통해 추가적인 비용 절약을 얻으실 수 있습니다.
+                              <br><br>
+                              시간이 지남에 따라 예산을 소모하는 값 비싼 잉크젯 프린트기에 얽매이지 마세요. 보증 세부 정보, 서비스 조건, 유지관리/수리 비용, 잉크 & 소모품 가격 알아보기. 귀하의 사업에 가장 경제적인 솔루션을 자신있게 선택하세요. 결정을 내리기 전에 프린트기의 총 소유 비용을 계산 해 보세요. Foenix Coding은 단순함의 예술을 이해하고 고객의 기대에 부응할 수 있는 간단하고 비용 효율적인 프린트기를 만들었습니다."
+    inkjet_printer_title: 잉크젯 프린트기를 선택하는 방법
+    inkjet_printer_text_html: "잉크젯 프린트기를 선택하는 것은 쉬운 일이 아님을 잘 알고 있습니다. 이용 가능한 다양한 제조 모델과 기술들이 있습니다.
+                             <br>
+                             <br>
+                             적용 상황에 따라 요구사항은 다릅니다. 적용 상황을 이해하신다면 많은 시간 소비와 실망감을 줄일 수 있습니다.
+                             <br>
+                             무료 가이드를 다운받고 Foenix 프린트기를 타 경쟁제품들과 비교해보세요."
+    newsletter_title: 잉크젯 프린트기 선택에 도움이 되는 무료 가이드 받기
+    newsletter_description_html: "CIJ vs TIJ vs <span class='text-orange'>FX ONE</span>"
+    list_title: "다음의 각 질문은 FX ONE 프린트기가 귀하의 제품에 적합한지를 알아볼 수 있도록 도와줍니다:"
+    list_left_one: 어떤 제품입니까?
+    list_left_two: 제품의 크기는 어떻게 됩니까?
+    list_left_three: 제품/포장은 무엇으로 만들어집니까?
+    list_left_four: 제품은 어디에 사용됩니까?
+    list_left_five: 컨베이어/제품 속도는 얼마입니까?
+    list_left_six: 제품이 인쇄 시점에 잘 지원됩니까?
+    list_left_seven: 인쇄 시 제품 온도는 어떻게 됩니까?
+    list_left_eight: 기후에 견디기 위해 요구되는 사항이 있습니까?
+    list_left_nine: 인쇄 요구사항은 위/옆/아래 어디에 있습니까
+    list_left_ten: 제품 라인은 어느 방향으로 인쇄가 진행됩니까?
+    list_left_eleven: 인쇄 영역의 크기는 얼마이며 인쇄를 적용할 곳은 어디입니까?
+    list_left_twelve: 인쇄를 위해 현재 어떤 장비를 사용하고 계십니까?
+    list_right_one: 어떤 컬러 잉크가 필요합니까?
+    list_right_two: 재료/포장재의 색상은 무엇입니까?
+    list_right_three: 인쇄 표면은 다공성입니까 비 다공성입니까?
+    list_right_four: 잉크가 마르는데 얼마나 걸립니까?
+    list_right_five: 어떤 문구입니까?
+    list_right_six: 문구의 높이가 어떻게 됩니까?
+    list_right_seven: 문자가 몇 개 있습니까?
+    list_right_eight: 문자 높이는 얼마나 됩니까?
+    list_right_nine: 인쇄 행 수가 얼마입니까?
+    list_right_ten: 분/시간 당 얼마씩 인쇄가능합니까?
+    list_right_eleven: 연속적인 웹 혹은 돌출부위에 문구가 연속됩니까
+    list_right_twelve: 메시지의 반복 길이가 어떻게 됩니까?
+
+    second_section_title: 절약/투자 수익률 계산기
+    second_section_text: 인쇄 당 비용과 카트리지 당 인쇄 매수를 쉽게 제어하세요. 비용을 절감하는 건 결코 쉬운 일이 아닙니다! 잉크 절약 모드로 최대 75%까지 절약하십시오.
+    second_section_text_two_html: "시간이 지남에 따라 예산을 소모하는 값 비싼 잉크젯 프린트기에 얽매이지 마십시오.
+                             <br>
+                             보증 세부 정보, 서비스 조건, 유지관리/수리 비용, 잉크 & 소모품 가격에 대해 알아보세요.
+                             <br>
+                             귀하의 사업에 가장 경제적인 솔루션을 자신있게 선택하세요.
+                             <br>
+                             결정을 내리기 전에 프린트기의 총 소유 비용을 계산 해 보세요."
+
+  printers:
+    title: FX ONE 시리즈
+    text: Foenix의 잉크젯 프린트기들은 모두 코딩 및 마킹 솔루션을 위한 산업용 잉크젯 프린트기로 설계되었습니다.
+          각 프린트기의 주요 설계 기준은 사용의 편리성, 적은 유지보수 및 초 고해상도 인쇄를 제공하는 비용 효율성입니다.
+    coming_soon: 출시 예정
+
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: 새로운 FX ONE 잉크젯 프린트기는 코드 당 비용과 유지비용이 가장 적은 소형 문자용 프린터기입니다. 제품 코딩에 대한 진정한 대안을 제공합니다.
+    second_section_title: 개요
+    grid_title_one: CIJ 인쇄에 대한 최고의 대안
+    grid_description_one_html: "FX ONE Remote는 매우 간단하게 설계된 잉크젯 프린터기이지만 1부터 8줄의 코드를 인쇄할 수 있으며 소유하고 계신 글꼴 스타일 혹은 그래픽을 입력할 수 있습니다.
+                                <br>
+                                <br>
+                                FX ONE Remote는 합리적인 가격으로 복잡한 CIJ 인쇄에 대한 최고의 대안을 제공합니다:
+                                <ul>
+                                  <li>시장에서 가장 낮은 인쇄당 비용</li>
+                                  <li>고해상도 인쇄</li>
+                                  <li>유지보수가 필요없는 설계</li>
+                                  <li>유연하며, 모든 방향으로 인쇄 가능</li>
+                                  <li추가비용 없이 여러 줄 인쇄</li>
+                                  <li>추가 보충 용제 필요 없음</li>
+                                </ul>"
+    grid_link_one: 빠른 견적 받기
+    grid_title_two: 압출 및 웨빙 공급 적용에 이상적임
+    grid_description_two_html: "FX ONE은 산업용 모듈식 잉크젯 코더입니다. 돌출부 마킹, 웨빙 인쇄 및 다른 산업용 적용에 적합합니다.
+                            <br>
+                            FX ONE 프린트기는 압출 라인에서 설정된 간격으로 연속 반복 인쇄를 위해 프로그램되었습니다.
+                            <br>
+                            <br>
+                            재료 웹에서 반복 인쇄를 완벽하게 제어합니다. 여러 FX ONE 프린트기들을 웹을 통해 고정하여 동일하거나 다른 메시지를 인쇄할 수 있습니다.
+                            원격으로 고정된 터치 컨트롤러는 인코더 또는 인쇄 활성화를 위한 모든 유형의 장치에 연결할 수 있습니다."
+    grid_link_two: 프린트 셈플 받기
+    grid_title_three: 쉬운 설치 & 작동
+    grid_description_three_html: "FX ONE Remote 프린트기는 대부분의 기계 혹은 제한된 공간에 쉽게 장착될 수 있습니다.
+                                  <br>
+                                  <br>
+                                  하나의 터치 컨트롤러로 제품의 양 면에 인쇄를 해보세요. 판지의 두 면이나나 큰 제품의 양 면에 인쇄를 하거나 단일 컨트롤러는 운영자의 메시지입력을 단순화합니다.
+                                  <br>
+                                  <br>
+                                  대형 컬러 그래픽 터치 스크린 및 WYSIWYG 디스플레이와 그림 동작 키가 결합되어 메시지 편집 및 프로그래밍이 매우 쉽습니다."
+    grid_link_three: 빠른 견적 받기
+    grid_title_four: 일관된 인쇄 성능
+    grid_description_four_html: "프린트 헤드의 자동 셔터는 작업자의 개입 없이 연속적이거나 간헐적인 적용 및 열악한 환경에서의 완벽한 인쇄를 보장합니다.
+                                <br>
+                                <br>
+                                이 셔터는 FX ONE을 사용하지 않는 동안 수동 혹은 자동으로 닫힐 수 있습니다. 닫힌 셔터는 프린트 헤드의 물리적 손상 및 프린트 헤드 내부의 잉크 건조를 방지할 수 있습니다.
+                                <br>
+                                <br>
+                                적대적인 환경에 대한 더 나은 보호:
+                                <br>
+                                셔터 개방시간은 약 5초 정도로 짧을 수 있습니다. 이는 인쇄를 하는 동안 셔터는 오직 5초 동안만 열려있음을 의미합니다. 그 후 즉시, 셔터는 닫히고 프린트헤드를 외풍, 습기, 먼지 및 공기 중 오염물질로부터 보호 해줍니다."
+    grid_title_five: 완벽한 인쇄를 위한 깨끗한 잉크 관리
+    grid_description_five_html: "쉽게 흐르는 오일 혹은 용매 기반의 잉크는 낭비와 오염을 방지하고 지저분해지는 것을 막기 위해 밀봉된 잉크 카트리지에 들어있습니다. 카트리지는 인쇄를 하는 동안에 몇 초 안에 교환할 수 있습니다.
+                                <br>
+                                프린트기는 100% 가동 시간을 제공하는 자동 공기 배기 및 청소를 위해 프로그램되어질 수 있습니다."
+    grid_link_five: 더 알아보기
+    grid_title_six: 완전 통합 기능
+    grid_description_six_html: "Foenix FX APP 소프트웨어는 프린트기 네트워킹, 데이터베이스 접근, 오프라인 메시지 생성, 산업 스캐너, 바코드 판독기, 검증기 및 기타 생산 장비 연결을 위한 완전한 통합 기능을 제공합니다.
+                                <br>
+                                메시지 선택은 수동으로 하거나 바코드 판독기를 사용하여 안전하게 선택할 수 있습니다."
+    grid_link_six: 더 알아보기
+    cards_section_description: 유지보수 비용이 없는
+    cards_section_description_two: 새로운 시대의 잉크젯 프린트기
+    first_card_title: 고해상도 코딩 & 마킹
+    first_card_text: 1줄에서 8줄까지의 인쇄, 2-18mm의 인쇄 높이.
+    second_card_title: Pc 연결
+    second_card_text: USB 케이블, RS485 혹은 이더넷을 통해 직접 메시지 생성 혹은 공장 네트워크 시스템에 연결할 수 있습니다.
+    third_card_title: 그래픽, 로고 & 바코트
+    third_card_text: FX APP을 통해 JPEG, PNG & BMP 그래픽을 쉽게 가져올 수 있습니다.
+    fourth_card_title: 간단한 스크린 & 키보드
+    fourth_card_text: 프린트기 속도 및 방향, 메시지 지연을 위한 로컬 컨트롤.
+    fifth_card_title: 기본 제공 설치
+    fifth_card_text: 최소한의 구성품으로 최대의 신뢰성 제공.
+    sixth_card_title: 1D & 2D 바코드
+    sixth_card_text: 가변 데이터를 포함하는 고해상도 1D 및 2D 바코드 인쇄 (QR 코드 – 데이터 매트릭스).
+    seventh_card_title: 2년 보증*
+    seventh_card_text_html: 연장 보증 가능<br>*이용 약관 적용
+    eigth_card_title: 터치 컨트롤러
+    eigth_card_text:  FX App을 사용한 간단한 대화형 windows 프로그래밍. 한 번의 클릭으로 안정적인 인쇄.
+    ninth_card_title: 네트워킹
+    ninth_card_text: 한 곳에서 여러 프린트기들을 관리해 보세요. 인쇄 분석을 통해 진행 상황을 모니터하고 결함 추적으로 통찰력을 얻을 수 있습니다.
+    tenth_card_title: 트루타입 글꼴 & 유니코드
+    tenth_card_text: 모든 글꼴 및 모든 언어로 메시지 생성 가능
+    eleventh_card_title: 대용량 용매 기반 잉크 카트리지
+    eleventh_card_text: 적은 코딩 비용과 깨끗한 잉크 시스템, 다공성 및 비 다공성 표면 인쇄에 적합
+    twelfth_card_title: 다중 포트 연결
+    twelfth_card_text: 인코더, 외부 경보 및 대체 제품 감지 장치용.
+    thirteenth_card_title: 잉크 절약 모드
+    thirteenth_card_text: 잉크 소모량 최대 75% 감소
+    pop_title: APP 소프트웨어
+    pop_title_two: 모든 제품 코딩에 적용 가능
+    pop_text_one: 네트워킹 & 인쇄 분석
+    pop_text_two: 간단한 대화형 Windows 프로그래밍
+    pop_text_three: 'PC & 7" 터치 스크린 컨트롤러에서 사용 가능'
+    pop_text_four: 다중 언어 지원
+    pop_text_five: 당사 DLL과의 완전한 통합
+    pop_text_six: 고급 프린터 관리
+    pop_link: 더 알아보기
+    fourth_section_title: 기술 사양
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: 특징
+    fifth_section_left_one: 모든 방향 인쇄
+    fifth_section_left_two: 1줄에서 8줄까지의 인쇄
+    fifth_section_left_three: 2mm-18mm의 총 인쇄 높이
+    fifth_section_left_four: 고해상도 페이조 프린트 헤드
+    fifth_section_left_five: 문자, 그래픽, 로고 및 바코드 인쇄
+    fifth_section_left_six: 시간 및 여러 날짜 형식 인쇄
+    fifth_section_left_seven: 연속 반복 인쇄 가능
+    fifth_section_left_eight: 분당 100m의 인쇄 속도 (바코드 및 2mm문자는 분당 50m의 속도로 인쇄 가능)
+    fifth_section_left_nine: 단일 시작/중지 인쇄 버튼
+    fifth_section_left_ten: 잉크 부족 알람을 포함한 시각적 알람 표시기
+    fifth_section_left_eleven: 메시지 너비, 지연 및 인쇄 방향 제어
+    fifth_section_left_twelve: 제품 탐지 광전지
+    fifth_section_left_thirteen: 1.7 Kg의 무게(잉크 카트리지 및 받침대 제외)
+    fifth_section_left_fourteen: 242 x 178 x 90mm
+    fifth_section_right_title_one: 연결성
+    fifth_section_right_one: Sauven 터치 컨트롤러를 위한 RS232 와 RS485
+    fifth_section_right_two: USB-A 메모리 스틱 포함
+    fifth_section_right_three: 케이블 연결 용 USB-B
+    fifth_section_right_four: 이더넷 (선택사항)
+    fifth_section_right_five: 문자, 그래픽, 로고 및 바코드 인쇄
+    fifth_section_right_six: 인코더, 알람 비콘 및 외부 광전지용 I/O 포트
+    fifth_section_right_title_two: 잉크
+    fifth_section_right_seven: 밀봉된 교체가능한 잉크 카트리지 (최대 1,500만자까지 인쇄 가능)
+    fifth_section_right_eight: 다공성 표면을 위한 유성 잉크
+    fifth_section_right_nine: 비 다공성 표면을 위한 용매 기반 잉크
+    fifth_section_right_ten: 즉각적인 LED 경화를 위한 UV 잉크
+    fifth_section_right_eleven: 다양한 색상
+    fifth_section_right_title_three: 전기
+    fifth_section_right_twelve: 90-260 VAC 부터 24VDC까지의 전원 공급 장치 포함
+    fifth_section_message: Foenix Coding Ltd는 지속적으로 상품과 소프트웨어를 개선합니다. 사양은 변경될 수도 있습니다.
+    build_to_last: 지속 가능한 상품 제작
+    build_to_last_description: 탄소 섬유 구조 및 견고한 구성품
+    build_to_last_description_two: 그룹은 앞으로 몇 년동안 귀하의 것이 될 것임을 의미합니다
+    discover: FX ONE 제품군 알아보기
+    shared_tech: 공유 기술
+    shared_tech_text_one: FX ONE 프린트기들은 매우 적은 구성품을 사용하여 모듈식으로 구축됩니다.
+    shared_tech_text_two: FX ONE의 부품들은 100% 호환 가능하며,유사한 기계 및 모델에 사용됩니다.
+    shared_tech_text_three: 모델 간 유일한 차이점은 프린트 헤드의 위치입니다. FX ONE Standard는 제어장치에 통합된 프린트 헤드가 있으며 FX ONE Remote와 FX ONE Plus는 유연한 도관으로 제어장치에 연결된 원격 프린트 헤드가 있습니다.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: 높은 해상도 패키지 인쇄를 위한
+    fx_one_standard_sub_two: 스마트 솔루션
+    fx_one_standard_text: 고가의 사전 인쇄된 포장 인쇄 혹은 비싼 라벨이 필요하지 않도록
+    fx_one_standard_text_two: 생산 라인의 판지, 트레이 또는 자루에
+    fx_one_standard_text_three: 직접 고해상도로 인쇄합니다.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: 라벨 인쇄를 절약할 수 있는
+    fx_one_plus_sub_two: 스마트 솔루션
+    fx_one_plus_text: 최대 72mm 인쇄 높이의 대형 문자 프린트기.
+    fx_one_plus_text_two: 비싸고 복잡하며, 제한적인 라벨링 시스템에 대한
+    fx_one_plus_text_three: 완벽한 대안.
+    sixth_section_title: 신뢰성, 강력함, 다재다능함
+    sixth_section_left_sub_title_one: 유지 보수 비용 없음
+    sixth_section_left_sub_text_one: Foenix 프린트기는 최소한의 부품으로 최대의 신뢰성을 제공합니다. 펌프, 벨브, 압축 공기, 용적 충전 및 공기 필터가 없으므로 매우 적은 비용으로 유지 관리 할 수 있습니다.
+    sixth_section_left_sub_title_two: 인쇄 당 최저 비용
+    sixth_section_left_sub_text_two: FX ONE 프린트기에 사용된 피에조 기술은 단일 밀봉 잉크 카트리지만 필요하며 추가 보충 용매가 필요하지 않습니다. 이는 결과적으로 운영 비용을 크게 절감시켜 줍니다.
+    sixth_section_left_sub_title_three: 일관된 인쇄 성능
+    sixth_section_left_sub_text_three: FX ONE 프린트기는 고해상도로 인쇄합니다. 로고, 1D 또는 2D 바코드 및 다양한 것들을 인쇄하실 수 있습니다
+    sixth_section_left_sub_title_four: 운영자 신뢰
+    sixth_section_left_sub_text_four: 쉬운 설치, 메시지 편집 및 프로그래밍 & 쉬운 유지 보수.
+    sixth_section_right_sub_title_one: 입증된 기술
+    sixth_section_right_sub_text_one: 전 세계적으로 수 천대의 프린터기 판매로 기술을 입증한 Xaar의 고 해상도 프린트 헤드를 사용합니다.
+    sixth_section_right_sub_title_two: 시스템 통합
+    sixth_section_right_sub_text_two: 공장 네트워크 시스템과 통합하거나 산업용 스캐너, 인코더, 계량기 혹은 기타 장비와 연결 가능합니다.
+    sixth_section_right_sub_title_three: 100% 가동시간 0% 가동 중지시간
+    sixth_section_right_sub_text_three: "연중 무휴 인쇄: 카트리지 교환 시에도 인쇄는 멈추지 않습니다!"
+    sixth_section_right_sub_title_four: 혁신 자동 셔터
+    sixth_section_right_sub_text_four: "프린트기의 가장 중요한 부분을 보호 해줍니다: 프린트헤드 엔진"
+    seventh_section_title: 언제나 흠잡을 곳 없는 인쇄
+    seventh_section_text: 고품질, 완벽한 구성, 고 정밀도가 바로 FX ONE 프린트기입니다. 저희는 고 해상도로 코딩을 하는 가장 단순하고 가장 효과적인 방법을 제공합니다.
+    low_ink: 시장에서 가장 낮은 잉크 사용량
+    low_ink_text: 잉크 카트리지와 유지 보수 계약에 많은 돈을 쓰지 마십시오!
+    low_ink_text_two: Foenix 프린터는 업계 최저 운영 비용 및 최저 인쇄 비용을 제공합니다
+
+
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: 트레이, 자루 또는 다른 생산 라인의 제품에 직접 고 해상도의 인쇄를 한다면, 사전 인쇄 포장이나 라벨에 들어가는 비용을 감축할 수 있습니다.
+    grid_title_one: 고해상도 패키지 인쇄를 위한 스마트 솔루션
+    grid_description_one_html: "새로운 FX ONE Standard는 모든 기능을 갖춘 소형 프린트기로 놀라운 인쇄 품질을 제공합니다. 프린트기를 프로그래밍하기 쉬운 간단한 독립형으로 사용하거나 전체 생산 네트워크 시스템과 통합하여 사용할 수 있습니다. 고가의 라벨이 필요 없습니다:  FX ONE Standard로  판지, 트레이, 자루 또는 생산 라인의 다른 제품들에 직접적인 고해상도 인쇄로 비싼 사전 인쇄 포장이나 라벨 사용을 없애보세요."
+    grid_link_one: 인쇄 셈플 받기
+    grid_title_two: 시간과 돈을 절약하세요
+    grid_description_two_html: "복잡한 시작 및 종료 절차가 필요 없습니다. 하루가 끝나면 기계를 껐다가 다음날 다시 켜기만 하면 됩니다.
+                            <br>
+                            FX ONE 프린트기는 최소한의 부품으로 최대의 신뢰성을 제공하기 위해 설계되었습니다. 펌프,벨브,압충 공기가 없으며 단일 PCB는 적은 유지 비용이 적게 들고 비용이 비싼 유지보수 계약이 필요하지 않음을 의미합니다.
+                            <br>
+                            <br>
+                            절감된 인쇄 비용 - 인쇄당 비용 관리 및 모니터하여 잉크 소비량을 75%까지 쉽게 감소하세요. 마이크로 잉크 방울과 밀봉된 잉크 카트리지를 통한 인쇄는 잉크 낭비 없이 저렴한 인쇄 당 비용을 제공합니다.
+                            쉽게 흐르는 오일 기반의 잉크는 낭비와 오염을 방지하고 지저분해지는 것을 막기 위해 110ml의 밀봉된 잉크 카트리지에 들어있습니다. 카트리지는 인쇄를 하는 동안에 몇 초 안에 교환할 수 있습니다. 프린트기는 자동 공기 배기 및 청소를 위해 프로그램 되어질 수 있습니다."
+    grid_link_two: 빠른 견적 받기
+    grid_title_three: 생산 다양성
+    grid_description_three_html: "FX ONE의 작고 혁신적인 산업적 디자인은 몇 분안에 프린트기를 다른 위치로 옮길 수 있게 해줍니다. 코드를 뽑고 이동하시기만 하면 됩니다. 큰 터치 스크린으로 원활하게 작동하며 모든 인쇄 작동은 손 쉽게 제어 가능합니다. 인쇄 버튼을 누르고 아무거나 인쇄하세요.
+                                  <br>
+                                  <br>
+                                  FX ONE 프린트기는 판지의 양 측면에 같거나 다른 메시지를 인쇄할 수 있도록 연결되어질 수 있습니다. 고해상도의 모든 글꼴 스타일, 그래픽 및 모든 언어로 인쇄할 수 있는 기능은 귀하의 제품 이미지를 향상시켜 줄것입니다."
+    grid_title_four: 완전 통합 기능
+    grid_description_four_html: "Foenix FX APP 소프트웨어는 프린트기 네트워킹, 데이터베이스 접근, 오프라인 메시지 생성, 산업 스캐너, 바코드 판독기, 검증기 및 기타 생산 장비 연결을 위한 완전한 통합 기능을 제공합니다.
+                                <br>
+                                메시지 선택은 수동으로 하거나 바코드 판독기를 사용하여 안전하게 선택할 수 있습니다."
+    grid_link_four: 더 알아보기
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: CIJ 인쇄를 위한
+    fx_one_remote_sub_two: 스마트한 대안책
+    fx_one_remote_text: FX ONE Remote 잉크젯 프린트기는 코드 당 가장 저렴하며
+    fx_one_remote_text_two: 가장 적은 유지비용이 드는 소형 문자 인쇄가 가능한 프린트기입니다.
+    fx_one_remote_text_three: 제품 코딩을 위한 진정한 대안을 제공합니다.
+    second_section_title: 개요
+    first_card_title: 고해상도 코딩 & 마킹
+    first_card_text: 1줄에서 8줄까지의 인쇄, 2-18mm의 인쇄 높이.
+    second_card_title: Pc 연결
+    second_card_text: USB 케이블, RS485 혹은 이더넷을 통해 직접 메시지 생성 혹은 공장 네트워크 시스템에 연결할 수 있습니다.
+    third_card_title: 그래픽, 로고 & 바코드
+    third_card_text: FX APP을 통해 JPEG, PNG & BMP 그래픽을 쉽게 가져올 수 있습니다.
+    fourth_card_title: 간단한 스크린 & 키보드
+    fourth_card_text: 프린트기 속도 및 방향, 메시지 지연을 위한 로컬 컨트롤.
+    fifth_card_title: 기본 제공 설치
+    fifth_card_text: 최소한의 구성품으로 최대의 신뢰성 제공.
+    sixth_card_title: 1D & 2D 바코드
+    sixth_card_text: 가변 데이터를 포함하는 고해상도 1D 및 2D 바코드 인쇄 (QR 코드 – 데이터 매트릭스)..
+    seventh_card_title: 2년 보증
+    seventh_card_text: 1년, 2년 또는 3년 더 연장합니다.
+    eigth_card_title: 터치 컨트롤러
+    eigth_card_text: FX App을 사용한 간단한 대화형 windows 프로그래밍. 한 번의 클릭으로 안정적인 인쇄..
+    ninth_card_title: 네트워킹
+    ninth_card_text: 한 곳에서 여러 프린트기들을 관리해 보세요. 인쇄 분석을 통해 진행 상황을 모니터하고 결함 추적으로 통찰력을 얻을 수 있습니다.
+    tenth_card_title: 트루타입 글꼴 & 유니코드
+    tenth_card_text: 모든 글꼴 및 모든 언어로 메시지 생성 가능
+    eleventh_card_title: 대용량 오일 기반 잉크 카트리지
+    eleventh_card_text: 적은 코딩 비용과 깨끗한 잉크 시스템, 다공성 표면 인쇄에 적합.
+    twelfth_card_title: 다중 포트 연결
+    twelfth_card_text: 인코더, 외부 경보 및 대체 제품 감지 장치용.
+    thirteenth_card_title: 잉크 절약 모드
+    thirteenth_card_text: 잉크 소모량 최대 75% 감소
+    seventh_section_title: 생산 다양성
+    seventh_section_text: FX ONE의 작고 혁신적인 산업적 디자인은 몇 분 안에 프린트기를 다른 위치로 옮길 수 있게 해줍니다. 코드를 뽑고 이동하시기만 하면 됩니다. 큰 터치 스크린으로 원활하게 작동하며 모든 인쇄 작동은 손 쉽게 제어 가능합니다. 인쇄 버튼을 누르고 아무거나 인쇄하세요.
+
+
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: 72mm의 인쇄 높이까지 대형 문자 인쇄용 프린트기입니다. 비싸고 복잡하며 제한된 라벨링 시스템을 위한 완벽한 대안책 입니다.
+    first_section_text_two: "비싸고 복잡하며 제한된 라벨링 시스템을 위한 완벽한 대안책."
+    coming_soon: 출시 예정
+    grid_title_one: 라벨 인쇄를 절약하는 현명한 방법
+    grid_description_one_html: "FX ONE Plus 대형 문자용 잉크젯 프린트기는 사용자가 라벨 인쇄의 인쇄 당 비용을 제어할 수 있도록 해줍니다.
+                               <br>
+                               <br>
+                               Windows 기반의 소프트웨어는 인쇄당 비용을 제어가는 것이 가장 중점인 라벨링 인쇄를 염두해 특별히 설계 되었습니다. 라벨을 사용하는 대신, 판지에 직접 인쇄하므로써, 비용 효율성이 크게 증가됩니다.
+                               <br>
+                               <br>
+                               FX ONE Plus는 더 나은 유연적인 통합성을 제공하고 데이터베이스와 연결 가능하며, 기존 관리 소프트웨로 전체 원격 제어를 허용하며 WiFi를 포함한 전체 네트워킹 기능을 제공합니다.
+                               <br>
+                               <br>
+                               판지 및 상자 위에 인쇄할 수 있는 저 비용 코딩 및 마킹을 위해 설계된 라벨 인쇄를 위한 완벽한 대한책 입니다.
+                               복잡한 시작 및 종료 절차가 필요 없습니다. 하루가 끝나면 기계를 껐다가 다음날 다시 켜기만 하면 됩니다.
+                               <br>
+                               <br>
+                               판지 뿐만 아니라, 종이, 목재, 천, EPS, 폼, 콘크리트 등에도 인쇄하실 수 있습니다"
+    huge_cost_savings: 판지 위에 직접적으로 고해상도의 인쇄를 함으로써 라벨 및 사전 인쇄된 포장재를 대체할 막대한 비용 절감 – 상자, 자루, 트레이, 목재 팔레트 및 다른 제품에 용이함
+    plus_newsletter_title: FOENIX 뉴스레터
+    plus_newsletter_description: FX ONE Plus의 출시 소식을
+    plus_newsletter_description_two: 가장 먼저 받아보세요
+    placeholder: 이메일을 입력하고 출시에 관한 새로운 소식을 받아보세요
+
+  software:
+    first_section_title_one: FX 터치 컨트롤러
+    first_section_text_one: 간단한 터치 한 번으로 프린트기를 제어하세요. 바코트, 카운터, 로고, 날짜, 시간, 시프트 등과 같은 기본적인 기능 외에도 FX ONE 프린트기는 PC 소프트웨어 및 네트워크 연결이 표준으로 제공됩니다.
+    first_section_text_two: Foenix Coding은 단순함의 예술을 이해하고 고객의 기대에 부응할 수 있는 간단하고 비용 효율적인 프린트기를 만들었습니다.
+    first_section_text_three: 프로젝트의 작업 흐름을 단순화하기 위해 FX APP의 사용자 인터페이스 디자인에 많은 노력을 기울였습니다.
+    first_section_text_four: FX 터치 컨트롤러에서 실행되는 FX APP은 PC 소프트웨어로도 사용될 수 있으므로 모든 컴퓨터에서 프린트기를 제어할 수 있습니다.
+    second_section_title: FX APP 소프트웨어
+    second_section_text: 생산 환경을 항상 통제할 수 있는 궁극적인 도구로 비용을 절감할 수 있습니다. 당사의 FX APP은 통합 및 유연성을 제공하는 PC뿐 아니라 Foenix 컨트롤러 모두에서 실행할 수 있으며 데이터베이스와 연결할 수 있으므로, 완전한 네트워킹 기능을 가진 기존 생산관리 소프트웨어로 완전한 원격 제어를 가능하게 해줍니다.
+    second_section_text_two: Foenix FX APP은 사용자 친화적인 인터페이스를 통해 기록 시간 내에 메시지 디자인을 할 수 있습니다.
+    second_section_check_one: 간단한 대화형 Windows 프로그래밍
+    second_section_check_two: 무제한 메시지 저장
+    second_section_check_three: 잉크 절약 인쇄 모드
+    second_section_check_four: 트루타입 글꼴 & 유니코드 사용
+    second_section_check_five: JPEG & BMP 로고 보내기
+    second_section_check_six: 다중 언어 지원
+    second_section_card_one: "Fx App: 클릭 & 인쇄"
+    second_section_card_two: FX APP으로 인쇄 과정을 최적화 하세요
+    second_section_card_three: 한번의 클릭으로 안정적인 인쇄
+    second_section_card_four: 작업 흐름에 맞는 소프트웨어 통합
+    third_section_left_title: FX APP
+    third_section_left_sub_title: 특징
+    third_section_left_text_one: Windows XP 이상과 호환
+    third_section_left_text_two: 직관적인 아이콘 주도 메시지 생성
+    third_section_left_text_three: 트루타입 글꼴 및 유니코드 지원
+    third_section_left_text_four: JPEG and BMP 형식으로 직접 가져온 그래픽, 로고 & 바코드
+    third_section_left_text_five: 시간 및 여러 날짜 형식
+    third_section_left_text_six: 잉크 절약 인쇄 모드
+    third_section_left_text_seven: 무제한 메시지 저장
+    third_section_left_text_eight: 다중 언어 지원
+    third_section_left_text_nine: Foenix Coding Ltd는 지속적으로 상품과 소프트웨어를 개선합니다. 사양은 변경될 수도 있습니다.
+    third_section_right_title: FX ONE 터치
+    third_section_right_sub_title: 특징
+    third_section_right_title_two: 연결성
+    third_section_right_text_one: 7” 터치 스크린
+    third_section_right_text_two: 간단한 대화형 Windows 프로그래밍
+    third_section_right_text_three: FX App 사용하기
+    third_section_right_sub_title_two: 연결성
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 멀티 포트, 이더넷 (선택사항)
+    third_section_right_text_five: 24 v DC 입력
+    third_section_right_text_six: 외부 경보, 비콘, 인코더 지원
+    third_section_right_text_seven: 바코드 리더기를 사용한 자동 프로그래밍
+    third_section_final_text: 터치스크린 인터페이스는 FX APP으로 모든 작업을 단순화 해줍니다. 교육이 필요없는 간편한 설정 및 탐색으로 번거롭지 않고 직관적인 인쇄 환경을 제공합니다.
+
+    extremely_simple: 매우 간편한 사용법
+    extremely_simple_text: 프로젝트의 작업 흐름을 단순화하기 위해 FX APP의 사용자 인터페이스 디자인에 많은 노력을 기울였습니다. 교육이 필요없는 간편한 설정 및 탐색으로 번거롭지 않고 직관적인 인쇄 환경을 제공합니다..
+    extremely_simple_button: FX APP에 대한 엑세스 요청하기
+    grid_title_one: 다중 언어 지원
+    grid_description_one: 소프트웨어는 19가지의 언어로 번역되며 어느 언어로든 인쇄하실 수 있습니다
+    grid_title_two: 비용 절감
+    grid_description_two: 카트리지당 인쇄 수 및 인쇄당 가격을 손 쉽게 제어하세요. 비용 절감이 그 어느 때보다 쉬워졌습니다!
+    grid_title_three: 네트워킹 & 통합
+    grid_description_three_html: "FX APP은 프린트기 네트워킹, 데이터베이스 엑세스, 오프라인 메시지 생성, 산업용 스캐너와 연결, 바코드 판독기, 검증기 및 다른 생산 장비에 연결하기 위한 완전한 통합 기능을 제공합니다.
+                                 <br>
+                                 <br>
+                                 고급 프린터 관리:
+                                 <br>
+                                 한 곳에서 여러 Foenix 프린트기들의 생산 관리로 가동 시간을 극대화하세요. 인쇄 분석을 통해 진행사항을 모니터하고, 오류를 추적하며 통찰력을 얻으세요."
+    grid_title_four: Foenix 펌웨어
+    grid_description_four: 시간이 지날수록 프린트기들은 더욱 더 좋아지고 있습니다. 성능 향상 및 펌웨어 업데이트에 추가된 기능으로 FX ONE 프린트기를 더욱 강력하게 만드세요.
+    grid_title_five: 당사 DLL과의 완전 통합
+    grid_description_five_html: "DLL이란 무엇입니까?
+                                <br>
+                                <br>
+                                A DLL (동적 링크 라이브러리)는 타사 개발자가 자체 응용 프로그램을 통합하는데 사용할 수 있는 소프트웨어 기능 집합입니다. Foenix DLL은 FX APP 응용프로그램 또는 Foenix 터치 컨트롤러를 통해 FX ONE 프린트기를 제어할 수 있도록 해주는 일련의 기능을 제공합니다.
+                                라이브러리는 실제 프로토콜을 사용함으로써 개발자가 프린트기의 통신 프로세스를 훨씬 더 간편하게 할 수있도록 해줍니다. 그런 다음 개발자는 비교적 간단한 메커니즘을 사용하여 프린트기를 모니터링하고, 메시지를 불러오고 데이터를 전송할 수 있습니다."
+    grid_title_six: 인쇄 설정에서 사용자 오류 방지
+    grid_description_six: 휴대용 리더기를 통한 자동 인쇄설정으로 더 이상의 오류를 방지할 수 있습니다. 바코드 스캐너는 인쇄할 메시지 선택하거나 해당 바코드를 스캔하여 메시지 필드를 채우는데 사용할 수 있습니다. 적은 수동 개입은 코딩 실수를 줄여줄 수 있습니다.
+    newsletter_title: 저희의 최신 소프트웨어를 받아보세요
+    newsletter_description: 가장 먼저 업데이트 소식을 받으시려면 등록하세요
+
+    fourth_section_title_one: 다중 언어 지원
+    fourth_section_text_one: 소프트웨어는 19가지의 언어로 번역되며 어느 언어로든 인쇄하실 수 있습니다
+    fourth_section_title_two: 비용 절감
+    fourth_section_text_two: 카트리지당 인쇄 수 및 인쇄당 가격을 손 쉽게 제어하세요.
+    fourth_section_text_two_two: 비용 절감이 그 어느 때보다 쉬워졌습니다!
+    fourth_section_title_three: 네트워킹 & 통합
+    fourth_section_text_three: FX APP은 프린트기 네트워킹, 데이터베이스 엑세스, 오프라인 메시지 생성, 산업용 스캐너와 연결, 바코드 판독기, 검증기 및 다른 생산 장비에 연결하기 위한 완전한 통합 기능을 제공합니다.
+    fourth_section_title_four: FX APP
+    fourth_section_text_four: 고급 프린터 관리.
+    fourth_section_text_four_two: 한 곳에서 여러 Foenix 프린트기들의 생산 관리로 가동 시간을 극대화하세요. 인쇄 분석을 통해 진행사항을 모니터하고, 오류를 추적하며 통찰력을 얻으세요
+    fourth_section_title_five: 인쇄 설정에서 사용자 오류 방지
+    fourth_section_text_five: 휴대용 리더기를 통한 자동 인쇄설정으로 더 이상의 오류를 방지할 수 있습니다. 바코드 스캐너는 인쇄할 메시지 선택하거나 해당 바코드를 스캔하여 메시지 필드를 채우는데 사용할 수 있습니다. 적은 수동 개입은 코딩 실수를 줄여줄 수 있습니다.
+    button: 테스트 할 라이브 소프트웨어
+    fourth_section_title_six: Foenix 펌웨어
+    fourth_section_text_six: 시간이 지날수록 프린트기들은 더욱 더 좋아지고 있습니다.
+    fourth_section_text_six_two: 성능 향상 및 펌웨어 업데이트에 추가된 기능으로 FX ONE 프린트기를 더욱 강력하게 만드세요.
+    fifth_section_title_one: 당사 DLL과의 완전 통합
+    fifth_section_sub_title: DLL이란 무엇입니까?
+    fifth_section_text_one: A DLL (동적 링크 라이브러리)는 타사 개발자가 자체 응용 프로그램을 통합하는데 사용할 수 있는 소프트웨어 기능 집합입니다. Foenix DLL은 FXPro 응용프로그램 또는 Foenix 터치 컨트롤러를 통해 FX ONE 프린트기를 제어할 수 있도록 해주는 일련의 기능을 제공합니다. 라이브러리는 실제 프로토콜을 사용함으로써 개발자가 프린트기의 통신 프로세스를 훨씬 더 간편하게 할 수있도록 해줍니다. 그런 다음 개발자는 비교적 간단한 메커니즘을 사용하여 프린트기를 모니터링하고, 메시지를 불러오고 데이터를 전송할 수 있습니다.
+    fifth_section_title_two: DLL은 어떻게 작동되나요?
+    fifth_section_text_two: DLL은 고객이 프린터와 통신하는데 사용됩니다. 아래의 다이어그램은 DLL이 응용 프로그램과 프린트기 사이에 위치하는 방식을 보여주는 기본적 개요입니다.
+
+  industry:
+    first_section_title: 당사는 모든 산업과 모든 적용을 위한 솔루션을 제공합니다
+    first_section_text: 1개의 소규모 생산 라인을 보유한 신흥 기업부터 가장 까다로운 적용을 보유한 다국적 기업에 이르기까지 모두 FX ONE 프린트기의 고해상도 코딩으로 코딩 및 마킹 비용을 줄이고, 불 가동 시간을 방지하며, 메뉴얼 과정을 자동화하고 생산 품질을 개선할 수 있습니다.
+    first_section_button_one: 데모 요청하기
+    first_section_button_two: 가격 확인
+    trusted_title: 모든 산업 분야의
+    trusted_title_two: 기업들이 신뢰하는 기업
+    trusted_text_html: "Foenix Coding은 전 세계적으로 식품, 음료, 의약품, 공업, 전자 및 건설 산업 분야에 잉크젯 프린트기를 설치했습니다.
+                  <br>
+                  당사의 고객은 그 분야에서의 가장 큰 제조업체들을 포함하고 있지만 Foenix는 프린트기에 내장된 저 비용, 낮은 유지보수 개념을 똑같이 인정하는 전 세계 작은 제조회사들의 주문 제작도 동등히 중요하게 여깁니다."
+    fd_title: 음식 & 음료
+    fd_card_title_one: 베이커리 상품
+    fd_card_text_one: 비스킷, 케잌 쿠키...
+    fd_card_title_two: 시리얼 상품
+    fd_card_text_two: 아침 시리얼, 파스타...
+    fd_card_title_three: 가공 과일 및 채소
+    fd_card_text_three: 통조림 제품, 말린 과일...
+    fd_card_title_four: 과자
+    fd_card_text_four: 초콜릿, 과자, 껌...
+    fd_card_title_five: 스낵 제품
+    fd_card_text_five: 칩, 짭짤한 스낵, 초콜릿...
+    fd_card_title_six: 생선 및 어류 제품
+    fd_card_text_six: 생선 통조림, 건어물, 소매용 냉장 박스...
+    fd_card_title_seven: 유제품
+    fd_card_text_seven: 우유, 요거트, 치즈, 크림...
+    fd_card_title_eight: 알코올 음료
+    fd_card_text_eight: 와인, 증류주, 주류...
+    fd_card_title_nine: 갈거나 껍질을 벗긴 제품
+    fd_card_text_nine: 밀가루, 쌀...
+    fd_card_title_ten: 육류
+    fd_card_text_ten: 미리 포장 된 제품, 건조된 신선육, 냉동...
+    fd_card_title_eleven: 커피, 코코아, 차
+    fd_card_text_eleven: 가루, 개별 포장...
+    fd_card_title_twelve: 유아식
+    fd_card_title_thirteen: 즉석 식품
+    fd_card_text_thirteen: 피자, 샌드위치...
+    fd_card_title_fourteen: 무 알콜성 음료
+    fd_card_text_fourteen: 물, 레몬에이드, 과일 주스...
+    fd_card_title_fifteen: 냉동 식품
+    fd_card_title_sixteen: 향신료, 에센스, 조미료 및 베이킹 재료
+    fd_card_title_seventeen: 식용유 및 유사 제품, 고형 지방
+    fd_card_text_seventeen: 올리브유, 버터, 라드...
+    fd_card_title_eighteen: 4개 묶음
+    cp_title: 화장품 &
+    cp_title_two: 의약
+    cp_card_title_one: 화장품 및 개인 위생
+    cp_card_text_one: 샴푸, 비누, 치약, 휴지...
+    cp_card_title_two: 뷰티 제품
+    cp_card_text_two: 향수, 헤어 제품, 메이크업...
+    cp_card_title_three: 의약품
+    cp_card_text_three: 의약품, 시럽, 알약, 크림 튜브...
+    cp_card_title_four: 의료 기기
+    cp_card_text_four: 마스크, 주사기, 밴드, 소독...
+    ind_title: 공업 용품
+    ind_card_title_one: 금속 제품
+    ind_card_text_one: 완성품 혹은 반 제품 부품, 하위 조립품...
+    ind_card_title_two: 자동차 산업
+    ind_card_text_two: 예비 부품, 자동차 배관, 자동차 인테리어, 고무 부품...
+    ind_card_title_three: 화학 제품
+    ind_card_text_three: 산업용 화학 물질, 세제, 세척 제품...
+    ind_card_title_four: 전자 장비, 하위 조립제품, 부품
+    ind_card_text_four: PCB 보드, 보안 카드...
+    ind_card_title_five: 건축 자재
+    ind_card_text_five: 바닥, 타일, 목재, 돌, 벽 패널, 석고 보드...
+    ind_card_title_six: 비료, 살충제 및 기타 식물 처리 제품
+    ind_card_title_seven: 돌출 가공 및 웹-공급 제품
+    ind_card_text_seven: 플라스틱 파이프, 케이블, 포장 봉지...
+    ind_card_title_eight: 정원, 농업, 임업 및 수산 제품
+    ind_card_text_eight: 정원용 띠...
+    ind_card_title_nine: 페인트, 염료, 착색제, 잉크, 광택제 및 이와 유사한 제품
+    ind_card_title_ten: 목재 및 종이 제품, 펄프, 가공되지 않은 목재
+    ind_card_title_eleven: 가구 및 가구 부품
+    ind_card_title_twelve: 오일 제품
+    tp_title: 일반적인 적용
+    tp1: 에어로졸 용기
+    tp2: 양동기
+    tp3: 포일
+    tp4: 4개 묶음
+    tp5: 앰플
+    tp6: 통
+    tp7: 유리병
+    tp8: 트레이 끌어당기기, 누르기, 접기
+    tp9: 가방 상자
+    tp10: 플라스틱 캔, 금속
+    tp11: 주전자
+    tp12: 튜브
+    tp13: 종이 가방, 플라스틱, 금속
+    tp14: 카보이, 큰 병
+    tp15: 금속 캔
+    tp16: 튜브형 가방/ 파우치
+    tp17: 밀봉형 가방
+    tp18: 액체 및 페이스트 형 판지 포장
+    tp19: 파우치
+    tp20: 포장 팩
+    tp21: 목재 통
+    tp22: 카트리지
+    tp23: 팔레트 -적재 장치
+    tp24: 포장지 (구부러짐, 접힘, 밀봉, 압축, 신축 포장지)
+    tp25: 바구니
+    tp26: 케이스
+    tp27: 릴
+    tp28: 석고보드
+    tp29: 블리스터 팩
+    tp30: 합성 캔
+    tp31: 자루 종이, 플라스틱, 금속
+    tp32: 화장지
+    tp33: 유리 병
+    tp34: 상자
+    tp35: 측면 밀봉 백/파우치
+    tp36: 정원용 띠
+    tp37: 금속 병
+    tp38: 컵
+    tp39: 포장용 상자
+    tp40: 도서 보호대
+    tp41: 플라스틱 병
+    tp42: 드럼 통
+    tp43: 스풀
+    tp44: 끈
+    tp45: 상자 판지, 플라스틱
+    tp46: 케이스
+    tp47: 끈 묶음
+    tp48: 목재
+    tp49: 바닥재
+    tp50: 바닥이 평평한 가방
+    tp51: 탱크 컨테이너
+    tp52: 밀가루 자루
+    tp53: 돌
+    tp54: 의료 드레싱
+    tp55: 보안 카드
+    tp56: 포장 블록
+    tp_button_one: 무료 평가판 요청하기
+    tp_button_one_msg: FX ONE을 7일 동안 무료로 사용 해 보세요
+    tp_button_two: 귀하의 모든 제품에
+    tp_button_two_msg: 무료 테스트 인쇄를 받아보세요
+
+  video:
+    first_section_title: 영상
+    first_section_text: Foenix 프린트기가 모든 항목과 재료에 인쇄하는 것을 영상으로 확인 해 보세요.
+    first_section_text_two: 더 많은 영상이 주기적으로 업로드 될 예정이니, 이 페이지와 저희의 유튜브 채널을 정기적으로 확인 해주세요
+    more_videos: 더 많은 동영상이 곧 제공될 예정입니다
+    video_text_one: 1차 포장 코딩 솔루션
+    video_text_one_cont: FX ONE Remote 프린트기는 귀하의 제품 마킹을 위한 가장 비용 효과적인 솔루션입니다
+    video_text_two: 2차 포장 코딩 솔루션
+    video_text_two_cont: FX ONE Standard 프린트기는, 케이스 코딩 적용을 위한 가장 비용 효과적인 솔루션입니다
+    video_text_three: 어떻게 판지에 고품질의 효율적인 코딩을 구현할 수 있을까요? FX ONE Standard 프린트기와 함께 그 방법을 찾아보세요
+    video_text_four: FX ONE Standard는 귀하의 모든 산업에 적용 가능한 최상의 프린트기입니다
+    video_text_five: FX ONE Standard 프린트기는 케이스 외관, 트레이 및 골판지 인쇄에 최적입니다
+    video_text_six: "FX ONE Standard: 하나의 프린터기, 다양한 적용: 바코드, 로고, 판지 코딩 및 그 외 다수"
+    video_text_seven: FX ONE Standard로 라벨 프린트기를 교체하고 비용을 절감하세요
+
+  legal:
+    first_section_title: 정책
+    cookie_policy: 쿠키 정책
+    privacy_policy: 개인 정보 보호 정책
+
+  contact_coders:
+    first_section_title: 접촉 코딩 & 마킹 기계
+    first_section_text: 잉크젯 프린트기는 미래 지향적이지만, 전통적인 저 비용 접촉 코딩 및 마킹 인쇄는 여전히 많은 곳에서 매우 비용 효율적인 방법으로 사용되고 있습니다.
+                        접촉 코더는 간헐적으로 메시지 변경이 필요하거나 환경에 유지 보수가 필요 없는 비 전자적 솔루션이 필요한 경우에 이상적입니다.
+                        Foenix는 이러한 프린트기들을 플라스틱 잉크 롤러 혹은 다양한 밀봉 잉크 카트리지와 함께 교환 가능한 "Baselock" 타입의 고무와 같이 사용할 수 있도록 제조합니다.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: 모든 재료에 연속 인쇄
+    codaprint_text: 금속, 플라스틱, 또는 강판, 압출 필름, 플라스틱 파이프 및 판지 코어 와인딩을 포함한 다공성 물질에 연속 반복 인쇄를 위해 고안된 특별한 프린트기입니다.
+                    색상과 잉크를 선택할 수 있고, 단순함과 깨끗함을 위해 밀봉된 잉크 카트리지를 사용하며, 다양한 반복 인쇄 길이와 25mm의 최대 인쇄 높이로 제공됩니다.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: 다목적 가격 & 코드 프린트기
+    codamark_text: 깨끗하고 정교한 인쇄 품질로 생산 라인 제품에 유통기한 인쇄에 적합한 소형 단순 왕복 프린트기.
+                   밀봉된 잉크 카트리지는 금속 캔, 유리 병 및 플라스틱 포트를 포함한 대부분의 표면에서 빠르게 건조됩니다. 이 저렴한 스테인리스강 프린트기는 전기가 필요없이 공기를 사용합니다.
+                   제품의 상단, 측면 또는 하단에 인쇄하기 위해 거칠거나 습한 환경에 적합합니다.
+    handroller_title: Codaprint 핸드롤러
+    handroller_sub_title: 모든 표면에 수동 인쇄
+    handroller_text: Codaprint 핸드 롤러는 동일한 범위의 속 건성 잉크로 모든 표면에 수동으로 인쇄할 수 있습니다.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: 접촉 코더 & 플라스틱 잉크 롤러 프린트기
+    codapack_text: 판지 인쇄 문제를 Foenix Coding의 플라스틱 잉크 롤러와 baselock 고무 활자를 사용한 Codapack 접촉 코더로 해결해 보세요
+    baselock_title: Foenix Baselock
+    baselock_sub_title: 모든 접촉 코딩 기계에
+    baselock_sub_title_two: 교체 가능한 고무 유형
+    baselock_text_one: 빠르고 쉬운 인쇄 변경
+    baselock_text_two: 광범위한 활자 스타일
+    baselock_text_three: 주문 제작 로고
+    baselock_text_four: 모든 언어를 위한 스타일
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: 금속, 플라스틱, 유리, 판지에 고속 및 저속 마킹을 위한 Foenix Coding의 안정적인 연속 프린터. 속건성 밀봉 잉크 카트리지를 사용하여 제품을 고속으로 반복 인쇄할 수 있는 간단한 접촉식 코더입니다.
+    get_prices: 가격 확인하기
+    cp_title: 모든 재료에 연속 인쇄
+    cp_sub_title_one: 적용
+    cp_text_one: Codaprint는 식별표시, 유통기한, 재활용 로고, 고객 제품 이름 등 연속 인쇄가 요구되는 지속적으로 움직이는 표면 또는 색인 인쇄에 사용됩니다.
+                     일부 일반적으로 압출 필름, 가방 인쇄, 강판, 플라스틱 창 압출, 수축 랩 필름, 판지 코어 와인딩, 석고보드, 에지 팩 보드, 거울 뒷면 및 종이에 적용됩니다.
+    cp_sub_title_two: 간편한 설치
+    cp_text_two: Codaprint는 마킹할 재료를 가로질러 고정 막대에 쉽게 고정됩니다. 수직 조정은 인쇄 켜기/끄기 위치를 제공합니다. 프린트기는 활자 드럼의 고무 타이어와 재료 사이의 마찰 접촉으로 가동되어집니다.
+    cp_sub_title_three: 잉크
+    cp_text_three: 대부분의 표면에 적합한 다양한 종류와 색상의 잉크 카트리지가 제공됩니다. 귀하의 제품에 가장 적합한 범위를 조언해 드릴 수 있습니다.
+    cp_sub_title_four: 인쇄 선택
+    cp_text_four: 표준 Codaprint 활자 드럼은 교체 가능한 Baselock 고무 활자와 함께 사용하기 위한 금속 잠금 링이 포함되어 있습니다. Baselock은 많은 문자 스타일과 주문 제작 된 로고로 제공되어 인쇄를 빠르게 변경할 수 있습니다.
+    cp_sub_title_five: 전송 패드
+    cp_text_five: Codaprint 카트리지 잉크 헤드는 새 카트리지를 사용할 때마다 전체 전송 패드를 장착해야 합니다.
+    cp_tp1: "TPS030: 최소 잉크 흐름"
+    cp_tp2: "TPS060: 최대 잉크 흐름"
+    cp_sub_title_six: 핸드롤러
+    cp_text_six: Codaprint 핸드롤러는 동일한 범위의 속건성 잉크로 모든 표면에 수동으로 인쇄할 수 있습니다.
+    ps_title_one: 측정
+    ps_title_two: Codaprint 프린트기 사양
+    ps_title_three: CP-24/1 모델
+    ps_bp_one: "인쇄 길이: 240mm"
+    ps_bp_two: "인쇄 높이: 25mm"
+    ps_title_four: CP-17/B 핸드롤러
+    ps_bp_three: "인쇄 길이: 175mm"
+    ps_bp_four: "인쇄 높이: 25mm"
+    ps_title_five: Codaprint 카트리지
+    ps_bp_five: CP111 비 다공성 물질용 검은색 표준 염료 잉크
+    ps_bp_six: CP011 고속 비 다공성 물질용 검은색 초고속 건조 염료 잉크
+    ps_bp_seven: CP5610 다공성 표면용 검은색 염료 잉크
+    ps_bp_eight: CP256 어두운 표면, 다공성 및 비 다공성 물질용 흰색 안료 잉크
+    ps_text: 각 제품군별로 다양한 색상을 선택하실 수 있습니다
+    list_title: 개요
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: 금속, 플라스틱, 또는 강판, 압출 필름, 플라스틱 파이프 및 판지 코어 와인딩을 포함한 다공성 물질에 연속 반복 인쇄를 위해 고안된 특별한 프린트기입니다.
+    list_subtitle_two: 저 비용 프린트기
+    list_text_two: 지속적으로 움직이는 재료에 반복 식별 표시, 유통 기한, 재활용 로고 및 고객 제품 이름을 적용할 수 있는 가장 간단한 저비용 프린트기.
+    list_subtitle_three: 초고속 인쇄
+    list_text_three: 프린트기는 낮은 속도로 작동하지만 분당 최대 100미터까지 인쇄할 수 있습니다.
+    list_subtitle_four: 간단한 잉크 시스템
+    list_text_four: 잉크는 교체 가능한 잉크 카트리지에 들어있어 인쇄 속도에 상관없이 깨끗하고 유지 관리가 적은 잉크 시스템을 제공합니다. 이 특별한 잉크 시스템은 카트리지가 비기 전까지 인쇄물이 흐려지지 않도록 해줍니다.
+    list_subtitle_five: 잉크 카트리지
+    list_text_five: 당사의 표준 잉크 카트리지는 금속, 유리, 플라스틱, 다공성 표면 및 다른 재료들에 적합합니다. 몇몇 적용들은 특수 잉크를 요합니다.
+    list_subtitle_six: 특징
+    list_text_six_html: "프린트기는 재료와 접촉하는 활자 드럼의 타이어에 의해 가동되므로 기계적 또는 전기적 가동이 필요하지 않습니다.
+                                 <br>
+                                 <br>
+                                 연속 롤러 코더는 배치 번호, 날짜 & 로고 프린팅을 완벽 구사합니다.
+                                 <br>
+                                 <br>
+                                 프린트기는 마킹할 움직이는 재료 위 또는 감소하는 재료의 릴에 적합합니다.
+                                 <br>
+                                 <br>
+                                 인쇄 높이는 교체 가능한 Baselock 활자 혹은 평면 스테레오를 사용하여 최대 25mm까지 가능합니다.
+                                 <br>
+                                 4개의 반복 인쇄 길이는 최대 460mm까지 사용 가능합니다."
+    fncdm_title: Foenix Codamark를 경험 해 보세요
+    fncdm_text: Codamark 공압 왕복 프린트기를 사용하면 효율적이고 경제적으로 깨끗하고 정교한 제품 마킹을 달성하실 수 있습니다.
+    fncdm_button: 더 알아보기
+
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Codamark 공압 왕복 프린트기를 통해 효율적이고 경제적으로 명확하고 정확한 제품 마킹을 달성할 수 있습니다. 인라인 및 회전식 충전 기계용 소형 왕복 프린트기로, 유통기한 인쇄 및 기타 용도에 적합합니다.
+    phr_title: 공압 왕복 프린트기
+    phr_sub_title_one: 가벼운 터치로 인쇄
+    phr_text_one: 코더 마크의 제품에 손상을 가하지 않는 가벼운 터치는 10-20psi의 낮은 인쇄 압력으로 고속 인쇄를 가능하게 해줍니다.
+    phr_sub_title_two: 깨끗한 잉크 시스템
+    phr_text_two: 깨끗한 속 건성 잉크 카트리지가 프린트 헤드에 장착되어 있어 대 부분의 표면에서 수 초안에 건조되어 질 수 있도록 해줍니다. 밀봉된 카트리지는 작업자가 잉크를 만지지 않도록 보장합니다.
+    phr_sub_title_three: Codamark 데이터 시트
+    phr_text_three: 치수, 제어 시스템 및 장착 위치에 관한 추가 정보는 데이터 시트에서 찾아보실 수 있습니다.
+    phr_sub_title_four: 빠른 변경이 가능한 Baselock 활자의 홀더
+    phr_text_four: 프린트 헤드에는 단 몇 초 안에 교체 가능 한 타입 홀더가 장착되어 있습니다. 예비 홀더를 사용하여 Baselock 고무 활자를 미리 설정할 수 있습니다.
+    phr_sub_title_five: 코드마크 카트리지
+    phr_sub_title_six: 소형 포트
+    phr_sub_title_seven: 대형 포트
+    phr_list_text_one: CM501/38 검은색 잉크 카트리지
+    phr_list_text_two: CM502/38 빨간색 잉크 카트리지
+    phr_list_text_three: CM503/38 초록색 잉크 카트리지
+    phr_list_text_four: CM504/38 파란색 잉크 카트리지
+    phr_list_text_five: CM506/38 흰색 잉크 카트리지
+    phr_list_text_six: CM505/38 노란색 잉크 카트리지
+    phr_list_text_seven: CM501/50 검은색 잉크 카트리지
+    phr_list_text_eight: CM502/50 빨간색 잉크 카트리지
+    phr_list_text_nine: CM503/50 초록색 잉크 카트리지
+    phr_list_text_ten: CM504/50 파란색 잉크 카트리지
+    phr_list_text_eleven: CM506/50 흰색 잉크 카트리지
+    phr_list_text_twelve: CM505/50 노란색 잉크 카트리지
+    ps_title_one: Codamark 프린터 사양
+    ps_sub_title_one: 모델 CM-MKV/25
+    ps_bp_one: "인쇄 영역: 24mm x 24mm"
+    ps_bp_two: "인쇄 헤드 아웃라인 치수: 170mm x 155mm x 85mm"
+    ps_sub_title_two: 모델 CM-MKV/38
+    ps_bp_three: "인쇄 영역: 37mm x 37mm"
+    ps_bp_four: "인쇄 헤드 아웃라인 치수: 170mm x 155mm x 85mm"
+    ps_sub_title_three: 모델 CM-MKV/50
+    ps_bp_five: "인쇄 영역: 24mm x 48mm"
+    ps_bp_six: "인쇄 헤드 아웃라인 치수: 170mm x 155mm x 85mm"
+    list_one: "유통기한, 가격, 코드의 효율적 인쇄:"
+    list_bp_one: 플라스틱 튜브
+    list_bp_two: 포일 뚜껑
+    list_bp_three: 종이 판지
+    list_bp_four: 양식 플로우 팩
+    list_bp_five: 유리 병
+    list_bp_six: 금속 캔 등.
+    list_two: 상단, 하단 혹은 측면 마운팅
+    list_three: 자동 온라인 또는 오프라인 시스템
+    list_four: 빨리 마르는 잉크 카트리지
+    list_five: 영국 생산
+    fncdp_title: Foenix Codaprint 알아보기
+    fncdp_text: 밀봉된 빠르게 마르는 잉크 카트리지를 사용하여 제품을 지속적으로 고속 인쇄 할 수 있는 간단한 프린터
+
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Codapack 프린트기는 모두 교체 가능한 사전 함침 플라스틱 잉크 롤러와 호환 가능한 Baselock 활자를 사용합니다. 제품의 상단, 하단 혹은 측면에 인쇄할 수 있도록 쉽게 장착 가능합니다. 이 프린트기는 가동 중지 시간이 필요하지 않으며 제품당 최저 인쇄 비용이 요구되는 곳에서 널리 사용되고있습니다.
+                        Codapack 프린트기는 하루에 한 번 혹은 일주일에 한 번 날짜또는 코드를 바꿔야 할 때에 가장 적합합니다.
+    ccirp_title: 접촉식 코더 및 잉크 롤러 프린트기
+    ccirp_sub_title_one: 적용
+    ccirp_text_one_html: 판지, 자루, 수축 랩 트레이 혹은 연속적인 재료를 위한 가정 비용 효율적인 코드 범위.
+                    <br>
+                    가장 간단하고 효율적인 Codapack 접촉식 코더 제품군은 모두 교체 가능한 사전 함침 플라스틱 잉크 롤러와 호환 가능한 Baselock 활자를 사용하여 다공성 표면 위에 인쇄합니다.
+    ccirp_sub_title_two: 장점
+    ccirp_text_two: 유지보수 없음 코더는 유지보수가 필요없이 매일 완벽한 인쇄를 제공하는 단순한 기계식 프린트기입니다.
+    ccirp_sub_title_three: 맞춤형 인쇄
+    ccirp_text_three: 많은 기본 글꼴 스타일이 Baselock 활자 범주로 가능하지만 맞춤형 인쇄 스타일, 로고 및 그래픽도 쉽게 생산 가능합니다.
+    ccirp_sub_title_four: 빠른 인쇄 변경
+    ccirp_text_four: 활자 드럼의 인쇄 텍스트를 빠르고 쉽게 변경할 수 있습니다 고객의 요구사항을 만족할 수 있는 6가지의 다양한 인쇄 높이 모델이 제공됩니다.
+    ccirp_sub_title_five: 가장 저렴한 안쇄 비용
+    ccirp_text_five: Baselock 활자과 오래가는 플라스틱 잉크 롤러사용은 가장 저렴한 제품 인쇄 비용을 제공합니다.
+    cdp_title: Codapack 정보
+    cdp_sub_title_one: Baselock 활자
+    cdp_text_one: 광범위한 범주의 Baselock 활자 스타일은 금속 잠금 링 또는 골이 있는 고무 기반 슬리브에 활자를 간단히 눌러 메시지를 생성할 수 있게 해줍니다.
+    cdp_sub_title_two: 플라스틱 잉크 롤러
+    cdp_text_two_html: 이 잉크 롤러들은 Codapack 프린트기 제품군에 빠르게 배치되어 판지, 트레이 및 종이 자루와 같은 다공성 표면에 세밀한 품질의 인쇄를 제공합니다.
+                  <br>
+                  긴 수명의 사전 잉크 롤러는 일회용이므로 깨끗하고 효과적인 잉크 시스템을 제공합니다. 검은색, 파란색, 빨간색, 초록색으로 제공됩니다.
+    cdp_sub_title_three: 섬유 및 스폰지 롤러
+    cdp_text_three: 롤러들은 특수 잉크를 사용하여 비 다공성 표면에도 인쇄할 수 있습니다
+    list_text_one: 조정 가능한 스프링 장착으로 판지의 강도에 따라 인쇄 압력을 조정하고 완벽한 인쇄를 얻을 수 있습니다.
+    list_text_two: 프린트기는 견고한 알루미늄 주물 및 롤레 베어링으로 제작되어 장 기간 문제없이 사용하실 수 있습니다.
+    list_text_three: 활자 드럼의 회전은 각 판지의 동일한 위치에 인쇄를 제공하도록 제어되어집니다.
+    list_text_four: 다양한 Codapack 프린트기들은 모두 하나의 간단한 장착 브래킷으로 컨베이어에 쉽게 장착할 수있습니다.
+
+  support:
+    first_section_title: 지원 문서
+    sds_title: 물질 안전 보건자료(SDS)
+    sds_card_title_one: FX8001
+    sds_card_text_one: 검은색 유성 잉크
+    sds_card_title_two: FX8201
+    sds_card_text_two: 검은색 용매 기반 잉크
+    sds_card_title_three: CP111
+    sds_card_text_three: 검은색 마킹 잉크
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: 유성 클리너
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: 용매 기반 클리너
+    sds_card_title_six: CP011
+    sds_card_text_six: 검은색 마킹 잉크
+    sds_card_title_seven: CM011
+    sds_card_text_seven: 검은색 마킹 잉크
+    sds_card_title_eight: CM501
+    sds_card_text_eight: 검은색 마킹 잉크
+    sds_card_title_nine: CM500
+    sds_card_text_nine: 용매 재 활성화
+    sds_button: 더 많은 정보가 필요하시면 저희에게 연락주세요
+    sds_hint: 규제 인증서
+    sds_hint_two: 요청 시 사용 가능
+    manuals: FX ONE 사용자 메뉴얼
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: 사용자 메뉴얼
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: 사용자 메뉴얼
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: 사용자 메뉴얼
+    tech_support: 기술 지원 문의
+
+  components:
+    yellow_button: 더 알아보기
+
+  contact:
+    contact_title: 연락하기
+    contact_title_description: Foenix Coding에 대해 더 많은 정보가 필요하시다면 저희 팀에게 연락 해 주세요.
+    contact_text_one: "무료 테스트 인쇄 요청: 프로젝트 샘플을 보내주세요."
+    contact_text_two: 영국에 계시다면 무료 평가판을 7일 동안 사용하실 수 있습니다
+    phone: 전화번호
+    phone_number: 0044 1932 701 449
+    email: 이메일
+    email_add: sales@foenixcoding.com
+    address: 주소
+    address_text_html: Foenix Coding Ltd
+                  <br>
+                  The Barns - Hilltop Farm | Lyne Lane
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  UK
+    whatsapp: WhatsApp으로 문의하기
+    statement: 이미 저희와 협력하고있는 수 백 개의 회사와 함께 해 주십시오
+    talk_to_sales: 영업팀에 문의하기
+    email_us: 로 직접 이메일을 보내실 수도 있습니다
+
+
+    contact_happy: 귀하의 모든 질문에 답변을 해 드릴 준비가 되어있습니다.
+    icon_text: 귀하의 모든 질문에 답변 해 드리겠습니다. 양식을 작성해 주시면 최대한 빨리 연락 드리겠습니다.
+    icon_text_two: 무료 테스트 인쇄, 제품 샘플을 보내주시면 테스트 인쇄를 해 드립니다.
+    form_name: 성과 이름
+    form_email: 이메일 주소
+    form_company: 회사
+    form_country: 지역
+    form_message: 메시지
+    form_phone: 전화
+
+  error:
+    four_four_text: 페이지를 찾을 수 없습니다
+    five_zero_zero_text: 죄송합니다. 뭔가 잘못됐습니다
+
+  login:
+    fpassword: 비밀번호를 잊으셨습니까?
+    dont_have_account: 계정이 없으십니까?
+    sign_up: 가입하기
+    email: 이메일
+    password: 비밀번호
+
+  seo:
+    home_page:
+      title: "Foenix Coding: 코딩과 마킹을 쉽게 해줍니다"
+      description: 모든 재료에 고해상도 인쇄를 제공하는 산업용 마킹 및 코딩 프린트기입니다. Foenix Coding 코딩 및 마킹, 산업용 잉크젯, FX One Remote 프린트기, FX One Standard 프린트기
+      keywords: “코딩 마킹, Foenix 프린트기, 산업용 마킹, 산업용 잉크젯, 케이스 코딩 및 마킹, 제품 코딩 및 마킹, 잉크젯 코딩 및 마킹, 날짜 인쇄, 로트 번호 인쇄, 바코드 프린트기"
+    printers:
+      title: "Foenix 산업용 잉크젯 프린트기"
+      description: 다공성 표면에 바코드, 로트 번호, 로고, 유통 기한을 인쇄하는 TIJ 코더를 완벽히 대안할 저 비용 코딩 및 마킹을 위해 설계 되었습니다
+      keywords:  산업용 잉크젯 프린트기, 잉크젯 코더, 부분 마킹 시스템, 제품 코딩, 금속 마킹 기계, 마킹 기계, 시리얼 번호 프린트기, 제품 식별, 시리얼 번호 인쇄, 바코드 인쇄
+    fxone_standard:
+      title: FX ONE Standard – 최고의 TIJ 프린트기 대안책 - 고해상도 케이스 코더
+      description: 다공성 표면에 바코드, 로트 번호, 로고, 유통 기한을 인쇄하는 TIJ 코더를 완벽히 대안할 저 비용 코딩 및 마킹을 위해 설계 되었습니다
+      keywords: "저렴한 코딩, 날짜 인쇄, 다공성 표면 인쇄, TIJ 대안책, HP 프린트기, 열전도 잉크젯, 케이스 코더, 판지 코딩, 바코드 프린트기, 목재 프린트기"
+    fxone_remote:
+      title: FX ONE Remote – 최고의 CIJ 프린트기 대안책 - 고해상도 산업용 잉크젯 프린트기
+      description: Foenix 프린트기들은 가장 저렴하고 가장 적은 유지보수가 필요한 소형 문자용 프린트기입니다. 매우 저렴한 가격으로 복잡한 CIJ 프린트기에 대한 진정한 대안을 제공합니다.
+      keywords: "마킹 기계, 산업용 잉크젯 프린트기, 병 위에 인쇄, CIJ 프린트기, 연속 잉크젯 프린트기, 연속 잉크젯 시스템, 유리 프린트기, 금속 프린트기, 병 프린트기, PVC 프린트기"
+    fxone_plus:
+      title: FX ONE Plus – 최고의 라벨 및 판지 사전 인쇄 대안책 - 대형 문자 프린트기
+      description: 최대 72mm 인쇄 높이의 대형 문자 프린트기입니다. 코드, 로고 및 바코드와 같은 제한된 라벨링 시스템을 위한 완벽한 대안을 제공합니다.
+      keywords: "라벨 프린트기, 바코드 프린트기, 감열식 프린트기, 열 전사 프린트기, 라벨링 시스템, 바코드 라벨, 대형 문자 프린트기, 케이스 코더, 라벨링 프린트기, 판지 인쇄"
+    inks_and_consumables:
+      title: Foenix 대형 잉크 카트리지 – 1,500만자 이상 인쇄
+      description: 잉크는 식료품, 음료, 화장품, 가정 용품, 공업 및 압출 시장에 적용 가능합니다
+      keywords: MEK 잉크, CIJ 잉크, TIJ 잉크 카트리지, 용매 잉크, 유성 잉크, UV 잉크, FX8001, FX8201, Foenix 잉크 카트리지, Foenix 세정제
+    distributors:
+      title: Foenix 전 세계 대리점
+      description: Foenix의 잉크젯 및 접촉식 코딩 상품들은 전반적인 판매 및 지원을 제공하는 자격을 갖춘 대리점들의 글로벌 네트워크를 통해 만나보실 수 있습니다.
+      keywords: 코딩 및 마킹, 잉크젯 프린트기 수리, Foenix 대리점, Foenix 리셀러, Foenix Coding 교육
+    cost_of_ownership:
+      title: Foenix Coding 프린트기 – 상품 마킹을 위한 가장 저렴한 옵션
+      description: FX ONE 프린트기는 매달 혹은 매년의 유지보수 계약이 없어 업계에서 가장 저렴한 인쇄 당 가격을 제공합니다
+    about:
+      title: Foenix에 대하여 – 코딩, 마킹 및 트레이서빌리티 전문가
+      description: Foenix Coding은 산업분야들을 위한 최신 잉크젯 프린트기를 선도하는 영국 제조업체이자 세계적 공급업체 입니다
+      keywords: FX ONE 프린트기, Foenix Coding 프린트기, 인쇄 및 적용, 포일 프린터기, DOD 잉크젯, 피에조 잉크젯, Xaar 잉크젯 프린트기, Foenix Coding 회사, 영국 제조업체
+    contact:
+      title: Foenix Coding 팀과 연락하기
+      description: 당사의 산업용 잉크젯 프린트기, 잉크 및 소모품에 대해 더 많은 정보를 원하신다면 연락주세요. Foenix Coding에 연락하기, Foenix Coding 이메일, Foenix Coding 전화
+    faq:
+      title: FAQ - Foenix Coding
+      description: Foenix Coding의 프린트기와 잉크 제품군에 대한 추가 정보. Sauven 잉크 카트리지, Sauven 용매 잉크, Sauven 유성 잉크, 인쇄 데이터베이스, 인쇄 코드, TIJ 대안, CIJ 대안
+    industry:
+      title: Foenix Coding - 모든 산업분야를 위한 코딩 및 마킹 솔루션
+      description: FX ONE 프린터는 판지, 트레이, 병, 비닐 봉지, 포일, 식품 패키지, 캔, 압출기를 비롯한 거의 모든 제품에 로트 번호, 사용 가능 날짜, 문구, 로고, 바코드를 인쇄하기 위한 고 해상도의 소형 잉크젯 프린트기입니다.
+      keywords: 잉크젯 마킹, 잉크젯 코더, 잉크젯 코딩, 잉크젯 마킹, 제약 포장, 의료 포장, 파이프에 인쇄, 압출 인쇄, 병 위에 인쇄, 판지 위에 인쇄
+    video:
+      title: "영상 - Foenix Coding"
+      description: Foenix 프린트기가 모든 항목과 재료에 인쇄하는 것을 영상으로 확인 해보세요.
+    legal:
+      title: "정책 - Foenix Coding"
+      description: 쿠키 및 개인 정보 보호 정책에 대해 알아보세요.
+    jobs:
+      title: "경력: Foenix Coding은 성장하고 있습니다. 저희와 함께 해 주세요!"
+      description: 산업 발전을 위한 당사의 비전을 함께할 수 있는 재능있는 인재를 찾고 있습니다
+    posts:
+      title: 새 소식 & 이벤트
+      description: 가장 최근 소식과 이벤트 받아보기
+    software:
+      title: Foenix FX APP – 코딩과 마킹 산업을 위한 소프트웨어 솔루션
+      description: Foenix Coding의 FX APP은 사용자 친화적인 인터페이스를 통해 기록 시간 내에 메시지 디자인을 가능하게 해줍니다. 최상의 추적 소프트웨어
+      keywords: 라벨링 소프트웨어, 라벨링 소프트웨어, NiceLabel, FX APP, 유통기한, 카운터, 로트 번호, 로고, 바코드
+    contact_coders:
+      title: 접촉식 코더- 기존의 저비용 마킹
+      description: 기존의 저 비용 접촉 코딩 및 마킹 인쇄기를 위한 비용 효율적인 프린트기 및 솔루션
+      keywords: 접촉 코딩, 마킹 기계 & 접촉 롤러 프린트기
+    foenix_codaprint:
+      title: Foenix Codaprint - 반복 인쇄를 위한 간단한 프린터기
+      description: 금속, 플라스틱, 유리, 판지의 고속 및 저속 마킹을 위한 안정적인 연속 프린트기 Foenix Codaprint
+      keywords: 연속 롤러 프린터기, 배치 번호, 플라스틱, 상자, Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - 다용도 제품 프린트기
+      description: 인라인 및 회전 충전식 기계, 유동기한 인쇄 및 기타 사용을 위한 Foenix Coding의 Codamark 소형 왕복 프린트기
+      keywords: 소형 왕복 프린트기, 유통기한, Codamark
+    foenix_codapack:
+      title: Foenix Codapack - 비용 효율적인 판지 코더
+      description: 판지 인쇄 문제를 플라스틱 잉크 롤러와 베이스락 고무 활자을 사용하는 Foenix Coding의 Codapack 접촉식 코더로 해결 해보세요
+      keywords: 접촉 코더, 플라스틱 잉크 롤러 프린트기, 베이스락 Codapack
+    support:
+      title: Foenix Coding – 지원 문서
+      description: Foenix Coding 사용자 메뉴얼과 정보 가이드를 통해 저희이 접촉 & 잉크젯 솔루션에 대해 더 알아보세요
+      keywords: Foenix Coding 사용자 메뉴얼, Foenix 정보 가이드, 잉크젯 인쇄, FX ONE 사용자 메뉴얼, Foenix 기술 메뉴얼, FOENIX 물질안전보건자료
+
+  news:
+    latest: 최근 소식
+    news: 새 소식/이벤트
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

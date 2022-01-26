@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   authenticate :user, lambda { |u| u.admin } do
     mount Sidekiq::Web => '/sidekiq'
   end
-  scope "(:locale)", locale: /en|fr/ do
+  scope "(:locale)", locale: /en|fr|ar|ch|du|ge|in|it|ja|ko|pl|pt|rus|sp/ do
     root to: 'pages#home'
     get '/faq', to: 'pages#faq'
     devise_for :users

@@ -1,0 +1,1287 @@
+ja:
+  navbar:
+    home: 家
+    products: 製品
+    services: サービス & サポート
+    company: 会社
+    admin: 管理者
+    countries: 国
+    jobs: 仕事
+    posts: 役職
+    login: ログイン
+    logout: ログアウト
+    contact: 問い合わせ
+    contact_o: 連絡先
+    printers: プリンター
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: ソフトウェア
+    inks: インク & 消耗品
+    distributors: 世界の卸売業者
+    cost: 所有コスト
+    FAQ: よくある質問
+    about: 〜について
+    careers: 来歴
+    news: ニュース & イベント
+    privacy_policy: プライバシーポリシー
+    cookie_policy: クッキーポリシー
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | イギリス
+    printers: プリンター
+    contact_coders: 連絡先コーダー
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: 裏づけ資料
+    industry: 業界
+    video: ビデオ
+    demo: デモのリクエスト
+    bar: インクカートリッジとメンテナンス契約に大金を費やすのはやめましょう! Foenixプリンターは業界最低水準のランニングコストと印刷費用を実現します。
+    legal: 法的な
+
+  cookie_bar:
+    content: このウェブサイトを使うことで、あなたは私たちの〜に同意します。
+    cookie_policy: クッキーポリシー
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: 検索する
+    prompts:
+      search:
+        team: チーム
+        country: 場所
+        job_type: 種類
+
+  jobs:
+    title: FOENIX コーディングは成長しています
+    tagline: 私たちは常に、業界を前進させるという私たちのビジョンを共有する才能のある新しい友達を探しています
+
+  jobs_show:
+    roles_at: での役割
+    apply_now: 今すぐ申し込む
+    you_will: あなたは
+    we_are_looking: 私たちは持っている人を探しています
+    we_look_forward: あなたからの返信をお待ちしています
+
+  faq:
+    title: よくある質問
+    tagline: 以下のセクションのいずれかをクリックして、答えを見つけてください。私たちはあなたをお助けします。質問に対する答えが見つからない場合は、お気軽に
+    contact: 連絡する
+    title1: FX ONE プリンターとはなんですか?
+    desc1:  FX Oneは、すべての人が使用できるように作られたオールインワンプリンターデバイスです。専門知識は必要ありません。数分でセットアップでき、大多数の生産ラインで実行できます。それは何をするものなのか？日付による単純な使用から、複雑なロット番号、ライブカウンター、日付と時刻、またはシフトコード、バーコードなど、あらゆる製品を着実に印刷できます。これらの機能に加えて、FX Oneには、コーディングおよびマーキングエコシステムで最先端の開発とアプリケーションを提供するためのアップグレードが付属しています。これをチェックしてください
+    desc1vid: ビデオ
+    desc1end: 使用することで実際にどれほどシンプルで強力かがわかります。
+    title2: どの言語でサポートが必要ですか?
+    desc2: 制限なくあらゆる言語での印刷が可能です。
+    desc2end: ソフトウェアインターフェースによると、16ヶ国語に対応していますが、すぐに他の言語にも対応させる予定です。追加言語のリクエストがありましたら、sales@foenixcoding.com までご連絡ください。
+    title3: 寸法はどのくらいですか?
+    desc3: 242mm x 178mm x 90mm、または9.52インチx7インチx3.54インチです。
+    title4: Foenixの公式卸売業者はどこですか?
+    desc4_1: 卸売業者の大規模なネットワークのお陰で、私たちはすべての大陸、ほぼすべての国でプリンターを提供することができます！
+    desc4_2: 私たちは、地元の担当者を通じて、一貫した製品品質と最高のカスタマーサービスを確約できると信じています。
+    desc4_3: 当社の既存の販売代理店は、小規模な個人企業から多国籍企業まで多岐にわたります。今までの経験から成功の鍵となるのは、規模ではなく、コミットメント、つまり、現地市場に関する幅広い知識と関係先との連絡と適性であることがわかりました。
+    desc4_4: 私たちの再販業者はあなたのために常にそこにいます
+    desc4_5: あなたのタイムゾーンと言語での迅速で専門的なサポート。
+    desc4_6: 迅速で費用対効果の高い配送。
+    desc4_7: 信頼できるローカル保証サービス。
+    desc4_8: 躊躇しないでください。 
+    desc4_9: 連絡してください。
+    desc4_10: ご不明な点がある場合、または再販業者に関する詳細情報を受け取りたい場合。
+    title5: なぜサインインできないのですか？
+    desc5: ログインページは、既存の卸売業者がパーソナライズしたダッシュボードにアクセスできるようにする場合のみ使用できます。他の人がこのページにアクセスすることはできません。 FOENIXの卸売業者で、ダッシュボードにまだアクセスできない場合は、お知らせください。
+    title6: 購入前に無料トライアルを利用できますか？
+    desc6_1: 英国を拠点としている場合はい
+    desc6_2: 7日間の無料トライアルを1つ受けることができます。
+    desc6_3: 無料試用期間中は、すべてのプリンタ機能にアクセスできるため、印刷単価をみながら、このプリンタを使用することでどれだけの費用を節約できるか、すばやく確認することができます。
+    desc6_4: 無料トライアルは空き状況により利用可能です。
+    title7: 標準またはリモートの異なるFoenixプリンターを所有している場合、それぞれに個別のソフトウェアは必要ですか？
+    desc7: いいえ。当社のすべてのプリンタは、当社のソフトウェアと完全に互換性があります。使用しているモデルに関係なく、FX APPからすべてのプリンターを管理できます。
+    title8: FX ONE StandardとFX ONE Remoteプリンターの違いは何ですか？
+    desc8_1: FX ONE Standardは、すべてのケースコーディングアプリケーションに最適なプリンターです。多孔質表面用の油性インクで機能し、段ボールの側面に印刷するのにも優れた結果をもたらします。
+    desc8_2: 8行の単純なテキストから可変バーコード、有効期限、ロゴ、シフト、カウンター、データベースからの外部データ、QRコードまで何でも印刷できます…
+    desc8_3: このプリンタは、18mmの厚さにも高解像度で印刷します。
+    desc8_4: 単価コストは市場最低価格であり、箱に情報を印刷するための最も効率的な方法といえます。
+    desc8_5: FX ONE Remoteにも、厚さ18mmに対応した高解像度プリントヘッドがあります。
+    desc8_6: リモートプリンターには、手動シャッターと電動シャッターの2つのモデルがあります。
+    desc8_7: このプリンタは、多孔質表面（カートン、紙、木材など）用の油性インクまたは非多孔質表面（プラスチック、金属、ガラスなど）用の溶剤ベースのインクのいずれかで作動します。
+    desc8_8: そのプリンタで、事実上すべての製品に印刷できます。
+    title9_1: FX ONE Remote
+    title9_2: 電動シャッターまたは手動シャッター、違いは何ですか？
+    desc9: FX ONE Remoteプリンターには、プリントヘッドを保護するためのシャッターがあります。電動バージョンでは、印刷後にシャッターが自動的に閉じます。手動バージョンでは、一日の始めに手動でシャッターを開き、生産が終了した１日の終わりに手動でシャッターを閉じる必要があります。
+    title10: 製品の上部に印刷できますか？
+    desc10: はい、リモートプリントヘッドを使用すれば、技術的にはどの角度でも印刷が可能です
+    title11: どのような種類のインクを提供していますか？ 
+    desc11_1: 無臭でM.E.Kベースではない高品質管理のインクがあります。 FX ONEプリンターで使用されるピエゾテクノロジーは、単一の密封されたインクカートリッジのみを必要とし、追加の補給溶剤を必要としません。これにより、運用コストが大幅に削減されます。
+    desc11_2: 多孔質材料（トレイ、カートン、木材など）に印刷するためのオイルベースのインクと、非多孔質材料（金属、プラスチック、ガラスなど）に印刷するための溶剤ベースのインクを提供しています。
+    title12: 保守契約はありますか？
+    desc12_1: 費用のかかる保守契約はありません。
+    desc12_2: Foenixプリンターは、最大の信頼性を提供するために最小限の材料で製造されています。ポンプ、バルブ、圧縮空気、液滴充填、エアフィルターがないため、メンテナンスが非常に少なくて済みます。
+    title13: FX ONEプリンターでお金を確実に節約するにはどうすればよいですか？
+    desc13_1: 当社のソフトウェアには、FX APPで作成するすべてのメッセージについて、カートリッジあたりの印刷数と印刷あたりのコストを計算する機能があります。
+    desc13_2: 私たちのプリンターを使用してどれだけのお金を節約できるかを確認できるため、これは非常に有効なツールです。あなたは常にコストを管理できます
+
+  home:
+    # FIRST SECTION
+    title: コーディングとマーキング
+    title_bottom: 作った
+    mobile_title: コーディングとマーキングが行われました
+    play: ビデオを見る
+    download: パンフレットをダウンロード
+    title_span1: 簡単な
+    title_span2: 信頼性のある
+    title_span3: 用途が広い
+    title_span4: 一貫性のある
+    title_description: FX ONEプリンターは、ロット番号を印刷するための高解像度コンパクトインクジェットプリンターであり、日付、テキスト、ロゴ、バーコードをカートン、トレイ、ボトル、ビニール袋、ホイル、食品パッケージ、缶、押し出し材などの実質どんな製品のあらゆる素材に使用できます。
+    #SECOND SECTION
+    title_second: 新世代のメンテナンスフリーインクジェットプリンター
+    title_second_description: イギリス製
+    second_section_one_title: パッケージングとコーディング
+    second_section_one_description: 一次および二次包装用の小活字または大活字
+    second_section_two_title: すべての業界向け
+    second_section_two_description: あらゆる業界向けの高解像度および高接着性マーキングソリューション
+    second_section_three_title: FX APPソフトウェア
+    second_section_three_description: 高度なプリンター管理と印刷プロセスの最適化
+    #THIRD SECTION
+    third_section_title: コーディングとマーキングとは何ですか？
+    third_section_description: コーディングとマーキングは、製造プロセス中に製品に関するさまざまな情報を印刷することです。
+    first_image: 製造、バッチおよび日付コード
+    second_image: バーコード
+    third_image: ブランディングと製品情報
+    fourth_image: トレーサビリティ追跡と追跡
+    third_section_statement_one: Foenix コーディングは、生産ラインが中断しないことがいかに重要であるか理解しています。
+    third_section_statement_two: 私たちは、市場で最も信頼性の高いプリンターを開発することを使命としています。
+    #FOURTH SECTION
+    box_coding_title: ボックスコーディング
+    box_coding_description:  最も一般的なアプリケーションは、ボックスコーディングです。 FX ONE StandardおよびFX ONE Plusを使用すると、高価なラベルは不要になります。 FX ONEプリンターを使用して、生産ラインの段ボール、トレイ、袋、またはその他の製品に直接高解像度で印刷すれば、高価な事前印刷パッケージや高額なラベルを使用する必要がなくなります。パーソナライズされたテキスト、写真、およびバーコードに対する短いバッチ処理をすれば、顧客の要件は簡単に達成できます。
+    product_coding_title: 製品コーディング
+    product_coding_description: 典型的なアプリケーションは、ボトル、小箱、ドラム、缶、瓶、パック、バッグ、ホイルなどの個々のパッケージへのコーディングです。製品コーディングのお客様のほとんどは、大抵、CIJ（連続式インクジェットプリンター）の代替品を探している企業です。価格、シンプルさ、低メンテナンスが代替品を探している要因です。この市場では、食品、飲料、製薬、電子機器を含むすべての業界向けの本当に多機能なプリンターであるFX ONE Remoteプリンターを常に使用しています。 FX ONEは、押し出しのマーキング、ウェビングへの印刷、その他の産業用アプリケーションにも最適です。
+    fifth_section_title_html: "のために設計された <span class='text-orange'>産業の</span> 使用& <span class='text-orange'>低価格</span> インクジェットプリンティング"
+    fifth-section_description_one: "過去数年間、Foenixはメンテナンスフリーの産業用インクジェットプリンターの開発に多額の投資を行ってきました。これらのコーダーは、食品、飲料、自動車、建設、加工、医療機器、製薬、電子機器、化学などの分野で産業用に特別に設計されています。    fifth-section_description_two: 最適な設計のおかげで、FX ONEインクジェットプリンターはインク使用量を著しく少なくすることができるため、市場で最も低い印刷単価で提供しています。印刷コストの削減-通常は50％から80％"
+    food: 食べ物
+    cosmetics: 化粧品
+    extrusion: 押し出す
+    automotive: 自動
+    beverage: 飲料
+    pharmaceutical: 製薬
+    electronics: 電子工学
+    construction: 建設
+    packaging: パッケージング
+    industrial_parts: 産業パート
+    chemicals: 化学薬品
+    and_many_more: などなど
+    inks_title: 幅広いインク
+    inks_description: ほとんどの用途に適した高接着性および高コントラストのインクを提供しています。さまざまなインクにより、非多孔質材料（プラスチック、ガラス、金属など）または多孔質表面（段ボール、木材、石膏など）への印刷が可能になります。幅広い色が利用可能で、UV読み取り可能およびUV硬化インクもあります。
+    become_distributor_title: Foenixコーディング卸売業者になる
+    become_distributor_description: 現在、国際的な販売代理店ネットワークに参加する企業を招待しています
+    eight_section_title_one: 強力なソフトウェアスマートコントローラー
+    eight_section_description_one: FX APPソフトウェアは、PCおよび特注のFXONEタッチコントローラーで利用できます。 FX ワンタッチコントローラーは、1つ以上のFXONEプリンターモデルを制御するように設計されています。コントローラを使用すると、小さくて頑丈なハウジングでメッセージの作成、保存、プリンタ管理を行うことができます。便利な場所に固定して取り付けることができ、持ち運びに便利なため、プリンタ間を簡単に移動できます。インターフェースは使いやすく、PC版と一致するように設計されています。
+    eight_section_title_two: 無料トライアル & テストプリント
+    eight_section_description_two_html: "英国を拠点としている場合は、7日間の無料トライアルを利用できます。無料試用期間中は、すべてのプリンタ機能にアクセスでき、印刷あたりのコストを管理して、プリンタを使用してどれだけの費用を節約できるかをすばやく確認できます<br><br>FX ONEプリンターのシンプルさと品質については、今すぐお問い合わせください！<br><small>**無料トライアルは空き状況によります。</small><br><br>世界中のどこからでも、サンプルをお送りください。私たちはあなたの製品との高解像度テストプリントを実行します。"
+
+  newsletter:
+    card_title: ぜひご参加ください。採用中です。
+    card_text: 転職の準備ができていて、大きな志を持ったスタートアップ企業で働きたいですか？参加しませんか！
+    title: 最新のニュースレターを入手する
+    text: サインアップして、新製品の発表、技術的な更新、参加するショーなどに関する電子メールの更新を受け取ります。
+    button: オープニングを表示
+    placeholder: 購読するにはメールアドレスを入力してください
+    unsubscribe: いつでも退会できます。
+    privacy: プライバシーポリシーを読む
+
+  about:
+    title: Foenixコーディングの内部
+    first_section_title_one: 私たちは誰か
+    first_section_text_one: "Foenix Codingは、食品、飲料、製薬、産業、および電子産業向けの最新のインクジェットプリンターの、インライン製品のコーディング、マーキング、（印刷）、および識別のための大手メーカーおよびグローバルサプライヤーです。 Foenixは、5年以上にわたり、品質と創造性で世界的な評判を築いてきました。また、プリンターの設計における費用対効果とメンテナンスの手間も少なく済みます。    first_section_title_two: 会社"
+    first_section_text_two: "Foenixコーディングは、メンテナンスフリーのインクジェットシステムの設計と製造を専門とする産業用インクジェットプリンターで知られています。英国のメーカーがグローバルに勝つためには、競争力のある製品を提供する以上のことをしなければなりません。 Foenixの巧妙な設計により、プリンター内の成分が大幅に削減されました。このアプローチにより、製造コストが削減され、プリンターの信頼性が向上し、Foenixは世界中のプレーヤーに刺激を与えています。"
+    first_section_title_three: 市場
+    hiring_title: ぜひご参加ください。採用中です。
+    hiring_text: 転職の準備ができていて、大きな志を持ったスタートアップ企業で働きたいですか？参加しませんか！!
+    view_openings: オープニングを表示
+    our_values_title: 私たちの価値
+    our_values_text: Foenix製品は、革新、設計、品質という会社のコアバリューに基づいています。
+    ov_card_title_one: 革新
+    ov_card_text_one_html: "圧電インクジェットは、メンテナンスが簡単で、最高レベルの稼働時間の信頼性を実現しながら、あらゆる印刷技術の中で最高レベルの品質の印刷を提供するものとして認められています。
+                           <br>
+                           その一貫した印刷により、製品の信頼性の高い読みやすさが保証されます。"
+    ov_card_title_two: デザイン
+    ov_card_text_two_html: "そのため、インクジェットプリンタは、複雑な解決策を必要とする不必要で複雑なメンテナンス設計をされていることがよくあります。
+                           <br>
+                           Foenixは、稼働時間を最大化し、メンテナンスを最小化するために、最小限の素材でインクジェットプリンタの範囲を設計しました。"
+    ov_card_title_three: 品質
+    ov_card_text_three: 当社のすべての製品、プリンター、インク、消耗品は英国で製造されており、長持ちするように作られています。ソフトウェアおよびハードウェアシステムは、製造およびパッケージングの専門家と共同で開発されており、日付、バッチコード、2Dバーコード、グラフィックロゴ、およびその他の要件の前に印刷するという日常の課題に対応します。
+    whats_next_title: 次は何か
+    whats_next_text_html: "過去数年間の世界的かつ指数関数的な成長の後、Foenixコーディングは既存の卸売会社のネットワーク強化に注力しています。
+                          <br>
+                          研究開発チームは、印刷の厚みの増加、複数の印刷ヘッド、および使いやすい通信機能のセットを備えた新世代のFXONEプリンターの開発を行っています。."
+
+
+    first_section_text_three: Foenixプリンターは、一次包装と二次包装の両方のコーディングでコスト削減ソリューションを提供します。これには、ラベルの交換と、TIJ（サーマルインクジェット）およびCIJ（連続インクジェット）の代替品が含まれます。私たちのプリンターは、他のテクノロジーを使用しているため、異なります。したがって、Foenixプリンターを代替ソリューションとして提供できます。同時に、コーディングおよびマーキングソリューションのあらゆる製品範囲に簡単に適合します。
+    second_section_title: 私たちの使命
+    second_section_text: "Foenixコーディングは英国を拠点とする会社であり、すべての製品は英国で製造されています。私たちは新しいテクノロジーと革新的な印刷ソリューションに情熱を注いでおり、チームはインクジェット印刷テクノロジーの分野の専門家だけで構成されています。私たちはすべて元SauvenMarkingの従業員であり、すべてのスキル、経験、知識、専門知識、そしてさらに重要なことに、この新しい冒険へ情熱を注ぎました。."
+    second_section_text_two: 私たちの使命は、世界中の誰もが高品質で操作が簡単なプリンターにアクセスできるようにすることです。私たちは、生産ラインの効率を高め、製品のトレーサビリティの課題をサポートをするためにここにいます。 
+    second_section_text_three: 複雑なコーディングとマーキングの課題は、複雑で高価なソリューションを必要としません。
+    third_section_title: 私たちは、工業用印刷における所有コストの重要性に焦点を当てています。
+    third_section_text: "ケースコーディングまたは製品マーキング用のインクジェットプリンターを探しているかどうかにかかわらず、印刷にかかる投資はもはやプリンターの価格だけの問題ではありません。消耗品とメンテナンスは、所有コストを決定する主な要因になっています。    fourth_section_text_right: Foenixコーディングは、所有コストを抑えたさまざまなプリンターを提供しています。私たちは、小さな文字の印刷におけるゼロメンテナンス哲学によって推進されています。また、最もユーザーフレンドリーな産業用プリンターを提供するために懸命に取り組んでいます。 Foenixプリンターは、画像キーや非常に進化した直感的なタッチコントローラーを備えたシンプルなWindowsPCソフトウェアで動作します。"
+    fifth_section_title: 英国製で長持ちするように作られています
+    fifth_section_text_one: "プリンター、インク、消耗品など、すべての製品は英国で製造されています。ソフトウェアおよびハードウェアシステムは、製造およびパッケージングの専門家と共同で開発されており、日付、バッチコード、2Dバーコード、グラフィックロゴ、およびその他の要件の前に印刷するという日常の課題に対応します。"
+    fifth_section_text_two: "当社の産業用Xaarベースのインクジェットプリンタは、メンテナンスフリーです。これらは、食品、飲料、自動車、建設、加工、医療機器、製薬、電子機器、化学などの分野での産業用に特別に設計されています。"
+
+  inks_and_consumables:
+    first_section_text: 大型インクカートリッジ
+    first_section_text_two: FX ONEプリンターは、さまざまな種類のインクと互換性があるため、市場で最も用途の広いプリンターです。任意の素材に印刷し、カートリッジあたり最大1,500万文字印刷可能です。私たちは、最も専門的な顧客のアプリケーションにも対応するために、最も幅広い種類のインクジェット液を提供しています
+    inks_card_title_one_html: "高接着性<span class='text-orange'>.</span>"
+    inks_card_text_one: PVC押出用途向けに特別に設計された高接着性インク。 PVCパイプで前例のない印刷品質を取得します
+    inks_card_title_two_html: "幅広い種類のインクs<span class='text-orange'>.</span>"
+    inks_card_text_two: さまざまなインクにより、非多孔質材料（プラスチック、ガラス、金属）または多孔質表面（段ボール、木材、石膏）への印刷が可能になります。幅広い色が利用可能で、UV読み取り可能およびUV硬化インクもあります。
+    inks_card_title_three_html: "ハイコントラスト<span class='text-orange'>.</span>"
+    inks_card_text_three: 着色インクの範囲のおかげで、暗い製品で最高のコントラストができます。コードが暗い素材と明るい素材の両方で目立つようにしてください。
+    grid_title_one: 密封されたインクカートリッジ
+    grid_text_one: 一体型の交換可能なインクカートリッジは、汚染のないクリーンなインクシステムを維持します。当社のインクは、カートン、金属、ガラス、紙、木材、および多くのプラスチックなど、さまざまな多孔質および非多孔質材料に対して優れた接着性とコントラストを備えています。当社のインクは、最も一般的なアプリケーション条件下で卓越した性能を発揮します。
+    grid_title_two: 生産に適したインク
+    grid_text_two: 食品、飲料、化粧品、家庭用品、工業および押出成形市場での用途向けに、実質的に無臭でM.E.Kベースではない高品質の管理されたインクを用意しています。カラーインクもご用意しております。
+    grid_title_three: PVCパイプ押出用のHDPVCインク
+    grid_text_three: 現在、PVC押出用途向けに特別に設計された高接着性インクを提供しています。 PVCパイプで前例のない印刷品質を取得します。
+    grid_title_four: シンプルインクシステム
+    grid_text_four: インク供給は、マシンの背面に挿入される便利なカートリッジシステムに含まれています。インクカートリッジの交換は簡単で清潔で、印刷プロセスを中断することなく数秒で完了できます。印刷物を見逃すことはなく、常に製品イメージに合った高解像度の印刷品質を手に入れましょう
+    lowest_ink_title: 市場で最も低いインク使用量
+    lowest_ink_text: ケースコーディングまたは製品マーキング用のインクジェットプリンターを探しているかどうかにかかわらず、印刷への投資はもはやプリンターの価格だけではありません。消耗品とメンテナンスは、所有コストを決定する主な要因になっています。巧妙な設計のおかげで、ピエゾインクジェットプリンタはインク使用量が著しく少ないため、印刷単価が非常に低くなります。
+    # NEW
+    standard_ink_one: 標準インク範囲
+    standard_ink_two: すべてのアプリケーション用
+    sdct_one_html: "FX 8001<br>黒オイルインク"
+    sdct_text_one: カートン、紙、木材、またはその他の多孔質基材用
+    sdct_two_html: "FX8201<br>黒ソルベントインク"
+    sdct_text_two: PVC、金属、ガラス、プラスチック、その他の非多孔質表面などのほとんどの基板の場合
+    sdct_three_html: "FX8203<br>青ソルベントインク"
+    sdct_text_three: 一次包装用のFX8201非多孔質インクと同じ利用
+    sdct_four_html: "FX8308<br>赤ソルベントインク"
+    sdct_text_four: 一次包装用のFX8201非多孔質インクと同じ使用
+    sdct_five_html: "FX 8206<br>白ソルベントインク"
+    sdct_text_five: 暗い非多孔質表面用の着色インク
+    sdct_six_html: "FX8311<br>黄ソルベントインク"
+    sdct_text_six: 暗い非多孔質表面用の着色インク
+    sdct_seven_html: "FX8236<br>黒のUV硬化インク"
+    sdct_text_seven: 瞬時乾燥時間の非多孔質基板
+    sdct_eight_html: "FX8235<br>UV読み取り可能インク"
+    sdct_text_eight: 目に見えないインク、UVランプの下でのみ見える
+    # NEW
+    special_ink_title: 特別なインクが必要ですか？
+    special_ink_title_two: お手伝いできます！
+    special_ink_text_one: オイルベースのインク
+    special_ink_text_two: 溶剤ベースのインク
+    special_ink_text_three: 着色インク
+    special_ink_text_four: UV硬化型&& UV読み取り可能インク
+    stay_informed_title: 最新のインク開発に関する最新情報を入手してください
+    stay_informed_text: 新しいインクが発売されて最初に知れるようサインアップしてください。
+
+  distributor:
+    first_list_one: 直接の競合他社と比較した競争力のある価格設定
+    second_section_title: Foenixには卸売業者がいます
+    first_section_title: グローバルリーチ
+    first_section_text: "世界のどこにいても、卸売業者の1つが近くにあります。私たちはすべての大陸に存在し、あなたの言語とタイムゾーンでサポートを提供します。"
+    why_partner_title: なぜパートナーになるのか
+    why_partner_title_two: Foenixコーディング
+    why_partner_text_html: "FOENIXコーディングが競合他社と異なる理由は何ですか？
+                           <br>
+                          Foenixコーディングは今でも、製品、会社、そして顧客全体を知っている人々の確固たるコアによって運営されている「スタートアップ」です.<br>
+                           <br>
+                           Foenixコーディングを使用する場合、次のことが期待できます。"
+    first_list_two: 卸売業者にとって魅力的な販売手数料
+    first_list_three: 手順の柔軟性
+    first_list_four: 生産時間の柔軟性
+    first_list_five: 納期の柔軟性
+    second_list_one: 個人的なアプローチ
+    second_list_two: 積極的に関与している取締役
+    second_list_three: 展示会のサポート
+    second_list_four: テストプリントのサポート
+    second_list_five: トレーニングプログラムのサポート
+    second_list_six: テクノロジーの更新
+    third_list_one: "「技術的能力: 60か国以上にプリンターがあるということは、ほぼすべてのアプリケーションを見てきたことを意味します」"
+    third_list_three:  "専門知識: 制限された製品範囲は専門知識になります"
+    third_list_two: "特定の顧客のニーズに迅速に対応できる柔軟なR＆Dチーム"
+    Partnership_title: パートナーシップへの道
+    Partnership_text: 世界中でFoenix製品をマーケティングする流通パートナーネットワークが拡大していることに興奮しています。私たちは現在、新しい範囲のプリンターを新しい市場に宣伝するために、国際的な販売代理店ネットワークに参加する企業を招待しています。このフォームに記入してください。まもなくこの機会についてご連絡いたします。
+    step_one: STEP 1
+    step_one_title: 申し込む
+    step_one_text: この機会についてもっと話し合いたければ、あなたの会社とその目標からもっと多くのことを聞いていただければ幸いです。
+    step_two: STEP 2
+    step_two_title: でもプリンターを獲得する
+    step_two_text: 機器の性能だけでなく、反応性と私たちから得られるサポートをテストするため
+    step_three: STEP 3
+    step_three_title: 販売を開始します
+    step_three_text: 私たちの目標は、ビジネスパートナーが新しい見込み客の開拓とビジネスの開拓に集中できるようにすることです。
+
+  distributor_countries:
+    uk: イギリス
+    indonesia: インドネシア
+    south_africa: 南アフリカ
+    france: フランス
+    austria: オーストリア
+    peru: ペルー
+    turkey: トルコ
+    venezuela: ヴェネズエラ
+    malaysia: マレーシア
+    vietnam: ベトナム
+    saudi_arabia: サウジアラビア
+    egypt: エジプト
+    greece: ギリシャ
+    spain: スペイン
+    latvia: ラトビア
+    netherlands: オランダ
+    sri_lanka: スリランカ
+    italy: イタリア
+    croatia: クロアチア
+    brazil: ブラジル
+    hungary: ハンガリー
+    portugal: ポルトガル
+    lithuania: リトアニア
+    ivory_coast: コートジボワール
+    poland: ポーランド
+    malta: マルタ
+    philippines: フィリピン
+    uae: UAE
+    chile: チリ
+    australia: オーストラリア
+    usa: アメリカ合衆国
+    argentina: アルゼンチン
+    india: インド
+    bulgaria: ブルガリア
+    israel: イスラエル
+    singapore: シンガポール
+    germany: ドイツ
+    guatemala: グアテマラ
+    china: 中国
+    ireland: アイルランド
+    morocco: モロッコ
+    nigeria: ナイジェリア
+    sweden: スェーデン
+    be_the_next: 次になる
+
+  cost_of_ownership:
+    first_section_title: 市場で最も低い所有コスト
+    first_section_list_one: 市場で最も少ないインク消費量
+    first_section_list_two: 市場で最も安い印刷単価
+    first_section_list_three: プリンターの低価格
+    first_section_list_four: メンテナンス/サービス契約なし
+    first_section_list_five: ダウンタイムゼロ
+    first_section_list_six: インストールとトレーニングの費用はかかりません
+    first_section_list_seven_html: コーディングとマーキングのコストを少なくとも60％削減します。<br>インクとメンテナンスの契約に大金を費やすのはやめましょう。
+    first_section_list_eight_html: 操作ガイドを入手して<br>どれだけのお金を節約できるかを確認してください
+    ダウンロード: ダウンロード
+    first_section_two_title: 明確で透明性のある投資収益率
+    first_section_sub_title: FX ONEプリンターは、印刷あたりのコストを大幅に削減します
+    first_section_text_html:  "印刷あたりのコストは、次の3つの要素によって決まります。<br>-プリンタの購入価格<br>-インクのコスト<br>-毎月のメンテナンスコスト。
+　                            <br>
+                              <br>
+                             Foenixコーディングは、コスト削減を優先するシンプルなインクジェットプリンターを設計しました。 FX ONEインクジェットプリンタは、シンプルさを念頭に置いて開発されており、可動部品、ポンプ、バルブは含まれていません。インクの供給は毛細管現象と重力に基づいており、圧縮空気は必要ありません。制御は、1本のデータケーブルでプリントヘッドに接続された1本のPCBによってマスターされます。そのシンプルさと可動部品の欠如、この両方のおかげで、毎月または毎年のメンテナンスは必要ありません。使用する成分が少ないということは、FXONEプリンターの購入価格に非常に価値があることを意味します。
+                              <br>
+                              <br>
+                             印刷コストの削減-通常は50％から80％に。 Xaar印刷テクノロジーにより、1滴あたり80ピコリットル（0.000000080ml）のインクの付着が可能になり、インクを大幅に節約できます。印刷あたりのコストはあなたが管理できます。直感的なソフトウェアを使用して印刷コストを簡単に計算し、どれだけ節約できるかを確認してください。マイクロインク液滴と密封されたインクカートリッジを使用して印刷すると、インクを無駄にすることなく、印刷あたりのコストを低く抑えることができます。インクセーバーモードを使用すると、追加のコスト削減を実現できます。                              <br><br>
+                              時間の経過とともに予算を浪費する高価なインクジェットプリンタに縛られることは避けてください。保証の詳細、サービス条件、メンテナンス/修理費用、インクおよび消耗品の費用をご覧ください。あなたのビジネスにとって最も費用効果の高いソリューションを選択してください。決定を下す前に、プリンタの総所有コストを計算してください。 Foenixコーディングはシンプルさの芸術性を理解し、顧客の期待に応えるよう設計されたシンプルで費用効果の高いプリンターを作成しました。"
+    inkjet_printer_title: インクジェットプリンターの選び方
+    inkjet_printer_text_html: "インクジェットプリンタの選択は簡単ではないことを私たちは知っています。利用可能なさまざまなメーカーのモデルとテクノロジーがたくさんあります。
+                             <br>
+                             <br>
+                             アプリケーションごとに異なる要件があります。アプリケーションを理解することで、多くの時間を節約し、失望しなくてすみます。                             <br>
+                            無料ガイドをダウンロードして、Foenixプリンターと競合製品を比較してください。"
+    newsletter_title: インクジェットプリンタの選択に役立つ無料ガイドを受け取ります
+    newsletter_description_html: "CIJ vs TIJ vs <span class='text-orange'>FX ONE</span>"
+    list_title:  "各質問は、FX ONEプリンターがプロジェクトに適しているかどうかを判断できます: "
+    list_left_one: 製品は何ですか？
+    list_left_two: 製品のサイズはどれくらいですか？
+    list_left_three: 製品/パッケージは何でできていますか？
+    list_left_four: 製品は何に使用されますか？
+    list_left_five: コンベヤー/製品の速度はどれくらいですか？
+    list_left_six: 製品は印刷時点で十分にサポートされていますか？
+    list_left_seven: 印刷時の製品温度はどれくらいですか？
+    list_left_eight: 天候に耐える要件はありますか？
+    list_left_nine: 印刷要件の上部/側面/下部はどこにありますか
+    list_left_ten: 製品ラインはどの方向にプリントヘッドに向かっていますか？
+    list_left_eleven: 印刷領域のサイズと印刷が適用される場所はどれくらいですか？
+    list_left_twelve: 印刷を適用するために現在使用している機器は何ですか？
+    list_right_one: どのカラーインクが必要ですか？
+    list_right_two: 素材/パックの色は何ですか？
+    list_right_three: 印刷面は多孔質ですか、それとも非多孔質ですか？
+    list_right_four: 必要な乾燥時間はどれくらいですか？
+    list_right_five: メッセージは何ですか？
+    list_right_six: メッセージの高さはどれくらいですか？
+    list_right_seven: 何文字ですか？
+    list_right_eight: 文字の高さはどれくらいですか？
+    list_right_nine: 何行の印刷ですか？
+    list_right_ten: 1分/時間あたりの印刷回数は？
+    list_right_eleven: メッセージは継続的なWebマテリアルまたは押し出しで継続的ですか
+    list_right_twelve: メッセージの繰り返しの長さはどれくらいですか？
+    second_section_title: 貯蓄/ ROI計算機
+    second_section_text: 印刷あたりのコストとカートリッジあたりの印刷回数を簡単に制御できます。コストを抑えるのがこれまでになく簡単になりました。インクセーバーモードで最大75％のインクを節約できます。
+    second_section_text_two_html:  "時間の経過とともに予算を浪費する、高価なインクジェットプリンタに縛られ無いようにしてください。
+                             <br>
+                            保証の詳細、サービス条件、メンテナンス/修理費用、インクおよび消耗品の費用をご覧ください。                             <br>
+                             あなたのビジネスにとって最も費用効果の高いソリューションを選択してください。
+                             <br>
+                            決定を下す前に、プリンタの総所有コストを計算してください。"
+
+  printers:
+    title: FX ONEシリーズ
+    text: Foenixシリーズのインクジェットプリンターはすべて、コーディングおよびマーキングソリューション用の産業用インクジェットプリンターとして設計されています。
+          各プリンタの主な設計基準は、使いやすさ、メンテナンスの手間、および超高解像度印刷を提供する費用対効果です。
+    coming_soon: 近日公開
+
+
+  fxone_remote:
+    first_section_title: リモート
+    first_section_text: 新しいFX ONEインクジェットプリンターは、コードあたりのコストが最も低く、メンテナンスが最も少ない小型文字プリンターの1つです。それはあなたの製品をコーディングするための本当の代替手段を提供します。
+    second_section_title: 概要
+    grid_title_one: CIJ印刷の最良の代替手段
+    grid_description_one_html:  "FX ONE Remoteは、非常にシンプルなインクジェットプリンターとして設計されていますが、1〜8行のコードを印刷し、独自のフォントスタイルと画像を入力する機能を備えています。
+                                <br>
+                                <br>
+                                FX ONE Remoteは、非常に手頃な価格で、複雑なCIJプリンターの真の代替品を提供します:
+                                <ul>
+　　　　　　　　　　　　　　　　　　　　　 <li>市場で最も低い印刷単価</ li>
+                                  <li>高解像度印刷</ li>
+                                  <li>メンテナンスゼロのための設計</ li>
+                                  <li>柔軟性があり、どの方向にも印刷できます</ li>
+                                  <li>追加費用なしのマルチライン印刷</ li>
+                                  <li>追加のメイクアップ溶剤は必要ありません</ li>
+                                </ul>"
+    grid_link_one: 簡単な見積もりを取得する
+    grid_title_two: 押し出しおよびWebフィードアプリケーションに最適
+    grid_description_two_html:  "FX ONEは、産業用のモジュラーインクジェットコーダーです。押出成形のマーキング、ウェビングへの印刷、その他の産業用アプリケーションに最適です。
+                                 <br>
+                            FX ONEプリンターは、押出ライン上で定義された間隔で連続的に繰り返し印刷するようにプログラムされています。
+                                 <br>
+                                 <br>
+                            素材のウェブ全体に繰り返し印刷するための完全な制御を取得します。複数のFXONEプリンターをウェブ全体にマウントして、同一または異なる印刷を行うことができます
+                             メッセージ。リモートに取り付けられたタッチコントローラーは、エンコーダーまたは任意のタイプのデバイスに接続して、印刷をアクティブ化できます。」"
+    grid_link_two: 印刷サンプルを取得します
+    grid_title_three: 簡単なインストールと操作
+    grid_description_three_html:  "FX ONE Remoteプリンターは、ほとんどの機械または限られたスペースに簡単に取り付けることができます。                               <br>
+                                  <br>
+                                  製品の両面を印刷しますが、使用するタッチコントローラーは1つだけです。ボックスの両面を印刷する場合でも、大きな製品の両面を印刷する場合でも、単一のコントローラーを使用すると、オペレーターによるメッセージの入力が簡単になります。
+                                  製品の両面に同じメッセージまたは異なるメッセージを簡単に印刷できます。
+                                  <br>
+                                  <br>
+                                  大きなカラーグラフィックタッチスクリーンとWYSIWYGディスプレイを画像のアクションキーと組み合わせることで、メッセージの編集とプログラミングが非常に簡単になります。」"
+    grid_link_three: 簡単な見積もりを取得する
+    grid_title_four: 一貫した印刷パフォーマンス
+    grid_description_four_html:  "プリントヘッドの自動シャッターにより、オペレーターの介入なしに、連続的または断続的なアプリケーションや過酷な環境での印刷が完璧に保たれます。
+                                <br>
+                                <br>
+                                FX ONEを使用しないときは、このシャッターを手動または自動で閉じることができます。シャッターを閉じると、プリントヘッド内の物理的な損傷やインクの乾燥からプリントヘッドをより適切に保護できます。
+                                <br>
+                                <br>
+                                敵対的な環境に対するより良い保護:
+                                <br>
+                                シャッター開放時間は最短5秒です。これは、印刷中にシャッターが5秒間だけ開くことを意味します。直後に、プリントヘッドを閉じて、ドラフト、湿気、ほこり、その他の空気中の汚染から保護します。」"
+    grid_title_five: 完璧な印刷のためのクリーンなインク管理
+    grid_description_five_html:  "イージーフローオイルまたは溶剤ベースのインクは、密封されたインクカートリッジに入っているため、無駄、汚染、混乱がありません。カートリッジ交換中の印刷は、数秒かかります。
+                                <br>
+                                プリンタは、100％の稼働時間を与える自動パージおよびクリーニングをプログラムしておくことができます。"
+
+    grid_link_five: 詳細
+    grid_title_six: 完全な統合機能
+    grid_description_six_html:  "Foenix FX APPソフトウェアスイートは、プリンターのネットワーク化、データベースへのアクセス、オフラインでのメッセージの作成、産業用スキャナー、バーコードリーダー、ベリファイア、その他の生産設備への接続のための完全な統合機能を提供します。
+                                <br>
+                                メッセージの選択は、手動またはバーコードリーダーを使用した安全な方法で行うことができます。"
+    cards_section_description: 新世代の
+    grid_link_six: 詳細
+    cards_section_description_two: メンテナンスフリーのインクジェットプリンター
+    first_card_title: 高解像度のコーディングとマーキング
+    first_card_text: 1〜8行の印刷、2〜18mmの印刷高さ。
+    second_card_title: PC接続
+    second_card_text: ダイレクトメッセージ作成またはファクトリネットワークシステム用のUSBケーブル、RS485、またはイーサネット経由。
+    third_card_title: グラフィック、ロゴ、バーコード
+    third_card_text: FX APPを使用して、JPEG、PNG、BMPグラフィックを簡単にインポートできます。
+    four_card_title: シンプルな画面とキーボード
+    four_card_text: プリンターの速度と方向、およびメッセージ遅延をローカル制御します。
+    five_card_title: すぐに使えるインストール
+    five_card_text: 信頼性を最大化するための最小限のコンポーネント。
+    six_card_title: 1Dおよび2Dバーコード
+    six_card_text: 可変データを含めるための1Dおよび2Dバーコード（QRコード–データマトリックス）の高解像度印刷。
+    seventh_card_title: 2年保証*
+    seventh_card_text_html: 延長保証が利用可能<br> *利用規約が適用されます
+    eigth_card_title: コントローラーを触る
+    eigth_card_text: FX APPを使用したシンプルなインタラクティブWindowsプログラミング。ワンクリックで確実に印刷できます。
+    ninth_card_title: ネットワーキング
+    ninth_card_text: 1か所から複数のプリンターを管理します。印刷分析を使用して、進行状況を監視し、障害を追跡し、原因を探ることができます。
+    tenth_card_title: TrueTypeフォントとUnicode
+    tenth_card_text: 任意のフォントおよび任意の言語でのメッセージ作成を有効にします
+    eleventh_card_title: ラージソルベントベースのインクカートリッジ
+    eleventh_card_text: 低コストのコーディングとクリーンなインクシステムで、多孔質および非多孔質の表面への印刷に最適です。
+    twelfth_card_title: マルチポート接続
+    twelfth_card_text: エンコーダー、外部アラーム、および代替製品検出デバイス用。
+    thirteenth_card_title: インクセーバーモード
+    thirteenth_card_text: インク消費量を最大75％削減します
+    pop_title: APPソフトウェア
+    pop_title_two: すべての製品コーディングアプリケーション用
+    pop_text_one: ネットワーキングと印刷分析
+    pop_text_two: シンプルなインタラクティブウィンドウプログラミング
+    pop_text_three:  'PCおよび7 "タッチスクリーンコントローラーでの可用性'
+    pop_text_four: 多言語サポート
+    pop_text_five: DLLとの完全な統合
+    pop_text_six: 高度なプリンター管理
+    pop_link: 詳細
+    four_section_title: 技術仕様
+    five_section_main_title: FX ONE Remote
+    five_section_left_title: 機能
+    five_section_left_one: 任意の方向に印刷します
+    five_section_left_two: 1〜8行の印刷
+    five_section_left_three: 2mm〜18mmの合計印刷高さ
+    five_section_left_four: 高解像度peizoプリントヘッド
+    five_section_left_five: テキスト、グラフィック、ロゴ、バーコードを印刷します
+    five_section_left_six: 時刻と複数の日付形式を出力します
+    five_section_left_seven: 連続リピート印刷機能
+    five_section_left_eight: 100m / minの印刷速度（バーコードと2mmのテキストの場合は50m / min）
+    five_section_left_nine: 単一の開始/停止印刷ボタン
+    five_section_left_ten: インク残量を含む視覚的なアラームインジケーター
+    five_section_left_eleven: メッセージ幅、遅延、印刷方向の制御
+    five_section_left_twelve: 製品検出フォトセル
+    five_section_left_thirteen: 重量1.7 Kg（インクカートリッジとブラケットを除く）
+    five_section_left_fourteen: サイズ242 x 178 x 90mm
+    five_section_right_title_one: 接続性
+    five_section_right_one: SauvenTouchコントローラー用のRS232およびRS485
+    five_section_right_two: USB-メモリスティックが含まれています
+    five_section_right_three: ケーブル接続用のUSB-B
+    five_section_right_four: イーサネット（オプション）
+    five_section_right_five: テキスト、グラフィック、ロゴ、バーコードを印刷します
+    five_section_right_six: エンコーダー、アラームビーコン、外部フォトセル用のI / Oポート
+    five_section_right_title_two: インク
+    five_section_right_seven: 密閉された交換可能なインクカートリッジ（最大1500万文字）
+    five_section_right_eight: 多孔質表面用の油性インク
+    five_section_right_nine: 非多孔質表面用の溶剤ベースのインク
+    five_section_right_ten: LEDを瞬時に硬化させるためのUVインク
+    five_section_right_eleven: さまざまな色
+    five_section_right_title_three: 電気
+    five_section_right_twelve: 90〜260VACから24VDCの電源装置が含まれています
+    fifth_section_message: "Foenix コーディング Ltdは、製品とソフトウェアを継続的に改善しています。仕様は変更される場合があります。    build_to_last: 最後に構築"
+    build_to_last_description: 炭素繊維構造と固体コンポーネント
+    build_to_last_description_two: グループは、これから何年もあなたのものになることを意味します
+    発見: FXONEの範囲を発見
+    shared_tech: 共有テクノロジー
+    shared_tech_text_one: FX ONEプリンターは、ごくわずかなコンポーネントを使用したモジュール方式で構築されています。
+    shared_tech_text_two: FX ONEパーツは100％互換性があり、同様の機械および同様のモデルで使用されています。
+    shared_tech_text_three: モデル間の唯一の違いは、プリントヘッドの位置です。 FX ONE Standardのプリントヘッドはコントロールユニットに組み込まれており、FX ONE RemoteとFX ONE Plusのリモートプリントヘッドは、フレキシブルコンジットでコントロールユニットに接続されています。
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: 高品質のスマートソリューション
+    fx_one_standard_sub_two: 解像度パッケージの印刷
+    fx_one_standard_text: カートン、トレイに直接高解像度で印刷
+    fx_one_standard_text_two: そして生産ラインでサックして必要性を排除します
+    fx_one_standard_text_three: 高価な印刷済みパッケージまたは高価なラベル用。
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: 保存するための賢い方法
+    fx_one_plus_sub_two: ラベル印刷について
+    fx_one_plus_text: 最大72mmの印刷高さの大型キャラクタープリンター。
+    fx_one_plus_text_two: 高価で複雑なものの完璧な代替品
+    fx_one_plus_text_three: および限定されたラベリングシステム。
+    six_section_title: 信頼性が高く、強力で、用途が広い
+    six_section_left_sub_title_one: 費用のかかる保守契約はありません
+    six_section_left_sub_text_one: Foenixプリンターは、最大の信頼性を提供するために最小限のコンポーネントで製造されています。ポンプ、バルブ、圧縮空気、液滴充填、エアフィルターがないため、メンテナンスが少なくて済みます。
+    six_section_left_sub_title_two: 最低印刷単価
+    six_section_left_sub_text_two: FX ONEプリンターで使用されるピエゾテクノロジーは、単一の密封されたインクカートリッジのみを必要とし、追加の補給溶剤を必要としません。これにより、運用コストが大幅に削減されます。
+    six_section_left_sub_title_three: 一貫した印刷パフォーマンス
+    six_section_left_sub_text_three: FXONEプリンターは高解像度で印刷しています。ロゴ、1Dおよび2Dバーコード、変数を印刷できます...
+    six_section_left_sub_title_four: オペレーターの信頼度
+    six_section_left_sub_text_four: 簡単なインストール、メッセージ編集、プログラミング、簡単なメンテナンス。
+    six_section_right_sub_title_one: 実証済みのテクノロジー
+    six_section_right_sub_text_one: Xaar高解像度プリントヘッドを使用しています。このテクノロジーは、世界中で販売されている何千ものプリンターですでに実証されています。
+    six_section_right_sub_title_two: システム統合
+    six_section_right_sub_text_two: 必要に応じて、工場のネットワークシステムに統合するか、産業用スキャナー、エンコーダー、チェック計量器、またはその他の機器に接続します。
+    six_section_right_sub_title_three: 100％の稼働時間0％のダウンタイム
+    six_section_right_sub_text_three: "「24時間年中無休で印刷: カートリッジを交換しているときでも印刷を停止しないでください！」"
+    six_section_right_sub_title_four: イノベーション自動シャッター
+    six_section_right_sub_text_four: 「プリンターの最も重要な部分であるプリントヘッドエンジンを保護するために」
+    seventh_section_title: 毎回完璧なプリント
+    seventh_section_text: 高品質、よくできた、高精度がFXONEプリンターです。製品を高解像度でコーディングするための最も簡単で効率的な方法を提供します。
+    low_ink: 市場で最も低いインク使用量
+    low_ink_text: インクカートリッジとメンテナンス契約に大金を費やすのをやめましょう！
+    low_ink_text_two: Foenixプリンターは、業界で最も低いランニングコストと最低印刷単価を実現します
+
+  fxone_standard:
+    first_section_title: スタンダード
+    full_title: FX ONE Standard
+    first_section_text: 生産ラインの段ボール、トレイ、袋に直接高解像度で印刷することで、高価な事前印刷されたパッケージや高額ラベルが不要になります。
+    grid_title_one: 高解像度パッケージ印刷用のスマートソリューション
+    grid_description_one_html:  "新しいFX ONE Standardは、フル機能のコンパクトプリンターで信じられないほどの印刷品質を提供します。プログラミングが簡単なシンプルなスタンドアロンとして使用することも、完全なプロダクションネットワークシステムに統合することもできます。高価なラベルは必要ありません。FX ONE Standardを使用してください。生産ラインの段ボール、トレイ、袋、またはその他の製品に直接高解像度で印刷できるため、高価な事前印刷パッケージや高価なラベルを利用する必要はありません。」"
+    grid_link_one: 印刷サンプルを取得します
+    grid_title_two: 時間の節約、お金の節約
+    grid_description_two_html:  "複雑な起動およびシャットダウン手順は必要ありません。1日の終わりに機械の電源を切り、次の日にもう一度電源を入れてください。                            <br>
+                            FX ONEプリンターは、最大限の信頼性を提供するために最小限のコンポーネントで設計されています。ポンプ、バルブ、圧縮空気がなく、PCBが1つしかないため、メンテナンスが少なく、費用のかかるメンテナンス契約もありません。                            <br>
+                            <br>
+                           印刷コストの削減-印刷あたりのコストを監視および管理して、インク消費量を75％簡単に削減します。マイクロインク液滴と密封されたインクカートリッジを使用して印刷すると、インクを無駄にすることなく、印刷あたりのコストを低く抑えることができます。
+                            イージーフローオイルベースのインクは、密封されたインク110mlカートリッジに入っており、無駄、汚染、混乱を防ぎます。印刷中にカートリッジを交換するには数秒かかります。プリンタは、自動パージとクリーニング用にプログラムできます。」"
+    grid_link_two: 簡単な見積もりを取得する
+    grid_title_three: 生産の多様性
+    grid_description_three_html:  "FX ONEのコンパクトで革新的な工業デザインにより、プリンターを数分で別の場所に移動できます。プラグを抜いて移動するだけです。大きなタッチスクリーンでシームレスに動作し、すべての印刷機能を簡単に制御できます。印刷ボタンを押すだけで、どんなものでも印刷を開始できます。                                  <br>
+                                  <br>
+                                  FX ONEプリンターをリンクして、同じまたは異なるメッセージで段ボールの両面に印刷することができます。高解像度の印刷と、任意のフォントスタイル、グラフィックス、および任意の言語での印刷機能を組み合わせることで、製品のイメージが向上します。」"
+    grid_title_four: 完全な統合機能
+    grid_description_four_html:  "Foenix FX APPソフトウェアスイートは、プリンターのネットワーク化、データベースへのアクセス、オフラインでのメッセージの作成、産業用スキャナー、バーコードリーダー、ベリファイア、その他の生産設備への接続のための完全な統合機能を提供します。                                <br>
+                               メッセージの選択は、手動またはバーコードリーダーを使用した安全な方法で行うことができます。」"
+    grid_link_four: 詳細
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: 賢い代替手段
+    fx_one_remote_sub_two: CIJ印刷へ
+    fx_one_remote_text: FX ONE Remoteインクジェットプリンターは最も低コストのプリンターの1つです
+    fx_one_remote_text_two: コードごとに、メンテナンスが最も少ない小型文字プリンターを利用できます。
+    fx_one_remote_text_three: 製品をコーディングするための真の代替手段を提供します。
+    second_section_title: 概要
+    first_card_title: 高解像度のコーディングとマーキング
+    first_card_text: 1〜8行の印刷、2〜18mmの印刷高さ。
+    second_card_title: PC接続
+    second_card_text: ダイレクトメッセージ作成またはファクトリネットワークシステム用のUSBケーブルまたはイーサネット経由。
+    third_card_title: グラフィック、ロゴ、バーコード
+    third_card_text: FX APPを使用してJPEGおよびBMPグラフィックを簡単にインポートします。
+    four_card_title: シンプルな画面とキーボード
+    four_card_text: プリンターの速度と方向、およびメッセージ遅延をローカル制御します。
+    five_card_title: すぐに使えるインストール
+    five_card_text: 信頼性を最大化するための最小限のコンポーネント。
+    six_card_title: 1Dおよび2Dバーコード
+    six_card_text: 可変データを含めるための1Dおよび2Dバーコード（QRコード–データマトリックス）の高解像度印刷。
+    seventh_card_text: さらに1年、2年、または3年延長します
+    seventh_card_title: 2年保証
+    eigth_card_title: タッチコントローラー
+    eigth_card_text: FX APPを使用したシンプルなインタラクティブWindowsプログラミング。ワンクリックで確実に印刷できます。
+    ninth_card_title: ネットワーキング
+    ninth_card_text: 1か所から複数のプリンターを管理します。印刷分析を使用して、進行状況を監視し、障害を追跡し、原因を探ることができます。
+    tenth_card_title: TrueTypeフォントとUnicode
+    tenth_card_text: 任意のフォントおよび任意の言語でのメッセージ作成を有効にします
+    eleventh_card_title: 大型オイルベースのインクカートリッジ
+    eleventh_card_text: 低コストのコーディングとクリーンなインクシステムで、多孔質表面への印刷に最適です。
+    twelfth_card_title: マルチポート接続
+    twelfth_card_text: エンコーダー、外部アラーム、および代替製品検出デバイス用。
+    thirteenth_card_title: インクセーバーモード
+    thirteenth_card_text: インク消費量を最大75％削減します
+    seventh_section_title: 生産の多様性
+    seventh_section_text: FX ONEのコンパクトで革新的な工業デザインにより、プリンターをさまざまな場所に数分で移動できます。プラグを抜いて移動するだけです。大型のタッチスクリーンとシームレスに連携し、すべての印刷操作を簡単に制御できます。印刷ボタンを押すだけで、どんなものでも印刷を開始できます。
+
+
+  fxone_plus:
+    first_section_title: FX ONE Plus
+    first_section_text: 最大72mmまでの高さの大型文字プリンター。高価で複雑な限られたラベリングシステムの完璧な代替品。
+    first_section_text_two:  "高価で、複雑で、限られたラベリングシステムの完璧な代替手段です。"
+    coming_soon: 近日公開
+    grid_title_one: ラベル印刷を節約するスマートな方法
+    grid_description_one_html:  "FX ONE Plus大型文字インクジェットプリンタを使用すると、ラベル印刷の印刷あたりのコストをユーザーが管理できます。
+                               <br>
+                               <br>
+                               Windowsベースのソフトウェアは、印刷あたりのコストを管理することが最も重要な領域であるラベル印刷を念頭に置いて特別に設計されました。ラベルを使用せずにボックスに直接印刷することで、コスト効率が大幅に向上します。
+                               <br>
+                               <br>
+                               FX ONE Plusは、統合の柔軟性をさらに高め、データベースとリンクでき、既存の生産管理ソフトウェアによる完全なリモート制御を可能にし、WiFiを含む完全なネットワーク機能を提供します。
+                               <br>
+                               <br>
+                               ラベルプリンターの真の代替品である、段ボールやボックスへの低コストのコーディングとマーキング用に設計されています。
+                               複雑な起動およびシャットダウン手順は必要ありません。 1日の終わりに機械の電源を切り、次の日にもう一度電源を入れます。
+                               <br>
+                               <br>
+                               段ボールに加えて、紙、木、布、EPS、フォーム、コンクリートなどに印刷できます...」"
+    huge_cost_savings: ラベルと事前に印刷されたパッケージを、段ボールに直接高解像度で印刷することで大幅なコスト削減が可能–ボックス、袋、トレイ、木製パレットなどに最適
+    plus_newsletter_title: FOENIXニュースレター
+    plus_newsletter_description: いつ最初に知るか
+    plus_newsletter_description_two: FX ONE Plusを起動します
+    placeholder: メールアドレスを入力して、リリースに関する最新情報を入手してください
+
+  software:
+    first_section_title_one: FXTOUCHコントローラー
+    first_section_text_one: タッチするだけでプリンターを制御します。バーコード、カウンター、ロゴ、日付、時刻、シフトなどの通常の機能に加えて、FXONEプリンターにはPCソフトウェアとネットワーク接続が標準で付属しています。
+    first_section_text_two: Foenix コーディングはシンプルさの技術を理解しており、顧客の仕様にぴったり合ったシンプルで費用対効果の高いプリンターを作成しました。
+    first_section_text_three: 日常のプロジェクトのワークフローを簡素化するために、FX APPのユーザーインターフェイスデザインに多くの注意を払いました。
+    first_section_text_four: FX タッチコントローラーで実行されているFX APPは、PCソフトウェアとしても利用できるため、どのコンピューターからでもプリンターを制御できます。
+    second_section_title: FX APPソフトウェア
+    second_section_text: 生産を常に管理できるようにする究極のツールで、コストを削減できます。当社のFX APPは、統合と柔軟性を提供するPCとFoenixコントローラーの両方で実行でき、データベースとリンクできるため、完全なネットワーク機能を備えた既存の生産管理ソフトウェアによる完全なリモート制御が可能です。
+    second_section_text_two: Foenix FX APPを使用すると、ユーザーフレンドリーなインターフェイスを介して記録的な速さでメッセージをデザインできます。
+    second_section_check_one: シンプルな相互作用ウィンドウプログラミング
+    second_section_check_two: 無制限のメッセージストレージ
+    second_section_check_three: インクセーバー印刷モード
+    second_section_check_four: TrueTypeフォントとUnicodeを使用します
+    second_section_check_five: JPEGおよびBMPロゴをインポートします
+    second_section_check_six: 多言語サポート
+    second_section_card_one:  "FX APP: クリックして印刷"
+    second_section_card_two: FX APPを使用して印刷プロセスを最適化する
+    second_section_card_three: ワンクリックで信頼性の高い印刷
+    second_section_card_four: ワークフローに合わせたソフトウェア統合
+    third_section_left_title: FX APP
+    third_section_left_sub_title: 機能
+    third_section_left_text_one: WindowsXP以降と互換性があります
+    third_section_left_text_two: 直感的なアイコン主導のメッセージ作成
+    third_section_left_text_three: TrueTypeフォントとUnicodeがサポートされています
+    third_section_left_text_four: JPEGおよびBMP形式で直接インポートされたグラフィック、ロゴ、バーコード
+    third_section_left_text_five: 時間と複数の日付形式
+    third_section_left_text_six: インクセーバー印刷モード
+    third_section_left_text_seven: 無制限のメッセージストレージ
+    third_section_left_text_eight: 多言語サポート
+    third_section_left_text_nine: Foenix コーディング Ltdは、製品とソフトウェアを継続的に改善しています。仕様は変更される場合があります。
+    third_section_right_title: FX ONE タッチ
+    third_section_right_sub_title: 機能
+    third_section_right_title_two: 接続性
+    third_section_right_text_one: 7インチのタッチスクリーン
+    third_section_right_text_two: シンプルなインタラクティブウィンドウプログラミング
+    third_section_right_text_three: FX APPを使用します
+    third_section_right_sub_title_two: 接続性
+    third_section_right_text_four: USB-A、USB-B、RS232、RS485マルチポート、イーサネット（オプション）
+    third_section_right_text_five: 24 vDC入力
+    third_section_right_text_six: 外部アラーム、ビーコン、エンコーダーをサポートします
+    third_section_right_text_seven: バーコードリーダーによる自動プログラミング
+    third_section_final_text: FX APPでのすべてのアクションを簡素化するタッチスクリーンインターフェース。簡単なセットアップとナビゲーションにより、トレーニングの必要がなくなり、手間のかからない直感的な印刷体験が実現します。
+    Extremey_simple: 非常に使いやすい
+    Extremey_simple_text: 日常のプロジェクトのワークフローを簡素化するために、FX APPのユーザーインターフェイスデザインに多くの注意を払いました。簡単なセットアップとナビゲーションにより、トレーニングの必要がなくなり、手間のかからない直感的な印刷体験を提供します。
+    Extremely_simple_button: FX APPへのアクセスをリクエストする
+    grid_title_one: 多言語サポート
+    grid_description_one: 19の言語に翻訳されたソフトウェアで、任意の言語で印刷できます
+    grid_title_two: コストを抑えます
+    grid_description_two: 印刷単価とカートリッジあたりのプリント数を簡単に制御できます。コストを抑えるのがこれまでになく簡単になりました。
+    grid_title_three: ネットワーキングと統合
+    grid_description_three_html:  "FX APPは、プリンターのネットワーク化、データベースへのアクセス、オフラインでのメッセージの作成、産業用スキャナー、バーコードリーダー、ベリファイア、その他の生産設備への接続のための完全な統合機能を提供します。
+                                <br>
+                                 <br>
+                                 Advanced printer management:
+                                 <br>
+                                 1か所から複数のFoenixプリンターにまたがる生産を管理することにより、稼働時間を最大化します。印刷分析を使用して、進捗状況を監視し、障害を追跡し、原因を探ることができます。」"
+    grid_title_four: Foenixファームウェア
+    grid_description_four: 時間の経過とともにさらに良くなるプリンター。 FX ONEプリンターのパフォーマンスをさらに向上させ、ファームウェアの更新ごとに機能を追加します。
+    grid_title_five: DLLとの完全な統合
+    grid_description_five_html:  "DLLとは何ですか？
+　                              <br>
+                                <br>
+                                DLL（ダイナミックリンクライブラリ）は、サードパーティの開発者が独自のアプリケーションに組み込むために使用できるソフトウェア関数のセットです。 Foenix DLLは、FX APPアプリケーションまたはFoenixタッチコントローラーを介してFXONEプリンターを制御できるようにする一連の機能を提供します。
+                                ライブラリは、使用される実際のプロトコルを処理するため、開発者のプリンタへの通信プロセスをはるかに簡単にします。次に、開発者は比較的単純なメカニズムを使用して、プリンタを監視し、メッセージをロードし、データを送信します。」"
+    grid_title_six: 印刷設定でのユーザーエラーの防止
+    grid_description_six: ハンドヘルドリーダーによる印刷設定の自動構成のおかげで、エラーはもうありません。バーコードスキャナーを使用して、印刷するメッセージを選択したり、対応するバーコードをスキャンしてメッセージのフィールドに入力したりできます。手作業による介入が少ないということは、コーディングミスが少ないことを意味します。
+    newsletter_title: 最新のソフトウェアアップデートを受け取る
+    newsletter_description: アップデートが利用可能になったとき一番に知るためにサインアップしてください
+
+    four_section_title_one: 多言語サポート
+    four_section_text_one: 19の言語に翻訳されたソフトウェアで、どの言語でも印刷できます
+    four_section_title_two: コストを抑えます
+    four_section_text_two: 印刷あたりのコストとカートリッジあたりの印刷回数を簡単に制御できます。
+    four_section_text_two_two: コストを抑えるのがこれまでになく簡単になりました。
+    four_section_title_three: ネットワーキングと統合
+    four_section_text_three: FX APPは、プリンターのネットワーク化、データベースへのアクセス、オフラインでのメッセージの作成、産業用スキャナー、バーコードリーダー、ベリファイア、その他の生産設備への接続のための完全な統合機能を提供します。
+    four_section_title_four: FX APP
+    four_section_text_four: 高度なプリンター管理。
+    four_section_text_four_two: 1か所から複数のFoenixプリンターにまたがる生産を管理することにより、稼働時間を最大化します。印刷分析を使用して、進行状況を監視し、障害を追跡し、原因を探ります。
+    four_section_title_five: 印刷設定でのユーザーエラーの防止
+    four_section_text_five: ハンドヘルドリーダーを介した印刷設定の自動構成のおかげで、エラーは発生しません。バーコードスキャナーを使用して、印刷するメッセージを選択したり、対応するバーコードをスキャンしてメッセージのフィールドに入力したりできます。手作業による介入が少ないということは、コーディングミスが少ないことを意味します。
+    ボタン: テストするライブソフトウェア
+    four_section_title_six: Foenixファームウェア
+    four_section_text_six: 時間の経過とともにさらに良くなるプリンター。
+    four_section_text_six_two: FX ONEプリンターのパフォーマンスをさらに向上させ、すべてのファームウェアアップデートに機能を追加します。
+    five_section_title_one: DLLとの完全な統合
+    five_section_sub_title: DLLとは何ですか？
+    five_section_text_one: DLL（ダイナミックリンクライブラリ）は、サードパーティの開発者が独自のアプリケーションに組み込むために使用できるソフトウェア関数のセットです。ここで説明するFoenixDLLは、FXOneプリンターをFXProアプリケーションまたはFoenixタッチコントローラーを介して制御できるようにする一連の機能を提供します。ライブラリは、使用される実際のプロトコルを処理するため、開発者にとってプリンタへの通信プロセスをはるかに簡単にします。次に、開発者は比較的単純なメカニズムを使用して、プリンターを監視し、メッセージをロードし、データを送信します。
+    five_section_title_two: DLLはどのように機能しますか？
+    five_section_text_two: DLLは、顧客がプリンターと通信するために使用します。次の図は、DLLがアプリケーションとプリンターの間にどのように配置されるかを示す基本的な概要を示しています。
+
+  業界:
+    first_section_title: すべての業界とすべてのアプリケーションにソリューションを提供します
+    first_section_text: 1つの小さな生産ラインを持つ新興企業から、最も要求の厳しいアプリケーションを持つ多国籍企業まで、すべてFX ONEプリンターを使用して、コーディングとマーキングのコストを削減し、ダウンタイムを防ぎ、手動プロセスを自動化し、高解像度コーディングで製品品質を向上させることができます。
+    first_section_button_one: デモをリクエストする
+    first_section_button_two: 価格を取得する
+    trusted_title: 企業から信頼されている
+    trusted_title_two: すべての業界から
+    trusted_text_html:  "Foenixコーディングは、世界中の食品、飲料、製薬、工業、電子機器、建設業界にインクジェットプリンターを設置しています。
+                  <br>
+                  私たちの顧客には、これらの分野で最大手のメーカーが多く含まれますが、同様にプリンターの低コスト、低メンテナンスの概念を評価していただいている世界中の多くの小規模製造会社にもFoenixは、喜ばれています。」"
+    fd_title: 食べ物 & 飲み物
+    fd_card_title_one: ベーカリー製品
+    fd_card_text_one: ビスケット、ケーキクッキー..
+    fd_card_title_two: シリアル製品
+    fd_card_text_two: 朝食用シリアル、パスタ..。
+    fd_card_title_three: 加工された果物と野菜
+    fd_card_text_three: 缶詰、ドライフルーツ..
+    fd_card_title_four: 製菓
+    fd_card_text_four: チョコレート、お菓子、チューインガム..
+    fd_card_title_five: スナック製品
+    fd_card_text_five: ポテトチップス、おいしいスナック、チョコレート...
+    fd_card_title_six: 魚および魚製品
+    fd_card_text_six: 缶詰の魚、干物、小売用のクールボックス..
+    fd_card_title_seven: 乳製品
+    fd_card_text_seven: ミルク、ヨーグルト、チーズ、クリーム...
+    fd_card_title_eight: アルコール飲料
+    fd_card_text_eight: ワイン、スピリッツ、酒...
+    fd_card_title_nine: 挽いた製品と殻をむいた製品
+    fd_card_text_nine: 小麦粉、米..。
+    fd_card_title_ten: 肉
+    fd_card_text_ten: 事前に梱包され、乾燥され、新鮮で、冷凍されています。
+    fd_card_title_eleven: コーヒー、ココア、お茶
+    fd_card_text_eleven: 地面、個別のパッケージ...
+    fd_card_title_twelve: 離乳食
+    fd_card_title_thirteen: 準備ができた食事
+    fd_card_text_thirteen: ピザ、サンドイッチ..。
+    fd_card_title_fourteen: ノンアルコール飲料
+    fd_card_text_fourteen: 水、レモネード、フルーツジュース..
+    fd_card_title_fifteen: 冷凍製品
+    fd_card_title_sixteen: スパイス、エッセンス、調理およびベーキング剤
+    fd_card_title_seventeen: 食用油および類似製品、硬質脂肪
+    fd_card_text_seventeen: オリーブオイル、バター、ラード..。
+    fd_card_title_eighteen: テトラパック
+    cp_title: 化粧品＆
+    cp_title_two: 医薬品
+    cp_card_title_one: 化粧品と個人衛生
+    cp_card_text_one: シャンプー、石鹸、歯磨き粉、ティッシュ...
+    cp_card_title_two: 美容製品
+    cp_card_text_two: 香水、ヘアケア製品、メイクアップ...
+    cp_card_title_three: 医薬品
+    cp_card_text_three: 薬、シロップ、錠剤、クリームチューブ..
+    cp_card_title_four: 医療機器
+    cp_card_text_four: フェイスマスク、注射器、包帯、ドレッシング..
+    ind_title: 産業用
+    ind_card_title_one: 金属製品
+    ind_card_text_one: 完成または半完成のパーツ、サブアセンブリ...
+    ind_card_title_two: 自動車産業
+    ind_card_text_two: スペアパーツ、車の配管、車のインテリア、ゴム部品..
+    ind_card_title_three: 化学製品
+    ind_card_text_three: 工業用化学薬品、洗剤、洗浄剤..
+    ind_card_title_four: 電子機器、サブアセンブリ、コンポーネント
+    ind_card_text_four: PCBボード、セキュリティカード..
+    ind_card_title_five: 建築材料
+    ind_card_text_five: フローリング、タイル、木材、石、壁パネル、漆喰ボード..
+    ind_card_title_six: 植物処理用の肥料、農薬、その他の製品
+    ind_card_title_seven: 押し出しおよびWebフィード製品
+    ind_card_text_seven: プラスチックパイプ、ケーブル、小袋...
+    ind_card_title_eight: 庭、農業、林業、水産物
+    ind_card_text_eight: ガーデンウェビング...
+    ind_card_title_nine: 塗料、染料、着色剤、インク、ワニス、および同様の製品
+    ind_card_title_ten: 木材および紙製品、パルプ、未加工木材
+    ind_card_title_eleven: 家具および家具部品
+    ind_card_title_twelve: 石油製品
+    tp_title: 典型的なアプリケーション
+    tp1: エアゾール容器
+    tp2: バケット
+    tp3: フォイル
+    tp4: テトラパック
+    tp5: アンプル
+    tp6: キャニスター
+    tp7: ガラスの瓶
+    tp8: 深絞り、プレス、折り畳みトレイ
+    tp9: バッグインボックス
+    tp10: 缶プラスチック、金属
+    tp11: 水差し
+    tp12: チューブ
+    tp13: 紙袋、プラスチック、金属
+    tp14: カーボイ、デミジョン
+    tp15: 金属缶
+    tp16: 管状のバッグ/ポーチ
+    tp17: バッグフォームフィルシール
+    tp18: 液体およびペースト用のカートンパッケージ
+    tp19: ポーチ
+    tp20: ラップアラウンドパック
+    tp21: バレル
+    tp22: カートリッジ
+    tp23: パレット-ローディングユニット
+    tp24: ラッパー（ツイスト、フォールド、シール、シュリンク、ストレッチラッパー）
+    tp25: バスケット
+    tp26: ケース
+    tp27: リール
+    tp28: 石膏ボード
+    tp29: ブリスターパック
+    tp30: 複合缶
+    tp31: 紙、プラスチック、金属の袋
+    tp32: トイレットペーパー
+    tp33: ボトルグラス
+    tp34: 木枠
+    tp35: サイドシールバッグ/ポーチ
+    tp36: ガーデンウェビング
+    tp37: ボトルメタリック
+    tp38: カップ
+    tp39: スリーブアンドスライドボックス
+    tp40: ブックプロテクター
+    tp41: ボトルプラスチック
+    tp42: ドラム
+    tp43: スプール
+    tp44: ストラップ
+    tp45: 箱段ボール、プラスチック
+    tp46: エトゥイス
+    tp47: ストラップ付きパック
+    tp48: ウッド
+    tp49: 床の敷物
+    tp50: 平底バッグ
+    tp51: タンクコンテナ
+    tp52: 小麦粉袋
+    tp53: ストーンズ
+    tp54: 医療用ドレッシング
+    tp55: セキュリティカード
+    tp56: 舗装ブロック
+    tp_button_one: 無料トライアルをリクエストする
+    tp_button_one_msg: FXONEを7日間お試しください
+    tp_button_two: 無料のテストプリントを入手
+    tp_button_two_msg: いずれかの製品について
+
+  video:
+    first_section_title: ビデオ
+    first_section_text: Foenixプリンターがあらゆるアイテムや素材に印刷するのをご覧ください。
+    first_section_text_two: 定期的に動画が追加されますので、このページとYouTubeページを定期的に確認してください。
+    more_videos: 他の動画も近日公開予定
+    video_text_one: プライマリパッケージコーディングソリューション
+    video_text_one_cont: FX ONE Remoteプリンター、製品にマークを付けるための最も費用効果の高いソリューション
+    video_text_two: 二次パッケージコーディングソリューション
+    video_text_two_cont: FX ONE Standardプリンター、ケースコーディングアプリケーション向けの最も費用効果の高いソリューション
+    video_text_three: 段ボールで高品質で効率的なコーディングを実現する方法は？ FX ONE Standard プリンターで調べる
+    video_text_four: FX ONE Standard、すべての産業用アプリケーションに最適なプリンター
+    video_text_five: FX ONE Standardプリンター、アウターケース、トレイ、段ボールに最適
+    video_text_six: "「FX ONE Standard: 1台のプリンター、多くのアプリケーション: バーコード、ロゴ、カートンコーディングなど」"
+    video_text_seven: FX ONE Standardを使用すると、ラベルプリンターを交換することでコストを削減できます
+
+  Legal:
+    first_section_title: 法的
+    cookie_policy: Cookieポリシー
+    privacy_policy: プライバシーポリシー
+  contact_coders:
+    first_section_title: コーディングおよびマーキングマシンに連絡する
+    first_section_text: インクジェットプリンターは未来ですが、従来の低コストのコンタクトコーディングおよびマーキングプリンターは、非常に費用効果の高いソリューションとして世界中で広く使用されています。
+                        コンタクトコーダーは、製品で頻繁にメッセージを変更する必要がない場合や、環境でメンテナンスが不要な非電子ソリューションが必要な場合に最適です。
+                        Foenixは、交換可能なゴム製の「ベースロック」タイプで使用するために、事前に含浸されたプラスチックインクローラーまたはさまざまな密封されたインクカートリッジと一緒にこれらのプリンターを製造しています。
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: すべての素材に連続印刷
+    codaprint_text: 鋼板、押し出しフィルム、プラスチックパイプ、段ボールコア巻線などの金属、プラスチック、または多孔質材料に連続的に繰り返し印刷するための独自のプリンター。
+                    密封されたインクカートリッジを使用して、インクと色を選択できるシンプルさと清潔さを実現しています。さまざまな繰り返し印刷長と最大25mmの印刷高さで利用できます。
+    codamark_title: Foenix Codamark
+    codamark_sub_title: 多目的価格およびコードプリンター
+    codamark_text: コンパクトでシンプルな往復プリンターで、生産ラインの製品に日付の前にはっきりと正確な印刷品質で印刷するのに理想的です。
+                   密封されたインクカートリッジは、金属缶、ガラス瓶、プラスチックポットなど、ほとんどの表面で印刷物をすばやく乾燥させます。この低コストのステンレス鋼プリンターは、電気的要件なしで空気を使用します。
+                   過酷な環境や濡れた環境で、製品の上面、側面、または底面に印刷するのに理想的です。
+    handroller_title: Codaprint Handroller
+    handroller_sub_title: すべての面への手動印刷
+    handroller_text: Codaprintハンドローラーは、同じ範囲の速乾性インクを使用してすべての面に手動で印刷するためのものです。
+    codapack_title: Foenix Codapack
+    codapack_sub_title: 連絡先コーダーとプラスチックインクローラープリンター
+    codapack_text: Foenix Codingのプラスチックインクローラーとベースロックゴムタイプを使用して、codapackコンタクトコーダーで段ボール印刷の問題を解決します
+    baselock_title: Foenix Baselock
+    baselock_sub_title: 交換可能なラバータイプ
+    baselock_sub_title_two: すべての連絡先コーディングマシン用
+    baselock_text_one: 印刷をすばやく簡単に変更
+    baselock_text_two: タイプスタイルの広範な範囲
+    baselock_text_three: カスタマイズされたロゴ
+    baselock_text_four: すべての言語のスタイル
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: 金属、プラスチック、ガラス、段ボールの高速および低速マーキング用のFoenixCodingの信頼性の高い連続プリンター。速乾性の密封されたインクカートリッジを使用して、製品を高速で繰り返し印刷するためのシンプルなコンタクトコーダー。
+    get_prices: 価格を取得する
+    cp_title: すべての素材に連続印刷
+    cp_sub_title_one: アプリケーション
+    cp_text_one: "Codaprintは、識別マークの適用、日付による使用、ロゴのリサイクル、顧客の製品名などを、継続的に移動または索引付けされ、繰り返し印刷が必要な素材に適用するために使用されます。
+　　　　　　　　　　　　　いくつかの典型的な用途は、押し出しフィルム、バッグ印刷、鋼板、プラスチック窓押し出し、シュリンクラップフィルム、段ボールコア巻線、石膏ボード、エッジパックボード、鏡の裏、紙です。"
+    cp_sub_title_two: インストールが簡単
+    cp_text_two: Codaprintは、マークする素材全体の固定バーに簡単に取り付けることができます。ユニットの垂直調整により、印刷のオン/オフ位置がわかります。プリンタは、タイプドラムのゴムタイヤと材料の間の摩擦接触によって駆動されます。
+    cp_sub_title_three: インク
+    cp_text_three: インクカートリッジは、ほとんどの表面に合うように、さまざまな種類と色のインクで利用できます。お客様の製品に最適な範囲についてアドバイスいたします。
+    cp_sub_title_four: 印刷の選択
+    cp_text_four: 標準のCodaprintタイプのドラムには、Baselock交換可能ラバータイプで使用するための金属製のロックリングが取り付けられています。 Baselockは、印刷をすばやく変更できるように、多くの文字スタイルとカスタマイズされたロゴで利用できます。
+    cp_sub_title_five: トランスファーパッド
+    cp_text_five: 新しいインクカートリッジを使用するたびに、Codaprintカートリッジのインクヘッドに転写パッドの完全なセットを取り付ける必要があります。
+    cp_tp1: "「TPS030: 最小インクフロー用」"
+    cp_tp2: "「TPS060: 最大インクフロー用」"
+    cp_sub_title_six: ハンドローラー
+    cp_text_six: "Codaprintハンドローラーは、同じ範囲の速乾性インクを使用してすべての面に手動で印刷するためのものです。    ps_title_one: 測定値"
+    ps_title_two: Codaprintプリンターの仕様
+    ps_title_three: モデルCP-24 / 1
+    ps_bp_one:  "印刷長: 240mm"
+    ps_bp_two:  "印刷高さ: 25mm"
+    ps_title_four: CP-17 / Bハンドローラー
+    ps_bp_three:  "印刷長: 175mm"
+    ps_bp_four:  "印刷高さ: 25mm"
+    ps_title_five: Codaprintカートリッジ
+    ps_bp_five: 非多孔質材料用のCP111黒標準染料インク
+    ps_bp_six: CP011黒高速非多孔質材料用の超速乾性染料インク
+    ps_bp_seven: 多孔質表面用のCP5610黒染料インク
+    ps_bp_eight: 濃い色の表面、多孔質および非多孔質材料用のCP256ホワイト顔料インク
+    ps_text: 各範囲で色の選択が可能です
+    list_title: 概要
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: 鋼板、押し出しフィルム、プラスチックパイプ、段ボールの芯材など、金属、プラスチック、または多孔質の材料に連続的に印刷するための独自のプリンター。
+    list_subtitle_two: ロストコストプリンター
+    list_text_two: 繰り返し識別マークを付けたり、日付で使用したり、ロゴや顧客の製品名を継続的に移動する素材にリサイクルしたりするための最もシンプルな低コストのプリンター。
+    list_subtitle_three: 高速印刷
+    list_text_three: プリンターは非常に低速で動作しますが、1分あたり最大100メートルも印刷できます。
+    list_subtitle_four: シンプルなインクシステム
+    list_text_four: インクは交換可能なインクカートリッジに含まれています。このカートリッジは、印刷速度に関係なくインクを完全に制御できるため、メンテナンスの少ないクリーンなインクシステムを実現します。この独自のインクシステムにより、カートリッジが空になるまで印刷が薄くなることはありません。
+    list_subtitle_five: インクカートリッジ
+    list_text_five: 当社の標準インクカートリッジは、金属、ガラス、プラスチック、多孔質の表面およびその他の材料に適しています。一部のアプリケーションでは、特別なインクが必要です。
+    list_subtitle_six: 機能
+    list_text_six_html:  "プリンターは、材料に接触するタイプドラムのタイヤによって駆動されるため、機械的または電気的な駆動は不要です。
+                                 <br>
+                                 <br>
+　　　　　　　　　　　　　　　　　　　　　バッチ番号、日付、ロゴの印刷に最適な連続ローラーコーダー。
+                                 <br>
+                                 <br>
+                                 プリンタは、マークを付ける移動材料の上、または減少する材料のリールに対して簡単に取り付けることができます。
+                                 <br>
+                                 <br>
+                                 交換可能なベースロックタイプまたはフラットステレオのいずれかを使用して、印刷の高さを最大25mmにすることができます。
+                                 <br>
+                                 最大460mmまでの4回の繰り返し印刷が可能です。」"
+    fncdm_title: Foenix Codamarkを発見する
+    fncdm_text: Codamark Pneumatic Reciprocating Printerを使用して、明確で正確な製品マーキングを効率的かつ経済的に実現しました。
+    fncdm_button: 詳細
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Codamark Pneumatic ReciprocatingPrinterを使用して効率的かつ経済的に達成された明確で正確な製品マーキング。インラインおよびロータリー充填機用のコンパクトなレシプロプリンター。賞味期限の印刷やその他の用途に最適です。
+    phr_title: 空気圧往復プリンター
+    phr_sub_title_one: 軽いタッチで印刷
+    phr_text_one: 10〜20 psiの低い印刷圧力で高速を実現できるため、Codamarkは製品に損傷を与えることなく軽いタッチで印刷できます。
+    phr_sub_title_two: きれいなインクシステム
+    phr_text_two: きれいな速乾性インクカートリッジがプリントヘッドに取り付けられており、ほとんどは数秒で乾燥します。密封されたカートリッジにより、オペレーターはインクに触れないようになっています。
+    phr_sub_title_three: Codamarkデータシート
+    phr_text_three: 寸法、制御システム、取り付け位置を示す詳細情報がデータシートに記載されています。
+    phr_sub_title_four: クイックチェンジベースロックタイプホルダー
+    phr_text_four: プリントヘッドには、数秒で交換できるタイプホルダーが取り付けられています。スペアホルダーを使用して、ベースロックゴムタイプを事前設定できます。
+    phr_sub_title_five: Codamark Cartridges
+    phr_sub_title_six: 小さなポット
+    phr_sub_title_seven: 大きなポット
+    phr_list_text_one: CM501 / 38ブラックインクカートリッジ
+    phr_list_text_two: CM502 / 38レッドインクカートリッジ
+    phr_list_text_three: CM503 / 38グリーンインクカートリッジ
+    phr_list_text_four: CM504 / 38ブルーインクカートリッジ
+    phr_list_text_five: CM506 / 38ホワイトインクカートリッジ
+    phr_list_text_six: CM505 / 38イエローインクカートリッジ
+    phr_list_text_seven: CM501 / 50ブラックインクカートリッジ
+    phr_list_text_eight: CM502 / 50レッドインクカートリッジ
+    phr_list_text_nine: CM503 / 50グリーンインクカートリッジ
+    phr_list_text_ten: CM504 / 50ブルーインクカートリッジ
+    phr_list_text_eleven: CM506 / 50ホワイトインクカートリッジ
+    phr_list_text_twelve: CM505 / 50イエローインクカートリッジ
+    ps_title_one: Codamarkプリンターの仕様
+    ps_sub_title_one: モデルCM-MKV / 25
+    ps_bp_one:  "印刷領域: 24mm x 24mm"
+    ps_bp_two:  "プリントヘッドの外形寸法: 170mm x 155mm x 85mm"
+    ps_sub_title_two: モデルCM-MKV / 38
+    ps_bp_three:  "印刷領域: 37mm x 37mm"
+    ps_bp_four:  "プリントヘッドの外形寸法: 170mm x 155mm x 85mm"
+    ps_sub_title_three: モデルCM-MKV / 50
+    ps_bp_five:  "印刷領域: 24mm x 48mm"
+    ps_bp_six:  "プリントヘッドのアウトライン寸法: 170mm x 155mm x 85mm"
+    list_one:  "販売期限、価格、コードを次の場所に効率的に印刷します: "
+    list_bp_one: プラスチックの浴槽
+    list_bp_two: ホイルのふた
+    list_bp_three: 段ボール
+    list_bp_four: フォームフローパック
+    list_bp_five: ガラス瓶
+    list_bp_six: 金属缶など。
+    list_two: 上部、下部、または側面への取り付け
+    list_three: 自動オンラインまたはオフラインシステム
+    list_four: 速乾性インクカートリッジ
+    list_five: 英国製
+    fncdp_title: Foenix Codaprintを発見する
+    fncdp_text: 速乾性の密封されたインクカートリッジを使用して製品を高速で継続的に印刷するためのシンプルなプリンター
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Codapackプリンターはすべて、交換可能なプリプレグプラスチックインクローラーと交換可能なベースロックタイプを使用しています。それらは、製品の上面、底面、または側面のいずれかに印刷するために簡単に取り付けることができます。これらのプリンタは、ダウンタイムをゼロにする必要があり、製品あたりの印刷コストを最小限に抑える必要がある場合に広く使用されています。
+                        コードまたは賞味期限を1日1回または週に1回だけ変更する場合は、Codapackプリンターが最適です。
+    ccirp_title: 連絡先コーダーとインクローラープリンター
+    ccirp_sub_title_one: アプリケーション
+    ccirp_text_one_html: 段ボール、袋、シュリンクラップトレイ、または連続材料用の最も費用効果の高いコーダーの範囲。
+                    <br>
+                    シンプルで効率的なCodapackコンタクトコーダーはすべて、交換可能なプリプレグプラスチックインクローラーと交換可能なベースロックタイプを使用して、多孔質表面に印刷します。
+    ccirp_sub_title_two: 利点
+    ccirp_text_two: メンテナンスなしコーダーはすべてシンプルな機械式プリンターであり、メンテナンスを必要とせずに毎日完璧な印刷を実現します。
+    ccirp_sub_title_three: カスタマイズされた印刷
+    ccirp_text_three: Baselockのタイプの範囲では、多くの標準フォントスタイルを使用できますが、カスタマイズされた印刷スタイル、ロゴ、およびグラフィックスを簡単に作成できます。
+    ccirp_sub_title_four: 高速印刷変更
+    ccirp_text_four: タイプドラムの印刷テキストの変更は、すばやく簡単な作業です。機能顧客の要件を満たすために、6つの異なる印刷高さモデルを使用できます。
+    ccirp_sub_title_five: 最低の印刷コスト
+    ccirp_text_five: ベースロックタイプと長寿命のプラスチックインクローラーを使用すると、製品の印刷コストを可能な限り低く抑えることができます。
+    cdp_title: Codapack 情報
+    cdp_sub_title_one: ベースロックタイプ
+    cdp_text_one: 金属製のロッキングリングまたはリブ付きのゴムベースのスリーブにタイプを圧入するだけでメッセージを作成するために、さまざまなベースロックタイプのスタイルが提供されています。
+    cdp_sub_title_two: プラスチックインクローラー
+    cdp_text_two_html: これらのインクローラーは、Codapackシリーズのプリンターにすばやく配置され、段ボール、トレイ、紙袋などの多孔質表面に高品質の印刷を提供します。
+                  <br>
+                  これらの長寿命のプレインクローラーは使い捨てで、クリーンで効率的なインクシステムを提供します。それらは黒、青、赤および緑で利用できます。
+    cdp_sub_title_three: ファイバーおよびスポンジローラー
+    cdp_text_three: 非多孔質表面の場合、これらのローラーのいずれかを特殊な液体インクで使用できます
+    list_text_one: 調整可能なスプリング取り付けにより、段ボールの強度に合わせて印刷圧力を調整し、完璧な印刷を実現できます。
+    list_text_two: プリンターは、頑丈なアルミニウム鋳物とローラーベアリングから製造されており、トラブルのない長い寿命を提供します。
+    list_text_three: タイプドラムの回転は、各カートンに同じ印刷位置を与えるように制御されます。
+    list_text_four: Codapackシリーズのプリンターはすべて、1つの簡単な取り付けブラケットでコンベアに簡単に取り付けることができます。
+  support:
+    first_section_title: サポートドキュメント
+    sds_title: 安全データシート（SDS）
+    sds_card_title_one: FX8001
+    sds_card_text_one: ブラックオイルベースのインク
+    sds_card_title_two: FX8201
+    sds_card_text_two: ブラックソルベントベースのインク
+    sds_card_title_three: CP111
+    sds_card_text_three: ブラックマーキングインク
+    sds_card_title_four: FX8008 / FX8009
+    sds_card_text_four: オイルベースのクリーナー
+    sds_card_title_five: FX8208 / FX8209
+    sds_card_text_five: 溶剤ベースのクリーナー
+    sds_card_title_six: CP011
+    sds_card_text_six: ブラックマーキングインク
+    sds_card_title_seven: CM011
+    sds_card_text_seven: ブラックマーキングインク
+    sds_card_title_eight: CM501
+    sds_card_text_eight: ブラックマーキングインク
+    sds_card_title_nine: CM500
+    sds_card_text_nine: 溶媒の再活性化
+    sds_button: 詳細についてはお問い合わせください
+    sds_hint: 規制証明書
+    sds_hint_two: リクエストに応じて利用可能
+    マニュアル: FXONEユーザーマニュアル
+    fxom_card_title_one: FX ONE Standard
+    fxom_card_text_one: ユーザーマニュアル
+    fxom_card_title_two: FX ONE Remote
+    fxom_card_text_two: ユーザーマニュアル
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: ユーザーマニュアル
+    tech_support: テクニカルサポートに連絡する
+  components:
+    yellow_button: もっと詳しく知る
+
+  contact:
+    contact_title: お問い合わせ
+    contact_title_description: Foenix Codingについて詳しく知るために、私たちのチームからチームに連絡してください。
+    contact_text_one:  "無料のテスト印刷をリクエストしてください: プロジェクトのサンプルを送ってください。"
+    contact_text_two: 英国を拠点としている場合は、7日間の無料トライアルを利用できます
+    電話: 電話
+    電話番号: 0044 1932 701 449
+    メール: メール
+    email_add: sales@foenixcoding.com
+    住所: 住所
+    address_text_html: "Foenix Coding Ltd
+                  <br>
+                  納屋-ヒルトップファーム|リンレーン
+                  <br>
+                  Lyne |チャーツィー|サリー| KT16 0AW
+                  <br>
+                  イギリス"
+    whatsapp:  WhatsAppで連絡する
+    statement: すでに私たちと協力している何百もの企業に参加してください
+    talk_to_sales: 営業と話す
+    email_us: 直接メールでお問い合わせいただくこともできます。
+    contact_happy: 私たちのチームはすべての質問に喜んで答えます。
+    icon_text: 私たちのチームはすべての質問に喜んでお答えします。フォームに記入してください。できるだけ早くご連絡いたします。
+    icon_text_two: 無料のテスト印刷。製品のサンプルをお送りください。テスト印刷を行います。
+    form_name: 名と姓
+    form_email: メールアドレス
+    form_company: 会社
+    form_country: 国
+    form_message: あなたのメッセージ
+    form_phone: 電話
+
+  error:
+    four_four_text: ページが見つかりません
+    five_zero_zero_text: 申し訳ありませんが問題が発生しました
+
+  ログインする:
+    fpassword: パスワードを忘れましたか？
+    dont_have_account: アカウントをお持ちではありませんか？
+    sign_up: サインアップ
+    メール: メール
+    パスワード: パスワード
+
+  seo:
+    home_page:
+      title: "「Foenixコーディング: コーディングとマーキングが簡単になりました」"
+      Coding: すべての素材に高解像度で印刷するための産業用マーキングおよびコーディングプリンター。 Foenixコーディングコーディングおよびマーキング、産業用インクジェット、FX ONE Remoteプリンター、FX ONE Standard プリンター
+      keywords: 「コーディングマーキング、Foenixプリンター、工業用マーキング、工業用インクジェット、ケースコーディングとマーキング、製品コーディングとマーキング、インクジェットコーディングとマーキング、日付印刷、ロット番号プリンター、バーコードプリンター」
+    printers:
+      title: 「Foenix産業用インクジェットプリンター」
+      description: 多孔質表面への低コストのコーディングとマーキング用に設計されており、バーコード、ロット番号、ロゴ、使用期限を印刷するためのTIJコーダーの真の代替品です。
+      keywords: 産業用インクジェットプリンター、インクジェットコーダー、部品マーキングシステム、製品コーディング、金属マーキングマシン、マーキングマシン、シリアル番号プリンター、製品ID、シリアル番号の印刷、バーコードの印刷
+    fxone_standard:
+      title: FX ONE Standard –最高のTIJプリンター代替品–高解像度ケースコーダー
+      description: 多孔質表面への低コストのコーディングとマーキング用に設計されており、バーコード、ロット番号、ロゴ、使用期限を印刷するためのTIJコーダーの真の代替品です。
+      keywords: "低コストのコーディング、日付印刷、多孔質表面への印刷、TIJ代替、HPプリンター、サーマルインクジェット、ケースコーダー、カートンコーディング、バーコードプリンター、ウッドプリンター"
+    fxone_remote:
+      title: FX ONE Remote–最高のCIJプリンターの代替品–高解像度産業用インクジェットプリンター
+      description: Foenixプリンターは、コードあたりのコストが最も低く、メンテナンスが最も少ない小型文字プリンターの1つです。非常に手頃な価格で、複雑なCIJプリンターの真の代替品を提供します。
+      keywords: "マーキング機、産業用インクジェットプリンター、ボトルへの印刷、CIJプリンター、連続インクジェットプリンター、連続インクジェットシステム、ガラスプリンター、金属プリンター、ボトルプリンター、PVCプリンター"
+    fxone_plus:
+      title: FX ONE Plus –最高のラベルと印刷済みボックスの代替品–大型キャラクタープリンター
+      description: 最大72mmの印刷高さの大型キャラクタープリンター。コード、ロゴ、バーコードを印刷するための限定されたラベリングシステムの完璧な代替手段
+      keywords: 「ラベルプリンター、バーコードプリンター、サーマルプリンター、サーマルトランスファープリンター、ラベリングシステム、バーコードラベル、大型文字プリンター、ケースコーダー、ラベリングプリンター、ボックス印刷」
+    inks_and_consumables:
+      title: Foenixラージインクカートリッジ–1,500万文字以上を印刷
+      description: 食品、飲料、化粧品、家庭用品、工業および押出成形市場での用途向けインク
+      keywords: MEKインク、CIJインク、TIJインクカートリッジ、溶剤インク、オイルインク、UVインク、FX8001、FX8201、Foenixインクカートリッジ、Foenixクリーナー
+    distributors:
+      title: Foenix 世界中の卸売業者
+      説明: FoenixのインクジェットおよびContact Codingの製品範囲は、総合的な販売およびサポートサービスを提供する資格のある販売代理店のグローバルネットワークを通じて入手できます。
+      keywords: コーディングとマーキング、インクジェットプリンターの修理、Foenix卸売業者、Foenix再販業者、Foenixコーディングトレーニング
+    cost_of_ownership:
+      title: Foenixコーディングプリンター–製品にマークを付けるための最も安価なオプション
+      description: FX ONEプリンターは、月次または年次の保守契約なしで、市場で最も安い印刷あたりのコストを提供します
+    about:
+      title: Foenixについて–コーディング、マーキング、トレーサビリティの専門家
+      description: Foenix Codingは、英国の大手メーカーであり、業界向けの最新のインクジェットプリンターのグローバルサプライヤーです。
+      keywords: FX ONEプリンター、Foenixコーディングプリンター、印刷および適用、フォイルプリンター、DODインクジェット、Piezoインクジェット、Xaarインクジェットプリンター、Foenixコーディング会社、英国メーカー
+    contact:
+      title: Foenixコーディングチームに連絡する
+      description: 当社の産業用インクジェットプリンター、インク、および消耗品の詳細については、お問い合わせください。 Foenix Coding、Foenix Codingの電子メール、FoenixCodingの電話に連絡してください
+    faq:
+      title: FAQ - Foenix コーディング
+      description: プリンターとインクのFoenixCoding範囲に関する詳細情報。 Sauvenインクカートリッジ、Sauvenソルベントインク、Sauvenオイルインク、印刷データベース、印刷コード、TIJ代替、CIJ代替
+    industry:
+      title: Foenixコーディング-すべての業界向けのコーディングおよびマーキングソリューション
+      description: FX ONEプリンターは、食品、飲料、自動車、建設、加工、医療機器、製薬、電子機器、化学などの分野での産業用に特別に設計されています。
+      keywords: インクジェットマーキング、インクジェットコーダー、インクジェットコーディング、インクジェットマーキング、医薬品包装、医療包装、パイプに印刷、押し出し印刷、ボトルに印刷、カートンに印刷
+    video:
+      title: 「ビデオ-Foenixコーディング」
+      description: Foenixプリンターがあらゆるアイテムや素材に印刷するのをご覧ください。
+    legal:
+      title: 「法務-Foenixコーディング」
+      description: Cookieとプライバシーポリシーを表示します。
+    jobs:
+      title: "「キャリア: Foenixコーディングは成長しています。ぜひご参加ください！」"
+      description: 私たちは常に、業界を前進させるというビジョンを共有する才能のある新しい友達を探しています
+    posts:
+      title: ニュースとイベント
+      description: 最新のニュースとイベントを入手する
+    software:
+      title: Foenix FX APP –コーディングおよびマーキング業界向けのソフトウェアソリューション
+      description: FoenixCodingのFX APPを使用すると、ユーザーフレンドリーなインターフェイスを介して記録的な速さでメッセージをデザインできます。最高のトレーサビリティソフトウェア
+      keywords: ラベリングソフトウェア、ラベリングソフトウェア、NiceLabel、FX APP、使用期限、カウンター、ロット番号、ロゴ、バーコード
+    contact_coders:
+      title: ContactCoders-従来の低コストのマーキング
+      description: "従来の低コストのコンタクトコーディングおよびマーキングプリンター向けの費用効果の高いプリンターとソリューション      keywords: コンタクトコーディング、マーキングマシン、コンタクトローラープリンター"
+    foenix_codaprint:
+      title: Foenix Codaprint - 繰り返し印刷用のシンプルなプリンター
+      description: Foenix Codaprint 金属、プラスチック、ガラス、段ボールの高速および低速マーキング用の信頼性の高い連続プリンター
+      keywords: 連続ローラープリンター、バッチ番号、プラスチック、ボックス、Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - 多目的製品プリンター
+      description: インラインおよびロータリー充填機用のCodamarkコンパクトレシプロプリンター、賞味期限印刷およびFoenixCodingの他の用途に最適
+      keywords: コンパクト往復プリンター、賞味期限、Codamark
+    foenix_codapack:
+      title: Foenix Codapack - 費用効果の高い段ボールコーダー
+      description: FoenixCodingのプラスチックインクローラーとベースロックゴムタイプを使用したcodapackコンタクトコーダーで段ボール印刷の問題を解決します
+      keywords: コンタクトコーダー、プラスチックインクローラープリンター、ベースロック Codapack
+    support:
+      title: Foenix Coding – サポートドキュメント
+      description: Foenix Codingのユーザーマニュアルと情報ガイドで、当社の連絡先およびインクジェット印刷ソリューションの詳細をご覧ください。
+      keywords: Foenix Codingユーザーマニュアル、Foenix情報ガイド、インクジェット印刷、FX ONEユーザーマニュアル、Foenixテクニカルマニュアル、FOENIX MSDS
+
+  news:
+    latest: 最新情報
+    news: ニュース/イベント
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

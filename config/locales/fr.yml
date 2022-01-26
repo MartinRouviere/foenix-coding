@@ -126,8 +126,8 @@ fr:
   home:
     # FIRST SECTION
     title: Le Codage et Marquage
-    title_bottom: réalisés
-    mobile_title: Le Codage et Marquage réalisés
+    title_bottom: Devient
+    mobile_title: Le Codage et Marquage Devient
     play: Video
     download: Télécharger les brochures
     title_span1: Facile
@@ -138,7 +138,7 @@ fr:
     #SECOND SECTION
     title_second: Une nouvelle génération d'imprimantes à jet d'encre sans entretien
     title_second_description: FABRIQUÉ AU ROYAUME-UNI
-    second_section_one_title: Conditionnement & codage
+    second_section_one_title: Traçabilité & Marquage Industriel
     second_section_one_description: impression en petit ou grand format pour vos emballages primaires et secondaires
     second_section_two_title: Pour toutes les industries
     second_section_two_description:  Solution de marquage haute résolution et haute adhérence pour tous les secteurs d'activité.
@@ -177,15 +177,15 @@ fr:
     inks_description: Nous proposons des encres à haute adhérence et à haut contraste pour répondre à la plupart des applications. Différentes encres permettent d'imprimer sur des matériaux non poreux (plastique, verre, métal...) ou des surfaces poreuses (carton, bois, plâtre...). Large gamme de couleurs disponibles ainsi que des encres à séchage UV et encres UV invsibles.
     become_distributor_title:  Devenez distributeur Foenix Coding
     become_distributor_description: Nous invitons actuellement des entreprises à rejoindre notre réseau international de distributeurs
-    eight_section_title_one: Contrôleur Intelligent de Logiciel Efficace
+    eight_section_title_one: Solutions Logicielles et Contrôleur Tactile Foenix
     eight_section_description_one: Le logiciel FX APP est disponible sur PC ainsi que sur notre contrôleur tactile FX ONE. Le contrôleur tactile FX ONE est conçu pour contrôler un ou plusieurs modèles d'imprimantes FX ONE. Le contrôleur permet la création et le stockage de messages ainsi que la gestion des imprimantes le tout dans un boîtier compact et robuste. Il est portable, ce qui permet de le déplacer facilement d'une imprimante à l'autre. L'interface a été conçue pour être facile à utiliser et correspond à celle de la version PC.
     eight_section_title_two:  Période d'essai gratuite et Tests d'impressions
-    eight_section_description_two_html: "Si vous êtes basé au Royaume-Uni, vous pouvez bénéficier d'une période d'essai gratuite de sept jours. Pendant cette périod, vous aurez accès à toutes les fonctionnalités de l'imprimante et pourrez surveiller le coût par impression et voir rapidement la somme d'argent que vous pourriez économiser en utilisant notre imprimante.<br><br>Pour une démonstration de la simplicité et de la qualité de l'imprimante FX ONE, contactez-nous dès aujourd'hui !<br><small>*La période d'essai gratuite est fonction de la disponibilité.</small><br><br>Où que vous soyez dans le monde, vous pouvez nous envoyer un échantillon de votre produit et nous réaliserons des tests d'impressions en haute résolution."
+    eight_section_description_two_html: "Si vous êtes basé au Royaume-Uni, vous pouvez bénéficier d'une période d'essai gratuite de sept jours. Pendant cette période, vous aurez accès à toutes les fonctionnalités de l'imprimante et pourrez surveiller le coût par impression et voir rapidement la somme d'argent que vous pourriez économiser en utilisant notre imprimante.<br><br>Pour une démonstration de la simplicité et de la qualité de l'imprimante FX ONE, contactez-nous dès aujourd'hui !<br><small>*La période d'essai gratuite est fonction de la disponibilité.</small><br><br>Où que vous soyez dans le monde, vous pouvez nous envoyer un échantillon de votre produit et nous réaliserons des tests d'impressions en haute résolution."
 
   newsletter:
     card_title: Rejoignez-nous, nous embauchons !
     card_text:  Vous êtes prêt pour un changement de carrière et vous voulez travailler dans une startup avec de grandes ambitions ? Rejoignez-nous !
-    title: Recevez la dernière lettre d'information
+    title: Recevez la dernière Newsletter
     text:  Inscrivez-vous pour recevoir des mises à jour par email sur les nouveaux produits, les mises à jour techniques, les salons auxquels nous participerons et plus encore.
     button:  Voir les postes
     placeholder: Entrez votre email pour vous abonner
@@ -234,7 +234,7 @@ fr:
 
   inks_and_consumables:
     first_section_text: Grandes cartouches d'encre
-    first_section_text_two: L'imprimante FX ONE est compatible avec de nombreux types d'encre différents, ce qui en fait l'imprimante la plus polyvalente du marché. Imprimez sur n'importe quel support et jusqu'à 15 millions de caractères par cartouche. Nous offrons la plus large gamme de fluides à jet d'encre pour répondre aux applications les plus spécialisées des clients.
+    first_section_text_two: L'imprimante FX ONE est compatible avec de nombreux types d'encre différentes, ce qui en fait l'imprimante la plus polyvalente du marché. Imprimez sur n'importe quel support et jusqu'à 15 millions de caractères par cartouche. Nous offrons une large gamme de consommables jet d'encre pour répondre aux applications les plus spécialisées des clients.
     inks_card_title_one_html:  "Haute adhérence<span class='text-orange'>.</span>"
     inks_card_text_one: Encre à haute adhérence spécialement conçue pour les applications d'extrusion du PVC. Obtenez une qualité d'impression sans précédent sur les tuyaux en PVC.
     inks_card_title_two_html:  "Large gamme d'encres<span class='text-orange'>.</span>"
@@ -242,9 +242,9 @@ fr:
     inks_card_title_three_html: "Contraste maximal<span class='text-orange'>.</span>"
     inks_card_text_three: Contraste maximal sur les produits sombres grâce à notre gamme d'encres pigmentées. Faites en sorte que vos codes ressortent sur les supports sombres et clairs.
     grid_title_one: Cartouche d'encre scellée
-    grid_text_one: Une cartouche d'encre intégrée et remplaçable maintient un système d'encre propre et sans contamination. Nos encres ont une excellente adhérence et un bon contraste sur une large gamme de matériaux poreux et non poreux tels que le carton, le métal, le verre, le papier, le bois et de nombreux plastiques. Nos encres offrent des performances exceptionnelles dans les conditions les plus courantes.
+    grid_text_one: Une cartouche d'encre étanche et remplaçable maintient un système d'encre propre et sans contamination. Nos encres ont une excellente adhérence et un bon contraste sur une large gamme de matériaux poreux et non poreux tels que le carton, le métal, le verre, le papier, le bois et de nombreux plastiques. Nos encres offrent des performances exceptionnelles dans les conditions les plus courantes.
     grid_title_two: Encres adaptées à la production
-    grid_text_two:  Pour les applications dans les marchés de l'agroalimentaire, des cosmétiques, des articles ménagers, de l'industrie et de l'extrusion, nous disposons d'encres contrôlées de haute qualité qui sont pratiquement inodores et ne sont pas à base de M.E.K.. Nous proposons également des encres de coleurs.
+    grid_text_two:  Pour les applications dans les marchés de l'agroalimentaire, des cosmétiques, des articles ménagers, de l'industrie et de l'extrusion, nous disposons d'encres contrôlées de haute qualité qui sont pratiquement inodores et ne sont pas à base de M.E.K.. Nous proposons également des encres de couleurs.
     grid_title_three: Encres HDPVC pour l'extrusion de tuyaux en PVC
     grid_text_three: Nous proposons désormais une encre à haute adhérence spécialement conçue pour les applications d'extrusion du PVC. Obtenez une qualité d'impression sans précédent sur les tuyaux en PVC.
     grid_title_four: Système d'encrage simple
@@ -359,10 +359,10 @@ fr:
                               <br>
                                Foenix Coding comprend l'art de la simplicité et a créé une imprimante simple et rentable qui répond exactement aux spécifications du client."
     inkjet_printer_title: Comment choisir une imprimante à jet d'encre ?
-    inkjet_printer_text_html: "Nous savons que choisir une imprimante à jet d'encre n'est pas facile. Il existe de nombreux modèles et technologies de fabricants différents.
+    inkjet_printer_text_html: "Nous savons que choisir une imprimante à jet d'encre n'est pas facile. Il existe de nombreux modèles, technologies et fabricants différents.
                              <br>
                              <br>
-                             Chaque demande a des exigences différentes. Comprendre votre demande vous fera gagner beaucoup de temps et vous évitera bien des déceptions.
+                             Chaque projet a des exigences différentes. Comprendre votre projet vous fera gagner beaucoup de temps et vous évitera bien des déceptions.
                              <br>
                              Téléchargez notre guide gratuit pour comparer les imprimantes Foenix à la concurrence."
     newsletter_title: Recevez notre guide gratuit pour vous aider à choisir votre imprimante à jet d'encre
@@ -373,11 +373,11 @@ fr:
     list_left_three: De quoi est fait le produit/emballage ?
     list_left_four:  A quoi sert le produit ?
     list_left_five: Quelle est la vitesse du convoyeur/produit ?
-    list_left_six: Le produit est-il bien pris en charge au point d'impression ?
+    list_left_six: Le produit est-il toujours au même endroit lors de limpression ?
     list_left_seven: Quelle est la température du produit au moment de l'impression ?
     list_left_eight: Y a-t-il une exigence de résistance aux intempéries ?
     list_left_nine: Où se situe l'exigence d'impression en haut, sur le côté ou en bas ?
-    list_left_ten: Dans quel sens la ligne de produit va-t-elle vers la tête d'impression ?
+    list_left_ten: Dans quel sens la ligne de production va-t-elle vers la tête d'impression ?
     list_left_eleven: Quelle est la taille de la zone d'impression et où l'impression doit être appliquée ?
     list_left_twelve: Quel équipement utilisez-vous actuellement pour appliquer l'impression, le cas échéant?
     list_right_one: Quelle couleur d'encre est nécessaire ?
@@ -390,14 +390,14 @@ fr:
     list_right_eight: Quelle est la hauteur des caractères ?
     list_right_nine: Combien de lignes d'impression ?
     list_right_ten: Combien d'impressions par minute/heure ?
-    list_right_eleven: Le message est-il continu sur des matériaux ou des extrusions en bande continue ?
+    list_right_eleven: Le message est-il continu sur des matériaux ou des extrusions en continu ?
     list_right_twelve: Quelle est la longueur de répétition du message ?
 
     second_section_title: Calculateur de rentabilité/ de retour sur investissement
     second_section_text: Contrôlez facilement votre coût par impression et le nombre d'impressions par cartouche. Il n'a jamais été aussi facile de réduire vos coûts ! Économisez jusqu'à 75 % d'encre grâce à notre mode d'économie d'encre.
-    second_section_text_two_html: "Évitez de vous enfermer dans une imprimante à jet d'encre coûteuse qui grèvera votre budget au fil du temps.
+    second_section_text_two_html: "Évitez les imprimantes à jet d'encre coûteuse qui ne cesseront d'augmenter votre budget impression au fil du temps.
                              <br>
-                             Découvrez les détails de la garantie, les conditions de service, les coûts de maintenance/réparation, les coûts de l'encre et des consommables.
+                             Etudiez les détails de la garantie, les conditions de service, les coûts de maintenance/réparation, les coûts de l'encre et des consommables.
                              <br>
                              Gagnez en confiance pour choisir la solution la plus rentable pour votre entreprise.
                              <br>
@@ -406,7 +406,7 @@ fr:
   printers:
     title: LA GAMME FX ONE
     text: Les imprimantes à jet d'encre de la gamme Foenix sont toutes conçues comme des imprimantes à jet d'encre industrielles pour les solutions de codage et de marquage.
-          Les principaux critères de conception de chaque imprimante sont la facilité d'utilisation, la faible maintenance et le rapport coût-efficacité permettant une impression à très haute résolution.
+          Les principaux critères de conception de chaque imprimante sont la facilité d'utilisation, la faible maintenance et le rapport Qualité - Prix permettant une impression à très haute résolution.
     coming_soon: BIENTÔT DISPONIBLE
 
   fxone_remote:
@@ -444,7 +444,7 @@ fr:
                                    Imprimez facilement des messages identiques ou différents sur les deux faces du produit.
                                   <br>
                                   <br>
-                                  Un grand écran tactile graphique en couleur et un affichage WYSIWYG, associés à des touches d'action illustrées, rendent l'édition et la programmation des messages vraiment faciles."
+                                  Un grand écran tactile graphique en couleur et un affichage WYSIWYG, rendent l'édition et la programmation des messages vraiment faciles."
     grid_link_three: Obtenez un devis rapide
     grid_title_four: Des performances d'impression constantes
     grid_description_four_html:  "Un obturateur automatique sur la tête d'impression garantit que l'impression reste parfaite dans les utilisations continues ou intermittentes et les environnements difficiles, sans intervention de l'opérateur.
@@ -491,7 +491,7 @@ fr:
     eleventh_card_title: Grande cartouche d'encre à base de solvant
     eleventh_card_text: Système de codage à faible coût et propre, idéal pour l'impression sur des surfaces poreuses et non poreuses.
     twelfth_card_title: Connexion multiport
-    twelfth_card_text: Pour les codeurs, les alarmes externes et les autres dispositifs de détection de produits.
+    twelfth_card_text: Pour les encodeurs, les alarmes externes et les autres dispositifs de détection de produits.
     thirteenth_card_title: Mode économie d'encre
     thirteenth_card_text: Réduisez votre consommation d'encre jusqu'à 75 %.
     pop_title: Logiciel APP
@@ -658,27 +658,27 @@ fr:
                                 Le FX ONE Plus offre une plus grande souplesse d'intégration et peut être relié à des bases de données, permet un contrôle à distance complet par les logiciels de gestion de production existants et offre une capacité de mise en réseau complète, y compris le WiFi.
                                <br>
                                <br>
-                                Conçu pour le codage et le marquage à faible coût sur les cartons, elle offre une véritable alternative étiqueteuses.
+                                Conçu pour le codage et le marquage à faible coût sur les cartons, elle offre une véritable alternative aux étiqueteuses.
                                 Pas besoin de procédures compliquées de démarrage et d'arrêt. Il suffit d'éteindre la machine à la fin de la journée et de la remettre en marche le lendemain.
                                <br>
                                <br>
                                 Outre les cartons, vous pouvez imprimer sur du papier, du bois, du tissu, du EPS, de la mousse, du béton, etc..."
     huge_cost_savings:  Des économies considérables en remplaçant les étiquettes et les emballages pré-imprimés par une impression haute résolution directement sur les cartons - idéal pour les cartons, sacs, cagettes, palettes en bois et autres.
-    plus_newsletter_title: LETTRE D'INFORMATION FOENIX
+    plus_newsletter_title: NEWSLETTER FOENIX
     plus_newsletter_description: Soyez le premier à savoir quand
     plus_newsletter_description_two: nous lançons la FX ONE Plus
     placeholder: Entrez votre adresse e-mail
 
   software:
     first_section_title_one: Contrôleur FX TOUCH
-    first_section_text_one: Contrôlez votre imprimante d'un simple toucher. Outre les fonctions habituelles telles que les codes-barres, les compteurs, les logos, la date, l'heure, l'équipe, etc., l'imprimante FX ONE est livrée avec un logiciel PC et une connectivité réseau en standard.
+    first_section_text_one: Contrôlez votre imprimante d'un simple clic. Outre les fonctions habituelles telles que les codes-barres, les compteurs, les logos, la date, l'heure, l'équipe, etc., l'imprimante FX ONE est livrée avec un logiciel PC et une connectivité réseau en standard.
     first_section_text_two:  Foenix Coding comprend l'art de la simplicité et a créé une imprimante simple et rentable qui répond exactement aux spécifications des clients.
     first_section_text_three:  Nous avons accordé beaucoup d'attention à la conception de l'interface utilisateur de FX APP afin de simplifier le déroulement de vos projets quotidiens.
     first_section_text_four: Le FX APP fonctionnant sur le contrôleur tactile FX est également disponible sous forme de logiciel PC afin que vous puissiez contrôler votre imprimante depuis n'importe quel ordinateur.
     second_section_title: Logiciel FX APP
-    second_section_text: L'outil ultime pour permettre à votre production d'être toujours sous contrôle et vous aider à réduire vos coûts. Notre FX APP peut être exécuté à la fois sur le contrôleur Foenix et sur le PC, offrant ainsi intégration et flexibilité. Il peut être relié à des bases de données, permettant ainsi un contrôle à distance complet par le logiciel de gestion de production existant, avec une capacité de mise en réseau complète.
-    second_section_text_two: Foenix FX APP vous permet de concevoir des messages en un temps record grâce à son interface conviviale.
-    second_section_check_one: Programmation simple de fenêtres interactives
+    second_section_text: L'outil ultime pour permettre à votre production d'être toujours sous contrôle et vous aider à réduire vos coûts. Notre FX APP fonctionne à la fois sur le contrôleur Foenix et sur le PC, offrant ainsi intégration et flexibilité. Il peut être relié à des bases de données, permettant ainsi un contrôle à distance complet par le logiciel de gestion de production existant, avec une capacité de mise en réseau complète.
+    second_section_text_two: Le FX APP vous permet de créer des messages en un temps record grâce à son interface ultra simple.
+    second_section_check_one: Programmation simple sous Windows
     second_section_check_two: Stockage illimité des messages
     second_section_check_three: Mode d'impression économiseur d'encre
     second_section_check_four: Utilise les polices True Type et Unicode
@@ -716,26 +716,25 @@ fr:
     extremely_simple_text:  Nous avons accordé beaucoup d'attention à la conception de l'interface utilisateur du FX APP afin de simplifier le flux de travail de vos projets quotidiens. La facilité de configuration et de navigation élimine le besoin de formation et offre une expérience d'impression intuitive et sans tracas.
     extremely_simple_button: Demander l'accès à FX APP
     grid_title_one: Support multi-langue
-    grid_description_one: Le logiciel est traduit en 19 langues et vous pouvez l'imprimer dans toutes les langues.
+    grid_description_one: Le logiciel est traduit en 19 langues et vous pouvez imprimer dans toutes les langues.
     grid_title_two: Réduisez vos coûts
     grid_description_two: Contrôlez facilement votre coût par impression et le nombre d'impressions par cartouche. Il n'a jamais été aussi facile de réduire vos coûts !
     grid_title_three: Mise en réseau et intégration
     grid_description_three_html: "FX APP offre une capacité d'intégration complète pour la mise en réseau d'imprimantes, l'accès à des bases de données, la création de messages hors ligne, la connexion à des scanners industriels, des lecteurs de codes-barres, des vérificateurs et d'autres équipements de production.
                                  <br>
                                  <br>
-                                 Advanced printer management:
                                  <br>
                                  Optimisez le temps de fonctionnement en gérant la production de plusieurs imprimantes Foenix à partir d'un seul endroit. Surveillez la progression, suivez les défaillances et obtenez des informations grâce à l'analyse de l'impression."
     grid_title_four: Micrologiciel Foenix
     grid_description_four:  Des imprimantes qui s'améliorent au fil du temps. Rendez votre imprimante FX ONE encore plus performante grâce à des améliorations de performance et des fonctionnalités supplémentaires dans chaque mise à jour du micrologiciel.
     grid_title_five: Intégration complète avec notre DLL
-    grid_description_five_html: "C'est quoi une DLL ?
+    grid_description_five_html: "C'est quoi un DLL ?
                                 <br>
                                 <br>
-                                 Une DLL (Dynamic Link Library) est un ensemble de fonctions logicielles qu'un développeur tiers peut utiliser pour les incorporer dans ses propres applications. La DLL Foenix fournit un ensemble de fonctions qui permettent de contrôler l'imprimante FX ONE via le logiciel FX APP ou le contrôleur tactile Foenix.
-                                 La bibliothèque simplifie considérablement le processus de communication avec l'imprimante pour le développeur, car elle s'occupe du protocole réellement utilisé. Le développeur utilise alors un mécanisme relativement simple pour surveiller les imprimantes, charger des messages et transmettre des données."
+                                 Un DLL (Dynamic Link Library) est un ensemble de fonctions logicielles qu'un développeur tiers peut utiliser pour les incorporer dans ses propres applications. Le DLL Foenix fournit un ensemble de fonctions qui permettent de contrôler l'imprimante FX ONE via le logiciel FX APP ou le contrôleur tactile Foenix.
+                                 Le DLL simplifie considérablement le processus de communication avec l'imprimante pour le développeur, car elle s'occupe du protocole réellement utilisé. Le développeur utilise alors un mécanisme relativement simple pour surveiller les imprimantes, charger des messages et transmettre des données."
     grid_title_six: Prévenir les erreurs des utilisateurs dans les paramètres d'impression
-    grid_description_six:  Plus d'erreurs, grâce à la configuration automatique des paramètres d'impression via le lecteur portable. Un lecteur de codes-barres peut être utilisé pour sélectionner un message à imprimer, ou pour remplir les champs d'un message en scannant les codes-barres correspondants. Moins d'intervention manuelle signifie moins d'erreurs de codage.
+    grid_description_six:  Plus d'erreurs, grâce à la configuration automatique des paramètres d'impression via le scanner portable. Un lecteur de codes-barres peut être utilisé pour sélectionner un message à imprimer, ou pour remplir les champs d'un message en scannant les codes-barres correspondants. Moins d'intervention manuelle signifie moins d'erreurs de codage.
     newsletter_title: Recevez les dernières mises à jour de nos logiciels
     newsletter_description: Inscrivez-vous pour être le premier à être informé de la disponibilité d'une mise à jour.
 
@@ -766,11 +765,11 @@ fr:
     first_section_text: Les entreprises émergentes avec une petite ligne de production comme les multinationales avec les applications les plus exigeantes peuvent toutes utiliser l'imprimante FX ONE pour réduire leurs coûts de codage et de marquage, éviter les temps d'arrêt, automatiser les processus manuels et améliorer la qualité des produits avec un codage haute résolution.
     first_section_button_one: Demander une démo
     first_section_button_two: Obtenir des prix
-    trusted_title: Les entreprises nous font confiance
-    trusted_title_two: de toutes les industries
+    trusted_title: Les entreprises de toutes les industries
+    trusted_title_two: nous font confiance
     trusted_text_html:  "Foenix Coding a installé des imprimantes à jet d'encre dans le monde entier dans les secteurs de l'agroalimentaire, pharmaceutique, de l'industrie, de l'électronique et de la construction.
                   <br>
-                   Nous comptons parmi nos clients les plus grands fabricants de ces secteurs, mais Foenix jouit également de la confiance de nombreuses petites entreprises de fabrication dans le monde entier, qui apprécient également les concepts de faible coût et de faible maintenance intégrés aux imprimantes"
+                   Nous comptons parmi nos clients les plus grands fabricants de ces secteurs, mais Foenix jouit également de la confiance de nombreuses petites entreprises dans le monde entier, qui apprécient également les concepts de faible coût et de faible maintenance de nos imprimantes"
     fd_title: Alimentation et boissons
     fd_card_title_one:  Produits de boulangerie
     fd_card_text_one: biscuits, gâteaux, cookies...
@@ -904,12 +903,12 @@ fr:
     video_text_one: Solution de codage pour l'emballage primaire
     video_text_one_cont:  L'imprimante FX ONE Remote, la solution la plus rentable pour marquer vos produits.
     video_text_two: Solution de codage pour l'emballage secondaire
-    video_text_two_cont:  L'imprimante FX ONE Standard, la solution la plus rentable pour vos applications de codage de caisses.
+    video_text_two_cont:  L'imprimante FX ONE Standard, la solution la plus rentable pour le marquage carton.
     video_text_three: Comment obtenir un codage de haute qualité et efficace sur votre carton ? Découvrez-le avec l'imprimante FX ONE Standard
-    video_text_four:  La FX ONE Standard, la meilleure imprimante pour toutes vos utilisaions industrielles
-    video_text_five: L'imprimante FX ONE Standard, idéale pour les caisses extérieures, les plateaux et le carton ondulé.
-    video_text_six: "La norme FX ONE : Une imprimante, de nombreuses applications : codes-barres, logos, codage de cartons et plus encore"
-    video_text_seven:  Avec la FX ONE Standard, réduisez vos coûts en remplaçant votre imprimante d'étiquettes.
+    video_text_four:  La FX ONE Standard, la meilleure imprimante pour toutes vos lignes de productions
+    video_text_five: L'imprimante FX ONE Standard, idéale pour le codage et marquage industriel pour les supports en papier ou en carton .
+    video_text_six: "La FX ONE Standard: Une imprimante, de nombreuses applications : codes-barres, logos, codage de cartons et plus encore"
+    video_text_seven:  Avec la FX ONE Standard, réduisez vos coûts en remplaçant votre étiqueteuse.
 
   legal:
     first_section_title: JURIDIQUE
@@ -920,7 +919,7 @@ fr:
     first_section_title: Machines de codage et de marquage par contact
     first_section_text: Bien que les imprimantes à jet d'encre soient l'avenir, les imprimantes traditionnelles de codage et de marquage par contact à faible coût sont encore largement utilisées dans le monde entier comme solutions très rentables.
                         Les codeurs par contact sont idéaux lorsqu'un produit nécessite un changement de message peu fréquent ou que l'environnement exige une solution non électronique ne nécessitant aucune maintenance.
-                        Foenix fabrique ces imprimantes pour une utilisation avec des rouleaux interchangeables en caoutchouc de type "Baselock", avec des rouleaux Plastic-Ink pré-imprégnés ou diverses cartouches d'encre scellées
+                        Foenix fabrique ces imprimantes pour une utilisation avec des caractères interchangeables en caoutchouc "Baselock", avec des rouleaux encreurs pré-imprégnés ou diverses cartouches d'encre scellées
     codaprint_title: Foenix Codaprint
     codaprint_sub_title: Impression en continu sur tous les matériaux
     codaprint_text:  Une imprimante unique pour l'impression répétée en continu sur le métal, le plastique ou les matériaux poreux, notamment les tôles d'acier, les films extrudés, les tuyaux en plastique et les bobines de carton.
@@ -928,16 +927,16 @@ fr:
     codamark_title: Foenix Codapack
     codamark_sub_title: Imprimante de prix et de codes multifonctionnelle
     codamark_text: Une simple imprimante compacte à mouvement alternatif, idéale pour imprimer des dates de péremption sur des produits sur une ligne de production avec une qualité d'impression claire et précise.
-                   Les cartouches d'encre scellées permettent un séchage rapide de l'impression sur la plupart des surfaces, y compris les boîtes métalliques, les bocaux en verre et les pots en plastique. Cette imprimante économique en acier inoxydable utilise de l'air, sans aucune exigence électrique
+                   Les cartouches d'encre scellées permettent un séchage rapide de l'impression sur la plupart des surfaces, y compris les boîtes métalliques, les bocaux en verre et les pots en plastique. Cette imprimante économique en acier inoxydable utilise de l'air comprimé, sans aucune exigence électrique
                    Elle est idéale dans les environnements difficiles ou humides pour imprimer sur le dessus, le côté ou la base d'un produit
     handroller_title: Codaprint Handroller
     handroller_sub_title: Impression manuelle sur toutes les surfaces
     handroller_text: Le Codaprint Handroller est destiné à l'impression manuelle sur toutes les surfaces avec la même gamme d'encres à séchage rapide.
     codapack_title: Foenix Codapack
-    codapack_sub_title: Codeurs à contact et imprimantes à rouleaux d'encre plastique
-    codapack_text:  Résolvez vos problèmes d'impression de cartons avec les codeurs à contact codapack utilisant un rouleau encreur en plastique et un caoutchouc de type baselock de Foenix Coding.
+    codapack_sub_title: Codeurs rotatif par contact et rouleau encreur
+    codapack_text:  Résolvez vos problèmes d'impression de cartons avec les codeurs par contact Codapack utilisant un rouleau encreur et des caractères en caoutchouc Baselock.
     baselock_title: Foenix Baselock
-    baselock_sub_title: Type de caoutchouc interchangeable
+    baselock_sub_title: Caractères en caoutchouc interchangeable
     baselock_sub_title_two: pour toutes les machines de codage par contact
     baselock_text_one: CHANGEMENT RAPIDE ET FACILE DE L'IMPRESSION
     baselock_text_two: GAMME ÉTENDUE DE STYLES DE CARACTÈRES
@@ -957,7 +956,7 @@ fr:
     cp_sub_title_three:  Encres
     cp_text_three: Les cartouches d'encre sont disponibles dans une gamme de types d'encre et de couleurs pour s'adapter à la plupart des surfaces. Nous pouvons vous conseiller sur la gamme la plus adaptée à votre produit.
     cp_sub_title_four: Choix de l'impression
-    cp_text_four: Le tambour d'impression Codaprint standard est équipé d'anneaux de verrouillage en métal pour une utilisation avec les caractères en caoutchouc interchangeables Baselock. Baselock est disponible dans de nombreux styles de caractères et logos personnalisés pour permettre un changement rapide d'impression.
+    cp_text_four: Le tambour d'impression Codaprint standard est équipé d'anneaux de verrouillage en métal pour une utilisation avec les caractères en caoutchouc interchangeables Baselock. Les Baselock sont disponible dans de nombreux styles de caractères et logos personnalisés pour permettre un changement rapide d'impression.
     cp_sub_title_five: Tampons de transfert
     cp_text_five: La tête d'encrage de la cartouche Codaprint doit être équipée d'un jeu complet de tampons de transfert à chaque fois qu'une nouvelle cartouche d'encre est utilisée.
     cp_tp1: "TPS030 : Pour le débit d'encre minimum"
@@ -993,31 +992,31 @@ fr:
     list_text_six_html:  "L'imprimante est entraînée par les pneus du tambour d'impression qui entrent en contact avec le matériau, ce qui élimine tout besoin d'entraînement mécanique ou électrique.
                                  <br>
                                  <br>
-                                 Continuous roller coder perfect for: L'impression du numéro de lot, de la date et du logo.
+                                 Codeur en continu parfait pour: L'impression du numéro de lot, de la date et du logo.
                                  <br>
                                  <br>
                                  L'imprimante se monte facilement, soit au-dessus du matériau en mouvement à marquer, soit contre une bobine décroissante de matériau.
                                  <br>
                                  <br>
-                                 La hauteur d'impression peut aller jusqu'à 25 mm en utilisant des stéréos Baselock Type ou des stéréos plats interchangeables.
+                                 La hauteur d'impression peut aller jusqu'à 25 mm en utilisant les caractères  Baselock interchangeables.
                                  <br>
                                  Quatre longueurs d'impression répétée sont disponibles jusqu'à 460 mm."
     fncdm_title: Découvrez Foenix Codamark
-    fncdm_text: Un marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique à mouvement alternatif Codamark.
+    fncdm_text: Un marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique Codamark.
     fncdm_button: En savoir plus
 
   foenix_codamark:
     first_section_title: FOENIX CODAMARK
-    first_section_text:  Un marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique à mouvement alternatif Codamark. Imprimante compacte à mouvement alternatif pour les machines de remplissage en ligne et rotatives, l'impression de la date limite de consommation et d'autres utilisations.
-    phr_title: Imprimante pneumatique à mouvement alternatif
+    first_section_text:  Un marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique Codamark. Imprimante compacte à mouvement alternatif pour les machines de remplissage en ligne et rotatives, l'impression de la date limite de consommation et d'autres utilisations.
+    phr_title: Imprimante pneumatique
     phr_sub_title_one:  Imprimer avec la touche légère
     phr_text_one: Des vitesses élevées peuvent être atteintes avec une faible pression d'impression de 10-20 psi, ce qui permet au Codamark d'imprimer avec une touche légère sans endommager le produit.
     phr_sub_title_two: Système d'encrage propre
     phr_text_two:  Une cartouche d'encre propre à séchage rapide est montée sur la tête d'impression, ce qui permet des temps de séchage de quelques secondes sur la plupart des surfaces. La cartouche scellée garantit que l'opérateur ne touche jamais l'encre.
     phr_sub_title_three: Fiches techniques du Codamark
     phr_text_three: De plus amples informations sont disponibles sur les fiches techniques indiquant les dimensions, les systèmes de contrôle et les positions de montage.
-    phr_sub_title_four: Supports de type Baselock à changement rapide
-    phr_text_four: La tête d'impression est équipée d'un porte-type qui peut être changé en quelques secondes. Les supports de rechange peuvent être utilisés pour prérégler le type de caoutchouc Baselock
+    phr_sub_title_four: Supports de caractères Baselock à changement rapide
+    phr_text_four: La tête d'impression est équipée d'un porte-type qui peut être changé en quelques secondes. Les supports de rechange peuvent être utilisés pour prérégler les caractères en caoutchouc Baselock
     phr_sub_title_five: Les cartouches Codamark
     phr_sub_title_six: Les petits pots
     phr_sub_title_seven: Les grands pots
@@ -1047,9 +1046,9 @@ fr:
     list_bp_one: Bacs en plastique
     list_bp_two: Couvercles en aluminium
     list_bp_three: Cartons
-    list_bp_four: Constituer des unités de production
+    list_bp_four: Boîtes métalliques
     list_bp_five: Bouteilles en verre
-    list_bp_six: Boîtes métalliques, etc.
+    list_bp_six: etc...
     list_two: Montage supérieur, inférieur ou latéral
     list_three: Systèmes automatiques en ligne ou hors ligne
     list_four: Cartouche d'encre à séchage rapide
@@ -1061,23 +1060,23 @@ fr:
 
   foenix_codapack:
     first_section_title: FOENIX CODAPACK
-    first_section_text: Les imprimantes Codapack utilisent toutes des rouleaux d'encre plastique préimprégnés remplaçables et un type Baselock interchangeable. Elles sont faciles à monter pour imprimer sur le dessus, le dessous ou le côté d'un produit. Ces imprimantes sont largement utilisées lorsqu'un temps d'arrêt nul est nécessaire et que le coût d'impression par produit est le plus bas possible.
+    first_section_text: Les imprimantes Codapack utilisent toutes des rouleaux encreurs remplaçables et des caractères Baselock interchangeable. Elles sont faciles à installer pour imprimer sur le dessus, le dessous ou le côté d'un produit. Ces imprimantes sont largement utilisées lorsqu'un temps d'arrêt nul est nécessaire et que le coût d'impression par produit est le plus bas possible.
                         Lorsque vous ne changez le code ou la date de péremption qu'une fois par jour ou par semaine, les imprimantes Codapack sont les meilleures.
-    ccirp_title: Codeurs de contact et imprimantes à rouleaux encreurs
+    ccirp_title: Codeurs par contact et imprimantes à rouleaux encreurs
     ccirp_sub_title_one: Applications
     ccirp_text_one_html:  La gamme de codeurs la plus rentable pour vos cartons, sacs, plateaux rétractables ou matériel continu.
                     <br>
-                     La gamme simple et efficace de codeurs par contact Codapack utilise tous des rouleaux d'encre plastique pré-imprégnés remplaçables et un type Baselock interchangeable pour imprimer sur des surfaces poreuses.
+                     La gamme simple et efficace de codeurs par contact Codapack utilise tous des rouleaux d'encre pré-imprégnés remplaçables et des caractères Baselock interchangeable pour imprimer sur des surfaces poreuses.
     ccirp_sub_title_two: Avantages
     ccirp_text_two: Pas d'entretien Les codeurs sont tous de simples imprimantes mécaniques qui donnent une impression parfaite jour après jour sans avoir besoin d'aucun entretien.
     ccirp_sub_title_three: Impression personnalisée
-    ccirp_text_three:  De nombreux styles de polices standard sont disponibles dans la gamme de caractères Baselock, mais des styles d'impression, des logos et des graphiques personnalisés sont facilement réalisables.
+    ccirp_text_three:  De nombreux styles de polices standard sont disponibles dans la gamme de caractères Baselock, des logos et des graphiques personnalisés sont aussi facilement réalisables sur mesure.
     ccirp_sub_title_four: Changement rapide d'impression
     ccirp_text_four:  Le changement du texte imprimé sur le tambour d'impression est une tâche simple et rapide.  Six modèles de hauteur d'impression différents sont disponibles pour répondre aux besoins des clients.
     ccirp_sub_title_five: Le coût d'impression le plus bas
-    ccirp_text_five:  L'utilisation de rouleaux d'encre plastique de type Baselock et à longue durée de vie permet d'obtenir le coût d'impression le plus bas possible.
+    ccirp_text_five:  L'utilisation de rouleaux encreurs et des caractères Baselock ainsi qu'une longue durée de vie de nos produits permet d'obtenir le coût d'impression le plus bas possible.
     cdp_title: Informations sur le Codapack
-    cdp_sub_title_one: Type Baselock
+    cdp_sub_title_one: Caractères Baselock
     cdp_text_one:  Une gamme étendue de styles de caractères Baselock est proposée pour créer un message en insérant simplement le caractère dans les anneaux de verrouillage en métal ou dans le manchon à base de caoutchouc nervuré.
     cdp_sub_title_two: Rouleaux d'encre en plastique
     cdp_text_two_html:  Ces rouleaux encreurs se placent rapidement sur la gamme d'imprimantes Codapack pour donner une impression de qualité dense sur les surfaces poreuses telles que les cartons, les plateaux et les sacs en papier.
@@ -1086,7 +1085,7 @@ fr:
     cdp_sub_title_three: Rouleaux en fibre et en éponge
     cdp_text_three: Pour les surfaces non poreuses, ces deux rouleaux peuvent être utilisés avec des encres liquides spéciales.
     list_text_one: Le montage à ressort réglable permet d'ajuster la pression d'impression en fonction de la résistance du carton et d'obtenir une impression parfaite.
-    list_text_two: Les imprimantes sont fabriquées à partir de moulages d'aluminium robustes et de roulements à rouleaux, ce qui leur confère une longue durée de vie sans problème.
+    list_text_two: Les imprimantes sont fabriquées à partir de moulages d'aluminium robustes ce qui leur confère une longue durée de vie sans le moindre problème.
     list_text_three: La rotation du tambour est contrôlée pour donner une position d'impression identique sur chaque carton.
     list_text_four: La gamme d'imprimantes Codapack se monte facilement sur un convoyeur grâce à un simple support de montage.
 
@@ -1144,7 +1143,7 @@ fr:
   contact:
     contact_title: Contactez-nous
     contact_title_description: Prenez contact avec notre équipe pour en savoir plus sur Foenix Coding.
-    contact_text_one: "Demandez un test d'impression gratuit : Envoyez-nous un échantillon de votre projet."
+    contact_text_one: "Demandez un test d'impression gratuit : Envoyez-nous un échantillon de votre produit."
     contact_text_two: Période d'essai gratuite de 7 jours disponible si vous êtes basé au Royaume-Uni.
     phone: Téléphone
     phone_number: 0044 1932 701 449
@@ -1159,7 +1158,7 @@ fr:
                   <br>
                   Royaume-Uni
     statement: Rejoignez des centaines d'entreprises qui travaillent déjà avec nous.
-    talk_to_sales: Parlez aux vendeurs
+    talk_to_sales: Hello ! On discute ?
     email_us: Vous pouvez également nous envoyer un courriel directement à
 
 
@@ -1241,7 +1240,7 @@ fr:
       description:  Imprimante continue fiable Foenix Coding pour le marquage à haute et basse vitesse sur le métal, le plastique, le verre, le carton.
     foenix_codamark:
       title: "Foenix Codamark : Imprimante de prix et de codes multifonctionnelle"
-      description: Marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique à mouvement alternatif Codamark.
+      description: Marquage clair et précis des produits réalisé de manière efficace et économique avec l'imprimante pneumatique Codamark.
     foenix_codapack:
       title: "Foenix Codapack : Codeurs par contact et imprimantes à rouleau d'encre en plastique"
       description:  Les imprimantes Codapack utilisent toutes des rouleaux d'encre plastique préimprégnés remplaçables et des Baselock interchangeables.

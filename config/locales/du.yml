@@ -1,0 +1,1311 @@
+du:
+  navbar:
+    home: Start
+    products: Producten
+    services: Service & Ondersteuning
+    company: Bedrijf
+    admin: Admin
+    countries: Landen
+    jobs: Vacatures
+    posts: Berichten
+    login: Inloggen
+    logout: Uitloggen
+    contact: Neem contact met ons op
+    contact_o: Contact
+    printers: Printers
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: Software
+    inks: Inkt & Verbruiksartikelen
+    distributors: Wereldwijde distributeurs
+    cost: Eigendomskosten
+    FAQ: Veelgestelde vragen
+    about: Over
+    careers: Carrières
+    news: Nieuws & Evenementen
+    privacy_policy: Privacybeleid
+    cookie_policy: Cookiebeleid
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | Verenigd Koninkrijk
+    printers: Printers
+    contact_coders: Contact Coders
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: Ondersteunende documentatie
+    industry: Industrie
+    video: Video
+    demo: Vraag demo aan
+    bar: Stop met het uitgeven van een fortuin aan inktpatronen & onderhoudscontract! Foenix printers biedt de laagste bedrijfskosten in de sector & laagste kosten per afdruk
+    legal: Juridisch
+
+  cookie_bar:
+    content: Door deze website uit te geven, stemt u in met ons
+    cookie_policy: cookiebeleid
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: Zoeken
+    prompts:
+      search:
+        team: Teams
+        country: Locatie
+        job_type: Type
+
+  jobs:
+    title: FOENIX CODING groeit
+    tagline: We zijn altijd op zoek naar getalenteerde nieuwe vrienden die onze visie om de sector vooruit te brengen delen
+
+  jobs_show:
+    roles_at: Functies bij
+    apply_now: Solliciteer nu
+    you_will: U zult
+    we_are_looking: We zijn op zoek naar iemand die
+    we_look_forward: We zien er naar uit om van u te horen
+
+  faq:
+    title: Veelgestelde vragen
+    tagline: Klik gewoon op een van onderstaande secties om het antwoord te vinden. We zijn er om te helpen. Als u het antwoord op uw vraag niet kunt vinden, neem dan gerust
+    contact: contact met ons op
+    title1: Wat is de FX ONE printer?
+    desc1: De FX One is de alles-in-een printer die is gemaakt voor gebruik door iedereen. Geen expertise vereist. Installeer in minuten, en werkt op de overgrote meerderheid van productielijnen. Wat doet hij? Hij kan vrijwel alles afdrukken op elk product, van een eenvoudig houdbaarheidsdatum, tot een complex partijnummer, een live teller, datum en tijd of een shiftcode, barcode en veel meer.  Naast deze functies zal de FX One worden voorzien van upgrades om u de meest geavanceerde ontwikkelingen en applicaties in het coderings- en markeringsecosysteem. Bekijk deze 
+    desc1vid: video
+    desc1end:  om te zien hoe eenvoudig en krachtig hij is in het gebruik.
+    title2: Welke talen ondersteunt u?
+    desc2: U kunt zonder beperking in elke taal printen
+    desc2end: Voor wat de software interface betreft ondersteunt deze 16 talen, maar we zullen snel andere talen toevoegen.  If you have language requests, please send them to sales@foenixcoding.com
+    title3: Wat zijn de afmetingen?
+    desc3: Hij is  242 mm bij 178 mm bij 90 mm.
+    title4: Waar kan ik officiële Foenix distributeurs vinden?
+    desc4_1: Via ons grote netwerk aan distributeurs zijn wij aanwezig op elk continent en zijn wij in staat de printers in bijna elk land aan te bieden!!
+    desc4_2: We geloven dat we constante productkwaliteit en de beste klantenservice alleen kunnen garanderen door deze via onze lokale vertegenwoordigers aan te bieden.
+    desc4_3: Onze bestaande distributeurs variëren van kleine, eenpersoons bedrijven tot internationale ondernemingen. Uit ervaring hebben we gemerkt dat het niet de grootte is, maar de toewijding, uitgebreide lokale marktkennis en relevante contacten en competenties die de sleutel zijn tot succes.
+    desc4_4: Onze wederverkopers staan altijd voor u klaar om u
+    desc4_5: directe, professionele ondersteuning te bieden in uw tijdzone en taal.
+    desc4_6: Snelle en kosteneffectieve verzending.
+    desc4_7: Betrouwbare, lokale garantieservice.
+    desc4_8: Aarzel niet om 
+    desc4_9: contact met ons op te nemen
+    desc4_10: indien u vragen heeft of meer informatie wilt ontvangen over onze wederverkopers.
+    title5: Waarom kan ik niet inloggen?
+    desc5: Onze inlogpagina is alleen beschikbaar voor onze bestaande distributeurs om hen toegang te bieden tot hun gepersonaliseerde dashboard. Het is voor iemand anders niet mogelijk om toegang te krijgen tot deze pagina. Indien u een FOENIX distributeur bent en nog geen toegang heeft tot uw dashboard, laat het ons dan weten.
+    title6: Kan ik een gratis proefperiode krijgen voordat ik aanschaf? 
+    desc6_1: Als u zich in het Verenigd Koninkrijk bevindt kan dit.
+    desc6_2: U kunt een eenmalige, zevendaagse proefperiode krijgen.
+    desc6_3: Gedurende de gratis proefperiode zult u toegang hebben tot alle printerfunctionaliteit en zult u de kosten per afdruk kunnen volgen en snel kunnen zien hoeveel u zou kunnen besparen door onze printer te gebruiken.
+    desc6_4: Gratis proefperiode is onderhevig aan beschikbaarheid.
+    title7: Als ik meerdere Foenix printers bezit, standaard of externe, heb ik dan afzonderlijke software nodig voor elk ervan?
+    desc7: Nee. Al onze printers zijn geheel compatibel met onze software. Ongeacht welk model u gebruikt kunt u al uw printers volgen vanuit de FX APP.
+    title8: Wat zijn de verschillen tussen de FX ONE Standard en FX ONE Remote printer?
+    desc8_1: De FX One Standard is de perfecte printer voor alle toepassingen voor casuscodering. Hij werkt met inkt op oliebasis voor poreuze oppervlakken en zal u een uitstekend resultaat geven bij het printen op de zijkant van een doos.
+    desc8_2: U kunt alles printen, van 8 regels eenvoudige tekst tot variabele barcodes, houdbaarheidsdata, logo, shift, tellers, externe gegevens uit een database, QR-codes…
+    desc8_3: Deze printer zal in hoge resolutie afdrukken met een 18 mm afdrukhoogte.
+    desc8_4: Hij heeft de laagste kosten per afdruk in de markt, het is de meest efficiënte manier voor u om informatie op een doos af te drukken.
+    desc8_5: De FX One Remote heeft ook een hoge resolutie van 18 mm afdrukhoogte.
+    desc8_6: De Remote printer is verkrijgbaar in 2 modellen, met handmatige sluiter of gemotoriseerde sluiter.
+    desc8_7: Deze printer werkt met inkt op oliebasis voor poreuze oppervlakken (zoals karton, papier, hout…) of inkt op solventbasis voor niet-poreuze oppervlakken (zoals plastic, metaal, glas…).
+    desc8_8: U kunt met die printer praktisch op elk oppervlak afdrukken.
+    title9_1: FX ONE Remote
+    title9_2: Wat is het verschil tussen een gemotoriseerde en handmatige sluiter?
+    desc9: De FX ONE remote printer heeft een sluiter om de printkop te beschermen. Met de gemotoriseerde versie zal de sluiter automatisch na elke printopdracht sluiten. Met de handmatige versie zult u de sluiter handmatig dienen te openen aan het begin van de dag en handmatig te sluiten aan het eind van de dag wanneer de productie stopt.
+    title10: Kan ik bovenop een product printen?
+    desc10: Ja, met de externe printkop en u kunt in principe onder elke hoek afdrukken.
+    title11: Wat voor soort inkt bieden jullie? 
+    desc11_1: We hebben gecontroleerde inkten van hoge kwaliteit die geurloos zijn en niet op MEK zijn gebaseerd. Voor de piëzo-technologie die in de FX ONE-printers wordt gebruikt, is slechts één verzegelde inktcartridge nodig en is geen extra make-upoplosmiddel vereist. Hiermee worden de bedrijfskosten aanzienlijk gereduceerd. 
+    desc11_2: We bieden inkt op oliebasis om te printen op poreuze materialen (trays, karton, hout...) en inkt op solventbasis om te printen op niet-poreuze materialen (metaal, plastic, glas...)
+    title12: Zijn er onderhoudscontracten?
+    desc12_1: Geen dure onderhoudscontracten.
+    desc12_2: Foenix printers worden gemaakt met minimale onderdelen voor maximale betrouwbaarheid. Geen pompen, kleppen, perslucht, geen druppellading of luchtfilters betekent zeer weinig onderhoud.
+    title13: Hoe kan ik er zeker van zijn dat ik geld bespaar met de FX ONE printer?
+    desc13_1: Onze software heeft de eigenschap om het aantal afdrukken per cartridge te berekenen en de kosten per afdruk voor elk bericht dat u aanmaakt op de FX APP.
+    desc13_2: Het is een zeer krachtig hulpmiddel, omdat u kunt zien hoeveel geld u zult besparen met het gebruik van onze printer. U heeft altijd de controle over de kosten.
+
+  home:
+    # FIRST SECTION
+    title: Coderen en markeren
+    title_bottom: worden
+    mobile_title: Coderen en markeren worden
+    play: Speel video af
+    download: Download brochures
+    title_span1: Eenvoudig
+    title_span2: Betrouwbaar
+    title_span3: Veelzijdig
+    title_span4: Consistent
+    title_description: De FX ONE printer is een compacte inkjetprinter met hoge resolutie voor het afdrukken van  partijnummers, vervaldatums, tekst, logo's en streepjescodes op alle materialen zoals dozen, trays, flessen, plastic zakken, folie, voedselverpakkingen, blikken, extrusies en vrijwel elk product.
+    #SECOND SECTION
+    title_second: Een nieuwe generatie onderhoudsvrije inkjetprinters
+    title_second_description: GEMAAKT IN HET VERENIGD KONINKRIJK
+    second_section_one_title: Verpakking & codering
+    second_section_one_description: kleine of grote print voor uw primaire en secundaire verpakking
+    second_section_two_title: Voor alle industrieën
+    second_section_two_description: Markeringsoplossing met hoge resolutie en hoge hechting voor elke branche
+    second_section_three_title: FX APP-software
+    second_section_three_description: Geavanceerd printerbeheer en optimalisatie van afdrukprocessen
+    #THIRD SECTION
+    third_section_title: Wat is coderen en markeren?
+    third_section_description: Coderen en markeren is het afdrukken van variabele informatie op producten tijdens het fabricageproces.
+    first_image: Productie-, batch- en datumcodes
+    second_image: Barcodering
+    third_image: Merk- en productinformatie
+    fourth_image: Traceerbaarheid Track & Trace
+    third_section_statement_one: Foenix Coding begrijpt hoe belangrijk een ononderbroken productielijn is.
+    third_section_statement_two: We hebben het tot onze missie gemaakt om de meest betrouwbare printer op de markt te ontwikkelen.
+    #FOURTH SECTION
+    box_coding_title: Dooscodering
+    box_coding_description: De meest typische toepassing is het coderen van kartonnen dozen. Met de FX ONE Standard en FX ONE Plus zijn dure labels niet meer nodig. Gebruik de FX ONE printer voor het printen op hoge resolutie direct op kartonnen dozen, trays, zakken of andere producten op een productielijn om de behoefte aan dure, voorgedrukte verpakkingen of dure labels te voorkomen. Korte batchruns en klantvereisten voor gepersonaliseerde tekst, afbeeldingen en barcodes zijn eenvoudig te realiseren.
+    product_coding_title: Productcodering
+    product_coding_description: De typische toepassingen zijn het coderen van individuele verpakkingen waaronder flessen, kleine dozen, vaten, blikken, potten, verpakkingen, zakken, folie, enz. De meeste van onze klanten voor productcodering zijn doorgaans bedrijven die op zoek zijn naar een alternatief voor de CIJ (Continuous Ink Jet). De drijfveren zijn prijs, eenvoud en weinig onderhoud. In deze markt gebruiken we altijd de FX ONE Remote printer, een echt multifunctionele printer voor alle industrieën, waaronder voeding, dranken, farmaceutisch en elektronica. De FX ONE is ook ideaal voor het markeren van extrusies, het printen op singelband en andere industriële toepassingen.
+    fifth_section_title_html: "Ontworpen voor <span class='text-orange'>Industrial</span> use & <span class='text-orange'>Goedkoop</span> inkjetprinten"
+    fifth-section_description_one: De afgelopen jaren heeft Foenix flink geïnvesteerd in de ontwikkeling van een serie onderhoudsvrije industriële inkjetprinters. Deze codeerders zijn specifiek ontworpen voor industrieel gebruik in sectoren zoals voeding, drank, automobiel, bouw, conversie, medische apparatuur, farmacie, elektronica en chemie.
+    fifth-section_description_two: Dankzij het slimme ontwerp hebben de FX ONE inkjetprinters een opmerkelijk laag inktverbruik en bieden daarom een van de laagste kosten per print op de markt. Lagere afdrukkosten - doorgaans van 50% tot 80%
+    food: Voedingsmiddelen
+    cosmetics: Cosmetica
+    extrusion: Extrusie
+    automotive: Automomobiel
+    beverage: Dranken
+    pharmaceutical: Farmaceutisch
+    electronics: Elektronica
+    construction: Construction
+    packaging: Verpakking
+    industrial_parts: Industriële onderdelen
+    chemicals: Chemicaliën
+    and_many_more: En nog veel meer
+    inks_title: Breed scala aan inkten
+    inks_description: We bieden inkten met hoge hechting en hoog contrast voor de meeste toepassingen. Verschillende inkten maken het mogelijk om op niet-poreuze materialen (kunststof, glas, metaal...) of poreuze oppervlakken (karton, hout, gips...) te printen. Breed scala aan kleuren beschikbaar, evenals UV-leesbare en UV-uithardende inkten.
+    become_distributor_title: Word Foenix Coding-distributeur
+    become_distributor_description: We nodigen momenteel bedrijven uit om lid te worden van ons internationale distributienetwerk
+    eight_section_title_one: Krachtige software Smart Controller
+    eight_section_description_one: De FX APP-software is beschikbaar op pc en op onze op maat gemaakte FX ONE Touch Controller. De FX ONE Touch Controller is ontworpen om een of meer FX ONE-printermodellen te bedienen. Met de controller kunnen berichten worden aangemaakt, opgeslagen en printers worden beheerd in een kleine, robuuste behuizing. Deze kan in een vaste positie op een handige locatie worden gemonteerd en is draagbaar, zodat deze gemakkelijk van de ene printer naar de andere kan worden verplaatst. De interface is ontworpen om gemakkelijk te gebruiken te zijn en komt overeen met die van de pc-versie.
+    eight_section_title_two: Gratis proef- en testafdrukken
+    eight_section_description_two_html: "Als u in het Verenigd Koninkrijk woont, kunt u een gratis proefperiode van zeven dagen krijgen. Tijdens de gratis proefperiode heeft u toegang tot alle printerfunctionaliteit en kunt u de kosten per afdruk volgen en snel zien hoeveel geld u kunt besparen met onze printer.<br><br>Neem vandaag nog contact met ons op voor een demonstratie uit de eerste hand van de eenvoud en kwaliteit van de FX ONE-printer!<br><small>*Gratis proefperiode is afhankelijk van beschikbaarheid.Waar u</small><br><br> ook bent in de wereld, u kunt ons een voorbeeld sturen van uw product en we zullen proefafdrukken op hoge resolutie maken."
+
+  newsletter:
+    card_title: Sluit u bij ons aan, wij zijn aan het werven!
+    card_text: Bent u toe aan een carrièreswitch en wilt u werken in een start-up met grote ambities? Doe mee!
+    title: Ontvang de laatste nieuwsbrief
+    text: Meld u aan om e-mailupdates te ontvangen over nieuwe productaankondigingen, technische updates, shows die we bij zullen wonen en meer.
+    button: Bekijk vacatures
+    placeholder: Vul een geldig e-mailadres in om te abonneren.
+    unsubscribe: U kunt zich op elk moment weer afmelden.
+    privacy: Lees ons privacybeleid
+
+  about:
+    title: Binnen Foenix-codering
+    first_section_title_one: WIE ZIJN WIJ?
+    first_section_text_one: Foenix Coding is een toonaangevende fabrikant en wereldwijde leverancier van de nieuwste inkjetprinters voor de voedingsmiddelen-, dranken-, farmaceutische, industriële en elektronica-industrie voor in-line productcodering, markering, (printen) en identificatie. Al meer dan 5 jaar heeft Foenix een wereldwijde reputatie opgebouwd voor kwaliteit en creativiteit, gecombineerd met kosteneffectiviteit en weinig onderhoud in het ontwerp van onze printers.
+    first_section_title_two: HET BEDRIJF
+    first_section_text_two: "Foenix Coding staat bekend om zijn industriële inkjetprinters die gespecialiseerd zijn in het ontwerpen en vervaardigen van onderhoudsvrije inkjetsystemen. Als een Britse fabrikant wereldwijd wil winnen, moeten we veel meer doen dan alleen een concurrerend product aanbieden. Het slimme ontwerp van Foenix heeft geleid tot een radicale vermindering van componenten in zijn printers. Deze aanpak heeft geleid tot een verlaging van de productiekosten en een toename van de betrouwbaarheid van de printer, waardoor Foenix een inspirerende wereldwijde speler is geworden."
+    first_section_title_three: DE MARKT
+    hiring_title: Sluit u bij ons aan, wij zijn aan het werven!
+    hiring_text: Bent u toe aan een carrièreswitch en wilt u werken in een start-up met grote ambities? Doe mee!
+    view_openings: Bekijk vacatures
+    our_values_title: ONZE WAARDEN
+    our_values_text: "Foenix-producten zijn gebaseerd op de kernwaarden van het bedrijf: innovatie, design en kwaliteit."
+    ov_card_title_one: INNOVATIE
+    ov_card_text_one_html: "Piezo-elektrische inkjet wordt algemeen erkend als de beste printkwaliteit van alle printtechnologieën, terwijl ze eenvoudig te onderhouden zijn en daardoor het hoogste niveau van uptime-betrouwbaarheid bereiken.
+                           <br>
+                           Zijn consistente printen zorgt voor betrouwbare leesbaarheid op producten."
+    ov_card_title_two: ONTWERP
+    ov_card_text_two_html: "Inkjetprinters zijn vaak ontworpen als complexe oplossing die leidt tot onnodige complexe onderhoudsroutines.
+                           <br>
+                           Foenix heeft zijn assortiment inkjetprinters ontworpen met een minimum aan onderdelen om de uptime te maximaliseren en het onderhoud tot een minimum te beperken."
+    ov_card_title_three: KWALITEIT
+    ov_card_text_three: Al onze producten, printers, inkten en verbruiksartikelen zijn gemaakt in het Verenigd Koninkrijk en gebouwd om lang mee te gaan. De software- en hardwaresystemen zijn ontwikkeld in samenwerking met productie- en verpakkingsprofessionals om hen te helpen met hun dagelijkse uitdagingen om houdbaarheidsdata, batchcodes, 2D-barcodes, grafische logo's en andere vereisten af te drukken.
+    whats_next_title: WAT IS HET VOLGENDE
+    whats_next_text_html: "Na de wereldwijde en exponentiële groei van de afgelopen jaren concentreert Foenix Coding zich op het versterken van het bestaande distributienetwerk.
+                          <br>
+                          Het R&D team is in volle ontwikkeling voor de nieuwe generatie van   FX ONE printers met grotere afdrukhoogte, meerdere afdrukkoppen en een set gebruiksvriendelijke communicatiefuncties."
+
+
+    first_section_text_three: Foenix-printers bieden kostenbesparende oplossingen voor zowel het coderen van primaire als secundaire verpakkingen. Dit omvat het vervangen van labels en alternatieven voor TIJ (Thermal Ink Jet) en CIJ (Continuous Ink Jet). Onze printers zijn anders omdat ze andere technologie gebruiken. Daarom kunnen Foenix-printers als alternatieve oplossing worden aangeboden. Tegelijkertijd passen ze eenvoudig in elk productassortiment van codeer- en markeeroplossingen.
+    second_section_title: Onze missie
+    second_section_text: "Foenix Coding is een bedrijf dat is gevestigd in het Verenigd Koninkrijk en al onze producten worden in het VK gemaakt. We zijn gepassioneerd door nieuwe technologie en innovatieve printoplossingen en het team bestaat uitsluitend uit experts op het gebied van inkjetprinttechnologie. We zijn allemaal ex-medewerkers van Sauven Marking en we hebben al onze vaardigheden, ervaring, kennis, expertise en vooral ons enthousiasme meegenomen in dit nieuwe avontuur."
+    second_section_text_two: Onze missie is om onze hoogwaardige en eenvoudige printers voor iedereen ter wereld toegankelijk te maken. We zijn er om u te helpen de efficiëntie van uw productielijn te verhogen en u te helpen met uw uitdagingen op het gebied van producttraceerbaarheid. 
+    second_section_text_three: Uw complexe codeer- en markeeruitdagingen vereisen geen complexe en dure oplossingen.
+    third_section_title: We richten ons op het belang van eigendomskosten bij industrieel printen.
+    third_section_text: Of u nu op zoek bent naar een inkjetprinter voor het coderen van dozen of productmarkering, de investering voor het afdrukken bestaat niet langer enkel uit de printerprijs. Verbruiksartikelen en onderhoud zijn de belangrijkste factoren geworden bij het bepalen van uw eigendomskosten.
+    fourth_section_text_right: Foenix Coding biedt een reeks printers die de eigendomskosten laag houden. We worden gedreven door een onderhoudsvrije filosofie voor het printen van kleine tekens. We werken er ook hard aan om de meest gebruiksvriendelijke industriële printer aan te bieden. Foenix-printers werken met eenvoudige Windows-pc-software met picturale toetsen en/of een zeer ontwikkelde en intuïtieve Touch-controller.
+    fifth_section_title: Gemaakt in het VK en gebouwd om lang mee te gaan
+    fifth_section_text_one: "Al onze producten - printers, inkt, verbruiksartikelen - worden in het VK gemaakt. De software- en hardwaresystemen zijn ontwikkeld in samenwerking met productie- en verpakkingsprofessionals om hen te helpen met hun dagelijkse uitdagingen bij het afdrukken van houdbaarheidsdata, batchcodes, 2D-barcodes, grafische logo's en andere vereisten."
+    fifth_section_text_two: "Ons assortiment aan industriële inkjetprinters op basis van Xaar is onderhoudsvrij. Deze zijn specifiek ontworpen voor industrieel gebruik in sectoren als voeding, drank, automotive, bouw, conversie, medische apparatuur, farmaceutisch, elektronica en chemie..."
+
+  inks_and_consumables:
+    first_section_text: Grote inktpatronen
+    first_section_text_two: De FX ONE-printer is compatibel met veel verschillende soorten inkt, waardoor het de meest veelzijdige printer op de markt is. Print op elk substraat en tot 15 miljoen tekens per cartridge. We bieden het breedste assortiment inkjetvloeistoffen om zelfs aan de meest gespecialiseerde klanttoepassingen te voldoen
+    inks_card_title_one_html: "Hoge hechting<span class='text-orange'>.</span>"
+    inks_card_text_one: Inkt met hoge hechting, speciaal ontworpen voor toepassing bij extrusie van PVC. Krijg ongekende printkwaliteit op PVC-buizen.
+    inks_card_title_two_html: "Breed scala aan inkten<span class='text-orange'>.</span>"
+    inks_card_text_two: Verschillende inkten maken het mogelijk om op niet-poreuze materialen (kunststof, glas, metaal...) of poreuze oppervlakken (karton, hout, gips...) te printen. Breed scala aan kleuren beschikbaar, evenals UV-leesbare en UV-uithardende inkten.
+    inks_card_title_three_html: "Hoog contrast<span class='text-orange'>.</span>"
+    inks_card_text_three: Hoogste contrast op donkere producten dankzij ons assortiment gepigmenteerde inkt. Zorg ervoor dat uw codes opvallen op zowel donkere als lichte ondergronden.
+    grid_title_one: Verzegelde inktcartridge
+    grid_text_one: Een integrale en vervangbare inktcartridge houdt een schoon inktsysteem vrij van vervuiling. Onze inkten hebben een uitstekende hechting en contrast op een groot aantal poreuze en niet-poreuze materialen zoals karton, metaal, glas, papier, hout en vele kunststoffen. Onze inkten bieden uitstekende prestaties onder de meest voorkomende toepassingsomstandigheden.
+    grid_title_two: Productievriendelijke inkten
+    grid_text_two: Voor toepassingen in de voedingsmiddelen-, dranken-, cosmetica-, huishoudelijke artikelen, industriële en extrusiemarkten hebben we hoogwaardige gecontroleerde inkten die vrijwel geurloos zijn en niet op MEK-basis. We bieden ook gekleurde inkten aan.
+    grid_title_three: HDPVC-inkten voor extrusie van PVC-buizen
+    grid_text_three: We bieden nu een ink met hoge hechting aan die speciaal is ontworpen voor PVC-extrusietoepassingen. Krijg ongekende printkwaliteit op PVC-buizen.
+    grid_title_four: Eenvoudig inktsysteem
+    grid_text_four: De inkttoevoer bevindt zich in een handig cartridgesysteem dat in de achterkant van de machine wordt geplaatst. Het vervangen van de inktcartridge is eenvoudig en schoon en kan binnen enkele seconden worden voltooid zonder het printproces te onderbreken. Mis nooit meer een afdruk en krijg altijd een afdrukkwaliteit met hoge resolutie die past bij uw productimago
+    lowest_ink_title: Laagste inktverbruik op de markt
+    lowest_ink_text: Of u nu op zoek bent naar een inkjetprinter voor het coderen van dozen of productmarkering, de investering voor het afdrukken bestaat niet langer enkel uit de printerprijs. Verbruiksartikelen en onderhoud zijn de belangrijkste factoren geworden bij het bepalen van uw eigendomskosten. Dankzij het slimme ontwerp hebben de piëzo-inkjetprinters een opmerkelijk laag inktverbruik en bieden daardoor een zeer lage kostprijs per afdruk.
+    # NEW
+    standard_ink_one: Ons standaard inktassortiment
+    standard_ink_two: voor al uw toepassingen
+    sdct_one_html: "FX8001Zwarte<br> olie-inkt"
+    sdct_text_one: Voor karton, papier, hout of andere poreuze ondergronden
+    sdct_two_html: "FX8201Zwarte solvent<br> inkt"
+    sdct_text_two: Voor de meeste ondergronden zoals PVC, metaal, glas, plastic en alle andere niet-poreuze oppervlakken
+    sdct_three_html: "FX8203<br>Blauwe solvent inkt"
+    sdct_text_three: Hetzelfde gebruik als de FX8201 niet-poreuze inkt voor primaire verpakkingen
+    sdct_four_html: "FX8308<br>Rode solvent inkt"
+    sdct_text_four: Hetzelfde gebruik als de FX8201 niet-poreuze inkt voor primaire verpakkingen
+    sdct_five_html: "FX 8206<br> Witte solvent inkt"
+    sdct_text_five: Gepigmenteerde inkt voor donkere niet-poreuze oppervlakken
+    sdct_six_html: "FX8311<br> Gele solvent inkt"
+    sdct_text_six: Gepigmenteerde inkt voor donkere niet-poreuze oppervlakken
+    sdct_seven_html: "FX8236<br>Zwarte UV-uithardbare inkt"
+    sdct_text_seven: Niet-poreus substraat met onmiddellijke droogtijd
+    sdct_eight_html: "FX8235<br> UV leesbare inkt"
+    sdct_text_eight: Onzichtbare inkt, alleen zichtbaar onder een UV-lamp
+    # NEW
+    special_ink_title: Speciale inkt nodig?
+    special_ink_title_two: Wij kunnen u helpen!
+    special_ink_text_one: Op olie gebaseerde inkten
+    special_ink_text_two: Op oplosmiddel gebaseerde inkten
+    special_ink_text_three: Gepigmenteerde Inkten
+    special_ink_text_four: UV-uithardbare && UV-leesbare inkten
+    stay_informed_title: Blijf op de hoogte van onze nieuwste inktontwikkeling
+    stay_informed_text: Meld u aan om als eerste op de hoogte te zijn wanneer we een nieuwe inkt lanceren.
+
+
+  distributor:
+    first_section_title: Wereldwijd bereik
+    first_section_text: Waar ter wereld u ook bent, een van onze distributeurs is in de buurt. Wij zijn aanwezig op elk continent en bieden ondersteuning in uw taal en tijdzone.
+    second_section_title: Foenix heeft distributeurs in
+    why_partner_title: Waarom samenwerken met
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: 'WAT MAAKT FOENIX CODING ANDERS DAN DE CONCURRENTIE?
+                           <br>
+                           Foenix Coding is nog altijd een "Start-up" die wordt gerund door een sterke groep mensen die de producten, het bedrijf en de klanten door en door kennen.
+                           <br>
+                           <br>
+                           Wanneer u met Foenix Coding samenwerkt, kunt u het volgende verwachten:'
+    first_list_one: Concurrerende prijzen in vergelijking met directe concurrenten
+    first_list_two: Aantrekkelijke marges voor distributeurs
+    first_list_three: Flexibiliteit in procedures
+    first_list_four: Flexibiliteit in productietijd
+    first_list_five: Flexibiliteit in levertijd
+    second_list_one: Persoonlijke benadering
+    second_list_two: Directeuren actief betrokken
+    second_list_three: Ondersteuning voor exposities
+    second_list_four: Ondersteuning voor testafdrukken
+    second_list_five: Ondersteuning voor trainingsprogramma's
+    second_list_six: Technologie-updates
+    third_list_one: "Technische vakbekwaamheid: het hebben van printers in meer dan 60 landen betekent dat we bijna elke toepassing hebben gezien"
+    third_list_two: Flexibel R&D-team dat snel kan reageren op specifieke klantbehoeften
+    third_list_three: "Gespecialiseerde kennis: Het beperkte productassortiment zorgt voor deskundige kennis"
+    partnership_title: Pad naar partnerschap
+    partnership_text: We zijn verheugd over een groeiend netwerk van distributiepartners te beschikken die Foenix-producten over de hele wereld op de markt brengen. We nodigen momenteel bedrijven uit om lid te worden van ons internationale distributienetwerk om onze nieuwe reeks printers op nieuwe markten te promoten. Vul dit formulier in en we nemen zo snel mogelijk contact met u op om deze mogelijkheid te bespreken
+    step_one: STAP 1
+    step_one_title: Toepassen
+    step_one_text: Als u geïnteresseerd bent om deze mogelijkheid te bespreken, horen we graag meer van uw bedrijf en uw doelen
+    step_two: STAP 2
+    step_two_title: Ontvang een demoprinter
+    step_two_text: Om de prestaties van de apparatuur te testen, maar ook onze reactiviteit en de ondersteuning die u van ons krijgt
+    step_three: STAP 3
+    step_three_title: Begin met verkopen
+    step_three_text: Ons doel is om het onze zakenpartners gemakkelijk te maken om zich te concentreren op het ontwikkelen van nieuwe prospects en het ontwikkelen van hun bedrijf.
+
+  distributor_countries:
+    uk: Verenigd Koninkrijk
+    indonesia: Indonesië
+    south_africa: Zuid-Afrika
+    france: Frankrijk
+    austria: Oostenrijk
+    peru: Peru
+    turkey: Turkije
+    venezuela: Venezuela
+    malaysia: Maleisië
+    vietnam: Vietnam
+    saudi_arabia: Saudi-Arabië
+    egypt: Egypte
+    greece: Griekenland
+    spain: Spanje
+    latvia: Letland
+    netherlands: Nederland
+    sri_lanka: Sri Lanka
+    italy: Italië
+    croatia: Kroatië
+    brazil: Brazilië
+    hungary: Hongarije
+    portugal: Portugal
+    lithuania: Litouwen
+    ivory_coast: Ivoorkust
+    poland: Polen
+    malta: Malta
+    philippines: Filippijnen
+    uae: VAE
+    chile: Chili
+    australia: Australië
+    usa: VS
+    argentina: Argentinië
+    india: India
+    bulgaria: Bulgarije
+    israel: Israël
+    singapore: Singapore
+    germany: Duitsland
+    guatemala: Guatemala
+    china: China
+    ireland: Ierland
+    morocco: Marokko
+    nigeria: Nigeria
+    sweden: Zweden
+    be_the_next: Wees de volgende
+
+  cost_of_ownership:
+    first_section_title: Laagste eigendomskosten op de markt
+    first_section_list_one: Laagste inktverbruik op de markt
+    first_section_list_two: Goedkoopste kosten per afdruk op de markt
+    first_section_list_three: Lage printerprijs
+    first_section_list_four: Geen onderhouds-/servicecontracten
+    first_section_list_five: Geen downtime
+    first_section_list_six: Geen installatie- en trainingskosten
+    first_section_list_seven_html: Verlaag uw codeer- en markeerkosten met ten minste 60%.<br>Stop met het uitgeven van een fortuin aan inktpatronen en onderhoudscontracten!
+    first_section_list_eight_html: Ontvang onze bedieningshandleiding om te zien<br> hoeveel geld u kunt besparen
+    download: Download
+    first_section_two_title: Duidelijk en transparant rendement op investering
+    first_section_sub_title: DE FX ONE-PRINTERS VERLAGEN DE KOSTEN PER PRINT DRASTISCH
+    first_section_text_html: "Kosten per afdruk worden bepaald door 3 factoren:<br>- de aanschafprijs van de printer<br>- de inktkosten<br>- de maandelijkse onderhoudskosten.
+                              <br>
+                              <br>
+                              Foenix Coding heeft een eenvoudige inkjetprinter ontworpen met kostenbesparingen als prioriteit. De FX ONE inkjetprinter is ontwikkeld met eenvoud als uitgangspunt en bevat geen bewegende onderdelen of pompen of kleppen. De inkttoevoer is gebaseerd op capillariteit en zwaartekracht en perslucht is niet nodig. De bediening gebeurt door 1 enkele PCB die met 1 enkele datakabel verbonden is met de printkop. Dankzij zowel de eenvoud als de afwezigheid van bewegende onderdelen is er GEEN maandelijks of jaarlijks onderhoud nodig. Het gebruik van minder componenten betekent dat de FX ONE printer een zeer competitieve aankoopprijs heeft.
+                              <br>
+                              <br>
+                              Verminderde printkosten - normaal gesproken van 50% tot 80%. De Xaar print-technologie maakt inktneerslag mogelijk tot 80 pico liter per druppel (dat is 0,000000080ml), wat leidt tot enorme inktbesparingen. U heeft controle over uw kosten per afdruk. Bereken eenvoudig uw printkosten met onze intuïtieve software en zie hoeveel u kunt besparen. Printen met micro-inktdruppeltjes en een verzegelde inktcartridge zorgt voor lage kosten per afdruk zonder inktverlies. Extra kostenbesparingen kunnen worden behaald door gebruik te maken van de inktbesparingsmodus.
+                              <br><br>
+                              Voorkom dat u vastzit aan een dure inkjetprinter die na verloop van tijd uw budget zal uitputten. Lees meer over de garantie, de servicevoorwaarden, de kosten voor onderhoud/reparatie en de kosten voor inkt en verbruiksartikelen. Krijg het vertrouwen dat u de meest kosteneffectieve oplossing voor uw bedrijf kunt kiezen. Bereken de totale eigendomskosten van uw printer voordat u een besluit neemt. Foenix Coding begrijpt de kunst van eenvoud en heeft een eenvoudige en kosteneffectieve printer ontwikkeld die aan de verwachtingen van de klant tegemoetkomt."
+    inkjet_printer_title: Hoe kiest u een inkjetprinter?
+    inkjet_printer_text_html: "We weten dat het kiezen van een inkjetprinter niet eenvoudig is. Er zijn tal van modellen en technologieën van verschillende fabrikanten beschikbaar.
+                             <br>
+                             <br>
+                             Elke toepassing heeft andere vereisten. Het begrijpen van uw toepassing zal u veel tijd en teleurstelling besparen.
+                             <br>
+                             Download onze gratis gids om Foenix printers te vergelijken met concurrenten."
+    newsletter_title: Ontvang onze gratis gids om u te helpen bij het kiezen van uw inkjetprinter
+    newsletter_description_html: "CIJ versus TIJ versus <span class='text-orange'>FX ONE</span>"
+    list_title: "Elke vraag kan bepalen of de FX ONE-printer geschikt is voor uw project:"
+    list_left_one: Wat is het product?
+    list_left_two: Wat is de afmeting van het product?
+    list_left_three: Waar is het product/de verpakking van gemaakt?
+    list_left_four: Waar wordt het product voor gebruikt?
+    list_left_five: Wat is de transportband/productsnelheid?
+    list_left_six: Wordt het product goed ondersteund op het moment van afdrukken?
+    list_left_seven: Wat is de producttemperatuur op het moment van printen?
+    list_left_eight: Is er een vereiste om het weer te doorstaan?
+    list_left_nine: Waar is de afdrukvereiste, boven/zijkant/onder?
+    list_left_ten: In welke richting loopt de productlijn naar de printkop?
+    list_left_eleven: Hoe groot is het afdrukgebied en waar moet de afdruk op aan worden gebracht?
+    list_left_twelve: Welke apparatuur gebruikt u momenteel voor printen indien nodig?
+    list_right_one: Welke kleur inkt is nodig?
+    list_right_two: Wat is de kleur van het materiaal/de verpakking?
+    list_right_three: Is het printoppervlak poreus of niet-poreus?
+    list_right_four: Wat is de benodigde droogtijd?
+    list_right_five: Wat is de boodschap?
+    list_right_six: Wat is de berichthoogte?
+    list_right_seven: Hoeveel karakters?
+    list_right_eight: Wat is de karakterhoogte?
+    list_right_nine: Hoeveel regels print?
+    list_right_ten: Hoeveel afdrukken per minuut/uur?
+    list_right_eleven: Is het bericht continu op doorlopende webmaterialen of extrusies?
+    list_right_twelve: Wat is de herhaallengte van het bericht?
+
+    second_section_title: Besparingen/ROI-calculator
+    second_section_text: Beheer eenvoudig uw kosten per afdruk en het aantal afdrukken per cartridge. Het is nog nooit zo eenvoudig geweest om uw kosten laag te houden! Bespaar tot 75% inkt met onze inktbesparingsmodus.
+    second_section_text_two_html: "Voorkom dat u vast komt te zitten in een dure inkjetprinter die uw budget op den duur zal opslorpen.
+                             <br>
+                             Lees meer over de garantie, de servicevoorwaarden, de kosten voor onderhoud/reparatie en de kosten voor inkt en verbruiksartikelen.
+                             <br>
+                             Krijg het vertrouwen om de meest kosteneffectieve oplossing voor uw bedrijf te kiezen.
+                             <br>
+                             Bereken de totale eigendomskosten van uw printer voordat u een beslissing neemt."
+
+  printers:
+    title: FX ONE-SERIE
+    text: De Foenix-reeks inkjetprinters zijn allemaal ontworpen als industriële inkjetprinters voor codeer- en markeeroplossingen.
+          The main design criteria for each printer are the ease of use, low maintenance and cost effectiveness providing ultra-high resolution printing.
+    coming_soon: BINNENKORT VERKRIJGBAAR
+
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: De nieuwe FX ONE-inkjetprinter is een van de laagste kosten per code en onderhoudsarme kleinkarakterprinters. Het biedt een echt alternatief om uw producten te coderen.
+    second_section_title: Overzicht
+    grid_title_one: Het beste alternatief voor CIJ-printen
+    grid_description_one_html: "De FX ONE Remote is ontworpen als een zeer eenvoudige inkjetprinter, maar met de mogelijkheid om één tot acht regels code af te drukken en uw eigen lettertypestijlen en afbeeldingen in te voeren.
+                                <br>
+                                <br>
+                                The FX ONE Remote provides a real alternative to complex CIJ printers at a very affordable price:
+                                <ul>
+                                  <li>Laagste kosten per print op de markt</li>
+                                  <li>Printen met hoge resolutie</li>
+                                  <li>Onderhoudsvrij ontworpen</li>
+                                  <li>Flexibel, staat printen in elke richting toe</li>
+                                  <li>Meerregelig printen zonder extra kosten</li>
+                                  <li>Vereist geen extra opmaakmiddel</li>
+                                </ul>"
+    grid_link_one: Vraag snel een offerte aan
+    grid_title_two: Perfect voor extrusie- en webgevoede toepassingen
+    grid_description_two_html: "De FX ONE is een modulaire inkjetcoder voor industrieel gebruik. De FX ONE is ook ideaal voor het markeren van extrusies, het afdrukken op webbing en andere industriële toepassingen.
+                            <br>
+                            De FX ONE printer is geprogrammeerd voor het continu herhalen van prints op gedefinieerde intervallen op een extrusielijn.
+                            <br>
+                            <br>
+                            Ontvang totale controle over herhaald printen over een web van materiaal. Meerdere FX ONE printers kunnen over een web worden aangesloten om identieke of verschillende berichten af te drukken. De touchcontroller die op afstand is gemonteerd, kan worden aangesloten op een encoder of elk ander type apparaat voor printactivering."
+    grid_link_two: Ontvang een afdrukvoorbeeld
+    grid_title_three: Eenvoudige installatie & gebruik
+    grid_description_three_html: "De FX ONE Remote-printer kan eenvoudig in de meeste machines of in beperkte ruimtes worden geplaatst.
+                                  <br>
+                                  <br>
+                                  Bedruk beide zijden van uw product maar gebruik slechts één Touch Controller. Of u nu beide zijden van een doos bedrukt of een groter product, het hebben van een enkele controller vereenvoudigt de invoer van de berichten door de operator.
+                                 Druk eenvoudig identieke of verschillende berichten af aan beide zijden van het product.
+                                  <br>
+                                  <br>
+                                  Een groot grafisch kleurentouchscreen en WYSIWYG-display in combinatie met picturale actietoetsen maken het aanpassen van berichten en programmeren heel eenvoudig."
+    grid_link_three: Vraag snel een offerte aan
+    grid_title_four: Consistente afdrukprestaties
+    grid_description_four_html: "Een automatische sluiter op de printkop zorgt ervoor dat de print perfect blijft in continue of intermitterende toepassingen en ruwe omgevingen, zonder tussenkomst van de operator.
+                                <br>
+                                <br>
+                                Deze sluiter kan handmatig of automatisch worden gesloten tijdens perioden waarin de FX ONE niet wordt gebruikt. Wanneer de sluiter gesloten is, geeft dit betere bescherming van de printkop tegen fysieke schade en het opdrogen van de inkt binnenin de printkop.
+                                <br>
+                                <br>
+                                Betere bescherming tegen onherbergzame omgevingen:
+                                <br>
+                                De sluiter-open tijd kan zo kort zijn als 5 seconden. Dit houdt in dat de sluiter slechts 5 seconden open zal zijn, tijdens het afdrukken. Direct daarna zal hij sluiten en de printkop beschermen tegen tocht, vocht, stof en andere verontreiniging in de lucht."
+    grid_title_five: Schoon inktbeheer voor perfect printen
+    grid_description_five_html: "De easy-flow inkt op olie- of solventbasis zit in een verzegelde inktcartridge om geen verspilling, geen vervuiling en geen rommel te garanderen. Het vervangen van de cartridge duurt seconden terwijl u doorgaat met afdrukken.
+                                <br>
+                                De printer kan worden geprogrammeerd voor automatisch legen en reinigen, wat zorgt voor 100% uptime."
+    grid_link_five: Meer informatie
+    grid_title_six: Volledige integratiemogelijkheid
+    grid_description_six_html: "De Foenix FX APP-softwaresuite biedt volledige integratiemogelijkheden voor netwerkprinters, toegang tot databases, offline berichten maken, verbinding maken met industriële scanners, barcodelezers, verifiers en andere productieapparatuur.
+                                <br>
+                                Berichtselectie kan handmatig zijn of veilig met behulp van een barcodelezer."
+    grid_link_six: Meer informatie
+    cards_section_description: Een nieuwe generatie van
+    cards_section_description_two: onderhoudsvrije inkjetprinters
+    first_card_title: Coderen en markeren met hoge resolutie
+    first_card_text: 1 tot 8 regels print, met een printhoogte van 2-18 mm.
+    second_card_title: Pc-connectiviteit
+    second_card_text: Via USB-kabel, RS485 of Ethernet voor het maken van directe berichten of fabrieksnetwerksysteem.
+    third_card_title: Afbeeldingen, logo's en streepjescodes
+    third_card_text: Importeer eenvoudig JPEG-, PNG- en BMP-afbeeldingen met behulp van de FX App.
+    fourth_card_title: Eenvoudig scherm en toetsenbord
+    fourth_card_text: Voor lokale controle van printersnelheid en -richting, en berichtvertraging.
+    fifth_card_title: Installatie vanuit de doos
+    fifth_card_text: Met minimale componenten voor maximale betrouwbaarheid.
+    sixth_card_title: 1D & 2D-streepjescodes
+    sixth_card_text: Printen met hoge resolutie van 1D- en 2D-barcodes (QR-codes – datamatrix) om variabele gegevens op te nemen.
+    seventh_card_title: 2 jaar garantie*
+    seventh_card_text_html: Verlengde garantie beschikbaar<br> *Algemene voorwaarden zijn van toepassing
+    eigth_card_title: Touch-controller
+    eigth_card_text: Eenvoudige interactieve Windows-programmering met FX App. Betrouwbaar printen met één klik.
+    ninth_card_title: Netwerken
+    ninth_card_text: Beheer meerdere printers vanaf één plek. Bewaak de voortgang, spoor fouten op en verkrijg inzichten met printanalyses.
+    tenth_card_title: True Type-lettertype en Unicode
+    tenth_card_text: Maakt het maken van berichten in elk lettertype en in elke taal mogelijk
+    eleventh_card_title: Grote inktpatroon op oplosmiddelbasis
+    eleventh_card_text: Voordelige codering en schoon inktsysteem, ideaal voor het printen op poreuze en niet-poreuze oppervlakken.
+    twelfth_card_title: Verbinding met meerdere poorten
+    twelfth_card_text: Voor encoders, externe alarmen en alternatieve productdetectieapparaten.
+    thirteenth_card_title: Inktbesparingsmodus
+    thirteenth_card_text: Verminder het inktverbruik tot 75%
+    pop_title: APP-software
+    pop_title_two: Voor al uw productcoderingstoepassingen
+    pop_text_one: Netwerk- en printanalyse
+    pop_text_two: Eenvoudige interactieve Windows-programmering
+    pop_text_three: 'Beschikbaarheid op pc & 7" Touchscreen-controller'
+    pop_text_four: Meertalige ondersteuning
+    pop_text_five: Volledige integratie met onze DLL
+    pop_text_six: Geavanceerd printerbeheer
+    pop_link: Meer informatie
+    fourth_section_title: Technische specificaties
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: Eigenschappen
+    fifth_section_left_one: Print in elke richting
+    fifth_section_left_two: 1 tot 8 regels print
+    fifth_section_left_three: 2 mm - 18 mm totale afdrukhoogte
+    fifth_section_left_four: Peizo-printkop met hoge resolutie
+    fifth_section_left_five: Drukt tekst, afbeeldingen, logo's en streepjescodes af
+    fifth_section_left_six: Drukt tijd en meerdere datumnotaties af
+    fifth_section_left_seven: Continu herhaald printen
+    fifth_section_left_eight: 100 m/min afdruksnelheid (50 m/min voor barcode en 2 mm tekst)
+    fifth_section_left_nine: Enkele start/stop-afdrukknop
+    fifth_section_left_ten: Visuele alarmindicator inclusief inkt bijna op
+    fifth_section_left_eleven: Controle van berichtbreedte, vertraging en afdrukrichting
+    fifth_section_left_twelve: Productdetectie fotocel
+    fifth_section_left_thirteen: Gewicht 1,7 Kg (exclusief inktpatroon en beugels)
+    fifth_section_left_fourteen: Afmeting 242 x 178 x 90 mm
+    fifth_section_right_title_one: Connectiviteit
+    fifth_section_right_one: RS232 en RS485 voor Sauven Touch-controller
+    fifth_section_right_two: USB-A-geheugenstick meegeleverd
+    fifth_section_right_three: USB-B voor kabelverbinding
+    fifth_section_right_four: Ethernet (optioneel)
+    fifth_section_right_five: Drukt tekst, afbeeldingen, logo's en streepjescodes af
+    fifth_section_right_six: I/O-poort voor encoder, alarmbaken en externe fotocellen
+    fifth_section_right_title_two: Inkt
+    fifth_section_right_seven: Verzegelde vervangbare inktpatroon (tot 15 miljoen tekens)
+    fifth_section_right_eight: inkten op oliebasis voor poreuze oppervlakken
+    fifth_section_right_nine: Op oplosmiddel gebaseerde inkten voor niet-poreuze oppervlakken
+    fifth_section_right_ten: UV-inkten voor onmiddellijke uitharding door LED
+    fifth_section_right_eleven: Diverse kleuren
+    fifth_section_right_title_three: Elektrisch
+    fifth_section_right_twelve: 90-260 VAC tot 24VDC voeding inbegrepen
+    fifth_section_message: Foenix Coding Ltd verbetert voortdurend producten en software. Alle specificaties kunnen worden gewijzigd.
+    build_to_last: Gebouwd om lang mee te gaan
+    build_to_last_description: Constructie van koolstofvezel en een solide component
+    build_to_last_description_two: groep betekent dat het vele jaren mee zal gaan
+    discover: Ontdek het FX ONE-assortiment
+    shared_tech: Gedeelde technologie
+    shared_tech_text_one: De FX ONE-printers zijn modulair opgebouwd met zeer weinig componenten.
+    shared_tech_text_two: FX ONE-onderdelen zijn 100% uitwisselbaar en worden gebruikt in vergelijkbare machines en vergelijkbare modellen.
+    shared_tech_text_three: Het enige verschil tussen de modellen is de locatie van de printkop. Bij de FX ONE Standard is de printkop ingebouwd in de besturingseenheid en bij de FX ONE Remote & FX ONE Plus is een remote printkop aangesloten op de besturingseenheid met een flexibele leiding.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: De slimme oplossing voor pakket
+    fx_one_standard_sub_two: afdrukken op hoge resolutie
+    fx_one_standard_text: Direct printen met hoge resolutie op dozen, trays
+    fx_one_standard_text_two: en zakken op een productielijn om de noodzaak te elimineren
+    fx_one_standard_text_three: voor dure voorbedrukte verpakkingen of dure etiketten.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: De slimme manier om te besparen
+    fx_one_plus_sub_two: bij het afdrukken van etiketten
+    fx_one_plus_text: Grootkarakterprinter tot 72 mm printhoogte.
+    fx_one_plus_text_two: Het perfecte alternatief voor dure, complexe
+    fx_one_plus_text_three: en beperkte etiketteringssystemen.
+    sixth_section_title: Betrouwbaar, krachtig, veelzijdig
+    sixth_section_left_sub_title_one: Geen dure onderhoudscontracten.
+    sixth_section_left_sub_text_one: Foenix-printers worden vervaardigd met minimale componenten voor maximale betrouwbaarheid. Geen pompen, geen kleppen, geen perslucht, geen druppellading en geen luchtfilters betekent zeer weinig onderhoud.
+    sixth_section_left_sub_title_two: Laagste kosten per afdruk
+    sixth_section_left_sub_text_two: De piëzo-technologie die in de FX ONE-printers wordt gebruikt, heeft slechts één verzegelde inktcartridge nodig en vereist geen extra opmaakoplosmiddel. Dit reduceert de bedrijfskosten aanzienlijk.
+    sixth_section_left_sub_title_three: Consistente afdrukprestaties
+    sixth_section_left_sub_text_three: FX ONE-printers printen in hoge resolutie. U kunt logo's, 1D- en 2D-barcodes, en variabelen printen...
+    sixth_section_left_sub_title_four: Vertrouwen voor de bediener
+    sixth_section_left_sub_text_four: Eenvoudige installatie, berichtbewerking en programmering, en eenvoudig onderhoud.
+    sixth_section_right_sub_title_one: Bewezen technologie
+    sixth_section_right_sub_text_one: Maakt gebruik van een Xaar-printkop met hoge resolutie, waarvan de technologie al is bewezen met vele duizenden printers die wereldwijd met succes zijn verkocht.
+    sixth_section_right_sub_title_two: Systeemintegratie
+    sixth_section_right_sub_text_two: Integreer indien nodig in een fabrieksnetwerksysteem of maak verbinding met industriële scanners, encoders, controlewegers of andere apparatuur.
+    sixth_section_right_sub_title_three: 100% uptime 0% downtime
+    sixth_section_right_sub_text_three: "24x7 afdrukken: Stop nooit met printen, zelfs niet wanneer u een cartridge vervangt!"
+    sixth_section_right_sub_title_four: Innovatie automatische sluiter
+    sixth_section_right_sub_text_four: "Om het meest kritieke onderdeel van uw printer te beschermen: de printkop motor"
+    seventh_section_title: Altijd onberispelijke afdrukken
+    seventh_section_text: Hoge kwaliteit, goed gemaakt, hoge precisie is wat FX ONE-printers zijn. We bieden de eenvoudigste, meest efficiënte manier om uw product in hoge resolutie te coderen.
+    low_ink: Laagste inktverbruik op de markt
+    low_ink_text: Stop met het uitgeven van een fortuin aan inktpatronen en onderhoudscontracten!
+    low_ink_text_two: Foenix-printers leveren de laagste bedrijfskosten en de laagste kosten per afdruk in de branche
+
+
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: Hoge resolutie printen rechtstreeks op dozen, trays en zakken op een productielijn om de noodzaak van dure voorbedrukte verpakkingen of dure etiketten te elimineren.
+    grid_title_one: De slimme oplossing voor het printen van verpakkingen met hoge resolutie
+    grid_description_one_html: "De nieuwe FX ONE Standard biedt een ongelooflijke afdrukkwaliteit in een compacte printer met alle functies. Hij kan worden gebruikt als een eenvoudige, op zichzelf staande, eenvoudig programmeerbare printer, of worden geïntegreerd in een volledig productienetwerksysteem. Geen dure etiketten nodig: Gebruik de FX ONE Standard voor afdrukken in hoge resolutie rechtstreeks op dozen, trays, zakken of andere producten op een productielijn, zodat dure voorbedrukte verpakkingen of dure etiketten niet meer nodig zijn."
+    grid_link_one: Ontvang een afdrukvoorbeeld
+    grid_title_two: Bespaar tijd en geld.
+    grid_description_two_html: "Geen ingewikkelde opstart- en afsluitprocedures nodig. Zet de machine eenvoudig aan het einde van de dag uit en de volgende dag weer aan.
+                            <br>
+                            De FX ONE printer is ontworpen met een minimaal aantal componenten voor maximale betrouwbaarheid. Geen pompen, geen kleppen, geen perslucht en een enkele PCB betekent weinig onderhoud en geen kostbare onderhoudscontracten.
+                            <br>
+                            <br>
+                            Verminderde printkosten - controleer en beheer kosten per afdruk om eenvoudig inktverbruik met tot 75% te besparen. Printen met micro inktdruppels en een verzegelde inktcartridge geeft lage kosten per afdruk zonder verspilling van inkt.
+                            De easy-flow inkt op oliebasis zit in een verzegelde inktcartridge van 110 ml, zodat er geen verspilling, geen besmetting en geen geknoei is. Het vervangen van de cartridge neemt slechts enkele seconden in beslag, terwijl u nog steeds kunt afdrukken. De printer kan worden geprogrammeerd voor automatisch legen en reinigen."
+    grid_link_two: Vraag snel een offerte aan
+    grid_title_three: Productieveelzijdigheid
+    grid_description_three_html: "Het compacte en innovatieve industriële ontwerp van de FX ONE stelt u in staat de printer binnen enkele minuten naar verschillende locaties te verplaatsen. Gewoon loskoppelen en verplaatsen. Hij werkt naadloos samen met het grote touchscreen en alle printfuncties zijn eenvoudig te bedienen. Druk gewoon op de afdrukknop en begin met afdrukken op alles.
+                                  <br>
+                                  <br>
+                                  De FX ONE printers kunnen worden gelinkt voor het bedrukken van beide zijden van een karton met dezelfde of verschillende berichten. Afdrukken in hoge resolutie in combinatie met de mogelijkheid om alle lettertypen en afbeeldingen te importeren en in alle talen te drukken, zal uw productimago verbeteren."
+    grid_title_four: Volledige integratiemogelijkheid
+    grid_description_four_html: "De Foenix FX APP-softwaresuite biedt volledige integratiemogelijkheden voor netwerkprinters, toegang tot databases, offline berichten maken, verbinding maken met industriële scanners, barcodelezers, verifiers en andere productieapparatuur.
+                                <br>
+                                Berichtselectie kan handmatig worden gedaan of veilig met een barcodelezer."
+    grid_link_four: Meer informatie
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: Het slimme alternatief
+    fx_one_remote_sub_two: voor CIJ-afdrukken
+    fx_one_remote_text: De FX ONE Remote inkjetprinter is een van de goedkoopste
+    fx_one_remote_text_two: kleinkarakterprinters met de laagste kosten per code en is onderhoudarm.
+    fx_one_remote_text_three: Hij biedt een echt alternatief voor het coderen van uw producten.
+    second_section_title: Overzicht
+    first_card_title: Coderen en markeren met hoge resolutie
+    first_card_text: 1 tot 8 regels print, met een printhoogte van 2-18 mm.
+    second_card_title: Pc-connectiviteit
+    second_card_text: Via USB-kabel, RS485 of Ethernet voor het maken van directe berichten of fabrieksnetwerksysteem.
+    third_card_title: Afbeeldingen, logo's en streepjescodes
+    third_card_text: Importeer eenvoudig JPEG-, PNG- en BMP-afbeeldingen met behulp van de FX App.
+    fourth_card_title: Eenvoudig scherm en toetsenbord
+    fourth_card_text: Voor lokale controle van printersnelheid en -richting, en berichtvertraging.
+    fifth_card_title: Installatie vanuit de doos
+    fifth_card_text: Met minimale componenten voor maximale betrouwbaarheid.
+    sixth_card_title: 1D & 2D-streepjescodes
+    sixth_card_text: Printen met hoge resolutie van 1D- en 2D-barcodes (QR-codes – datamatrix) om variabele gegevens op te nemen.
+    seventh_card_title: 2 jaar garantie
+    seventh_card_text: Verleng het met één, twee of drie jaar
+    eigth_card_title: Touch-controller
+    eigth_card_text: Eenvoudige interactieve Windows-programmering met FX App. Betrouwbaar printen met één klik.
+    ninth_card_title: Netwerken
+    ninth_card_text: Beheer meerdere printers vanaf één plek. Bewaak de voortgang, spoor fouten op en verkrijg inzichten met printanalyses.
+    tenth_card_title: True Type-lettertype en Unicode
+    tenth_card_text: Maakt het maken van berichten in elk lettertype en in elke taal mogelijk
+    eleventh_card_title: Grote inktcartridge op oliebasis
+    eleventh_card_text: Voordelige codering en schoon inktsysteem, ideaal voor het printen op poreuze en niet-poreuze oppervlakken.
+    twelfth_card_title: Verbinding met meerdere poorten
+    twelfth_card_text: Voor encoders, externe alarmen en alternatieve productdetectieapparaten.
+    thirteenth_card_title: Inktbesparingsmodus
+    thirteenth_card_text: Verminder het inktverbruik tot 75%
+    seventh_section_title: Productieveelzijdigheid
+    seventh_section_text: Dankzij het compacte en innovatieve industriële ontwerp van de FX ONE kan de printer binnen enkele minuten naar verschillende locaties worden verplaatst. Gewoon loskoppelen en verplaatsen. Hij werkt naadloos samen met zijn grote touchscreen en alle printbewerkingen kunnen eenvoudig worden gecontroleerd. Druk gewoon op de afdrukknop en begin met afdrukken op alles.
+
+
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: Grootkarakterprinter tot 72 mm printhoogte. Het perfecte alternatief voor dure, complexe en beperkte etiketteersystemen
+    first_section_text_two: "Het perfecte alternatief voor dure, complexe en beperkte etiketteersystemen."
+    coming_soon: BINNENKORT VERKRIJGBAAR
+    grid_title_one: De slimme manier om te besparen op het afdrukken van etiketten
+    grid_description_one_html: "De FX ONE Plus grootkarakter inkjetprinter geeft de gebruiker controle over de kosten per afdruk voor het afdrukken van etiketten.
+                               <br>
+                               <br>
+                               De op Windows gebaseerde software werd speciaal ontworpen met het oog op het printen van etiketten, een toepassing waarbij het beheersen van de kosten per print van het grootste belang is. Door rechtstreeks op dozen te drukken in plaats van etiketten te gebruiken, neemt de kostenefficiëntie drastisch toe.
+                               <br>
+                               <br>
+                               The FX ONE Plus biedt verdere integratieflexibiliteit en kan worden gekoppeld aan databases, maakt volledige bediening op afstand mogelijk met bestaande productiebeheersoftware en biedt volledige netwerkmogelijkheden, inclusief WiFi.
+                               <br>
+                               <br>
+                               Ontworpen voor goedkoop coderen en markeren op dozen en kratten, een echt alternatief voor een labelprinter.
+                               Geen ingewikkelde procedures voor opstarten en uitschakelen. Gewoon de machine aan het eind van de dag uitzetten en de volgende dag weer aan.
+                               <br>
+                               <br>
+                               Behalve op karton kunt u ook drukken op papier, hout, stof, EPS, schuim, beton, enz..."
+    enorme_kostenbesparingen: Enorme kostenbesparingen door de vervanging van etiketten en voorbedrukte verpakkingen door hoge resolutie afdrukken direct op kartonnen dozen - ideaal voor dozen, zakken, trays, houten pallets en anderen
+    plus_newsletter_title: FOENIX NIEUWSBRIEF
+    plus_newsletter_description: Als eerste op de hoogte van
+    plus_newsletter_description_two: wanneer we de FX ONE Plus lanceren
+    placeholder: Voer uw e-mailadres in en ontvang updates over de lancering
+
+  software:
+    first_section_title_one: FX TOUCH-controller
+    first_section_text_one: Bedien uw printer met slechts één aanraking. Naast de gebruikelijke functies zoals barcodes, tellers, logo's, datum, tijd, dienst etc. wordt de FX ONE printer standaard geleverd met pc-software en netwerkconnectiviteit.
+    first_section_text_two: Foenix Coding verstaat de kunst van eenvoud en heeft een eenvoudige en kosteneffectieve printer gecreëerd die precies is afgestemd op de specificaties van de klant.
+    first_section_text_three: We hebben veel aandacht besteed aan het ontwerp van de gebruikersinterface van de FX APP om de workflow van uw dagelijkse projecten te vereenvoudigen.
+    first_section_text_four: De FX App op de FX Touch Controller is ook beschikbaar als pc-software, zodat u uw printer vanaf elke computer kunt bedienen.
+    second_section_title: FX APP-software
+    second_section_text: De ultieme tool om uw productie altijd onder controle te houden en u te helpen uw kosten te verlagen. Onze FX APP kan zowel op de Foenix Controller als op de pc worden uitgevoerd en biedt integratie en flexibiliteit en kan worden gekoppeld aan databases, waardoor volledige controle op afstand mogelijk is door bestaande productiebeheersoftware met volledige netwerkmogelijkheden.
+    second_section_text_two: Foenix FX APP stelt u in staat om berichten in recordtijd te ontwerpen via de gebruiksvriendelijke interface.
+    second_section_check_one: Eenvoudige interactieve Windows-programmering
+    second_section_check_two: Onbeperkte berichtenopslag
+    second_section_check_three: Inktbesparingsmodus
+    second_section_check_four: True Type-lettertype en Unicode
+    second_section_check_five: Importeert JPEG- en BMP-logo's
+    second_section_check_six: Meertalige ondersteuning
+    second_section_card_one: "Fx App: Klik & Print"
+    second_section_card_two: Optimaliseer uw afdrukprocessen met FX APP
+    second_section_card_three: Betrouwbaar printen met één klik.
+    second_section_card_four: Software-integratie die bij uw workflow past
+    third_section_left_title: FX App
+    third_section_left_sub_title: Eigenschappen
+    third_section_left_text_one: Compatibel met Windows XP en hoger
+    third_section_left_text_two: Intuïtieve berichtcreatie met pictogrammen
+    third_section_left_text_three: True Type-lettertype en Unicode ondersteund
+    third_section_left_text_four: Afbeeldingen, logo's en streepjescodes rechtstreeks geïmporteerd in JPEG- en BMP-formaat
+    third_section_left_text_five: Drukt tijd en meerdere datumnotaties af
+    third_section_left_text_six: Inktbesparingsmodus
+    third_section_left_text_seven: Onbeperkte berichtenopslag
+    third_section_left_text_eight: Meertalige ondersteuning
+    third_section_left_text_nine: Foenix Coding Ltd verbetert voortdurend producten en software. Alle specificaties kunnen worden gewijzigd.
+    third_section_right_title: FX ONE TOUCH
+    third_section_right_sub_title: Eigenschappen
+    third_section_right_title_two: Connectiviteit
+    third_section_right_text_one: 7” touch screen
+    third_section_right_text_two: Eenvoudige interactieve Windows-programmering
+    third_section_right_text_three: Maakt gebruik van FX App
+    third_section_right_sub_title_two: Connectiviteit
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 Multi-poort, Ethernet (optioneel)
+    third_section_right_text_five: 24 v DC-ingang
+    third_section_right_text_six: Ondersteuning van externe alarmen, bakens, encoders
+    third_section_right_text_seven: Automatisch programmeren met barcodelezer
+    third_section_final_text: Touchscreen-interface die elke actie vereenvoudigt met de FX APP. Eenvoudige installatie en navigatie maken training overbodig en zorgen voor een probleemloze, intuïtieve printervaring.
+
+    extremely_simple: Uiterst eenvoudig te gebruiken
+    extremely_simple_text: We hebben veel aandacht besteed aan het ontwerp van de gebruikersinterface van de FX APP om de workflow van uw dagelijkse projecten te vereenvoudigen. Eenvoudige installatie en navigatie maken training overbodig en zorgen voor een probleemloze, intuïtieve printervaring.
+    extremely_simple_button: Toegang tot de FX APP aanvragen
+    grid_title_one: Meertalige klantenservice
+    grid_description_one: Software vertaald in 19 talen en u kunt in elke taal afdrukken
+    grid_title_two: Houd uw kosten laag
+    grid_description_two: Beheer eenvoudig uw kosten per afdruk en het aantal afdrukken per cartridge. Het is nog nooit zo eenvoudig geweest om uw kosten laag te houden!
+    grid_title_three: Netwerken & Integratie
+    grid_description_three_html: "De Foenix FX APP-softwaresuite biedt volledige integratiemogelijkheden voor netwerkprinters, toegang tot databases, offline berichten maken, verbinding maken met industriële scanners, barcodelezers, verifiers en andere productieapparatuur.
+                                 <br>
+                                 <br>
+                                 Geavanceerd printerbeheer:
+                                 <br>
+                                 Maximaliseer uptime door het beheer van productie over meerdere Foenix printers vanuit één locatie. Monitor voortgang, volg storingen en verkrijg inzichten met printanalyses."
+    grid_title_four: Foenix-firmware
+    grid_description_four: Printers die na verloop van tijd nog beter worden. Maak uw FX ONE-printer nog capabeler met prestatieverbeteringen en toegevoegde functionaliteit in elke firmware-update.
+    grid_title_five: Volledige integratie met onze DLL
+    grid_description_five_html: "Wat is een DLL?
+                                <br>
+                                <br>
+                                Een DLL (Dynamic Link Library) is een set van softwarefuncties die door een externe ontwikkelaar kunnen worden gebruikt om in hun eigen applicaties op te nemen. De Foenix DLL verstrekt een set aan functies die ervoor zorgen dat de FX ONE printer kan worden bediend via de FX APP applicatie of Foenix touch controller.
+                                De bibliotheek vereenvoudigt het communicatieproces naar de printer voor de ontwikkelaar, aangezien het eigenlijke protocol dat wordt gebruikt. De ontwikkelaar gebruikt dan een relatief eenvoudig mechanisme om printers te monitoren, berichten te laden en gegevens te versturen."
+    grid_title_six: Voorkom gebruikersfouten in afdrukinstellingen
+    grid_description_six: Geen fouten meer dankzij de automatische configuratie van printinstellingen via de handheld reader. Een barcodescanner kan worden gebruikt om een bericht te selecteren om af te drukken, of om velden in een bericht te vullen door overeenkomstige barcodes te scannen. Minder handmatige tussenkomst betekent minder codeerfouten.
+    newsletter_title: Ontvang onze nieuwste software-updates
+    newsletter_description: Meld u aan om als eerste te weten wanneer er een update beschikbaar is
+
+    fourth_section_title_one: Meertalige ondersteuning
+    fourth_section_text_one: Software vertaald in 19 talen en u kunt in elke taal afdrukken
+    fourth_section_title_two: Houd uw kosten laag
+    fourth_section_text_two: Beheer eenvoudig uw kosten per afdruk en het aantal afdrukken per cartridge.
+    fourth_section_text_two_two: Het is nog nooit zo eenvoudig geweest om uw kosten laag te houden!
+    fourth_section_title_three: Netwerken & Integratie
+    fourth_section_text_three: "De Foenix FX APP-softwaresuite biedt volledige integratiemogelijkheden voor netwerkprinters, toegang tot databases, offline berichten maken, verbinding maken met industriële scanners, barcodelezers, verifiers en andere productieapparatuur."
+    fourth_section_title_four: FX App
+    fourth_section_text_four: Geavanceerd printerbeheer
+    fourth_section_text_four_two: Maximaliseer de uptime door de productie op meerdere Foenix-printers vanaf één plek te beheren. Bewaak de voortgang, spoor fouten op en verkrijg inzichten met printanalyses.
+    fourth_section_title_five: Voorkom gebruikersfouten in afdrukinstellingen
+    fourth_section_text_five: Geen fouten meer dankzij de automatische configuratie van printinstellingen via de handheld reader. Een barcodescanner kan worden gebruikt om een bericht te selecteren om af te drukken, of om velden in een bericht te vullen door overeenkomstige barcodes te scannen. Minder handmatige tussenkomst betekent minder codeerfouten.
+    button: Live software om te testen
+    fourth_section_title_six: Foenix-firmware
+    fourth_section_text_six: Printers die na verloop van tijd nog beter worden.
+    fourth_section_text_six_two: Maak uw FX ONE-printer nog capabeler met prestatieverbeteringen en toegevoegde functionaliteit in elke firmware-update.
+    fifth_section_title_one: Volledige integratie met onze DLL
+    fifth_section_sub_title: "Wat is een DLL?"
+    fifth_section_text_one: Een DLL (Dynamic Link Library) is een reeks softwarefuncties die door een externe ontwikkelaar kunnen worden gebruikt om in hun eigen toepassingen op te nemen. De hier beschreven Foenix DLL biedt een reeks functies waarmee een FX ONE-printer kan worden bestuurd via de FXPro-toepassing of Foenix Touch Controller. De bibliotheek maakt het communicatieproces naar de printer veel eenvoudiger voor de ontwikkelaar omdat het zorgt voor het daadwerkelijke gebruikte protocol. De ontwikkelaar gebruikt vervolgens een relatief eenvoudig mechanisme om printers te monitoren, berichten te laden en gegevens te verzenden.
+    fifth_section_title_two: Hoe werkt een DLL?
+    fifth_section_text_two: De DLL wordt door de klanten gebruikt om met de printer te communiceren. Het onderstaande diagram geeft een basisoverzicht dat laat zien hoe de DLL zich tussen de applicatie en de printer bevindt.
+
+  industry:
+    first_section_title: Wij bieden oplossingen voor alle industrieën en elke applicatie
+    first_section_text: Van opkomende bedrijven met 1 kleine productielijn tot multinationals met de meest veeleisende toepassingen kunnen allemaal de FX ONE-printer gebruiken om hun codeer- en markeerkosten te verlagen, downtime te voorkomen, handmatige processen te automatiseren en de productkwaliteit te verbeteren met codering op hoge resolutie.
+    first_section_button_one: Demo aanvragen
+    first_section_button_two: Prijzen tonen
+    trusted_title: Vertrouwd door bedrijven
+    trusted_title_two: uit alle bedrijfstakken
+    trusted_text_html: "Foenix Coding heeft over de hele wereld inkjetprinters geïnstalleerd in de voedingsmiddelen-, dranken-, farmaceutische, industriële, elektronica- en bouwsector.
+                  <br>
+                  Onze klanten omvatten vele van de grootste fabrikanten in deze sectoren, maar minstens zo belangrijk is dat Foenix de voorkeur geniet van vele kleine productiebedrijven over de hele wereld die eveneens de lage kosten en het lage onderhoud waarderen die in de printers zijn ingebouwd."
+    fd_title: Eten en drinken
+    fd_card_title_one: Bakkerijproducten
+    fd_card_text_one: biscuits, cake, koekjes...
+    fd_card_title_two: Graanproducten
+    fd_card_text_two: ontbijtgranen, pasta...
+    fd_card_title_three: Verwerkte groenten en fruit
+    fd_card_text_three: ingeblikte producten, gedroogde vruchten...
+    fd_card_title_four: Snoepgoed
+    fd_card_text_four: chocolade, snoep, kauwgom...
+    fd_card_title_five: Snackproducten
+    fd_card_text_five: chips, hartige snacks, chocolade...
+    fd_card_title_six: Vis en visproducten
+    fd_card_text_six: ingeblikte vis, gedroogde vis, koelboxen voor de detailhandel...
+    fd_card_title_seven: Zuivelproducten
+    fd_card_text_seven: melk, yoghurt, kaas, room...
+    fd_card_title_eight: Alcoholhoudende dranken
+    fd_card_text_eight: wijn, sterke drank, likeuren...
+    fd_card_title_nine: Gemalen en gepelde producten
+    fd_card_text_nine: meel, rijst...
+    fd_card_title_ten: Vlees
+    fd_card_text_ten: voorverpakt, vers gedroogd, diepgevroren...
+    fd_card_title_eleven: Koffie, cacao, thee
+    fd_card_text_eleven: gemalen, individuele verpakking...
+    fd_card_title_twelve: Babyvoeding
+    fd_card_title_thirteen: Kant en klaar maaltijden
+    fd_card_text_thirteen: pizza's, broodjes...
+    fd_card_title_fourteen: Alcoholvrije dranken
+    fd_card_text_fourteen: water, limonades, vruchtensappen...
+    fd_card_title_fifteen: Diepvriesproducten
+    fd_card_title_sixteen: Specerijen, essences, kook- en bakmiddelen
+    fd_card_title_seventeen: Eetbare oliën en soortgelijke producten, harde vetten
+    fd_card_text_seventeen: olijfolie, boter, reuzel...
+    fd_card_title_eighteen: Tetra-pakketten
+    cp_title: Cosmetica &
+    cp_title_two: Farmaceutisch
+    cp_card_title_one: Cosmetica en persoonlijke hygiëne
+    cp_card_text_one: shampoo, zeep, tandpasta, tissues...
+    cp_card_title_two: Cosmetische producten
+    cp_card_text_two: parfum, haarproducten, make-up...
+    cp_card_title_three: Farmaceutische producten
+    cp_card_text_three: medicijnen, siropen, pillen, crèmetubes...
+    cp_card_title_four: Medische uitrusting
+    cp_card_text_four: mondmaskers, spuiten, verband...
+    ind_title: Industrieel
+    ind_card_title_one: Metaalproducten
+    ind_card_text_one: afgewerkte of halffabrikaten, subassemblages...
+    ind_card_title_two: Auto-industrie
+    ind_card_text_two: reserveonderdelen, autoleidingen, auto-interieur, rubberen onderdelen...
+    ind_card_title_three: Chemische producten
+    ind_card_text_three: Industriële chemicaliën, wasmiddelen, schoonmaakproducten...
+    ind_card_title_four: Elektronische apparatuur, subassemblages, componenten
+    ind_card_text_four: Printplaten, beveiligingskaarten...
+    ind_card_title_five: Bouwmaterialen
+    ind_card_text_five: vloeren, tegels, hout, stenen, wandpanelen, gipsplaten...
+    ind_card_title_six: Meststoffen, pesticiden en andere producten voor de behandeling van planten
+    ind_card_title_seven: Extrusie- en webgevoede producten
+    ind_card_text_seven: kunststof buizen, kabels, sachet...
+    ind_card_title_eight: Tuin-, landbouw-, bosbouw- en visserijproducten
+    ind_card_text_eight: tuinband...
+    ind_card_title_nine: Verven, kleurstoffen, kleurstoffen, inkten, vernissen en soortgelijke producten
+    ind_card_title_ten: Hout- en papierproducten, pulp, onbewerkt hout
+    ind_card_title_eleven: Meubels en meubelonderdelen
+    ind_card_title_twelve: Aardolieproducten
+    tp_title: Gebruikelijke toepassingen
+    tp1: Spuitbussen
+    tp2: Emmers
+    tp3: Folie
+    tp4: Tetra-pakketten
+    tp5: Ampullen
+    tp6: Jerrycans
+    tp7: Glazen potten
+    tp8: Dienbladen diepgetrokken, geperst, gevouwen
+    tp9: Zak in doos
+    tp10: Blikken kunststof, metaal
+    tp11: Kannen
+    tp12: Buizen
+    tp13: Zakken papier, plastic, metallic
+    tp14: Manden, mandflessen
+    tp15: Metalen blikjes
+    tp16: Buisvormige tassen/zakjes
+    tp17: Zakken vulzegel
+    tp18: Kartonnen verpakkingen voor vloeistoffen en pasta's
+    tp19: Pouches
+    tp20: Omslagpakketten
+    tp21: Tonnen
+    tp22: Patronen
+    tp23: Pallets - laadeenheid
+    tp24: Wrappers (gedraaid, gevouwen, geseald, krimpfolie, rekfolie)
+    tp25: Manden
+    tp26: Cases
+    tp27: Spoelen
+    tp28: Gipsplaten
+    tp29: Doordrukstrips
+    tp30: Samengestelde blikken
+    tp31: Zakken papier, plastic, metallic
+    tp32: Toiletrollen
+    tp33: Flessen glas
+    tp34: Kratten
+    tp35: Aan de zijkant verzegelde tassen/zakjes
+    tp36: Tuinband
+    tp37: Flessen metaal
+    tp38: Bekers
+    tp39: Sleeve-and-slide dozen
+    tp40: Boekbeschermers
+    tp41: Flessen plastic
+    tp42: Vaten
+    tp43: Spoelen
+    tp44: Omsnoering
+    tp45: Dozen karton, kunststof
+    tp46: Etuis
+    tp47: Omsnoerde pakketten
+    tp48: Hout
+    tp49: Vloerbekleding
+    tp50: Zakken met platte bodem
+    tp51: Tankcontainers
+    tp52: Meelzakken
+    tp53: Stenen
+    tp54: Medisch verband
+    tp55: Beveiligingskaarten
+    tp56: Straatstenen
+    tp_button_one: Gratis proefperiode aanvragen
+    tp_button_one_msg: Probeer de FX ONE 7 dagen uit
+    tp_button_two: Ontvang een gratis proefafdruk
+    tp_button_two_msg: op al uw producten
+
+  video:
+    first_section_title: Video's
+    first_section_text: Kijk hoe Foenix-printers op alle items en materialen afdrukken.
+    first_section_text_two: Er zullen regelmatig meer video's worden toegevoegd, dus kijk regelmatig op deze pagina en op onze Youtube pagina
+    more_videos: Meer video's zijn onderweg
+    video_text_one: Primaire oplossing voor verpakkingscodering
+    video_text_one_cont: De FX ONE Remote-printer, de meest kosteneffectieve oplossing om uw producten te markeren
+    video_text_two: Secundaire oplossing voor verpakkingscodering
+    video_text_two_cont: De FX ONE Standard-printer, de meest kosteneffectieve oplossing voor uw toepassingen voor het coderen van dozen
+    video_text_three: Hoe bereikt u een efficiënte codering van hoge kwaliteit op uw karton? Ontdek het met de FX ONE Standard-printer
+    video_text_four: De FX ONE Standard, de beste printer voor al uw industriële toepassingen
+    video_text_five: De FX ONE Standard-printer, ideaal voor omverpakkingen, trays en golfkarton
+    video_text_six: "De FX ONE Standard: één printer, vele toepassingen: streepjescodes, logo's, kartoncodering en meer"
+    video_text_seven: Met de FX ONE Standard kosten besparen door de labelprinter te vervangen
+
+  legal:
+    first_section_title: JURIDISCH
+    cookie_policy: Cookiebeleid
+    privacy_policy: Privacybeleid
+
+  contact_coders:
+    first_section_title: Contactcodeer- en markeermachines
+    first_section_text: Hoewel inkjetprinters de toekomst hebben, worden de traditionele goedkope contactcodeer- en markeerprinters nog steeds over de hele wereld gebruikt als zeer kosteneffectieve oplossingen.
+                        Contactcodeermachines zijn ideaal wanneer een product onregelmatige infrequente wisseling van berichten of de omgeving vereist een niet-elektronische oplossing die geen onderhoud behoeft.
+                        Foenix vervaardigt deze printers voor gebruik met verwisselbare rubberen "Baselock" type samen met ofwel voorgeïmpregneerde Plastic-Ink rollers of diverse verzegelde inktpatronen.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: Continu printen op alle materialen
+    codaprint_text: Een unieke printer voor continu herhaald printen op metaal, kunststof of poreuze materialen waaronder staalplaten, geëxtrudeerde folie, kunststof buizen en kartonnen kernwikkelingen.
+                    Hij maakt gebruik van een verzegeld inktpatroon voor eenvoud en netheid, met een keuze aan inkten en kleuren; en is verkrijgbaar met verschillende herhaalprintlengtes en een maximale printhoogte van 25 mm.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: Multifunctionele prijs- en codeprinter
+    codamark_text: Een compacte, eenvoudige reciprocerende printer die ideaal is voor het afdrukken van houdbaarheidsdata op producten op een productielijn met een duidelijke, nauwkeurige afdrukkwaliteit.
+                   Verzegelde inktpatronen zorgen voor een snelle droging van de afdruk op de meeste oppervlakken, waaronder metalen blikken, glazen potten en plastic potten Deze goedkope roestvrijstalen printer werkt op lucht, zonder elektrische vereisten.
+                   Hij is ideaal in ruwe of natte omgevingen voor het bedrukken van de bovenkant, zijkant of onderkant van een product.
+    handroller_title: Codaprint Handroller
+    handroller_sub_title: Handmatig printen op alle oppervlakken
+    handroller_text: De Codaprint handroller is voor handmatig printen op alle oppervlakken met hetzelfde assortiment sneldrogende inkten.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: Contact Coders & Plastic Inkt Roller Printers
+    codapack_text: Los uw problemen met het afdrukken van dozen op met codapack-contactcodeerders met behulp van een plastic inktroller en baselock-rubber van Foenix Coding
+    baselock_title: Foenix Baselock
+    baselock_sub_title: Verwisselbare rubbersoort
+    baselock_sub_title_two: voor alle contactcodeermachines
+    baselock_text_one: SNEL EN EENVOUDIG PRINT WIJZIGEN
+    baselock_text_two: UITGEBREID ASSORTIMENT TYPESTIJLEN
+    baselock_text_three: AANGEPASTE LOGO'S
+    baselock_text_four: STIJLEN VOOR ALLE TALEN
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: Betrouwbare continuprinter van Foenix Coding voor markeren met hoge en lage snelheid op metaal, plastic, glas, karton. Een eenvoudige contactcodeerder voor het herhaaldelijk afdrukken van uw product op hoge snelheid met behulp van sneldrogende verzegelde inktpatronen.
+    get_prices: Prijzen tonen
+    cp_title: Continu printen op alle materialen
+    cp_sub_title_one: Toepassingen
+    cp_text_one: De Codaprint wordt gebruikt om identificatiemarkeringen, houdbaarheidsdata, recycle-logo's, productnamen van klanten enz. aan te brengen op materiaal dat continu in beweging is of indexeert, en waar een herhaalde afdruk vereist is.
+                     Enkele typische toepassingen zijn op geëxtrudeerde folie, het bedrukken van zakken, staalplaten, extrusies voor kunststoframen, krimpfolie, kartonnen kernwikkelingen, gipskarton, kantenverpakkingskarton, achterkanten van spiegels en papier.
+    cp_sub_title_two: Eenvoudig te installeren
+    cp_text_two: De Codaprint wordt eenvoudig op een vaste balk over het te markeren materiaal gemonteerd. Verticale aanpassing op het apparaat geeft print aan/uit posities. De printer wordt aangedreven door wrijvingscontact tussen de rubberen banden op de typetrommel en het materiaal.
+    cp_sub_title_three: Inktsoorten
+    cp_text_three: Inktcartridges zijn verkrijgbaar in verschillende soorten inkt en kleuren voor de meeste oppervlakken. Wij kunnen u adviseren over het meest geschikte assortiment voor uw product.
+    cp_sub_title_four: Keuze van print
+    cp_text_four: De standaard Codaprint-trommel is uitgerust met metalen borgringen voor gebruik met het verwisselbare rubberen type Baselock. Baselock is verkrijgbaar in vele tekenstijlen en aangepaste logo's om snel van print te kunnen wisselen.
+    cp_sub_title_five: Transferpads
+    cp_text_five: De inktkop van de Codaprint-cartridge moet worden voorzien van een complete set transferpads telkens wanneer een nieuwe inktcartridge wordt gebruikt.
+    cp_tp1: "TPS030: Voor minimum inktstroom"
+    cp_tp2: "TPS060: Voor maximum inktstroom"
+    cp_sub_title_six: Handroller
+    cp_text_six: De Codaprint handroller is voor handmatig printen op alle oppervlakken met hetzelfde assortiment sneldrogende inkten.
+    ps_title_one: Afmetingen
+    ps_title_two: Codaprint-printerspecificatie
+    ps_title_three: Model CP-24/1
+    ps_bp_one: "Afdruklengte: 240mm"
+    ps_bp_two: "Afdrukhoogte: 25mm"
+    ps_title_four: CP-17/B Handroller
+    ps_bp_three: "Afdruklengte: 175mm"
+    ps_bp_four: "Afdrukhoogte: 25mm"
+    ps_title_five: Codaprint-cartridges
+    ps_bp_five: CP111 Black Standard Dye-inkt voor niet-poreuze materialen
+    ps_bp_six: CP011 Zwart Extra sneldrogende kleurstofinkt voor niet-poreuze materialen met hoge snelheid
+    ps_bp_seven: CP5610 Black Dye-inkt voor poreuze oppervlakken
+    ps_bp_eight: CP256 Witte gepigmenteerde inkt voor donkergekleurde oppervlakken, poreuze en niet-poreuze materialen
+    ps_text: Een selectie van kleuren is beschikbaar in elke reeks
+    list_title: Overzicht
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: Een unieke printer voor continu herhaald printen op metaal, kunststof of poreuze materialen waaronder staalplaten, geëxtrudeerde folie, kunststof buizen en kartonnen kernwikkelingen.
+    list_subtitle_two: Printer voor lage kosten
+    list_text_two: De eenvoudigste goedkope printer voor het aanbrengen van herhaalde identificatiemarkeringen, houdbaarheidsdatums, recyclelogo's of productnamen van klanten op materiaal dat continu in beweging is.
+    list_subtitle_three: Supersnel printen
+    list_text_three: De printer kan op een zeer lage snelheid werken maar ook printen tot 100 meter per minuut.
+    list_subtitle_four: Eenvoudig inktsysteem
+    list_text_four: De inkt bevindt zich in een vervangbaar inktpatroon met geïntegreerde inktcontrole, ongeacht de afdruksnelheid, voor een schoon, onderhoudsarm inktsysteem. Dit unieke inktsysteem zorgt ervoor dat de print pas vervaagt als de cartridge leeg is.
+    list_subtitle_five: Inktcartridge
+    list_text_five: Onze standaard inktpatronen zijn geschikt voor metaal, glas, kunststof en poreuze ondergronden en andere materialen. Voor sommige toepassingen is wel speciale inkt nodig.
+    list_subtitle_six: Eigenschappen
+    list_text_six_html: "De printer wordt aangedreven door banden op de trommel die in contact komen met het materiaal, waardoor er geen mechanische of elektrische aandrijving nodig is.
+                                 <br>
+                                 <br>
+                                 Continu rollercoder perfect voor: Batchnummer, datum & logo bedrukking..
+                                 <br>
+                                 <br>
+                                 De printer kan gemakkelijk boven het te markeren bewegende materiaal of tegen een afnemende materiaalrol worden gemonteerd.
+                                 <br>
+                                 <br>
+                                 De afdrukhoogte kan tot 25 mm zijn door gebruik te maken van verwisselbare Baselock Type of vlakke stereos.
+                                 <br>
+                                 Er zijn vier verschillende printlengtes beschikbaar tot 460 mm."
+    fncdm_title: Ontdek de Foenix Codamark
+    fncdm_text: Duidelijke en nauwkeurige productmarkering, efficiënt en economisch bereikt met de Codamark pneumatische reciprocerende printer.
+    fncdm_button: Meer informatie
+
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Duidelijke en nauwkeurige productmarkering, efficiënt en economisch bereikt met de Codamark pneumatische reciprocerende printer. Compacte reciprocerende printer voor inline en roterende vulmachines, houdbaarheidsdatum afdrukken en andere toepassingen.
+    phr_title: Pneumatische zuigerprinter
+    phr_sub_title_one: Afdrukken met een lichte aanraking
+    phr_text_one: Er kunnen hoge snelheden worden bereikt met een lage printdruk van 10-20 psi, waardoor de Codamark met een lichte aanraking kan printen zonder productschade.
+    phr_sub_title_two: Schoon inktsysteem
+    phr_text_two: Een schone, sneldrogende inktcartridge is op de printkop gemonteerd, waardoor droogtijden van seconden op de meeste oppervlakken mogelijk zijn. De verzegelde cartridge zorgt ervoor dat de operator nooit inkt aanraakt.
+    phr_sub_title_three: Codamark-gegevensbladen
+    phr_text_three: Meer informatie is beschikbaar op databladen met afmetingen, besturingssystemen en montageposities.
+    phr_sub_title_four: Quick change Baselock typehouders
+    phr_text_four: De printkop is voorzien van een typehouder die in enkele seconden kan worden verwisseld. Reservehouders kunnen worden gebruikt om het type Baselock-rubber vooraf in te stellen.
+    phr_sub_title_five: Codamark-cartridges
+    phr_sub_title_six: Kleine potten
+    phr_sub_title_seven: Grote potten
+    phr_list_text_one: CM501/38 zwarte inktcartridge
+    phr_list_text_two: CM502/38 rode inktcartridge
+    phr_list_text_three: CM503/38 groene inktcartridge
+    phr_list_text_four: CM504/38 blauwe inktcartridge
+    phr_list_text_five: CM506/38 witte inktcartridge
+    phr_list_text_six: CM505/38 gele inktcartridge
+    phr_list_text_seven: CM501/38 zwarte inktcartridge
+    phr_list_text_eight: CM502/38 rode inktcartridge
+    phr_list_text_nine: CM503/38 groene inktcartridge
+    phr_list_text_ten: CM504/38 blauwe inktcartridge
+    phr_list_text_eleven: CM506/38 witte inktcartridge
+    phr_list_text_twelve: CM505/38 gele inktcartridge
+    ps_title_one: Codamark-printerspecificatie
+    ps_sub_title_one: Model CM-MKV/25
+    ps_bp_one: "Afdrukbereik: 24mm x 24mm"
+    ps_bp_two: "Omtrekafmetingen printkop: 170mm x 155mm x 85mm"
+    ps_sub_title_two: Model CM-MKV/38
+    ps_bp_three: "Afdrukbereik: 37mm x 37mm"
+    ps_bp_four: "Omtrekafmetingen printkop: 170mm x 155mm x 85mm"
+    ps_sub_title_three: Model CM-MKV/50
+    ps_bp_five: "Afdrukbereik: 24mm x 48mm"
+    ps_bp_six: "Omtrekafmetingen printkop: 170mm x 155mm x 85mm"
+    list_one: "Efficiënt afdrukken van uiterste verkoopdatums, prijzen en codes op:"
+    list_bp_one: Kunststof bakken
+    list_bp_two: Foliedeksels
+    list_bp_three: Pakken
+    list_bp_four: Vorm flowpacks
+    list_bp_five: Glazen flessen
+    list_bp_six: Metalen blikken enz.
+    list_two: Boven-, onder- of zijmontage
+    list_three: Automatische online of offline systemen
+    list_four: Sneldrogende inktcartridge
+    list_five: Gemaakt in het VK
+    fncdp_title: Ontdek de Foenix Codaprint
+    fncdp_text: Een eenvoudige printer om uw product continu op hoge snelheid te printen met behulp van sneldrogende verzegelde inktcartridges
+
+
+
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: De Codapack-printers gebruiken allemaal vervangbare, voorgeïmpregneerde plastic-inktrollen en een verwisselbaar Baselock-type. Ze zijn eenvoudig te monteren om op de boven-, onder- of zijkant van een product te printen. Deze printers worden veel gebruikt waar geen uitvaltijd nodig is en de laagste afdrukkosten per product vereist zijn.
+                        Wanneer de code of de houdbaarheidsdatum slechts eenmaal per dag of eenmaal per week wordt gewijzigd, zijn de Codapack printers de beste.
+    ccirp_title: Contactcodeerders en inktrolprinters
+    ccirp_sub_title_one: Toepassingen
+    ccirp_text_one_html: Het meest kosteneffectieve assortiment codeermachines voor uw dozen, zakken, krimpfolietrays of continu materiaal.
+                    <br>
+                    De eenvoudige en efficiënte Codapack contactcodeermachines maken gebruik van vervangbare vooraf geïmpregneerde plastic inktrollen en verwisselbare Baselock Type om op poreuze oppervlakken te drukken.
+    ccirp_sub_title_two: Voordelen
+    ccirp_text_two: Geen onderhoud De codeerders zijn allemaal eenvoudige mechanische printers die dag in dag uit perfect printen zonder dat er onderhoud nodig is.
+    ccirp_sub_title_three: Printen op maat
+    ccirp_text_three: Veel standaard lettertypestijlen zijn beschikbaar in de Baselock-reeks, maar aangepaste afdrukstijlen, logo's en afbeeldingen zijn gemakkelijk te produceren.
+    ccirp_sub_title_four: Snelle printwissel
+    ccirp_text_four: Het wijzigen van de printtekst op de type drum is een snelle en eenvoudige klus. Kenmerken Er zijn zes verschillende printhoogtemodellen beschikbaar om aan de eisen van de klant te voldoen.
+    ccirp_sub_title_five: Laagste afdrukkosten
+    ccirp_text_five: Het gebruik van het Baselock-type en de kunststof-inktrollen met een lange levensduur zorgen voor de laagst mogelijke afdrukkosten voor het product.
+    cdp_title: Codapack-informatie
+    cdp_sub_title_one: Baselock-type
+    cdp_text_one: Een uitgebreid assortiment van Baselock-type stijlen wordt aangeboden om een bericht te creëren door het type eenvoudig in de metalen borgringen of geribbelde rubberen huls te drukken.
+    cdp_sub_title_two: Kunststof-inktrollen
+    cdp_text_two_html: Deze inktrollen kunnen snel op de Codapack-printerreeks worden geplaatst om een dichte kwaliteitsafdruk te geven op poreuze oppervlakken zoals dozen, trays en papieren zakken.
+                  <br>
+                  Deze voorinktende rollers met lange levensduur zijn wegwerpbaar en zorgen voor een schoon en efficiënt inktsysteem. Ze zijn verkrijgbaar in zwart, blauw, rood en groen.
+    cdp_sub_title_three: Vezel- en sponsrollen
+    cdp_text_three: Voor niet-poreuze oppervlakken kan een van deze rollen worden gebruikt met speciale vloeibare inkten
+    list_text_one: Dankzij de verstelbare veerbevestiging kan de printdruk worden aangepast aan de sterkte van de doos en wordt een perfecte print verkregen.
+    list_text_two: De printers zijn vervaardigd uit robuuste aluminium gietstukken en rollagers voor een lange probleemloze levensduur.
+    list_text_three: Type trommelrotatie wordt gecontroleerd om een identieke afdrukpositie op elke doos te geven.
+    list_text_four: De Codapack-reeks printers kunnen allemaal eenvoudig op een transportband worden gemonteerd met één eenvoudige montagebeugel.
+
+  support:
+    first_section_title: Ondersteuningsdocumentatie
+    sds_title: Veiligheid Informatie Bladen (VIB)
+    sds_card_title_one: FX8001
+    sds_card_text_one: Op zwarte olie gebaseerde inkt
+    sds_card_title_two: FX8201
+    sds_card_text_two: Zwarte markeringsinkt
+    sds_card_title_three: CP111
+    sds_card_text_three: Zwarte inkt op oplosmiddelbasis
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: Reiniger op oliebasis
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: Reiniger op oplosmiddelbasis
+    sds_card_title_six: CP011
+    sds_card_text_six: Zwarte markeringsinkt
+    sds_card_title_seven: CM011
+    sds_card_text_seven: Zwarte markeringsinkt
+    sds_card_title_eight: CM501
+    sds_card_text_eight: Zwarte markeringsinkt
+    sds_card_title_nine: CM500
+    sds_card_text_nine: Oplosmiddel opnieuw activeren
+    sds_button: Neem contact met ons op voor meer info
+    sds_hint: Regelgevende certificaten
+    sds_hint_two: verkrijgbaar op aanvraag
+    manuals: FX ONE Gebruikershandleidingen
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: Handleiding
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: Handleiding
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: Handleiding
+    tech_support: Neem contact op met technische ondersteuning
+
+  components:
+    yellow_button: Meer informatie
+
+  contact:
+    contact_title: Neem contact met ons op
+    contact_title_description: Neem contact op met ons team om meer te weten te komen over Foenix Coding.
+    contact_text_one: "Vraag een gratis proefafdruk aan: Stuur ons een sample van uw project."
+    contact_text_two: Gratis proefperiode van 7 dagen beschikbaar als u in het VK bent gevestigd
+    phone: Telefoon
+    phone_number: 0044 1932 701 449
+    email: E-mail
+    email_add: sales@foenixcoding.com
+    address: Adres
+    address_text_html: Foenix Coding Ltd
+                  <br>
+                  The Barns - Hilltop Farm | Lyne Lane
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  United Kingdom
+    whatsapp: Neem contact met ons op via WhatsApp
+    statement: Sluit u aan bij honderden bedrijven die al met ons samenwerken
+    talk_to_sales: Spreek met verkoop
+    email_us: U kunt ons ook rechtstreeks e-mailen op
+
+
+    contact_happy: Ons team beantwoordt graag al uw vragen.
+    icon_text: Ons team beantwoordt graag al uw vragen. Vul het formulier in en we zullen zo spoedig mogelijk contact opnemen.
+    icon_text_two: Free test print, send us a sample of your product and we will do a test print.
+    form_name: Voornaam en achternaam
+    form_email: E-mailadres
+    form_company: Bedrijf
+    form_country: Land
+    form_message: Uw bericht
+    form_phone: Telefoon
+
+  error:
+    four_four_text: Pagina niet gevonden
+    five_zero_zero_text: Sorry, er is iets misgegaan
+
+  login:
+    fpassword: Uw wachtwoord vergeten?
+    dont_have_account: Heeft u nog geen account?
+    sign_up: Registeren
+    email: E-mail
+    password: Wachtwoord
+
+  seo:
+    home_page:
+      title: "Foenix Coding: coderen en markeren vereenvoudigd"
+      description: Industriële markerings- en coderingsprinters om in hoge resolutie op elk materiaal te printen. Foenix Coding Coderen en markeren, industriële inkjet, FX One remote printer, FX One standard printer
+      keywords: "coderingsmarkering, Foenix-printer, industriële markering, industriële inkjet, dooscodering en -markering, productcodering en -markering, inkjetcodering en -markering, datumafdrukken, lotnummerprinter, barcodeprinter"
+    printers:
+      title: "Foenix industriële inkjetprinters"
+      description: Ontworpen voor goedkope codering en markering op poreuze oppervlakken, een echt alternatief voor de TIJ-coder om streepjescodes, lotnummer, logo en uiterste gebruiksdatum af te drukken
+      keywords:  Industriële inkjetprinters, inkjetcodeerders, onderdeelmarkeringssystemen, productcodering, metaalmarkeringsmachines, markeermachines, serienummerprinter, productidentificatie, print serienummer, print barcodes
+    fxone_standard:
+      title: FX ONE Standard – Beste alternatief voor TIJ-printers - Case-coder met hoge resolutie
+      description: DOntworpen voor goedkope codering en markering op poreuze oppervlakken, een echt alternatief voor de TIJ-coder om streepjescodes, lotnummer, logo en uiterste gebruiksdatum af te drukken
+      keywords: "goedkope codering, datumprinten, printen op poreuze oppervlakken, TIJ-alternatief, HP-printer, thermische inkjet, case-coder, kartoncodering, barcodeprinter, houtprinter"
+    fxone_remote:
+      title: FX ONE Remote – Beste alternatief voor CIJ-printers - Industriële inkjetprinter met hoge resolutie
+      description: Foenix-printers zijn onderhoudsarme kleinkarakterprinters met een van de laagste kosten per code. Hij biedt een echt alternatief voor complexe CIJ-printers tegen een zeer betaalbare prijs.
+      keywords: "markeermachines, industriële inkjetprinter, bedrukken op flessen, CIJ-printer, continue inkjetprinter, continue inkjetsystemen, glasprinter, metaalprinter, flessenprinter, PVC-printer"
+    fxone_plus:
+      title: FX ONE Plus – Beste alternatief voor etiketten en voorbedrukte dozen - Grootkarakterprinter
+      description: Grootkarakterprinter tot 72 mm printhoogte. Het perfecte alternatief voor beperkte etiketteersystemen voor het printen van codes, logo's en barcodes.
+      keywords: "labelprinter, barcodeprinter, thermische printer, thermische transferprinter, etiketteersysteem, barcodelabel, grootkarakterprinter, casecoder, labelprinters, dozen printen"
+    inks_and_consumables:
+      title: Foenix grote inktcartridges – Print 15+ miljoen tekens
+      description: Inkten voor toepassingen in de voedingsmiddelen-, dranken-, cosmetica-, huishoudelijke artikelen, industriële en extrusiemarkten
+      keywords: MEK-inkt, CIJ-inkt, TIJ-inktpatroon, Solvent-inkt, Olie-inkt, UV-inkt, FX8001, FX8201, Foenix-inktpatroon, Foenix-reiniger
+    distributors:
+      title: Foenix wereldwijde distributeurs
+      description: Foenix' inkjet- en Contact Coding-productassortimenten zijn verkrijgbaar via een wereldwijd netwerk van gekwalificeerde distributeurs die een totale verkoop- en ondersteuningsservice bieden.
+      keywords: coderen en markeren, inkjetprinter reparatie, Foenix distributeurs, Foenix wederverkopers, Foenix Coding training
+    cost_of_ownership:
+      title: Foenix Coding printers – de goedkoopste optie om uw producten te markeren
+      description: De FX ONE-printers bieden de laagste kosten per afdruk op de markt zonder maandelijks of jaarlijks onderhoudscontract
+    about:
+      title: Over Foenix – De experts op het gebied van coderen, markeren en traceren
+      description: Foenix Coding is een toonaangevende Britse fabrikant en wereldwijde leverancier van de nieuwste inkjetprinters voor de industrie
+      keywords: FX ONE-printer, Foenix Coding-printers, printen en aanbrengen, folieprinter, DOD-inkjet, Piezo-inkjet, Xaar-inkjetprinter, Foenix-coderingsbedrijf, Britse fabrikant
+    contact:
+      title: Neem contact op met het Foenix Coding-team
+      description: Neem contact met ons op voor meer informatie over onze industriële inkjetprinters, onze inkten en verbruiksartikelen. Neem contact op met Foenix Coding, Foenix Coding e-mail, Foenix Coding telefoon
+    faq:
+      title: FAQ - Foenix Coding
+      description: Meer informatie over het Foenix Coding assortiment printers en inkten. Sauven inktpatronen, Sauven solvent inkt, Sauven olie inkt, print database, print codes, TIJ alternatief, CIJ alternatief
+    industry:
+      title: Foenix Coding - Codeer- en markeringsoplossing voor alle industrieën
+      description: Deze codeerders zijn specifiek ontworpen voor industrieel gebruik in sectoren zoals voeding, drank, automobiel, bouw, conversie, medische apparatuur, farmaceutisch, elektronica en chemie.
+      keywords: inkjetmarkering, inkjetcoder, inkjetcodering, inkjetmarkering, farmaceutische verpakkingen, medische verpakkingen, bedrukking op buizen, bedrukking extrusie, bedrukking op flessen, bedrukking op karton
+    video:
+      title: "Video - Foenix-codering"
+      description: Kijk hoe Foenix-printers op alle items en materialen afdrukken.
+    legal:
+      title: "Juridisch - Foenix-codering"
+      description: Bekijk ons Cookie- en Privacybeleid.
+    jobs:
+      title: "Vacatures: Foenix coding groeit. Sluit u bij ons aan!"
+      description: We zijn altijd op zoek naar getalenteerde nieuwe vrienden die onze visie delen om de industrie vooruit te helpen
+    posts:
+      title: Nieuws en evenementen
+      description: Ontvang het laatste nieuws en evenementen
+    software:
+      title: Foenix FX APP – Softwareoplossingen voor de codeer- en markeerindustrie
+      description: De FX APP van Foenix Coding stelt u in staat om berichten in recordtijd te ontwerpen via de gebruiksvriendelijke interface. Beste traceerbaarheidssoftware
+      keywords: Labelsoftware, Labelsoftware, NiceLabel, FX APP, Houdbaarheidsdatum, teller, lotnummer, logo, barcodes
+    contact_coders:
+      title: Contactcodeerders - Traditionele goedkope markering
+      description: Kosteneffectieve printers en oplossingen voor traditionele, goedkope contactcodeer- en markeerprinters
+      keywords: Contactcodeer-, markeermachines en contactrollerprinters
+    foenix_codaprint:
+      title: Foenix Codaprint - Eenvoudige printer voor herhaald afdrukken
+      description: Foenix Codaprint een betrouwbare continuprinter van voor het markeren met hoge en lage snelheid van metaal, plastic, glas, karton
+      keywords: Doorlopende rolprinter, batchnummer, plastic, dozen, Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - Multifunctionele productprinter
+      description: Compacte reciprocerende printer voor inline en roterende vulmachines, houdbaarheidsdatum afdrukken en andere toepassingen.
+      keywords: Compacte reciprocerende printer, houdbaarheidsdatum, Codamark
+    foenix_codapack:
+      title: Foenix Codapack - Kosteneffectieve dozencodeermachines
+      description: Los uw problemen met het afdrukken van dozen op met codapack-contactcodeerders met behulp van een plastic inktroller en baselock-rubber van Foenix Coding
+      keywords: Contactcodeerders, plastic inktrolprinters, Baselock Codapack
+    support:
+      title: Foenix-codering - Ondersteuningsdocumentatie
+      description: Foenix Coding gebruikershandleiding en informatiegidsen voor meer informatie over onze contact- en inkjetprintoplossingen
+      keywords: Foenix Coding gebruikershandleiding, Foenix informatiegidsen, Inkjet Printing, FX ONE gebruikershandleiding, Foenix technische handleiding, FOENIX MSDS
+
+  news:
+    latest: Nieuwste verhaal
+    news: Nieuws/evenementen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

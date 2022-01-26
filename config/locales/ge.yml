@@ -1,0 +1,1311 @@
+ge:
+  navbar:
+    home: Startseite
+    products: Produkte
+    services: Beratung & Unterstützung
+    company: Unternehmen
+    admin: Verwaltung
+    countries: Länder
+    jobs: Stellen
+    posts: Stellenangebote
+    login: Anmeldung
+    logout: Abmelden
+    contact: Kontaktieren Sie uns
+    contact_o: Kontakt
+    printers: Drucker
+    printer_one: FX ONE Standard
+    printer_two: FX ONE Remote
+    printer_three: FX ONE Plus
+    software: Programm
+    inks: Druckerpatronen und Verbrauchsmaterial
+    distributors: Weltweite Vertriebspartner
+    cost: Gesamtkosten
+    FAQ: Häufig gestellte Fragen
+    about: Informationen zum Thema
+    careers: Karrieren
+    news: Nachrichten und Veranstaltungen
+    privacy_policy: Datenschutz
+    cookie_policy: Cookie-Richtlinie
+    phone: 0044 1932 701 449
+    email: sales@foenixcoding.com
+    address: Chertsey | Surrey | KT16 0AW | Vereinigten Königreich
+    printers: Drucker
+    contact_coders: Kontakt-Codierer
+    codaprint: Foenix Codaprint
+    codamark: Foenix Codamark
+    codapack: Foenix Codapack
+    support: Unterlagen zur Unterstützung
+    industry: Industrie
+    video: Video
+    demo: Vorschau anfordern
+    bar: Geben Sie nicht länger ein Vermögen für Tintenpatronen und Wartungsverträge aus! Foenix-Drucker bieten die branchenweit niedrigsten Betriebskosten und die geringsten Kosten pro Druck
+    legal: Rechtliches
+
+  cookie_bar:
+    content: Durch die Nutzung dieser Internetseite erklären Sie sich mit unserer
+    cookie_policy: Cookie-Richtlinie
+
+  simple_form:
+    hints:
+    placeholders:
+      search:
+        name: Suche
+    prompts:
+      search:
+        team: Teams
+        country: Standort
+        job_type: Typ
+
+  jobs:
+    title: FOENIX CODING wächst weiter
+    tagline: Wir sind immer auf der Suche nach talentierten neuen Freunden, die unsere Vision teilen, die Grenzen der Branche zu erweitern
+
+  jobs_show:
+    roles_at: Aufgaben bei
+    apply_now: Jetzt bewerben
+    you_will: Sie werden
+    we_are_looking: Wir sind auf der Suche nach jemandem, der
+    we_look_forward: Wir freuen uns darauf, von Ihnen zu hören
+
+  faq:
+    title: Häufig gestellte Fragen
+    tagline: Klicken Sie einfach auf einen der unten stehenden Abschnitte, um eine Antwort zu finden. Wir sind für Sie da. Wenn Sie keine Antwort auf Ihre Frage finden können, wenden Sie sich bitte an
+    contact: Kontaktieren Sie uns
+    title1: Was ist der FX ONE Drucker?
+    desc1: Der FX One ist ein Multifunktionsdrucker, der für jedermann geeignet ist. Keine Fachkenntnisse erforderlich. Er ist in wenigen Minuten eingerichtet und kann auf den meisten Produktionslinien eingesetzt werden. Was kann er? Er kann praktisch jedes Produkt bedrucken, von einem einfachen Haltbarkeitsdatum bis hin zu einer komplexen Seriennummer, einem laufenden Zähler, Datum und Uhrzeit oder einem Schichtcode, einem Strichkode und vielem mehr.  Zusätzlich zu diesen Funktionen wird der FX One mit Aktualisierungen geliefert, um Ihnen die neuesten Entwicklungen und Anwendungen im Bereich der Kodierung und Kennzeichnung zu bieten. Sehen Sie sich dieses 
+    desc1vid: Video
+    desc1end: um zu sehen, wie einfach zu bedienen und leistungsfähig es wirklich ist.
+    title2: Welche Sprache(n) unterstützen Sie?
+    desc2: Sie können in jeder Sprache ohne Einschränkung drucken
+    desc2end: Die Programmoberfläche unterstützt 16 Sprachen, aber wir werden bald weitere Sprachen hinzufügen.  Wenn Sie Sprachwünsche haben, senden Sie diese bitte an sales@foenixcoding.com
+    title3: Was sind die Abmessungen?
+    desc3: Es ist 242mm x 178mm x 90mm oder wenn Sie es bevorzugen 9,52 Zoll x 7 Zoll x 3,54 Zoll.
+    title4: Wo kann ich offizielle Foenix-Vertriebspartner finden?
+    desc4_1: Durch unser großes Vertriebsnetzwerk sind wir auf allen Kontinenten vertreten und können die Drucker in fast jedem Land anbieten!!
+    desc4_2: Wir sind der Meinung, dass wir eine gleichbleibende Produktqualität und den besten Kundenservice nur dann vollständig garantieren können, wenn wir sie über unsere lokalen Vertreter anbieten.
+    desc4_3: Unsere bestehende Händlerliste reicht von kleinen Ein-Personen-Unternehmen bis hin zu internationalen Konzernen. Unsere Erfahrung hat gezeigt, dass nicht die Größe, sondern das Engagement, die umfassende Kenntnis des lokalen Marktes und die entsprechenden Kontakte und Kompetenzen die Schlüsselfaktoren für den Erfolg sind.
+    desc4_4: Unsere Vertriebspartner sind immer für Sie da und bieten
+    desc4_5: Sofortige, professionelle Unterstützung in Ihrer Zeitzone und Sprache.
+    desc4_6: Schneller und kostengünstiger Versand.
+    desc4_7: Einen zuverlässigen lokalen Garantieservice.
+    desc4_8: Bitte zögern Sie nicht  
+    desc4_9: uns zu kontaktieren
+    desc4_10: wenn Sie Fragen haben oder weitere Informationen über unsere Vertriebspartner erhalten möchten.
+    title5:  Warum kann ich nicht anmelden?
+    desc5: Unsere Anmeldeseite ist nur für unsere bestehenden Vertriebspartner verfügbar, um ihnen Zugang zu ihrem personalisierten Bedienfeld zu geben. Es ist nicht möglich, dass andere Personen Zugang zu dieser Seite haben. Wenn Sie ein FOENIX Vertriebspartner sind und noch keinen Zugang zu Ihrem Bedienfeld haben, lassen Sie es uns bitte wissen.
+    title6: Kann ich eine kostenlose Testversion erhalten, bevor ich kaufe? 
+    desc6_1: Wenn Sie Ihren Wohnsitz in Vereinigten Königreich haben, Ja
+    desc6_2: Sie können eine kostenlose, siebentägige Testversion erhalten.
+    desc6_3: Während der kostenlosen Testphase haben Sie Zugang zu allen Funktionen des Druckers und können die Kosten pro Druck überwachen und rasch feststellen, wie viel Geld Sie mit unserem Drucker sparen können.
+    desc6_4: Die kostenlose Testversion ist abhängig von Verfügbarkeit.
+    title7: Wenn ich mehrere Foenix-Drucker besitze - Standard- oder Remote-Drucker - benötige ich dann für jeden Drucker eine eigene Programmausstattung?
+    desc7: Nein. Alle unsere Drucker sind voll kompatibel mit unserer Programmausstattung. Unabhängig davon, welches Modell Sie verwenden, können Sie alle Ihre Drucker über die FX APP überwachen.
+    title8: Was sind die Unterschiede zwischen dem FX ONE Standard und dem FX ONE Remote Drucker?
+    desc8_1: Der FX One Standard ist der perfekte Drucker für alle Kodieranwendungen. Er verwendet ölbasierte Tinte für poröse Oberflächen und liefert hervorragende Ergebnisse beim Bedrucken von Kartonseiten.
+    desc8_2: Sie können alles drucken, von 8 Zeilen einfachem Text bis hin zu variablen Strichcodes, Verfallsdaten, Logos, Schichten, Zählern, externen Daten aus Datenbanken, QR-Kodes...
+    desc8_3: Dieser Drucker druckt in hoher Auflösung mit einer Druckhöhe von 18 mm.
+    desc8_4: Es hat die niedrigsten Kosten pro Druck auf dem Markt, es ist der effizienteste Weg für Sie, Informationen auf einen Karton zu drucken.
+    desc8_5: Der FX One Remote verfügt außerdem über einen hochauflösenden Druckkopf mit 18 mm Höhe.
+    desc8_6: Der Remote-Drucker ist in 2 Modellen erhältlich, entweder mit manuellem oder mit motorisiertem Verschluss.
+    desc8_7: Dieser Drucker arbeitet entweder mit Tinte auf Ölbasis für poröse Oberflächen (wie Karton, Papier, Holz...) oder mit Tinte auf Lösungsmittelbasis für nicht poröse Oberflächen (wie Plastik, Metall, Glas...).
+    desc8_8: Sie können mit diesem Drucker praktisch alle Produkte bedrucken.
+    title9_1: FX ONE Remote
+    title9_2: Motorisierter oder manueller Verschluss, was ist der Unterschied?
+    desc9: Der FX ONE Remote-Drucker verfügt über einen Verschluss zum Schutz des Druckkopfes. Bei der motorisierten Version schließt sich der Verschluss nach dem Druck automatisch. Bei der manuellen Version müssen Sie den Verschluss zu Beginn des Tages manuell öffnen und am Ende des Tages, wenn die Produktion beendet ist, manuell schließen.
+    title10: Kann ich auf der Oberseite eines Produkts drucken?
+    desc10: Ja, mit dem ferngesteuerten Druckkopf und Sie können technisch in jedem Winkel drucken
+    title11: Welche Art von Tinte bieten Sie an? 
+    desc11_1: Wir haben qualitativ hochwertige, kontrollierte Tinten, die geruchlos sind und nicht auf M.E.K. basieren. Die Piezo-Technologie, die in den FX ONE Druckern verwendet wird, benötigt nur eine einzige versiegelte Tintenpatrone und kein zusätzliches Lösungsmittel zum Nachfüllen. Dies reduziert die Betriebskosten erheblich. 
+    desc11_2: Wir bieten Tinte auf Ölbasis für den Druck auf porösen Materialien (Schalen, Karton, Holz...) und Tinte auf Lösungsmittelbasis für den Druck auf nicht porösen Materialien (Metall, Kunststoff, Glas...) an
+    title12: Gibt es Wartungsverträge?
+    desc12_1: Es gibt keine kostspieligen Wartungsverträge.
+    desc12_2: Foenix-Drucker werden mit minimalen Komponenten hergestellt, um maximale Zuverlässigkeit zu gewährleisten. Keine Pumpen, keine Ventile, keine Druckluft, keine Tröpfchenaufladung und keine Luftfilter bedeuten sehr geringen Wartungsaufwand.
+    title13: Wie kann ich sicher sein, dass ich mit dem FX ONE Drucker Geld sparen werde?
+    desc13_1: Unsere Programme können die Anzahl der Drucke pro Patrone und die Kosten pro Druck für jede Nachricht, die Sie mit der FX APP erstellen, berechnen.
+    desc13_2: Es ist ein sehr leistungsfähiges Werkzeug, weil Sie sehen können, wie viel Geld Sie durch den Einsatz unseres Druckers sparen werden. Sie haben immer die Kontrolle über Ihre Kosten
+
+  home:
+    # FIRST SECTION
+    title: Kodierung und Kennzeichnung
+    title_bottom: Hergestellt
+    mobile_title: Kodieren und Markieren Hergestellt
+    play: Video abspielen
+    download: Broschüren herunterladen
+    title_span1: Einfach
+    title_span2: Zuverlässig
+    title_span3: Vielseitig
+    title_span4: Vielseitig
+    title_description: Der FX ONE Printer ist ein hochauflösender, kompakter Tintenstrahldrucker zum Bedrucken von Chargennummern, Haltbarkeitsdaten, Text, Logos und Strichkodes auf allen Arten von Materialien wie Kartons, Schalen, Flaschen, Plastikbeuteln, Folien, Lebensmittelverpackungen, Dosen, Spritzgussteilen und praktisch jedem Produkt.
+    #SECOND SECTION
+    title_second: Eine neue Generation von wartungsfreien Tintenstrahldruckern
+    title_second_description: HERGESTELLT IN GROSSBRITANNIEN
+    second_section_one_title: Verpackung & Kodierung
+    second_section_one_description: Kleiner oder großer Druck für Ihre Primär- und Sekundärverpackung
+    second_section_two_title: Für alle Industriebereiche
+    second_section_two_description: Hochauflösende & stark haftende Kennzeichnungslösung für jede Industrie
+    second_section_three_title: FX APP Anwendungsprogramme
+    second_section_three_description: Erweiterte Druckerverwaltung & Optimierung von Druckprozessen
+    #THIRD SECTION
+    third_section_title: Was ist Kodierung und Kennzeichnung?
+    third_section_description: Unter Kodierung und Markierung versteht man das Aufdrucken variabler Informationen auf Produkte während des Herstellungsprozesses.
+    first_image: Herstellungs-, Chargen- und Datumskodes
+    second_image: Strichkodierung
+    third_image: Markennamen und Produktinformation
+    fourth_image: Rückverfolgbarkeit Track & Trace
+    third_section_statement_one: Foenix Coding weiß, wie wichtig eine ununterbrochene Produktionslinie ist.
+    third_section_statement_two: Wir haben es uns zur Aufgabe gemacht, den zuverlässigsten Drucker auf dem Markt zu entwickeln.
+    #FOURTH SECTION
+    box_coding_title: Kodierung des Kartons
+    box_coding_description: Die häufigste Anwendung ist die Kodierung von Kartons. Mit dem FX ONE Standard und FX ONE Plus brauchen Sie keine teuren Etiketten mehr. Verwenden Sie den FX ONE Drucker für den hochauflösenden Druck direkt auf Kartons, Schalen, Säcke oder andere Produkte in einer Produktionslinie, um den Bedarf an kostspieligen vorgedruckten Verpackungen oder teuren Etiketten zu eliminieren. Kleine Losgrößen und Kundenwünsche nach personalisierten Texten, Grafiken und Strichkodes lassen sich problemlos erfüllen.
+    product_coding_title: Produkt-Kodierung
+    product_coding_description: Typische Anwendungen sind die Kodierung von Einzelverpackungen wie Flaschen, kleinen Kartons, Fässern, Dosen, Gläsern, Packungen, Beuteln, Folien, usw. Die meisten unserer Kunden für die Produktkodierung sind in der Regel Unternehmen, die eine Alternative zum CIJ ( Kontinuierlicher Tintenstrahldruck) suchen. Preis, Benutzerfreundlichkeit und geringer Wartungsaufwand sind die Motivationsfaktoren. Hier setzen wir stets den FX ONE Remote-Drucker ein, einen echten Multifunktionsdrucker für alle Industriebereiche, einschließlich Lebensmittel, Getränke, Pharma und Elektronik. Der FX ONE ist auch ideal für die Kennzeichnung von Extrusionsprodukten, das Bedrucken von Bändern und andere industrielle Anwendungen.
+    fifth_section_title_html: "Konzipiert für <span class='text-orange'>Industrielle</span> Nutzung & <span class='text-orange'>Niedrige Anschaffungskosten</span> Tintenstrahldruck"
+    fifth-section_description_one: In den letzten Jahren hat Foenix stark in die Entwicklung einer Reihe von wartungsfreien industriellen Tintenstrahldruckern investiert. Diese Drucksysteme sind speziell für den industriellen Einsatz in Bereichen wie Lebensmittel, Getränke, Automobil, Bauwesen, Verarbeitung, medizinische Geräte, Pharma, Elektronik und Chemie konzipiert.
+    fifth-section_description_two: Dank des cleveren Designs haben die FX ONE-Tintenstrahldrucker einen bemerkenswert niedrigen Tintenverbrauch und bieten daher eine der niedrigsten Kosten pro Druck auf dem Markt. Reduzierte Druckkosten - typischerweise zwischen 50% und 80%
+    food: Lebensmittel
+    cosmetics: Kosmetika
+    extrusion: Strangpressverfahren
+    automotive: Automobilindustrie
+    beverage: Automobilindustrie
+    pharmaceutical: Pharmazeutische Produkte
+    electronics: Elektronik
+    construction: Bauwesen
+    packaging: Verpackung
+    industrial_parts: Industrielle Teile
+    chemicals: Chemikalien
+    and_many_more: Und vieles mehr
+    inks_title: Große Auswahl an Tinten
+    inks_description: Wir bieten Tinten mit hoher Haftkraft und hohem Kontrast für die meisten Anwendungen. Verschiedene Tinten ermöglichen den Druck auf nicht poröse Materialien (Kunststoff, Glas, Metall...) oder poröse Oberflächen (Karton, Holz, Gips...). Eine große Auswahl an Farben sowie UV-lesbare und UV-härtbare Tinten sind verfügbar.
+    become_distributor_title: Werden Sie Vertriebspartner von Foenix Coding
+    become_distributor_description: Wir laden derzeit Unternehmen ein, unserem internationalen Vertriebspartner-Netzwerk beizutreten
+    eight_section_title_one: Leistungsstarke Intelligente Software-Steuerung
+    eight_section_description_one: Die FX APP Anwendungsprogramm ist auf dem Rechner und auf unserem maßgeschneiderten FX ONE Touch Steuereinheit verfügbar. Der FX ONE Touch Steuereinheit ist für die Steuerung eines oder mehrerer FX ONE Druckermodelle konzipiert. Die Steuerung ermöglicht die Erstellung von Nachrichten, die Speicherung und die Verwaltung von Druckern in einem kleinen, robusten Gehäuse. Er kann an einem geeigneten Ort fest montiert werden und ist tragbar, so dass er leicht von einem Drucker zum anderen mitgenommen werden kann. Die Benutzeroberfläche wurde so gestaltet, dass sie einfach zu bedienen ist und der PC-Version entspricht.
+    eight_section_title_two: Kostenlose Testversion & Testdrucke
+    eight_section_description_two_html: "Wenn Sie in den Vereinigten Königreich ansässig sind, können Sie eine kostenlose siebentägige Testversion erhalten. Während der kostenlosen Testphase haben Sie Zugriff auf alle Funktionen des Druckers und können die Kosten pro Druck überwachen und schnell feststellen, wie viel Geld Sie mit unserem Drucker sparen können.<br><br>Wenn Sie die Einfachheit und Qualität des FX ONE Druckers aus erster Hand erfahren möchten, kontaktieren Sie uns noch heute! <br><klein>* Der kostenlose Probebetrieb ist abhängig von der Verfügbarkeit.</klein><br><br> Wo auch immer auf der Welt Sie sich befinden, können Sie uns ein Muster Ihres Produktes schicken und wir werden hochauflösende Testdrucke durchführen."
+
+  newsletter:
+    card_title: Schließen Sie sich uns an, wir stellen ein!
+    card_text: Sind Sie bereit für eine berufliche Veränderung und möchten in einem Start-up-Unternehmen mit großen Zielen arbeiten? Schließen Sie sich uns an!
+    title: Erhalten Sie den neuesten Newsletter
+    text: Melden Sie sich an, um E-Mail-Updates zu neuen Produktankündigungen, technischen Updates, Messen, an denen wir teilnehmen, und mehr zu erhalten.
+    button: Offene Stellen anschauen
+    placeholder: Geben Sie Ihre E-Mail-Adresse ein, um sich anzumelden
+    unsubscribe: Sie können sich jederzeit wieder abmelden.
+    privacy: Lesen Sie unsere Datenschutzrichtlinien
+
+  about:
+    title: Einblicke in Foenix Coding
+    first_section_title_one: WER WIR SIND
+    first_section_text_one: Foenix Coding ist ein führender Hersteller und weltweiter Lieferant der neuesten Tintenstrahldrucker für die Lebensmittel-, Getränke-, Pharma-, Industrie- und Elektronikindustrie zur Produktkennzeichnung, -markierung, -bedruckung und -identifizierung in der Produktionslinie.  Seit mehr als 5 Jahren hat sich Foenix weltweit einen guten Ruf für Qualität und Kreativität, kombiniert mit Kosteneffizienz und geringem Wartungsaufwand bei der Konstruktion unserer Drucker, erworben.
+    first_section_title_two: DAS UNTERNEHMEN
+    first_section_text_two: "Foenix Coding ist bekannt für seine industriellen Tintenstrahldrucker, die auf die Entwicklung und Herstellung von wartungsfreien Tintenstrahlsystemen spezialisiert sind. Damit ein britischer Hersteller weltweit erfolgreich sein kann, müssen wir viel mehr tun, als nur ein wettbewerbsfähiges Produkt anbieten. Das clevere Design von Foenix hat zu einer radikalen Reduzierung der Komponenten im Inneren seiner Drucker geführt. Dieser Ansatz hat zu einer Senkung der Herstellungskosten sowie zu einer Erhöhung der Zuverlässigkeit der Drucker geführt, was Foenix zu einem inspirierenden weltweiten Marktteilnehmer macht."
+    first_section_title_three: DER MARKT
+    hiring_title: Schließen Sie sich uns an, wir stellen ein!
+    hiring_text: Sind Sie bereit für eine berufliche Veränderung und möchten in einem Start-up mit großen Ambitionen arbeiten? Schließen Sie sich uns an!
+    view_openings: Offene Stellen anschauen
+    our_values_title: UNSERE WERTE
+    our_values_text: "Die Produkte von Foenix basieren auf den Grundwerten des Unternehmens: Innovation, Design und Qualität."
+    ov_card_title_one: INNOVATION
+    ov_card_text_one_html: "Piezoelektrische Tintenstrahldrucker bieten die höchste Druckqualität aller Drucktechnologien und sind gleichzeitig einfach zu warten, so dass sie ein Höchstmaß an Betriebszuverlässigkeit bieten.
+                           <br>
+                           Sein konsistenter Druck gewährleistet eine zuverlässige Lesbarkeit auf den Produkten."
+    ov_card_title_two: DESIGN
+    ov_card_text_two_html: "Tintenstrahldrucker werden oft als komplexe Lösung konzipiert, was zu unnötig komplexen Wartungsroutinen führt.
+                           <br>
+                           Foenix hat seine Tintenstrahldrucker mit minimalen Komponenten entwickelt, um die Betriebszeit zu maximieren und den Wartungsaufwand zu minimieren."
+    ov_card_title_three: QUALITÄT
+    ov_card_text_three: Alle unsere Produkte, Drucker, Tinten und Verbrauchsmaterialien werden im Vereinigten Königreich hergestellt und sind für eine lange Lebensdauer ausgelegt. Die Programme und Betriebssysteme wurden in Zusammenarbeit mit Fachleuten aus der Fertigungs- und Verpackungsbranche entwickelt, um sie bei ihren täglichen Herausforderungen zu unterstützen, z. B. beim Drucken von Mindesthaltbarkeitsdaten, Chargencodes, 2D-Strichkodes, grafischen Logos und anderen Anforderungen.
+    whats_next_title: WAS IST NÄCHSTES
+    whats_next_text_html: "Nach dem globalen und exponentiellen Wachstum der letzten Jahre konzentriert sich Foenix Coding auf die Stärkung des bestehenden Vertriebsnetzes.
+                          <br>
+                          Das Forschungs- und Entwicklungsteam arbeitet mit Hochdruck an der neuen Generation von FX ONE Druckern mit größerer Druckhöhe, mehreren Druckköpfen und einer Reihe von benutzerfreundlichen Kommunikationsfunktionen."
+
+
+    first_section_text_three: Die Drucker von Foenix bieten kostensparende Lösungen für die Kodierung sowohl von Primär- als auch von Sekundärverpackungen. Dazu gehören Etikettenersatz und Alternativen für TIJ ( Thermischer Tintenstrahl) und CIJ ( Kontinuierlicher Tintenstrahl). Unsere Drucker sind anders, weil sie eine andere Technologie verwenden. Daher können Foenix-Drucker als alternative Lösung angeboten werden. Gleichzeitig fügen sie sich problemlos in jede Produktpalette von Kodier- und Kennzeichnungslösungen ein.
+    second_section_title: Unser Leitsatz
+    second_section_text: "Foenix Coding ist ein in Vereinigtes Königreich ansässiges Unternehmen und alle unsere Produkte werden im Vereinigten Königreich hergestellt. Wir haben eine Leidenschaft für neue Technologien und innovative Drucklösungen und unser Team besteht ausschließlich aus Experten auf dem Gebiet der Tintenstrahldrucktechnologie. Wir sind alle ehemalige Mitarbeiter von Sauven Marking und haben all unsere Fähigkeiten, Erfahrungen, Kenntnisse, Fachwissen und vor allem unseren Enthusiasmus in dieses neue Abenteuer mitgebracht."
+    second_section_text_two: Unser Ziel ist es, unsere hochwertigen und einfachen Drucker für jeden auf der Welt zugänglich zu machen. Wir sind hier, um Ihnen zu helfen, die Effizienz Ihrer Produktionslinie zu steigern und Ihnen bei Ihren Herausforderungen im Bereich der Produktrückverfolgbarkeit zu helfen. 
+    second_section_text_three: Ihre komplexen Kodierungs- und Kennzeichnungsherausforderungen erfordern keine komplexen und teuren Lösungen.
+    third_section_title: Wir konzentrieren uns auf die Bedeutung der Betriebskosten im industriellen Druck.
+    third_section_text: Ganz gleich, ob Sie einen Tintenstrahldrucker für die Kodierung oder die Produktkennzeichnung brauchen, bei der Investition in den Druck geht es nicht mehr nur um den Preis des Druckers. Verbrauchsmaterialien und Wartung sind zu den wichtigsten Faktoren geworden, die Ihre Betriebskosten bestimmen.
+    fourth_section_text_right: Foenix Coding bietet eine Reihe von Druckern an, die die Betriebskosten niedrig halten. Wir verfolgen eine Philosophie der Null-Wartung für den Kleinzeichendruck. Wir bemühen uns auch darum, die benutzerfreundlichsten Industriedrucker anzubieten. Foenix-Drucker arbeiten mit einer einfachen Windows-PC-Software mit bebilderten Tasten und/oder einem hochentwickelten und intuitiven Touch-Steuergerät.
+    fifth_section_title: Hergestellt im Vereinigten Königreich und gebaut für Langlebigkeit
+    fifth_section_text_one: "Alle unsere Produkte - Drucker, Tinten, Verbrauchsmaterialien - werden im Vereinigten Königreich hergestellt. Die Programme und Betriebssysteme wurden in Zusammenarbeit mit Fachleuten aus der Fertigungs- und Verpackungsbranche entwickelt, um sie bei ihren täglichen Herausforderungen zu unterstützen, z. B. beim Drucken von Mindesthaltbarkeitsdaten, Kodes, 2D-Strichkodes, grafischen Logos und anderen Anforderungen."
+    fifth_section_text_two: "Unser Angebot an industriellen Xaar-basierten Tintenstrahldruckern sind wartungsfrei. Sie sind speziell für den industriellen Einsatz in Bereichen wie Lebensmittel, Getränke, Automobil, Bauwesen, Verarbeitung, medizinische Geräte, Pharmazie, Elektronik und Chemie konzipiert..."
+
+  inks_and_consumables:
+    first_section_text: Große Tintenpatronen
+    first_section_text_two: Der FX ONE Drucker ist mit vielen verschiedenen Tintentypen kompatibel und damit der vielseitigste Drucker auf dem Markt. Drucken Sie auf jedem Substrat und mit bis zu 15 Millionen Zeichen pro Patrone. Wir bieten die größte Auswahl an Tintenstrahlflüssigkeiten, um auch die speziellsten Kundenanwendungen zu erfüllen
+    inks_card_title_one_html: "Hohe Haftkraft<span class='text-orange'>.</span>"
+    inks_card_text_one: Speziell für die PVC-Extraktion entwickelte Tinte mit hohem Haftvermögen. Erzielen Sie eine noch nie dagewesene Druckqualität auf PVC-Rohren.
+    inks_card_title_two_html: "Breite Palette an Tinten<span class='text-orange'>.</span>"
+    inks_card_text_two: Verschiedene Tinten ermöglichen den Druck auf nicht poröse Materialien (Kunststoff, Glas, Metall) oder poröse Oberflächen (Karton, Holz, Gips). Große Auswahl an Farben sowie UV-lesbare und UV-härtbare Tinten.
+    inks_card_title_three_html: "Hoher Kontrast<span class='text-orange'>.</span>"
+    inks_card_text_three: Höchster Kontrast auf dunkleren Produkten dank unserer Auswahl an pigmentierten Tinten. Stellen Sie sicher, dass Ihre Kodes sowohl auf dunklen als auch auf hellen Substraten hervorstechen.
+    grid_title_one: Versiegelte Tintenpatrone
+    grid_text_one: Eine integrierte und austauschbare Tintenpatrone sorgt für ein sauberes, kontaminationsfreies Tintensystem. Unsere Tinten haben eine ausgezeichnete Haftung und einen hervorragenden Kontrast auf einer Vielzahl von porösen und nicht porösen Materialien wie Karton, Metall, Glas, Papier, Holz und vielen Kunststoffen. Unsere Tinten bieten eine hervorragende Leistung unter den meisten gängigen Anwendungsbedingungen.
+    grid_title_two: Produktionsfreundliche Druckfarben
+    grid_text_two:  Für Anwendungen in der Lebensmittel-, Getränke-, Kosmetik-, Haushaltswaren-, Industrie- und Extrusionsbranche haben wir qualitativ hochwertige, kontrollierte Druckfarben, die praktisch geruchlos sind und nicht auf M.E.K. basieren. Wir bieten auch farbige Druckfarben an.
+    grid_title_three: HDPVC-Tinten für die Extrusion von PVC-Rohren
+    grid_text_three: Wir bieten jetzt eine Tinte mit hohem Haftvermögen an, die speziell für die PVC-Extrusion entwickelt wurde. Erzielen Sie eine noch nie dagewesene Druckqualität auf PVC-Rohren.
+    grid_title_four: Einfaches Tintensystem
+    grid_text_four: Der Tintenvorrat befindet sich in einem praktischen Patronensystem, das an der Rückseite des Geräts angebracht ist. Das Auswechseln der Tintenpatrone ist einfach und sauber und kann in wenigen Sekunden durchgeführt werden, ohne den Druckvorgang zu unterbrechen. Verpassen Sie nie einen Druck und erhalten Sie immer eine hochauflösende Druckqualität, die zu Ihrem Produktbild passt
+    lowest_ink_title: Niedrigster Tintenverbrauch auf dem Markt
+    lowest_ink_text: Ganz gleich, ob Sie einen Tintenstrahldrucker für die Kodierung oder die Produktkennzeichnung suchen, die Investition in den Druck ist nicht mehr nur eine Frage des Druckerpreises. Verbrauchsmaterialien und Wartung sind zu den wichtigsten Faktoren geworden, die Ihre Betriebskosten bestimmen. Dank des cleveren Designs haben die Piezo-Tintenstrahldrucker einen bemerkenswert geringen Tintenverbrauch und bieten daher sehr niedrige Kosten pro Druck.
+    # NEW
+    standard_ink_one: Unser Standard-Tintensortiment
+    standard_ink_two: für alle Ihre Anwendungen
+    sdct_one_html: "FX 8001<br>Schwarze Ölfarbe"
+    sdct_text_one: Für Karton, Papier, Holz und alle anderen porösen Untergründe
+    sdct_two_html: "FX8201<br>Schwarze Lösemitteltinte"
+    sdct_text_two: Für die meisten Substrate wie PVC, Metall, Glas, Kunststoff und alle anderen nicht porösen Oberflächen
+    sdct_three_html: "FX8203<br>Blaue Lösemitteltinte"
+    sdct_text_three: Gleiche Verwendung wie die nicht poröse Tinte FX8201 für Primärverpackungen
+    sdct_four_html: "FX8308<br>Rote Lösemitteltinte"
+    sdct_text_four: Gleiche Verwendung wie die nicht poröse Tinte FX8201 für Primärverpackungen
+    sdct_five_html: "FX 8206<br>Weiße Lösemitteltinte"
+    sdct_text_five: Pigmentierte Tinte für dunkle, nicht poröse Oberflächen
+    sdct_six_html: "FX8311<br>Gelbe Lösemitteltinte"
+    sdct_text_six: Pigmentierte Tinte für dunkle, nicht poröse Oberflächen
+    sdct_seven_html: "FX8236<br>Schwarze UV-härtende Tinte"
+    sdct_text_seven: Nicht-poröser Substrat mit sofortiger Trocknungszeit
+    sdct_eight_html: "FX8235<br>UV-lesbare Tinte"
+    sdct_text_eight: Unsichtbare Tinte, nur unter einer UV-Lampe sichtbar
+    # NEW
+    special_ink_title: Benötigen Sie eine spezielle Tinte?
+    special_ink_title_two: Wir können helfen!
+    special_ink_text_one: Ölbasierte Druckfarben
+    special_ink_text_two: Lösemittelbasierte Druckfarben
+    special_ink_text_three: Pigmentierte Tinten
+    special_ink_text_four: UV-härtbare && UV-lesbare Tinten
+    stay_informed_title: Bleiben Sie informiert über unsere neuesten Tintenentwicklungen
+    stay_informed_text: Melden Sie sich an, um als Erster zu erfahren, wenn wir eine neue Tinte auf den Markt bringen.
+
+
+  distributor:
+    first_section_title: Globale Präsenz
+    first_section_text: Wo auch immer Sie sich auf der Welt befinden, einer unserer Vertriebspartner ist in Ihrer Nähe. Wir sind auf allen Kontinenten vertreten und bieten Unterstützung in Ihrer Sprache und Zeitzone.
+    second_section_title: Foenix hat Vertriebspartner in
+    why_partner_title: Warum eine Partnerschaft mit
+    why_partner_title_two: Foenix Coding
+    why_partner_text_html: 'WAS UNTERSCHEIDET FOENIX CODING VON DER KONKURRENZ?
+                           <br>
+                           Foenix Coding ist immer noch ein "Start-up", das von einem festen Kern von Leuten geführt wird, die die Produkte, das Unternehmen und die Kunden genau kennen.
+                           <br>
+                           <br>
+                           Bei der Arbeit mit Foenix Coding können Sie folgendes erwarten:'
+    first_list_one: Konkurrenzfähige Preise im Vergleich zu direkten Wettbewerbern
+    first_list_two: Attraktive Gewinnspannen für Vertriebspartner
+    first_liste_three: Flexibilität in den Verfahren
+    first_liste_four: Flexibilität in der Produktionszeit
+    first_liste_five: Flexibilität bei den Lieferzeiten
+    second_list_one: Persönlicher Ansatz
+    second_list_two: Aktive Beteiligung der Direktoren
+    second_list_three: Unterstützung für Messen und Ausstellungen
+    second_list_four: Unterstützung für Testdrucke
+    second_list_five: Unterstützung für Schulungsprogramme
+    second_list_six: Technologie-Updates
+    third_list_one: "Technische Kompetenz: Mit Druckern in mehr als 60 Ländern haben wir nahezu jede Anwendung gesehen"
+    third_list_two: Flexibles F&E-Team, das schnell auf spezifische Kundenbedürfnisse reagieren kann
+    third_list_three: "Expertenwissen: Die begrenzte Produktpalette führt zu Expertenwissen"
+    partnership_title: Weg zur Partnerschaft
+    partnership_text: Wir freuen uns, ein wachsendes Netz von Vertriebspartnern zu haben, die Foenix-Produkte weltweit vermarkten. Wir laden derzeit Unternehmen ein, unserem internationalen Vertriebspartner-Netzwerk beizutreten, um unsere neue Druckerserie auf neuen Märkten zu bewerben.  Füllen Sie dieses Formular aus und wir werden uns in Kürze mit Ihnen in Verbindung setzen, um diese Möglichkeit zu besprechen.
+    step_one: SCHRITT 1
+    step_one_title: Bewerben Sie sich
+    step_one_text: Wenn Sie daran interessiert sind, diese Gelegenheit zu besprechen, würden wir gerne mehr über Ihr Unternehmen und Ihre Ziele erfahren
+    step_two: SCHRITT 2
+    step_two_title: Einen Demo-Drucker anfordern
+    step_two_text: Testen Sie die Leistung der Geräte, aber auch unsere Reaktionsfähigkeit und die Unterstützung, die Sie von uns erhalten werden.
+    step_three: SCHRITT 3
+    step_three_title: Mit dem Verkaufen beginnen
+    step_three_text: Unser Ziel ist es, es unseren Geschäftspartnern leicht zu machen, sich auf die Entwicklung neuer Interessenten zu konzentrieren und ihr Geschäft auszubauen.
+
+  distributor_countries:
+    uk: Vereinigten Königreich
+    indonesia: Indonesien
+    south_africa: Südafrika
+    france: Frankreich
+    austria: Österreich
+    peru: Peru
+    turkey: Türkei
+    venezuela: Venezuela
+    malaysia: Malaysien
+    vietnam: Vietnam
+    saudi_arabia: Saudi-Arabien
+    egypt: Ägypten
+    greece: Griechenland
+    spain: Spanien
+    latvia: Lettland
+    netherlands: Niederlande
+    sri_lanka: Sri Lanka
+    italy: Italien
+    croatia: Kroatien
+    brazil: Brasilien
+    hungary: Ungarn
+    portugal: Portugal
+    lithuania: Litauen
+    ivory_coast: Elfenbeinküste
+    poland: Polen
+    malta: Malta
+    philippines: Philippinen
+    uae: Vereinigte Arabische Emirate
+    chile: Chile
+    australia: Australien
+    usa: Vereinigte Staaten
+    argentina: Argentinien
+    india: Indien
+    bulgaria: Bulgarien
+    israel: Israel
+    singapore: Singapur
+    germany: Deutschland
+    guatemala: Guatemala
+    china: China
+    ireland: Irland
+    morocco: Marokko
+    nigeria: Nigeria
+    sweden: Schweden
+    be_the_next: Sei der Nächste
+
+  cost_of_ownership:
+    first_section_title: Niedrigste Betriebskosten auf dem Markt
+    first_section_list_one: Geringster Tintenverbrauch auf dem Markt
+    first_section_list_two: Günstigste Kosten pro Druck auf dem Markt
+    erste_section_list_three: Niedriger Druckerpreis
+    erste_section_list_four: Keine Wartungs-/Wartungsverträge
+    erste_section_list_five: Keine Ausfallzeit
+    erste_section_list_six: Keine Installations- und Schulungskosten
+    first_section_list_seven_html: Reduzieren Sie Ihre Kodierungs- und Markierungskosten um mindestens 60%.<br>Hören Sie auf, ein Vermögen für Tinte und Wartungsverträge auszugeben!
+    first_section_list_eight_html: Holen Sie sich unseren Betriebsleitfaden und sehen Sie<br>wie viel Geld Sie sparen könnten
+    download: Herunterladen
+    first_section_two_title: Klare und transparente Investitionsrendite
+    first_section_sub_title: DER FX ONE DRUCKER SENKT DIE KOSTEN PRO DRUCK ERHEBLICH
+    first_section_text_html: "Die Kosten pro Druck werden durch 3 Faktoren bestimmt:<br>- dem Anschaffungspreis des Druckers<br>- die Tintenkosten<br>- die monatlichen Wartungskosten.
+                              <br>
+                              <br>
+                              Foenix Coding hat einen einfachen Tintenstrahldrucker entwickelt, bei dem die Kostenreduzierung im Vordergrund steht. Der FX ONE Tintenstrahldrucker wurde mit Blick auf Einfachheit entwickelt und enthält weder bewegliche Teile noch Pumpen oder Ventile. Die Tintenzufuhr basiert auf Kapillarität und Schwerkraft, und es wird keine Druckluft benötigt. Die Steuerung erfolgt über eine einzige Leiterplatte, die über ein einziges Datenkabel mit dem Druckkopf verbunden ist. Dank seiner Einfachheit und dem Fehlen beweglicher Teile ist KEINE monatliche oder jährliche Wartung erforderlich. Durch die Verwendung von weniger Komponenten ist der FX ONE-Drucker in der Anschaffung sehr günstig.
+                              <br>
+                              <br>
+                              Geringere Druckkosten - in der Regel zwischen 50 und 80 %. Die Xaar-Drucktechnologie ermöglicht Tintenablagerungen von nur 80 Pikoliter pro Tropfen (das sind 0,000000080ml), was zu massiven Tinteneinsparungen führt. Sie haben die Kontrolle über Ihre Kosten pro Druck. Berechnen Sie Ihre Druckkosten ganz einfach mit unserer intuitiven Software und sehen Sie, wie viel Sie sparen können. Das Drucken mit Mikro-Tintentröpfchen und einer versiegelten Tintenpatrone sorgt für niedrige Kosten pro Druck ohne Tintenverschwendung. Zusätzliche Kosteneinsparungen können durch den Tintensparmodus erzielt werden.
+                              <br><br>
+                              Vermeiden Sie den Kauf eines teuren Tintenstrahldruckers, der Ihr Budget mit der Zeit aufzehrt. Informieren Sie sich über Garantiedetails, Wartungsbedingungen, Wartungs-/Reparaturkosten, Tinten- und Verbrauchsmaterialkosten. Entscheiden Sie sich für die kostengünstigste Lösung für Ihr Unternehmen. Berechnen Sie die Gesamtbetriebskosten für Ihren Drucker, bevor Sie eine Auswahl treffen. Foenix Coding versteht die Technik der Vereinfachung und hat einen unkomplizierten und kostengünstigen Drucker entwickelt, der die Erwartungen der Kunden erfüllt."
+    inkjet_printer_title: Wie man einen Tintenstrahldrucker auswählt
+    inkjet_printer_text_html: "Wir wissen, dass die Auswahl eines Tintenstrahldruckers nicht einfach ist. Es gibt eine Vielzahl von Modellen und Technologien verschiedener Hersteller auf dem Markt.
+                             <br>
+                             <br>
+                             Jede Anwendung hat andere Anforderungen. Wenn Sie Ihre Anwendung verstehen, können Sie sich viel Zeit und Enttäuschungen ersparen.
+                             <br>
+                             Laden Sie unseren kostenlosen Leitfaden herunter, um Foenix-Drucker mit der Konkurrenz zu vergleichen."
+    newsletter_title: Erhalten Sie unseren kostenlosen Leitfaden, der Ihnen bei der Auswahl Ihres Tintenstrahldruckers hilft
+    newsletter_description_html: "Kontinuierlicher Tintenstrahldruck im Vergleich zu Thermischer Tintenstrahldruck <span class='text-orange'>FX ONE</span>"
+    list_title: "Die einzelnen Fragen können bestimmen, ob der FX ONE Drucker für Ihr Projekt geeignet ist:"
+    list_left_one: Um welches Produkt handelt es sich?
+    list_left_two: Wie groß ist das Produkt?
+    list_left_three: Aus welchem Material besteht das Produkt/die Verpackung?
+    list_left_four: Zu welchem Zweck wird das Produkt verwendet?
+    list_left_five: Wie hoch ist die Geschwindigkeit des Förderers/Produkts?
+    list_left_six: Wird das Produkt an der Druckstelle gut unterstützt?
+    list_left_seven: Wie hoch ist die Produkttemperatur zum Zeitpunkt des Drucks?
+    list_left_eight: Gibt es Anforderungen an die Wetterbeständigkeit?
+    list_left_nine: Wo ist die Druckanforderung oben/seitlich/unten
+    list_left_ten: In welcher Richtung verläuft die Produktleitung zum Druckkopf?
+    list_left_eleven: Wie groß ist der Druckbereich und wo soll der Druck angebracht werden?
+    list_left_twelve: Welche Geräte verwenden Sie derzeit zum Aufbringen des Drucks, wenn überhaupt?
+    list_right_one: Welche Farbtinte wird benötigt?
+    list_right_two: Welche Farbe hat das Material/die Verpackung?
+    list_right_three: Ist die Druckoberfläche porös oder nicht porös?
+    list_right_four: Wie lange ist die erforderliche Trocknungszeit?
+    list_right_five: Wie lautet die Werbebotschaft?
+    list_right_six: Wie hoch ist die Werbebotschaft?
+    list_right_seven: Wie viele Zeichen?
+    list_right_eight: Was ist die Zeichenhöhe?
+    list_right_nine: Wie viele Druckzeilen?
+    list_right_ten: Wie viele Druckvorgänge pro Minute/Stunde?
+    list_right_eleven: Handelt es sich um eine fortlaufende Botschaft auf kontinuierlichen Bahnmaterialien oder Extrusionen
+    list_right_twelve: Wie lang ist die Wiederholungslänge der Nachricht?
+
+    second_section_title: Einsparung/ROI-Rechner
+    second_section_text: Kontrollieren Sie mühelos Ihre Kosten pro Druck und die Anzahl der Drucke pro Patrone. Noch nie war es so einfach, Ihre Kosten niedrig zu halten! Sparen Sie bis zu 75 % der Tinte mit unserem Tintensparmodus.
+    second_section_text_two_html: "Vermeiden Sie einen teuren Tintenstrahldrucker, der Ihr Budget mit der Zeit aufzehrt.
+                             <br>
+                             Informieren Sie sich über Garantiedetails, Wartungsbedingungen, Wartungs-/Reparaturkosten, Kosten für Tinte und Verbrauchsmaterial.
+                             <br>
+                             Wählen Sie die kostengünstigste Lösung für Ihr Unternehmen.
+                             <br>
+                             Berechnen Sie die Gesamtbetriebskosten für Ihren Drucker, bevor Sie eine Entscheidung treffen."
+
+  printers:
+    title: FX ONE SERIES
+    text: Die Foenix-Tintenstrahldrucker sind alle als industrielle Tintenstrahldrucker für Kodier- und Kennzeichnungslösungen konzipiert.
+          Die wichtigsten Konstruktionskriterien für jeden Drucker sind Benutzerfreundlichkeit, geringer Wartungsaufwand und Kosteneffizienz beim Drucken mit ultrahoher Auflösung.
+    coming_soon: DEMNÄCHST VERFÜGBAR
+
+  fxone_remote:
+    first_section_title: REMOTE
+    first_section_text: Der neue FX ONE Tintenstrahldrucker ist einer der Kleinzeichendrucker mit den niedrigsten Kosten pro Kode und dem geringsten Wartungsaufwand. Er bietet eine echte Alternative zum Kodieren Ihrer Produkte.
+    second_section_title: Überblick
+    grid_title_one: Die beste Alternative zum Kontinuierlicher Tintenstrahl-Druck
+    grid_description_one_html: "Der FX ONE Remote wurde als sehr einfacher Tintenstrahldrucker konzipiert, der jedoch die Möglichkeit bietet, ein bis acht Zeilen Kode zu drucken und eigene Schriftarten und Grafiken einzugeben.
+                                <br>
+                                <br>
+                                Der FX ONE Remote bietet eine echte Alternative zu komplexen Kontinuierlicher Tintenstrahl-Druckern zu einem sehr günstigen Preis:
+                                <ul>
+                                  <li>Niedrigste Kosten pro Druck auf dem Markt</li>
+                                  <li>Hochauflösender Druck</li>
+                                  <li>Konzipiert für Null-Wartung</li>
+                                  <li>Flexibel, ermöglicht Druck in jede Richtung</li>
+                                  <li>Mehrzeiliger Druck ohne zusätzliche Kosten</li>
+                                  <li>Erfordert kein zusätzliches Zusatzlösungsmitte</li>
+                                </ul>"
+    grid_link_one: Holen Sie sich ein schnelles Angebot
+    grid_title_two: Perfekt für Extrusions- und Rollendruckanwendungen
+    grid_description_two_html: "Der FX ONE ist ein modularer Tintenstrahl-Kodierer für den industriellen Einsatz. Er ist ideal für die Kennzeichnung von Extrusionen, das Bedrucken von Bändern und andere industrielle Anwendungen.
+                            <br>
+                            Der FX ONE Drucker ist für den kontinuierlichen Wiederholungsdruck in definierten Intervallen auf einer Extrusionslinie programmiert.
+                            <br>
+                            <br>
+                            Vollständige Kontrolle für wiederholtes Drucken über eine Materialbahn. Mehrere FX ONE Drucker können über eine Materialbahn montiert werden, um identische oder unterschiedliche
+                             Nachrichten zu drucken. Der entfernt montierte Beruhrung Nachrichten zu drucken. Der entfernt montierte Touch Controller kann mit einem Enkoder oder einer anderen Art von Gerät zur Druckaktivierung verbunden werden."
+    grid_link_two: Druckmuster anfordern
+    grid_title_three: Einfache Installation und Bedienung
+    grid_description_three_html: "Der FX ONE Remote-Drucker lässt sich in den meisten Maschinen oder bei eingeschränkten Platzverhältnissen problemlos einbauen.
+                                  <br>
+                                  <br>
+                                  Bedrucken Sie beide Seiten Ihres Produkts, aber verwenden Sie nur einen Touch Regler. Ob Sie nun zwei Seiten eines Kartons oder beide Seiten eines größeren Produkts bedrucken, ein einziger Regler vereinfacht die Eingabe der Meldungen durch den Bediener.
+                                  Bedrucken Sie einfach beide Seiten des Produkts mit identischen oder unterschiedlichen Werbebotschaften.
+                                  <br>
+                                  <br>
+                                  Ein großer Farbgrafik-Touchscreen und ein WYSIWYG-Display in Kombination mit bildhaften Aktionstasten machen die Bearbeitung und Programmierung von Botschaften wirklich einfach."
+    grid_link_three: Holen Sie sich ein schnelles Angebot
+    grid_title_four: Konstante Druckleistung
+    grid_description_four_html: "Ein automatischer Verschluss am Druckkopf sorgt dafür, dass der Druck bei kontinuierlichen oder intermittierenden Anwendungen und in anspruchsvollen Umgebungen perfekt bleibt, ohne dass der Bediener eingreifen muss.
+                                <br>
+                                <br>
+                                Dieser Verschluss kann manuell oder automatisch geschlossen werden, wenn der FX ONE nicht benutzt wird. Wenn der Verschluss geschlossen ist, wird der Druckkopf besser vor physischen Schäden und dem Eintrocknen der Tinte im Druckkopf geschützt.
+                                <br>
+                                <br>
+                                Besserer Schutz gegen Umgebungsbedingungen:
+                                <br>
+                                Die Verschluss-Öffnungszeit kann bis zu 5 Sekunden betragen. Das bedeutet, dass der Verschluss während des Druckvorgangs nur 5 Sekunden lang geöffnet ist. Unmittelbar danach wird er geschlossen und schützt den Druckkopf vor Zugluft, Feuchtigkeit, Staub und anderen Verunreinigungen in der Luft."
+    grid_title_five: Sauberes Tintenmanagement für perfekten Druck
+    grid_description_five_html: "Die leicht fließende Tinte auf Öl- oder Lösungsmittelbasis befindet sich in einer versiegelten Tintenpatrone, so dass kein Abfall, keine Verunreinigung und keine Unordnung entsteht. Das Auswechseln der Patrone dauert nur Sekunden, während der Druckvorgang weiterläuft.
+                                <br>
+                                Der Drucker kann für eine automatische Spülung und Reinigung programmiert werden, was eine 100%ige Betriebszeit gewährleistet."
+    grid_link_five: Erfahren Sie mehr
+    grid_title_six: Volle Integrationsfähigkeit
+    grid_description_six_html: "Die Foenix FX APP Programmsuite bietet umfassende Integrationsmöglichkeiten für die Vernetzung von Druckern, den Zugriff auf Datenbanken, die Offline-Erstellung von Nachrichten, die Verbindung zu industriellen Scannern, Strichkodelesern, Verifikatoren und anderen Produktionsgeräten.
+                                <br>
+                                Die Auswahl der Nachricht kann manuell oder sicher über einen Strichkodeleser erfolgen."
+    grid_link_six: Erfahren Sie mehr
+    cards_section_description: Eine neue Generation von
+    cards_section_description_two: Wartungsfreie Tintenstrahldrucker
+    first_card_title: Hochauflösende Kodierung & Markierung
+    first_card_text: 1 bis 8 Zeilen Druck, mit 2-18mm Druckhöhe.
+    second_card_title: PC-Konnektivität
+    second_card_text: Über USB-Kabel, RS485 oder über Ethernet für die direkte Nachrichtenerstellung oder über das werkseigene Netzwerksystem.
+    third_card_title: Grafiken, Logos und Strichkodes
+    third_card_text: Einfacher Import von JPEG-, PNG- und BMP-Grafiken mit der FX-App.
+    fourth_card_title: Einfacher Bildschirm & Tastatur
+    fourth_card_text: Zur lokalen Steuerung der Druckgeschwindigkeit und -richtung sowie der Nachrichtenverzögerung.
+    fifth_card_title: Aufstellung direkt aus dem Karton
+    fifth_card_text: Mit minimalen Komponenten für maximale Zuverlässigkeit.
+    sixth_card_title: 1D & 2D Strichkodes
+    sixth_card_text: Hochauflösender Druck von 1D- und 2D-Strichkodes (QR-Kodes - Datamatrix) zur Aufnahme variabler Daten.
+    seventh_card_title: 2 Jahre Gewährleistung*
+    seventh_card_text_html: Garantieerweiterung verfügbar<br>*Es gelten die allgemeinen Geschäftsbedingungen
+    eigth_card_title: Steuerung durch Berührung
+    eigth_card_text: Einfache interaktive Windows-Programmierung mit FX App. Zuverlässiges Drucken mit einem Klick.
+    ninth_card_title: Vernetzung
+    ninth_card_text: Verwalten Sie mehrere Drucker von einem Ort aus. Monitor Fortschritte, verfolgen Fehler und gewinnen Einblicke mit Druckanalysen.
+    tenth_card_title: Originalschriftart und Unicode
+    tenth_card_text: Ermöglicht die Erstellung von Nachrichten in jeder Schriftart und in jeder Sprache
+    eleventh_card_title: Große lösungsmittelbasierte Tintenpatrone
+    eleventh_card_text: Kostengünstiges Kodier- und sauberes Farbsystem, ideal für den Druck auf porösen und nicht porösen Oberflächen.
+    twelfth_card_title: Mehrfachanschluss
+    twelfth_card_text: Für Kodierer, externe Alarme und alternative Produkterkennungsgeräte.
+    thirteenth_card_title: Tintensparmodus
+    thirteenth_card_text: Reduzieren Sie den Tintenverbrauch um bis zu 75%
+    pop_title: APP-Programmierung
+    pop_title_two: Für alle Ihre Anwendungen zur Produktkodierung
+    pop_text_eins: Vernetzung & Druckanalytik
+    pop_text_two: Einfache interaktive Windows-Programmierung
+    pop_text_three: 'Verfügbarkeit auf PC & 7 Zoll Berührungsbildschirm Steuerung'
+    pop_text_vier: Unterstützung mehrerer Sprachen
+    pop_text_fünf: Vollständige Integration mit unserer DLL
+    pop_text_sechs: Erweiterte Druckerverwaltung
+    pop_link: Erfahren Sie mehr
+    fourth_section_title: Technische Daten
+    fifth_section_main_title: FX ONE REMOTE
+    fifth_section_left_title: Features
+    fifth_section_left_one: Druckt in beliebiger Ausrichtung
+    fifth_section_left_two: 1 bis 8 Druckzeilen
+    fifth_section_left_three: 2mm- 18mm Gesamtdruckhöhe
+    fifth_section_left_four: Hochauflösender Peizo-Druckkopf
+    fifth_section_left_five: Druckt Text, Grafiken, Logos und Strichkodes
+    fifth_section_left_six: Druckt Uhrzeit und mehrere Datumsformate
+    fifth_section_left_seven: Kontinuierliche Wiederholungsdruckfunktion
+    fifth_section_left_eight: 100m/min Druckgeschwindigkeit (50m/min für Strichkode und 2mm Text)
+    fifth_section_left_nine:  Einzelne Start/Stopp Drucktaste
+    fifth_section_left_ten: Visuelle Alarmanzeige einschließlich niedrigem Tintenstand
+    fifth_section_left_eleven: Steuerung von Nachrichtenbreite, Verzögerung und Druckrichtung
+    fifth_section_left_twelve: Lichtschranke zur Produkterkennung
+    fifth_section_left_thirteen: Gewicht 1,7 kg (ohne Tintenpatrone und Halterungen)
+    fifth_section_left_fourteen: Größe 242 x 178 x 90mm
+    fifth_section_right_title_one: Anschlussmöglichkeiten
+    fifth_section_right_one: RS232 and RS485 für Sauven Kontaktsteuerung
+    fifth_section_right_two: USB-A Speicherstift enthalten
+    fifth_section_right_three: USB-B für Kabelanschluss
+    fifth_section_right_four: Netzwerk (optional)
+    fifth_section_right_five: Druckt Texte, Grafiken, Logos und Strichkodes
+    fifth_section_right_six: E/A-Anschluss für Kodierer, Alarmsignal und externe Lichtschranken
+    fifth_section_right_title_two: Tinte
+    fifth_section_right_seven: Versiegelte, austauschbare Tintenpatrone (bis zu 15 Millionen Zeichen)
+    fifth_section_right_eight: Tinte auf Ölbasis für poröse Oberflächen
+    fifth_section_right_nine: Lösemittelbasierte Tinten für nicht poröse Oberflächen
+    fifth_section_right_ten: UV-Tinten für sofortige LED-Härtung
+    fifth_section_right_eleven: Verschiedene Farben
+    fifth_section_right_title_three: Elektrisch
+    fifth_section_right_twelve: 90-260 VAC zu 24VDC Stromversorgung enthalten
+    fifth_section_message: Foenix Coding Ltd. verbessert ständig Produkte und Programme. Änderungen der Spezifikationen sind vorbehalten.
+    build_to_last: Langlebigkeit garantiert
+    build_to_last_description: Kohlefaserkonstruktion und ein solides Bauteil
+    build_to_last_description_two: Gruppe bedeutet, dass es Ihnen viele Jahre zur Verfügung stehen wird
+    discover: Entdecken Sie die FX ONE Reihe
+    shared_tech: Vereinte Technologie
+    shared_tech_text_one: Die FX ONE Drucker sind modular aufgebaut und bestehen aus nur wenigen Komponenten.
+    shared_tech_text_two: FX ONE Teile sind zu 100% austauschbar, da sie in ähnlichen Maschinen und Modellen verwendet werden.
+    shared_tech_text_three: Der einzige Unterschied zwischen den Modellen ist die Position des Druckkopfes. Bei der FX ONE Standard ist der Druckkopf in die Steuereinheit integriert, während bei der FX ONE Remote und der FX ONE Plus ein abgesetzter Druckkopf über ein flexibles Kabel mit der Steuereinheit verbunden ist.
+    fx_one_standard: FX ONE Standard
+    fx_one_standard_sub: Die intelligente Lösung für hohe
+    fx_one_standard_sub_two: Verpackungsdruck mit hoher Auflösung
+    fx_one_standard_text: Hochauflösender Druck direkt auf Kartons, Schalen
+    fx_one_standard_text_two: und Taschen in einer Produktionslinie, um die
+    fx_one_standard_text_three: für kostspielige vorgedruckte Verpackungen oder teure Etiketten.
+    fx_one_plus: FX ONE Plus
+    fx_one_plus_sub: er intelligente Weg zum Sparen
+    fx_one_plus_sub_two: beim Etikettendruck
+    fx_one_plus_text: Großschriftdrucker mit bis zu 72 mm Druckhöhe.
+    fx_one_plus_text_two: Die perfekte Alternative zu teuren, komplexen
+    fx_one_plus_text_three: und begrenzten Etikettiersystemen.
+    sixth_section_title: Zuverlässig, leistungsfähig, vielseitig
+    sixth_section_left_sub_title_one: Keine teuren Wartungsverträge
+    sixth_section_left_sub_text_one: Foenix-Drucker werden mit minimalen Komponenten hergestellt, um maximale Zuverlässigkeit zu gewährleisten. Keine Pumpen, keine Ventile, keine Druckluft, keine Tröpfchenaufladung und keine Luftfilter bedeuten geringen Wartungsaufwand.
+    sixth_section_left_sub_title_two: Geringste Kosten pro Druck
+    sixth_section_left_sub_text_two: Die Piezotechnologie des FX ONE Druckers benötigt nur eine einzige versiegelte Tintenpatrone und benötigt kein zusätzliches Lösungsmittel zum Nachfüllen. Dadurch werden die Betriebskosten erheblich gesenkt.
+    sixth_section_left_sub_title_three: Konstante Druckleistung
+    sixth_section_left_sub_text_three: FX ONE Drucker drucken in hoher Auflösung. Sie können Logos, 1D und 2D Strichkodes und Variablen drucken...
+    sixth_section_left_sub_title_four: Betreibervertrauen
+    sixth_section_left_sub_text_four: Einfache Installation, Nachrichtenbearbeitung und Programmierung & einfache Wartung.
+    sixth_section_right_sub_title_one: Bewährte Technologie
+    sixth_section_right_sub_text_one: Verwendet einen hochauflösenden Xaar-Druckkopf, dessen Technologie sich bereits bei vielen tausend weltweit verkauften Druckern bewährt hat.
+    sixth_section_right_sub_title_two: Systemintegration
+    sixth_section_right_sub_text_two: Integrieren Sie den Drucker in ein Netzwerksystem oder verbinden Sie ihn mit industriellen Lesesystemen, Kodierern, Kontrollwaagen oder anderen Geräten, je nach Bedarf.
+    sixth_section_right_sub_title_three: 100% Betriebszeit 0% Ausfallzeit
+    sixth_section_right_sub_text_three: "Drucken rund um die Uhr: Niemals aufhören zu drucken, selbst wenn Sie die Patrone wechseln!"
+    sixth_section_right_sub_title_four: Innovation Automatischer Verschluss
+    sixth_section_right_sub_text_four: "Zum Schutz des kritischsten Teils Ihres Druckers: des Druckkopfmotors"
+    seventh_section_title: Einwandfreie Drucke, jedes Mal
+    seventh_section_text: FX ONE-Drucker zeichnen sich durch hohe Qualität, gute Verarbeitung und hohe Präzision aus. Wir bieten die einfachste und effizienteste Möglichkeit, Ihr Produkt in hoher Auflösung zu kodieren.
+    low_ink: Geringster Tintenverbrauch auf dem Markt
+    low_ink_text: Keine weiteren Ausgaben für Tintenpatronen und Wartungsverträge!
+    low_ink_text_two: Foenix-Drucker bieten die branchenweit niedrigsten Betriebskosten und die niedrigsten Kosten pro Druck
+
+
+  fxone_standard:
+    first_section_title: STANDARD
+    full_title: FX ONE STANDARD
+    first_section_text: Hochauflösender Druck direkt auf Kartons, Schalen und Beutel in einer Produktionslinie, so dass keine kostspieligen vorgedruckten Verpackungen oder teuren Etiketten mehr benötigt werden.
+    grid_title_one: Die intelligente Lösung für den hochauflösenden Verpackungsdruck
+    grid_description_one_html: "Der neue FX ONE Standard bietet eine unglaubliche Druckqualität in einem voll ausgestatteten Kompaktdrucker. Er kann als einfacher, leicht zu programmierender Einzelplatzdrucker verwendet oder in ein vollständiges Produktionsnetzwerksystem integriert werden. Sie brauchen keine teuren Etiketten: Verwenden Sie den FX ONE Standard für den hochauflösenden Druck direkt auf Kartons, Schalen, Beutel oder andere Produkte in einer Produktionslinie, um den Bedarf an kostspieligen vorgedruckten Verpackungen oder teuren Etiketten zu eliminieren."
+    grid_link_one: Holen Sie sich ein Druckmuster
+    grid_title_two: Zeit sparen, Geld sparen
+    grid_description_two_html: "Kein kompliziertes Hoch- und Herunterfahren erforderlich. Schalten Sie die Maschine einfach am Ende des Tages aus und am nächsten Tag wieder ein.
+                            <br>
+                            Der FX ONE Drucker wurde mit einem Minimum an Komponenten entwickelt, um maximale Zuverlässigkeit zu gewährleisten. Keine Pumpen, keine Ventile, keine Druckluft und eine einzige Platine bedeuten geringen Wartungsaufwand und keine teuren Wartungsverträge.
+                            <br>
+                            <br>
+                            Geringere Druckkosten - Überwachen und verwalten Sie die Kosten pro Druck, um den Tintenverbrauch leicht um 75 % zu senken. Das Drucken mit Mikro-Tintentröpfchen und einer versiegelten Tintenpatrone sorgt für niedrige Kosten pro Druck ohne Tintenverschwendung.
+                            Die leicht fließende, ölbasierte Tinte befindet sich in einer versiegelten 110-ml-Tintenpatrone, so dass kein Abfall, keine Verunreinigung und keine Unordnung entsteht. Das Auswechseln der Patrone dauert nur Sekunden, während der Druckvorgang weiterläuft. Der Drucker kann so programmiert werden, dass er sich automatisch entleert und reinigt."
+    grid_link_two: Holen Sie sich ein schnelles Angebot
+    grid_title_three: Vielseitigkeit in der Produktion
+    grid_description_three_html: "Das kompakte und innovative Industriedesign des FX ONE ermöglicht es Ihnen, den Drucker in wenigen Minuten an einen anderen Ort zu bringen. Einfach den Stecker ausstecken und mitnehmen. Er arbeitet reibungslos mit seinem großen Berührungsbildschirm, und alle Druckfunktionen können leicht gesteuert werden. Drücken Sie einfach die Drucktaste und beginnen Sie zu drucken.
+                                  <br>
+                                  <br>
+                                  Die FX ONE-Drucker können miteinander verbunden werden, um beide Seiten eines Kartons mit den gleichen oder unterschiedlichen Werbebotschaften zu bedrucken. Hochauflösender Druck in Kombination mit der Möglichkeit, beliebige Schriftarten und Grafiken zu importieren und in beliebigen Sprachen zu drucken, wird Ihr Produktimage verbessern."
+    grid_title_four: Volle Integrationsfähigkeit
+    grid_description_four_html: "Die Foenix FX APP Programmsuite bietet volle Integrationsfähigkeit für die Vernetzung von Druckern, den Zugriff auf Datenbanken, die Offline-Erstellung von Nachrichten, die Verbindung zu industriellen Lesesystemen, Strichkodelesern, Verifizierern und anderen Produktionsgeräten.
+                                <br>
+                                Die Auswahl der Nachricht kann manuell oder sicher mit einem Strichkode-Lesegerät erfolgen."
+    grid_link_four: Erfahren Sie mehr
+    fx_one_remote: FX ONE Remote
+    fx_one_remote_sub: Die intelligente Alternative
+    fx_one_remote_sub_two: zum Kontinuierlicher Tintenstrahldruck
+    fx_one_remote_text: Der FX ONE Remote-Tintenstrahldrucker ist einer der kostengünstigsten
+    fx_one_remote_text_two: pro Kode und ist einer der kostengünstigsten und wartungsärmsten Kleinzeichendrucker auf dem Markt.
+    fx_one_remote_text_three: Es bietet eine echte Alternative für das Kodieren Ihrer Produkte.
+    second_section_title: Überblick
+    first_card_title: Hochauflösende Kodierung & Markierung
+    first_card_text: 1 bis 8 Druckzeilen, mit 2-18mm Druckhöhe.
+    second_card_title: PC-Anschlussmöglichkeiten
+    second_card_text: Über USB-Kabel oder Netzwerk zur direkten Nachrichtenerstellung oder Werksnetzsystem.
+    third_card_title: Grafiken, Logos & Strichkodes
+    third_card_text: Einfacher Import von JPEG- und BMP-Grafiken mit der FX App.
+    fourth_card_title: Einfacher Bildschirm & Tastatur
+    fourth_card_text: Zur lokalen Steuerung der Druckgeschwindigkeit und -richtung sowie der Nachrichtenverzögerung.
+    fifth_card_title: Sofort einsatzbereite Installation
+    fifth_card_text: Mit minimalen Komponenten für maximale Zuverlässigkeit.
+    sixth_card_title: 1D- und 2D-Strichkodes
+    sixth_card_text: Hochauflösender Druck von 1D- und 2D-Strichkodes (QR-Kodes - Datamatrix) zur Aufnahme variabler Daten.
+    seventh_card_title: 2 Jahre Gewährleistung
+    seventh_card_text: Verlängern Sie sie um ein, zwei oder drei weitere Jahre
+    eigth_card_title: Steuerung durch Berührung
+    eigth_card_text: Einfache interaktive Windows-Programmierung mit FX App. Zuverlässiges Drucken mit einem Klick.
+    ninth_card_title: Vernetzung
+    ninth_card_text: Verwalten Sie mehrere Drucker von einem Ort aus. Überwachen Sie den Fortschritt, verfolgen Sie Fehler und gewinnen Sie Erkenntnisse mit Druckanalysen.
+    tenth_card_title: Originalschriftart & Unicode
+    tenth_card_text: Ermöglicht die Erstellung von Nachrichten in jeder Schriftart und in jeder Sprache
+    eleventh_card_title: Große Tintenpatrone auf Ölbasis
+    eleventh_card_text: Kostengünstige Kodierung und sauberes Farbsystem, ideal für den Druck auf porösen Oberflächen.
+    twelfth_card_title: Mehrfachanschluss
+    twelfth_card_text: Für Kodierer, externe Alarme und alternative Produkterkennungsgeräte.
+    thirteenth_card_title: Tintensparmodus
+    thirteenth_card_text: Reduzieren Sie den Tintenverbrauch um bis zu 75%
+    seventh_section_title: Vielseitigkeit in der Produktion
+    seventh_section_text: Das kompakte und innovative Industriedesign des FX ONE ermöglicht es, den Drucker in wenigen Minuten an einen anderen Ort zu bringen. Einfach den Stecker ausstecken und mitnehmen. Mit seinem großen Berührungsbildschirm lassen sich alle Druckvorgänge mühelos steuern. Drücken Sie einfach die Drucktaste und beginnen Sie mit dem Druck auf alles.
+
+
+  fxone_plus:
+    first_section_title: FX ONE PLUS
+    first_section_text: Großschriftdrucker mit bis zu 72 mm Druckhöhe. Die perfekte Alternative zu teuren, komplexen und begrenzten Etikettiersystemen.
+    first_section_text_two: "Die perfekte Alternative zu teuren, komplexen und begrenzten Beschriftungssystemen."
+    coming_soon: DEMNÄCHST VERFÜGBAR
+    grid_title_one: Der intelligente Weg, beim Etikettendruck zu sparen
+    grid_description_one_html: "Mit dem FX ONE Plus Großschrift-Tintenstrahldrucker hat der Benutzer die Kontrolle über die Kosten pro Druck beim Etikettendruck.
+                               <br>
+                               <br>
+                               Die Windows-basierte Programm wurde speziell für den Etikettendruck entwickelt, ein Bereich, in dem die Kontrolle der Kosten pro Druck von größter Bedeutung ist. Durch den direkten Druck auf Kartons anstelle von Etiketten wird die Kosteneffizienz drastisch erhöht.
+                               <br>
+                               <br>
+                               FX ONE Plus bietet weitere Integrationsflexibilität und kann mit Datenbanken verknüpft werden, ermöglicht die vollständige Fernsteuerung durch vorhandene Produktionsverwaltungssoftware und bietet volle Netzwerkfähigkeit einschließlich WiFi.
+                               <br>
+                               <br>
+                               Entwickelt für die kostengünstige Kodierung und Kennzeichnung von Kartons und Schachteln, eine echte Alternative zu einem Etikettendrucker.
+                               Es sind keine komplizierten Start- und Abschaltprozeduren erforderlich. Schalten Sie das Gerät einfach am Ende des Tages aus und am nächsten Tag wieder ein.
+                               <br>
+                               <br>
+                               Außer auf Kartons kann man auch auf Papier, Holz, Stoff, EPS, Schaumstoff, Beton usw. drucken..."
+    huge_cost_savings: Enorme Kosteneinsparungen durch den Ersatz von Etiketten und vorgedruckten Verpackungen durch hochauflösenden Druck direkt auf Kartons - ideal für Schachteln, Beutel, Schalen, Holzpaletten und andere
+    plus_newsletter_title: FOENIX RUNDSCHREIBEN
+    plus_newsletter_description: Erfahren Sie als Erster, wenn
+    plus_newsletter_description_two: wir die FX ONE Plus einführen
+    placeholder: Tragen Sie Ihre E-Mail ein und erhalten Sie aktuelle Informationen zur Markteinführung
+
+  software:
+    first_section_title_one: FX TOUCH Controller
+    first_section_text_one: Steuern Sie Ihren Drucker mit nur einer Berührung. Neben den üblichen Funktionen wie Strichkodes, Zähler, Logos, Datum, Uhrzeit, Schicht usw. ist der FX ONE Drucker standardmäßig mit einem PC-Programm und Netzwerkanschluss ausgestattet.
+    first_section_text_two: Foenix Coding versteht die Kunst der Einfachheit und hat einen unkomplizierten und kostengünstigen Drucker entwickelt, der genau auf die Anforderungen der Kunden zugeschnitten ist.
+    first_section_text_three: Wir haben dem Design der Benutzeroberfläche der FX APP viel Aufmerksamkeit gewidmet, um den Arbeitsablauf bei Ihren täglichen Projekten zu vereinfachen.
+    first_section_text_four: Die FX APP, die auf dem FX Touch Controller läuft, ist auch als ein PC-Programm verfügbar, so dass Sie Ihren Drucker von jedem Rechner aus steuern können.
+    second_section_title: FX APP Programm
+    second_section_text: Das ultimative Werkzeug, mit dem Sie Ihre Produktion immer unter Kontrolle haben und Ihre Kosten senken können. Unsere FX APP kann sowohl auf dem Foenix Controller als auch auf dem PC ausgeführt werden und bietet Integration und Flexibilität. Sie kann mit Datenbanken verknüpft werden und ermöglicht eine vollständige Fernsteuerung durch vorhandene Produktionsverwaltungssoftware mit voller Netzwerkfähigkeit.
+    second_section_text_two: Die Foenix FX APP ermöglicht die Gestaltung von Nachrichten in Rekordzeit durch ihre benutzerfreundliche Oberfläche.
+    second_section_check_one: Einfache interaktive Windows-Programmierung
+    second_section_check_two: Unbegrenzter Nachrichtenspeicher
+    second_section_check_three: Tintensparender Druckmodus
+    second_section_check_four: Verwendet Originalschriftart & Unicode
+    second_section_check_five: Importiert JPEG- & BMP-Logos
+    second_section_check_six: Unterstützung mehrerer Sprachen
+    second_section_card_one: "FX App: Klicken & Drucken"
+    second_section_card_two: Optimieren Sie Ihre Druckprozesse mit FX APP
+    second_section_card_three: Zuverlässig drucken mit einem Klick
+    second_section_card_four: Integration von Programmen zur Anpassung an Ihren Arbeitsablauf
+    third_section_left_title: FX APP
+    third_section_left_sub_title: Merkmale
+    third_section_left_text_one: Kompatibel mit Windows XP und höher
+    third_section_left_text_two: Intuitive symbolgeführte Nachrichtenerstellung
+    third_section_left_text_three: Unterstützt Originalschriftarten und Unicode
+    third_section_left_text_four: Direkter Import von Grafiken, Logos und Strichkodes im JPEG- und BMP-Format
+    third_section_left_text_five: Uhrzeit und mehrere Datumsformate
+    third_section_left_text_six: Tintensparender Druckmodus
+    third_section_left_text_seven: Unbegrenzter Nachrichtenspeicher
+    third_section_left_text_eight: Unterstützung mehrerer Sprachen
+    third_section_left_text_nine: Foenix Coding Ltd. verbessert ständig Produkte und Programme. Die Spezifikationen können sich ändern.
+    third_section_right_title: FX ONE TOUCH
+    third_section_right_sub_title: Merkmale
+    third_section_right_title_two: Anschlussmöglichkeiten
+    third_section_right_text_one: 7 Zoll großer Berührungsanzeige
+    third_section_right_text_two: Einfache interaktive Windows-Programmierung
+    third_section_right_text_three: Verwendet FX App
+    third_section_right_sub_title_two: Anschlussmöglichkeiten
+    third_section_right_text_four: USB-A, USB-B, RS232, RS485 Mehrfachanschluss, Netzwerk (Optional)
+    third_section_right_text_five: 24 v DC Eingangsleistung
+    third_section_right_text_six: Unterstützt externe Alarme, Signale und Kodierer
+    third_section_right_text_seven: Automatische Programmierung mit Strichkode-Leser
+    third_section_final_text: Berührungsbildschirm-Schnittstelle, die jede Aktion mit der FX APP vereinfacht. Einfache Einrichtung und Navigation machen eine Schulung überflüssig und sorgen für ein problemloses, intuitives Druckerlebnis.
+
+    extremely_simple: Äußerst einfach in der Anwendung
+    extremely_simple_text: Wir haben viel Wert auf die Gestaltung der Benutzeroberfläche der FX APP gelegt, um den Arbeitsablauf bei Ihren täglichen Projekten zu vereinfachen. Die einfache Einrichtung und Navigation machen eine Einarbeitung überflüssig und sorgen für ein problemloses, intuitives Druckerlebnis.
+    extremely_simple_button: Zugang zur FX APP beantragen
+    grid_title_one: Mehrsprachige Unterstützung
+    grid_description_one: Die Programme sind in 19 Sprachen übersetzt und Sie können in jeder Sprache drucken
+    grid_title_two: Halten Sie Ihre Kosten niedrig
+    grid_description_two: Kontrollieren Sie ganz einfach Ihre Kosten pro Druck und die Anzahl der Drucke pro Patrone. Noch nie war es so einfach, Ihre Kosten niedrig zu halten!
+    grid_title_three: Vernetzung und Integration
+    grid_description_three_html: "Die FX APP bietet die volle Integrationsfähigkeit für die Vernetzung von Druckern, den Zugriff auf Datenbanken, die Erstellung von Nachrichten im Offline-Betrieb, die Verbindung zu industriellen Lesegeräten, Strichkodelesern, Verifizierern und anderen Produktionsanlagen.
+                                 <br>
+                                 <br>
+                                 Erweiterte Druckerverwaltung:
+                                 <br>
+                                 Maximieren Sie die Betriebszeit, indem Sie die Produktion über mehrere Foenix-Drucker von einem Ort aus verwalten. Überwachen Sie den Fortschritt, verfolgen Sie Fehler und gewinnen Sie Erkenntnisse mit Druckanalysen."
+    grid_title_four: Foenix-Firmware
+    grid_description_four: Drucker, die mit der Zeit noch besser werden. Machen Sie Ihren FX ONE Drucker mit jedem Firmware-Update durch Leistungsverbesserungen und zusätzliche Funktionen noch leistungsfähiger.
+    grid_title_five: Vollständige Integration mit unserer DLL
+    grid_description_five_html: "Was ist eine DLL?
+                                <br>
+                                <br>
+                                Eine DLL (Dynamic Link Library) ist ein Satz von Programmfunktionen, die von Drittanbietern verwendet werden können, um sie in ihre eigenen Anwendungen einzubinden. Die Foenix DLL bietet eine Reihe von Funktionen, mit denen der FX ONE Drucker über die FX APP Anwendung oder den Foenix Touch Controller gesteuert werden kann.
+                                Die Bibliothek vereinfacht den Kommunikationsprozess mit dem Drucker für den Entwickler, da sie sich um das verwendete Protokoll kümmert. Der Entwickler verwendet dann einen relativ einfachen Mechanismus, um Drucker zu überwachen, Nachrichten zu laden und Daten zu übertragen."
+    grid_title_six: Vermeidung von Benutzerfehlern bei den Druckeinstellungen
+    grid_description_six: Keine Fehler mehr, dank der automatischen Konfiguration der Druckeinstellungen über das Handlesegerät. Ein Strichkode-Lesegerät kann verwendet werden, um eine zu druckende Nachricht auszuwählen oder um Felder in einer Nachricht durch das Einlesen entsprechender Strichkodes auszufüllen. Weniger manuelle Eingriffe bedeuten weniger Kodierfehler.
+    newsletter_title: Erhalten Sie unsere neuesten Programme und Aktualisierungen
+    newsletter_description: Registrieren Sie sich, um als Erster zu erfahren, wenn ein entsprechendes Update verfügbar ist
+
+    fourth_section_title_one: Mehrsprachige Unterstützung
+    fourth_section_text_one: Die Programme sind in 19 Sprachen übersetzt und Sie können in jeder Sprache drucken
+    fourth_section_title_two: Halten Sie Ihre Kosten niedrig
+    fourth_section_text_two: Kontrollieren Sie ganz einfach Ihre Kosten pro Druck und die Anzahl der Drucke pro Patrone.
+    fourth_section_text_two_two: Es war noch nie so einfach, Ihre Kosten niedrig zu halten!
+    fourth_section_title_three: Vernetzung und Integration
+    fourth_section_text_three: Die FX APP bietet volle Integrationsfähigkeit für die Vernetzung von Druckern, den Zugriff auf Datenbanken, die Erstellung von Nachrichten im Offline-Betrieb, die Verbindung zu industriellen Lesesystemen, Strichkode-Lesern, Prüfgeräten und anderen Produktionsanlagen.
+    fourth_section_title_four: FX APP
+    fourth_section_text_four: Erweiterte Druckerverwaltung.
+    fourth_section_text_four_two: Maximieren Sie die Betriebszeit, indem Sie die Produktion über mehrere Foenix-Drucker von einem Ort aus verwalten. Überwachen Sie den Fortschritt, verfolgen Sie Fehler und gewinnen Sie Erkenntnisse mit Druckanalysen.
+    fourth_section_title_five: Verhindern von Benutzerfehlern bei den Druckeinstellungen
+    fourth_section_text_five: Keine Fehler mehr, dank der automatischen Konfiguration der Druckeinstellungen über das Handlesegerät. Der Strichkode-Leser kann verwendet werden, um eine zu druckende Nachricht auszuwählen oder um Felder in einer Nachricht durch Einlesen entsprechender Strichkodes auszufüllen. Weniger manuelle Eingriffe bedeuten weniger Kodierfehler.
+    button: Echtzeit-Software zum Testen
+    fourth_section_title_six: Foenix-Firmware
+    fourth_section_text_six: Drucker, die mit der Zeit noch besser werden.
+    fourth_section_text_six_two: Machen Sie Ihren FX ONE Drucker mit jedem Firmware-Update noch leistungsfähiger und erweitern Sie die Funktionalität.
+    fifth_section_title_one: Vollständige Integration mit unserer DLL
+    fifth_section_sub_title: Was ist eine DLL?
+    fifth_section_text_one: Eine DLL (Dynamic Link Library) ist eine Sammlung von Programmfunktionen, die von Drittanbietern verwendet werden können, um sie in ihre eigenen Anwendungen einzubinden. Die hier beschriebene Foenix DLL bietet eine Reihe von Funktionen, die es ermöglichen, einen FX ONE Drucker über die FXPro Anwendung oder den Foenix Touch Controller zu steuern. Die Bibliothek vereinfacht den Kommunikationsprozess mit dem Drucker für den Entwickler, da sie sich um das verwendete Protokoll kümmert. Der Entwickler verwendet dann einen relativ einfachen Mechanismus, um die Drucker zu überwachen, Nachrichten zu laden und Daten zu übertragen.
+    fifth_section_title_two: Wie funktioniert eine DLL?
+    fifth_section_text_two: Die DLL wird von den Kunden zur Kommunikation mit dem Drucker verwendet. Das folgende Diagramm gibt einen grundlegenden Überblick darüber, wie die DLL zwischen der Anwendung und dem Drucker angeordnet ist.
+
+  industry:
+    first_section_title: Wir bieten Lösungen für alle Wirtschaftsbereiche und jede Anwendung
+    first_section_text: Sowohl junge Unternehmen mit einer kleinen Produktionslinie als auch multinationale Konzerne mit den anspruchsvollsten Anwendungen können den FX ONE Drucker nutzen, um ihre Kosten für die Kodierung und Kennzeichnung zu senken, Ausfallzeiten zu vermeiden, manuelle Prozesse zu automatisieren und die Produktqualität mit hochauflösender Kodierung zu verbessern.
+    first_section_button_one: Demo anfordern
+    first_section_button_two: Preise abfragen
+    trusted_title: Von Unternehmen vertrauenswürdig
+    trusted_title_two: aus allen Wirtschaftsbereichen
+    trusted_text_html: "Foenix Coding hat Tintenstrahldrucker in der ganzen Welt in der Lebensmittel-, Getränke-, Pharma-, Industrie-, Elektronik- und Bauindustrie installiert.
+                  <br>
+                  Zu unseren Kunden zählen viele der größten Hersteller in diesen Sektoren, aber ebenso wichtig ist, dass Foenix weltweit viele kleine Fertigungsunternehmen zu seinen Kunden zählt, die gleichermaßen die kostengünstigen und wartungsarmen Konzepte schätzen, die in die Drucker eingebaut sind."
+    fd_title: Essen & Trinken
+    fd_card_title_one: Bäckereiprodukte
+    fd_card_text_one: Kekse, Kuchen, Plätzchen...
+    fd_card_title_two: Getreideprodukte
+    fd_card_text_two: Frühstückscerealien, Teigwaren...
+    fd_card_title_three: Verarbeitetes Obst und Gemüse
+    fd_card_text_three: Konserven, Trockenfrüchte...
+    fd_card_title_four: Süßwaren
+    fd_card_text_four: Schokolade, Bonbons, Kaugummi...
+    fd_card_title_five: Knabberartikel
+    fd_card_text_five: Knabbereien, herzhafte Snacks, Schokolade...
+    fd_card_title_six: isch und Fischprodukte
+    fd_card_text_six: Fischkonserven, Trockenfisch, Kühlboxen für den Einzelhandel...
+    fd_card_title_seven: Molkereiprodukte
+    fd_card_text_seven: Milch, Joghurt, Käse, Sahne...
+    fd_card_title_eight: Alkoholische Getränke
+    fd_card_text_eight: Wein, Spirituosen, Liköre...
+    fd_card_title_nine: Gemahlene und geschälte Produkte
+    fd_card_text_nine: Mehl, Reis...
+    fd_card_title_ten: Fleisch
+    fd_card_text_ten: vorverpackt, getrocknet, frisch, gefroren...
+    fd_card_title_eleven: Kaffee, Kakao, Tee
+    fd_card_text_eleven: Gemahlen, einzeln verpackt...
+    fd_card_title_twelve: Babynahrung
+    fd_card_title_thirteen: Fertiggerichte
+    fd_card_text_thirteen: Pizza, Sandwiches...
+    fd_card_title_fourteen: Alkoholfreie Getränke
+    fd_card_text_fourteen: Wasser, Limonaden, Fruchtsäfte...
+    fd_card_title_fifteen: Tiefkühlprodukte
+    fd_card_title_sixteen: Gewürze, Essenzen, Koch- und Backmittel
+    fd_card_title_seventeen: Speiseöle und ähnliche Erzeugnisse, Hartfette
+    fd_card_text_seventeen: Olivenöl, Butter, Schmalz...
+    fd_card_title_eighteen: Tetrapacks
+    cp_title: Kosmetika &
+    cp_title_two: Pharmazeutische Produkte
+    cp_card_title_one: Kosmetika und Körperpflege
+    cp_card_text_one: Shampoo, Seife, Zahnpasta, Taschentücher...
+    cp_card_title_two: Schönheitsprodukte
+    cp_card_text_two: Parfüm, Haarpflegemittel, Schminke...
+    cp_card_title_three: Pharmazeutische Produkte
+    cp_card_text_three: Medikamente, Sirup, Tabletten, Cremetuben...
+    cp_card_title_four: Medizinische Geräte
+    cp_card_text_four: Gesichtsmasken, Spritzen, Bandagen, Verbandsmaterial...
+    ind_title: Industriell
+    ind_card_title_one: Metallerzeugnisse
+    ind_card_text_one: Fertig- oder Halbfertigteile, Unterbaugruppen...
+    ind_card_title_two: Autoindustrie
+    ind_card_text_two: Ersatzteile, Fahrzeugleitungen, Fahrzeuginnenausstattung, Gummiteile...
+    ind_card_title_three: Chemische Erzeugnisse
+    ind_card_text_three: Industriechemikalien, Waschmittel, Reinigungsmittel...
+    ind_card_title_four: Elektronische Geräte, Unterbaugruppen, Komponenten
+    ind_card_text_four: PCB-Platten, Sicherheitskarten...
+    ind_card_title_five: Baumaterialien
+    ind_card_text_five: Bodenbeläge, Fliesen, Holz, Steine, Wandplatten, Gipsplatten...
+    ind_card_title_six: Düngemittel, Pestizide und andere Produkte für die Pflanzenbehandlung
+    ind_card_title_seven: Extrusionsprodukte und bahnförmige Produkte
+    ind_card_text_seven: Kunststoffrohre, Kabel, Beutel...
+    ind_card_title_eight: Garten-, Landwirtschafts-, Forstwirtschafts- und Fischereierzeugnisse
+    ind_card_text_eight: Gartengewebe...
+    ind_card_title_nine: Farben, Farbstoffe, Druckfarben, Lacke und ähnliche Erzeugnisse
+    ind_card_title_ten: Holz- und Papiererzeugnisse, Zellstoff, unbearbeitetes Holz
+    ind_card_title_eleven: Möbel und Möbelteile
+    ind_card_title_twelve: Ölerzeugnisse
+    tp_title: Typische Anwendungen
+    tp1: Sprühdosenbehälter
+    tp2: Eimer
+    tp3: Folie
+    tp4: Tetrapacks
+    tp5: Ampullen
+    tp6: Kanister
+    tp7: Glasgefäße
+    tp8: Schalen tiefgezogen, gepresst, gefaltet
+    tp9: Tüten in Schachteln
+    tp10: Dosen Kunststoff, Metall
+    tp11: Krüge
+    tp12: Tuben
+    tp13: Beutel Papier, Kunststoff, Metall
+    tp14: Becher, Korbflaschen
+    tp15: Metalldosen
+    tp16: Schlauchbeutel/Beutel
+    tp17: Beutel mit Formfüllverschluss
+    tp18: Kartonverpackungen für flüssige und pastöse Produkte
+    tp19: Beutel
+    tp20: Wickelpackungen
+    tp21: Fässer
+    tp22: Kartuschen
+    tp23: Paletten - Ladeeinheit
+    tp24: Umhüllungen (gedreht, gefaltet, versiegelt, geschrumpft, Stretchumhüllung)
+    tp25: Körbe
+    tp26: Kisten
+    tp27: Spulen
+    tp28: Gipskartonplatten
+    tp29: Blasenpackungen
+    tp30: Komposit-Dosen
+    tp31: Säcke Papier, Plastik, Metall
+    tp32: Toilettenpapierrollen
+    tp33: Flaschen Glas
+    tp34: Kisten
+    tp35: Seitenversiegelte Taschen/Beutel
+    tp36: Garten Gurtband
+    tp37: Flaschen Metallisch
+    tp38: Becher
+    tp39: Hüllen und Schiebeschachteln
+    tp40: Buchschutzhüllen
+    tp41: Plastikflaschen
+    tp42: Trommeln
+    tp43: Spulen
+    tp44: Umreifungsbänder
+    tp45: Schachteln Karton, Plastik
+    tp46: Etuis
+    tp47: Umreifte Pakete
+    tp48: Holz
+    tp49: Bodenbelag
+    tp50: Flachbodensäcke
+    tp51: Tankbehälter
+    tp52: Mehlsäcke
+    tp53: Steine
+    tp54: Medizinisches Verbandsmaterial
+    tp55: Sicherheitskarten
+    tp56: Pflastersteine
+    tp_button_one: Kostenlose Testversion anfordern
+    tp_button_one_msg: Testen Sie FX ONE für 7 Tage
+    tp_button_two: Gratis Testdruck anfordern
+    tp_button_two_msg: Auf jedes Ihrer Produkte
+
+  video:
+    first_section_title: Videos
+    first_section_text: Sehen Sie, wie Foenix-Drucker auf beliebige Gegenstände und Materialien drucken.
+    first_section_text_two: Weitere Videos werden regelmäßig hinzugefügt, schauen Sie regelmäßig auf dieser Seite und auf unserer Youtube-Seite nach.
+    mehr_videos: Weitere Videos folgen in Kürze
+    video_text_one: Kodierungslösung für Primärverpackungen
+    video_text_one_cont: Der FX ONE Remote-Drucker, die kostengünstigste Lösung zur Kennzeichnung Ihrer Produkt
+    video_text_two: Lösung für die sekundäre Kodierung von Verpackungen
+    video_text_two_cont: Der FX ONE Standard-Drucker, die kostengünstigste Lösung für Ihre Kodieranwendungen
+    video_text_three: Wie erreichen Sie eine qualitativ hochwertige, effiziente Kodierung auf Ihrem Karton? Finden Sie es heraus mit dem FX ONE Standard-Drucker
+    video_text_four: Der FX ONE Standard, der beste Drucker für alle Ihre industriellen Anwendungen
+    video_text_five: Der FX ONE Standard-Drucker, ideal für Umverpackungen, Schalen und Wellpappe
+    video_text_six: "Der FX ONE Standard: Ein Drucker, viele Anwendungen: Strichkodes, Logos, Kartonkodierung und mehr"
+    video_text_seven: Mit dem FX ONE Standard Kosten senken durch Ersatz von Etikettendruckern
+
+  legal:
+    first_section_title: LEGAL
+    cookie_policy: Cookie-Richtlinie
+    privacy_policy: Datenschutzrichtlinien
+
+  contact_coders:
+    first_section_title: Kontakt Kodier- und Markiermaschinen
+    first_section_text: Obwohl Tintenstrahldruckern die Zukunft gehört, werden die traditionellen, kostengünstigen Kodier- und Kennzeichnungsdrucker weltweit immer noch als sehr kosteneffiziente Lösungen eingesetzt.
+                        Kontaktcodierer sind ideal, wenn ein Produkt nur selten eine neue Beschriftung benötigt oder die Umgebung eine nicht-elektronische, wartungsfreie Lösung erfordert.
+                        Foenix stellt diese Drucker für die Verwendung mit austauschbaren "Baselock"-Gummidruckern her, die entweder mit vorimprägnierten Plastiktintenwalzen oder verschiedenen versiegelten Tintenpatronen ausgestattet sind.
+    codaprint_title: Foenix Codaprint
+    codaprint_sub_title: Endlosdruck auf allen Materialien
+    codaprint_text: Ein einzigartiger Drucker für den kontinuierlichen Wiederholungsdruck auf Metall, Kunststoff oder poröse Materialien wie Stahlbleche, extrudierte Folien, Kunststoffrohre und Pappkernwicklungen.
+                    Er verwendet eine versiegelte Tintenpatrone für Einfachheit und Sauberkeit, mit einer Auswahl an Tinten und Farben; und ist mit verschiedenen Wiederholungsdrucklängen und einer maximalen Druckhöhe von 25 mm erhältlich.
+    codamark_title: Foenix Codamark
+    codamark_sub_title: Mehrzweck-Preis- und Kode-Drucker
+    codamark_text: Ein kompakter, einfacher Wechseldrucker, der sich ideal für den Druck von Mindesthaltbarkeitsdaten auf Produkte in einer Produktionslinie mit klarer, präziser Druckqualität eignet.
+                   Versiegelte Tintenpatronen sorgen für ein schnelles Trocknen des Drucks auf den meisten Oberflächen, einschließlich Metalldosen, Gläsern und Kunststoffbehältern. Dieser kostengünstige Edelstahldrucker arbeitet mit Luft und benötigt keinen Strom.
+                   Er eignet sich ideal für anspruchsvolle oder feuchte Umgebungen zum Bedrucken der Ober-, Seiten- oder Unterseite eines Produkts.
+    handroller_title: Codaprint Handroller
+    handroller_sub_title: Manueller Druck auf alle Oberflächen
+    handroller_text: Der Codaprint Handroller ist für das manuelle Bedrucken aller Oberflächen mit der gleichen Produktpalette an schnell trocknenden Tinten geeignet.
+    codapack_title: Foenix Codapack
+    codapack_sub_title: Kontakt-Codierer & Kunststoff-Tintenstrahldrucker
+    codapack_text: Lösen Sie Ihre Probleme beim Bedrucken von Kartons mit den Codapack Contact Kodierern mit Kunststoff-Farbwalze und Baselock-Gummi-Typ von Foenix Coding
+    baselock_title: Foenix Baselock
+    baselock_sub_title: Auswechselbare Gummiarten
+    baselock_sub_title_two: für alle Kontakt-Kodiermaschinen
+    baselock_text_one: SCHNELL UND EINFACH DEN DRUCK ZU ÄNDERN
+    baselock_text_two: UMFANGREICHE AUSWAHL AN SCHRIFTARTEN
+    baselock_text_three: KUNDENSPEZIFISCHE LOGOS
+    baselock_text_four: STILE FÜR ALLE SPRACHEN
+
+  foenix_codaprint:
+    first_section_title: FOENIX CODAPRINT
+    first_section_text: Zuverlässiger Endlosdrucker von Foenix Coding für hohe und niedrige Geschwindigkeiten auf Metall, Kunststoff, Glas und Karton. Ein einfacher Kontaktkodierer für das wiederholte Bedrucken Ihres Produkts bei hoher Geschwindigkeit mit schnell trocknenden, versiegelten Tintenpatronen.
+    get_prices: Preise abfragen
+    cp_title: Kontinuierlicher Druck auf alle Materialien
+    cp_sub_title_one: Anwendungen
+    cp_text_one: Der Codaprint wird verwendet, um Kennzeichnungen, Haltbarkeitsdaten, Wiederverwertungslogos, Produktnamen von Kunden usw. auf Materialien anzubringen, die sich ständig bewegen oder die indexiert werden, und bei denen ein Wiederholungsdruck erforderlich ist.
+                     Typische Anwendungen sind extrudierte Folien, der Druck von Beuteln, Stahlbleche, extrudierte Kunststofffenster, Schrumpffolien, Kernwicklungen aus Pappe, Gipskarton, Kantenverpackungen, Spiegelrückseiten und Papier.
+    cp_sub_title_two: Einfach zu installieren
+    cp_text_two: Der Codaprint wird einfach auf einer festen Schiene quer über das zu kennzeichnende Material montiert. Die vertikale Einstellung am Gerät ermöglicht das Ein- und Ausschalten des Drucks. Der Antrieb des Druckers erfolgt über den Reibungskontakt zwischen den Gummireifen der Schrifttrommel und dem Material.
+    cp_sub_title_three: Tinten
+    cp_text_three: Tintenpatronen sind in einer Reihe von Tintentypen und Farben erhältlich, die für die meisten Oberflächen geeignet sind. Wir können Sie bei der Auswahl der für Ihr Produkt am besten geeigneten Tinten beraten.
+    cp_sub_title_four: Auswahl des Drucks
+    cp_text_four: Die Standardtrommel von Codaprint ist mit Metallverriegelungsringen für die Verwendung von auswechselbaren Baselock-Gummisorten ausgestattet. Baselock ist in vielen Schriftarten und mit kundenspezifischen Logos erhältlich, um einen schnellen Wechsel des Drucks zu ermöglichen.
+    cp_sub_title_five: Austauschbare Stempelkissen
+    cp_text_five: Der Farbkopf der Codaprint-Patrone sollte bei jeder Verwendung einer neuen Farbpatrone mit einem kompletten Satz Austauschbare Stempelkissen ausgestattet werden.
+    cp_tp1: "TPS030: Für minimalen Tintenfluss"
+    cp_tp2: "TPS060: Für maximalen Tintenfluss"
+    cp_sub_title_six: Handroller
+    cp_text_six: Der Codaprint Handroller ist für das manuelle Bedrucken aller Oberflächen mit einer Reihe von schnell trocknenden Tinten geeignet.
+    ps_title_one: Maßangaben
+    ps_title_two: Codaprint Druckerspezifikation
+    ps_title_three: Modell CP-24/1
+    ps_bp_one: "Drucklänge: 240mm"
+    ps_bp_two: "Druckhöhe: 25mm"
+    ps_title_four: CP-17/B Handroller
+    ps_bp_three: "Drucklänge: 175mm"
+    ps_bp_four: "Druckhöhe: 25mm"
+    ps_title_five: Codaprint-Patronen
+    ps_bp_five: CP111 Schwarz Standard-Farbstofftinte für nicht poröse Materialien
+    ps_bp_six: CP011 Schwarz Extra schnell trocknende Farbstofftinte für nicht poröse Materialien mit hoher Geschwindigkeit
+    ps_bp_seven: CP5610 Schwarz Farbstofftinte für poröse Oberflächen
+    ps_bp_eight: CP256 Weiß Pigmentierte Tinte für dunkel gefärbte Oberflächen, poröse und nicht poröse Materialien
+    ps_text: Eine Auswahl von Farben ist in jeder Reihe verfügbar
+    list_title: Überblick
+    list_subtitle_one: Foenix Codaprint
+    list_text_one: Ein einzigartiger Drucker für das kontinuierliche Bedrucken von Metall, Kunststoff oder porösen Materialien wie Stahlblechen, extrudierten Folien, Kunststoffrohren und Pappkernwicklungen.
+    list_subtitle_two: Kostengünstiger Drucker
+    list_text_two: Der einfachste und kostengünstigste Drucker zum Aufbringen von sich wiederholenden Kennzeichnungen, Haltbarkeitsdaten, Recycling-Logos oder Produktnamen von Kunden auf Material, das sich ständig bewegt.
+    list_subtitle_three: Hochgeschwindigkeitsdrucken
+    list_text_three: Der Drucker kann mit einer sehr niedrigen Geschwindigkeit arbeiten, aber auch bis zu 100 Meter pro Minute drucken.
+    list_subtitle_four: Einfaches Tintensystem
+    list_text_four: Die Tinte befindet sich in einer austauschbaren Tintenpatrone, die unabhängig von der Druckgeschwindigkeit über eine integrierte Tintensteuerung verfügt und ein sauberes, wartungsarmes Tintensystem bietet. Dieses einzigartige Tintensystem stellt sicher, dass der Druck nie verblasst, bis die Patrone leer ist.
+    list_subtitle_five: Tintenpatrone
+    list_text_five: Unsere Standard-Tintenpatronen sind für Metall, Glas, Kunststoff, poröse Oberflächen und andere Materialien geeignet. Einige Anwendungen erfordern eine spezielle Tinte.
+    list_subtitle_six: Merkmale
+    list_text_six_html: "Der Antrieb des Druckers erfolgt über die Reifen der Drucktrommel, die das Material berühren, so dass kein mechanischer oder elektrischer Antrieb erforderlich ist.
+                                 <br>
+                                 <br>
+                                 Kontinuierlicher Rollenkodierer, perfekt für: Aufdruck von Chargennummer, Datum und Logo.
+                                 <br>
+                                 <br>
+                                 Der Drucker wird entweder über dem zu kennzeichnenden Material oder gegen eine abnehmende Materialrolle montiert.
+                                 <br>
+                                 <br>
+                                 Die Druckhöhe kann bis zu 25mm betragen, wobei entweder austauschbare Baselock-Typen oder flache Platten verwendet werden.
+                                 <br>
+                                 Es sind vier Wiederholungsdrucklängen bis zu 460 mm verfügbar."
+    fncdm_title: Entdecken Sie den Foenix Codamark
+    fncdm_text: Eindeutige und präzise Produktkennzeichnung auf effiziente und wirtschaftliche Weise mit dem pneumatischen Codamark-Rundlaufdrucker.
+    fncdm_button: Erfahren Sie mehr
+
+  foenix_codamark:
+    first_section_title: FOENIX CODAMARK
+    first_section_text: Klare und präzise Produktkennzeichnung auf effiziente und wirtschaftliche Weise mit dem Codamark Pneumatic Reciprocating Printer. Kompakter Kolben-Drucker für kontinuierliche und rotierende Abfüllmaschinen, Mindesthaltbarkeitsdatum-Druck und andere Anwendungen.
+    phr_title: Pneumatischer Hubkolbendrucker
+    phr_sub_title_one: Drucken mit der leichten Hand
+    phr_text_one: Hohe Geschwindigkeiten können mit einem niedrigen Druck von 10-20 psi erreicht werden, so dass der Codamark mit leichtem Druck ohne Produktbeschädigung drucken kann.
+    phr_sub_title_two: Sauberes Farbsystem
+    phr_text_two: Der Druckkopf ist mit einer sauberen, schnell trocknenden Tintenpatrone ausgestattet, die auf den meisten Oberflächen eine Trocknungszeit von Sekunden ermöglicht. Die versiegelte Patrone stellt sicher, dass der Bediener niemals mit der Tinte in Berührung kommt.
+    phr_sub_title_three: Codamark-Datenblätter
+    phr_text_three: Weitere Informationen finden Sie in den Datenblättern mit Angaben zu Abmessungen, Steuerungssystemen und Montagepositionen.
+    phr_sub_title_four: Schnellwechselhalter vom Typ Baselock
+    phr_text_four: Der Druckkopf ist mit einem Typenhalter ausgestattet, der in Sekundenschnelle gewechselt werden kann. Ersatzhalter können zur Voreinstellung von Baselock-Gummitypen verwendet werden.
+    phr_sub_title_five: Codamark-Patronen
+    phr_sub_title_six: Kleine Gefäße
+    phr_sub_title_seven: Große Gefäße
+    phr_list_text_one: CM501/38 Tintenpatrone Schwarz
+    phr_list_text_two: CM502/38 Tintenpatrone Rot
+    phr_list_text_three: CM503/38 Tintenpatrone Grün
+    phr_list_text_four: CM504/38 Tintenpatrone Blau
+    phr_list_text_fünf: CM506/38 Tintenpatrone Weiß
+    phr_liste_text_sechs: CM505/38 Tintenpatrone Gelb
+    phr_list_text_seven: CM501/50 Tintenpatrone Schwarz
+    phr_list_text_eight: CM502/50 Tintenpatrone Rot
+    phr_list_text_neun: CM503/50 Tintenpatrone Grün
+    phr_list_text_ten: CM504/50 Tintenpatrone Blau
+    phr_list_text_eleven: CM506/50 Tintenpatrone Weiß
+    phr_list_text_twelve: CM505/50 Tintenpatrone Gelb
+    ps_title_one: Codamark Druckerspezifikation
+    ps_sub_title_one: Modell CM-MKV/25
+    ps_bp_one: "Druckfläche: 24mm x 24mm"
+    ps_bp_two: "Umrissabmessungen des Druckkopfes: 170mm x 155mm x 85mm"
+    ps_sub_title_two: Modell CM-MKV/38
+    ps_bp_three: "Druckfläche: 37mm x 37mm"
+    ps_bp_four: "Umrissabmessungen des Druckkopfes: 170mm x 155mm x 85mm"
+    ps_sub_title_three: Modell CM-MKV/50
+    ps_bp_five: "Druckfläche: 24mm x 48mm"
+    ps_bp_six: "Umrissabmessungen des Druckkopfes: 170mm x 155mm x 85mm"
+    list_one: "Effizienter Druck von Haltbarkeitsdaten, Preisen und Kodes auf:"
+    list_bp_one: Plastikwannen
+    list_bp_two: Foliendeckel
+    list_bp_three: Kartons
+    list_bp_four: Schlauchbeutelverpackungen
+    list_bp_five: Glasflaschen
+    list_bp_six: Metalldosen usw.
+    list_two: Obere, untere oder seitliche Befestigung
+    list_three: Automatische Ein- oder Ausschaltanlagen
+    list_four: Schnell trocknende Tintenpatrone
+    list_five: Hergestellt im Vereinigten Königreich
+    fncdp_title: Entdecken Sie den Foenix Codaprint
+    fncdp_text: Ein einfacher Drucker, der Ihr Produkt kontinuierlich mit hoher Geschwindigkeit und schnell trocknenden, versiegelten Tintenpatronen bedruckt
+
+
+
+  foenix_codapack:
+    first_section_title: FOENIX CODAPACK
+    first_section_text: Die Codapack-Drucker verwenden alle austauschbare, vorimprägnierte Kunststofftintenwalzen und austauschbare Baselock-Typen. Sie können leicht montiert werden, um entweder die Oberseite, die Unterseite oder die Seite eines Produkts zu bedrucken. Diese Drucker werden häufig dort eingesetzt, wo keine Ausfallzeiten erforderlich sind und die niedrigsten Druckkosten pro Produkt gefordert sind.
+                        Wenn der Kode oder das Mindesthaltbarkeitsdatum nur einmal am Tag oder einmal in der Woche geändert werden muss, sind die Codapack-Drucker die beste Wahl.
+    ccirp_title: Kontaktkodierer und Tintenstrahldrucker
+    ccirp_sub_title_one: Anwendungen
+    ccirp_text_one_html: Die kostengünstigste Auswahl an Kodierern für Ihre Kartons, Beutel, Schrumpffolienschalen oder Endlosmaterial.
+                    <br>
+                    Die einfachen und effizienten Codapack-Kontaktcodierer verwenden alle austauschbare, vorimprägnierte Kunststofftintenwalzen und austauschbare Baselock-Typen zum Bedrucken poröser Oberflächen.
+    ccirp_sub_title_two: Vorteile
+    ccirp_text_two: Keine Wartung Die Codierer sind allesamt einfache mechanische Drucker, die Tag für Tag perfekte Druckergebnisse liefern, ohne dass eine Wartung erforderlich ist.
+    ccirp_sub_title_three: Kundenspezifischer Druck
+    ccirp_text_three: Das Baselock-Schriftsortiment umfasst viele Standard-Schriftarten, aber auch kundenspezifische Druckarten, Logos und Grafiken können problemlos erstellt werden.
+    ccirp_sub_title_four: Schneller Druckwechsel
+    ccirp_text_four: Der Wechsel des Drucktextes auf der Schrifttrommel ist schnell und einfach. Sechs verschiedene Druckhöhenmodelle stehen zur Verfügung, um den Kundenanforderungen gerecht zu werden.
+    ccirp_sub_title_five: Geringste Druckkosten
+    ccirp_text_five: Durch die Verwendung von Baselock-Typen und langlebigen Kunststoff-Tintenwalzen werden die geringstmöglichen Druckkosten für das Produkt erzielt.
+    cdp_title: Codapack-Informationen
+    cdp_sub_title_one: Baselock-Typ
+    cdp_text_one: Es wird eine breite Palette von Baselock-Schriften angeboten, die durch einfaches Einpressen der Schrift in die Metallringe oder die gerippte Gummihülse eine Botschaft erzeugen.
+    cdp_sub_title_two: Kunststoff-Farbwalzen
+    cdp_text_two_html: Diese Farbwalzen werden schnell auf die Codapack-Drucker aufgesetzt, um poröse Oberflächen wie Kartons, Schalen und Papiersäcke mit einer dichten Qualität zu bedrucken.
+                  <br>
+                  Diese langlebigen, vorgefärbten Walzen sind Einwegprodukte, die ein sauberes und effizientes Einfärbesystem ermöglichen. Sie sind in den Farben Schwarz, Blau, Rot und Grün erhältlich.
+    cdp_sub_title_three: Faser- und Schwammwalzen
+    cdp_text_three: Für nicht poröse Oberflächen können diese Walzen mit speziellen Flüssigtinten verwendet werden
+    list_text_one: Die einstellbare Federbefestigung ermöglicht die Anpassung des Drucks an die Stärke des Kartons, um einen perfekten Druck zu erzielen.
+    list_text_two: Die Drucker sind aus robusten Aluminium-Gussteilen und Rollenlagern gefertigt, die eine lange und störungsfreie Lebensdauer gewährleisten.
+    list_text_three: Die Trommeldrehung wird so gesteuert, dass die Druckposition auf jedem Karton identisch ist.
+    list_text_four: Die Codapack-Drucker lassen sich mit einer einfachen Halterung an einem Förderband befestigen.
+
+  support:
+    first_section_title: Dokumentation zur Unterstützung
+    sds_title: Sicherheitsdatenblätter  (SDS)
+    sds_card_title_one: FX8001
+    sds_card_text_one: Schwarze Tinte auf Ölbasis
+    sds_card_title_two: FX8201
+    sds_card_text_two: Schwarze Tinte auf Lösungsmittelbasis
+    sds_card_title_three: CP111
+    sds_card_text_three: Schwarze Markierungstinte
+    sds_card_title_four: FX8008/FX8009
+    sds_card_text_four: Reiniger auf Ölbasis
+    sds_card_title_five: FX8208/FX8209
+    sds_card_text_five: Lösemittelhaltiger Reiniger
+    sds_card_title_six: CP011
+    sds_card_text_six: Schwarze Markierungstinte
+    sds_card_title_seven: CM011
+    sds_card_text_seven: Schwarze Markierungstinte
+    sds_card_title_eight: CM501
+    sds_card_text_eight: Schwarze Markierungstinte
+    sds_card_title_nine: CM500
+    sds_card_text_nine: Reaktivierendes Lösungsmittel
+    sds_button: Kontaktieren Sie uns für weitere Informationen
+    sds_hint: Gesetzliche Bescheinigungen
+    sds_hint_two: Auf Anfrage erhältlich
+    manuals: FX ONE Benutzerhandbücher
+    fxom_card_title_one: FX ONE STANDARD
+    fxom_card_text_one: Benutzerhandbuch
+    fxom_card_title_two: FX ONE REMOTE
+    fxom_card_text_two: Benutzerhandbuch
+    fxom_card_title_three: FOENIX DLL
+    fxom_card_text_three: Benutzerhandbuch
+    tech_support: Kontakt zum technischen Kundendienst aufnehmen
+
+  components:
+    yellow_button: Weitere Informationen
+
+  contact:
+    contact_title: Kontakt
+    contact_title_description: Setzen Sie sich mit unserem Team in Verbindung, um mehr über Foenix Coding zu erfahren.
+    contact_text_one: "Fordern Sie einen kostenlosen Testdruck an: Senden Sie uns ein Muster Ihres Projekts."
+    contact_text_two: Kostenlose 7-Tage-Testversion verfügbar, wenn Sie im Vereinigten Königreich ansässig sind
+    phone: Telefon
+    phone_number: 0044 1932 701 449
+    email: E-Mail
+    email_add: sales@foenixcoding.com
+    address: Anschrift
+    address_text_html: Foenix Coding Ltd
+                  <br>
+                  The Barns - Hilltop Farm | Lyne Lane
+                  <br>
+                  Lyne | Chertsey | Surrey | KT16 0AW
+                  <br>
+                  Vereinigtes Königreich
+    whatsapp: Kontaktieren Sie uns auf WhatsApp
+    statement: Schließen Sie sich Hunderten von Unternehmen an, die bereits mit uns zusammenarbeiten
+    talk_to_sales: Sprechen Sie mit dem Vertrieb
+    email_us: Sie können uns auch direkt eine E-Mail schicken an
+
+
+    contact_happy: Unser Team beantwortet gerne alle Ihre Fragen.
+    icon_text: Unser Team freut sich, alle Ihre Fragen zu beantworten. Füllen Sie das Formular aus und wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen.
+    icon_text_two: Senden Sie uns ein Muster Ihres Produktes und wir erstellen einen kostenlosen Probedruck.
+    form_name: Vorname und Nachname
+    form_email: E-Mail Adresse
+    form_firma: Unternehmen
+    form_country: Land
+    form_nachricht: Ihre Nachricht
+    form_phone: Telefon
+
+  error:
+    four_four_text: Seite nicht gefunden
+    five_zero_zero_text: Leider ist etwas schief gelaufen
+
+  login:
+    fpassword: Haben Sie Ihr Passwort vergessen?
+    dont_have_account: Sie haben noch kein Konto?
+    sign_up: Anmelden
+    E-Mail: E-Mail
+    password: Kennwort
+
+  seo:
+    home_page:
+      title: "Foenix Coding: Kodieren und Markieren leicht gemacht"
+      description: Industrielle Kennzeichnungs- und Kodierungsdrucker zum Drucken in hoher Auflösung auf jedem Material. Foenix Coding Kodierung und Markierung, industrieller Tintenstrahldrucker, FX One Remote Drucker, FX One Standard Drucker
+      keywords: “Kodierung und Markierung, Foenix-Drucker, industrielle Kennzeichnung, industrieller Tintenstrahldrucker, Kodierung und Markierung von Verpackungen, Produktkodierung und -markierung, Tintenstrahlkodierung und -markierung, Datumsdruck, Chargennummerndrucker, Strichkodedrucker"
+    printers:
+      title: "Foenix industrielle Tintenstrahldrucker"
+      description: Entwickelt für kostengünstige Kodierung und Markierung auf porösen Oberflächen, eine echte Alternative zu Thermischer Tintenstrahldruck-Kodierern zum Drucken von Strichkodes, Chargennummern, Logos und Haltbarkeitsdaten
+      keywords:  Industrielle Tintenstrahldrucker, Tintenstrahl-Codierer, Teilekennzeichnungssysteme, Produktcodierung, Metallkennzeichnungsmaschinen, Markierungsmaschinen, Seriennummerndrucker, Produktidentifikation, Druck von Seriennummern, Druck von Strichkodes
+    fxone_standard:
+      title: FX ONE Standard - Beste Thermischer Tintenstrahldruck-Drucker-Alternative - Hochauflösender Kistenkodierer
+      description: Entwickelt für kostengünstige Kodierung und Markierung auf porösen Oberflächen, eine echte Alternative zu Thermischer Tintenstrahldruck-Kodierern zum Drucken von Strichkodes, Chargennummern, Logos und Haltbarkeitsdaten
+      keywords: "Kostengünstige Kodierung, Datumsdruck, Druck auf porösen Oberflächen, Thermischer Tintenstrahldruck-Alternative, HP-Drucker, Thermo-Tintenstrahldrucker, Kistenkodierer, Kartonkodierung, Strichkodedrucker, Holzdrucker"
+    fxone_remote:
+      title: FX ONE Remote Beste Kontinuierlicher Tintenstrahldruck-Drucker Alternative - Hochauflösender industrieller Tintenstrahldrucker
+      description: Die Foenix-Drucker gehören zu den Kleinzeichendruckern mit den niedrigsten Kosten pro Kode und dem geringsten Wartungsaufwand. Sie bieten eine echte Alternative zu komplexen Kontinuierlicher Tintenstrahldruck-Druckern zu einem sehr günstigen Preis.
+      keywords: "Kennzeichnungsmaschinen, industrieller Tintenstrahldrucker, Bedrucken von Flaschen, CIJ-Drucker, Kontinuierlicher Tintenstrahldruck-Drucker, Kontinuierlicher Tintenstrahldruck Systeme, Glasdrucker, Metalldrucker, Flaschendrucker, PVC-Drucker"
+    fxone_plus:
+      title: FX ONE Plus - Beste Alternative für Etiketten und vorbedruckte Kartons - Großschriftdrucker
+      description: Großzeichendrucker mit bis zu 72mm Druckhöhe. Die perfekte Alternative zu begrenzten Etikettensystemen, um Kodes, Logos und Strichkodes zu drucken.
+      keywords: "Etikettendrucker, Strichkodedrucker, Thermodrucker, Thermotransferdrucker, Etikettiersystem, Strichkode-Etikett, Großschriftdrucker, Kodierer, Etikettendrucker, Kartondruck"
+    inks_and_consumables:
+      title: Foenix Großtintenpatronen - 15+ Millionen Zeichen drucken
+      description: Tinten für Anwendungen in den Bereichen Lebensmittel, Getränke, Kosmetik, Haushaltswaren, Industrie und Extrusion
+      keywords: MEK-Tinte, Kontinuierlicher Tintenstrahldruck-Tinte, Thermischer Tintenstrahldruck-Tintenpatrone, Lösungsmittel-Tinte, Öl-Tinte, UV-Tinte, FX8001, FX8201, Foenix-Tintenpatrone, Foenix-Reiniger
+    distributors:
+      title: Foenix Weltweite Vertriebspartner
+      description: Die Produktreihen von Foenix für Tintenstrahldrucker und Kontaktcodierung sind über ein weltweites Netz qualifizierter Vertriebspartner erhältlich, die einen umfassenden Verkaufs- und Kundendienst anbieten.
+      keywords: Kodierung und Kennzeichnung, Tintenstrahldrucker-Reparatur, Foenix Vertriebspartner, Foenix Vertriebspartner, Foenix Kodierschulung
+    cost_of_ownership:
+      title: Foenix Kodierdrucker - die günstigste Möglichkeit, Ihre Produkte zu kennzeichnen
+      description: Die FX ONE-Drucker bieten die günstigsten Kosten pro Druck auf dem Markt, ohne monatlichen oder jährlichen Wartungsvertrag
+    about:
+      title: Über Foenix - Die Experten für Kodierung, Kennzeichnung und Rückverfolgbarkeit
+      description: Foenix Coding ist ein führender Hersteller im Vereinigten Königreich und weltweiter Lieferant der neuesten Tintenstrahldrucker für die Industrie
+      keywords:  FX ONE-Drucker, Foenix Coding-Drucker, Drucken und Anbringen, Foliendrucker, DOD-Tintenstrahldrucker, Piezo-Tintenstrahldrucker, Xaar-Tintenstrahldrucker, Foenix-Codierunternehmen, Hersteller im Vereinigten Königreich
+    contact:
+      title: Nehmen Sie Kontakt mit dem Foenix Coding Team auf
+      description: Kontaktieren Sie uns, um weitere Informationen über unsere industriellen Tintenstrahldrucker, unsere Tinten und Verbrauchsmaterialien zu erhalten. Kontakt Foenix Coding, Foenix Coding E-Mail, Foenix Coding Telefon
+    faq:
+      title: HÄUFIG GESTELLTE FRAGEN - Foenix Coding
+      description: Weitere Informationen über die Drucker und Tinten von Foenix Coding. Sauven Tintenpatronen, Sauven Lösemitteltinte, Sauven Öltinte, Druckdatenbank, Druckkodes, Thermischer Tintenstrahldruck Alternative, Kontinuierlicher Tintenstrahldruck Alternative
+    industry:
+      title: Foenix Coding - Kodierungs- und Markierungslösung für alle Wirtschaftsbereiche
+      description: Die FX ONE Drucker sind speziell für den industriellen Einsatz in Bereichen wie der Lebensmittel-, Getränke-, Automobil-, Bau-, Verarbeitungs-, Medizintechnik-, Pharma-, Elektronik- und Chemieindustrie konzipiert.
+      keywords: Tintenstrahl-Kennzeichnung, Tintenstrahl-Kodierer, Tintenstrahlkodierung, Tintenstrahl-Kennzeichnung, pharmazeutische Verpackungen, medizinische Verpackungen, Druck auf Rohre, Druck auf Extrusion, Druck auf Flaschen, Druck auf Karton
+    video:
+      title: "Video - Foenix Coding"
+      description: Sehen Sie, wie Foenix-Drucker auf beliebige Gegenstände und Materialien drucken.
+    legal:
+      title: "Rechtliches  - Foenix Coding"
+      description: Siehe unsere Cookie- und Datenschutzrichtlinien.
+    jobs:
+      title: "Karriere: Foenix Coding wächst. Schließen Sie sich uns an!"
+      description: Wir sind immer auf der Suche nach talentierten neuen Freunden, die unsere Vision teilen, die Grenzen der Branche zu erweitern
+    posts:
+      title: Nachrichten & Veranstaltungen
+      description: Erhalten Sie die neuesten Nachrichten und Veranstaltungen
+    software:
+      title: Foenix FX App - Programmlösungen für die Kodier- und Kennzeichnungsindustrie
+      description: Mit der FX App von Foenix Coding können Sie dank der benutzerfreundlichen Oberfläche Nachrichten in Rekordzeit entwerfen. Beste Rückverfolgbarkeit Programm
+      keywords: Etikettierungssoftware, Etikettierungssoftware, NiceLabel, FX App, Verwendung nach Datum, Zähler, Losnummer, Logo, Strichkodes
+    contact_coders:
+      title: Kontakt-Codierer - Traditionelle kostengünstige Kennzeichnung
+      description: Kosteneffiziente Drucker und Lösungen für traditionelle kostengünstige Kodier- und Kennzeichnungsdrucker
+      keywords: Kontaktkodierung, Markierungsmaschinen & Kontaktrollendrucker
+    foenix_codaprint:
+      title: Foenix Codaprint - Einfacher Drucker für Wiederholungsdruck
+      description: Foenix Codaprint ist ein zuverlässiger Endlosdrucker für die Kennzeichnung von Metall, Kunststoff, Glas und Karton mit hoher und niedriger Geschwindigkeit
+      keywords: Endlos-Rollendrucker, Chargennummer, Kunststoff, Kartons, Codaprint
+    foenix_codamark:
+      title: Foenix Codamark - Mehrzweck-Produktdrucker
+      description: Codamark ist ein kompakter Rollendrucker für Reihen- und Rotationsabfüllmaschinen, für den Druck des Mindesthaltbarkeitsdatums und andere Anwendungen von Foenix Coding
+      keywords: Kompakter Pendeldrucker, Mindesthaltbarkeitsdatum, Codamark
+    foenix_codapack:
+      title: Foenix Codapack - Kostengünstige Karton-Codierer
+      description: Lösen Sie Ihre Karton-Druckprobleme mit den Codapack-Kontaktkodierern mit Kunststoff-Farbwalze und Baselock-Gummi-Typ von Foenix Coding
+      keywords: Kontaktcodierer, Drucker mit Plastiktintenwalze, Baselock Codapack
+    support:
+      title: Foenix Coding – Unterlagen zur Unterstützung
+      description: Foenix Coding Benutzerhandbuch und Informationsleitfäden, um mehr über unsere Kontakt- und Tintenstrahldrucklösungen zu erfahren
+      keywords: Foenix Coding Benutzerhandbuch, Foenix Informationsleitfäden, Tintenstrahldruck, FX ONE Benutzerhandbuch, Foenix technisches Handbuch, FOENIX MSDS
+
+  news:
+    latest: Aktuelle Meldung
+    news: Nachrichten/Ereignisse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
