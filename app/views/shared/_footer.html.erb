@@ -53,23 +53,37 @@
           <a href="#" role="button" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="footer-link mb-3 footer-lang-link">
             <%= locale.capitalize %> <i class="fas fa-chevron-down small-chevron"></i>
           </a>
+          <%
+          locales = [
+            ['English', 'en'],
+            ['Français', 'fr'],['لعربية', 'ar'],
+            ['中国人', 'ch'],
+            ['Nederlands', 'du'],
+            ['Deutsch', 'ge'],
+            ['Italiano', 'it'],
+            ['Bahasa Indonesia', 'in'],
+            ['日本', 'ja'],
+            ['한국인', 'ko'],
+            ['Polskie', 'pl'],
+            ['Português', 'pt'],
+            ['Pусский', 'rus'],
+            ['Español', 'sp'],
+            ['Ελληνικά', 'gr'],['עִברִית', 'he'],
+            ['Türkçe', 'tur'],
+            ['ไทย', 'thai']
+          ]
+          %>
           <div class="dropdown-menu dropdown-menu-right drop-men-footer" aria-labelledby="productsDropdown">
-            <ul class="dropdown-menu-ul position-relative">
-              <li class="d-flex align-items-center w-100"><%= link_to "English", { :locale=>'en' }, class: "dropdown-item ln-en" %></li>
-              <% if locale == :en %>
-                <span class="ln-tick">
-                  <i class="fas fa-check"></i>
-                </span>
-              <% end %>
-            </ul>
-            <ul class="dropdown-menu-ul position-relative">
-              <li class="d-flex align-items-center w-100"><%= link_to "Français", { :locale=>'fr' }, class: "dropdown-item ln-fr" %></li>
-              <% if locale == :fr %>
-                <span class="ln-tick">
-                  <i class="fas fa-check"></i>
-                </span>
-              <% end %>
-            </ul>
+            <% locales.each do |l| %>
+              <ul class="dropdown-menu-ul position-relative">
+                <li class="d-flex align-items-center w-100"><%= link_to l[0], { :locale=> l[1] }, class: "dropdown-item ln-#{l[1]}" %></li>
+                <% if locale == l[1].to_sym %>
+                  <span class="ln-tick">
+                    <i class="fas fa-check"></i>
+                  </span>
+                <% end %>
+              </ul>
+            <% end %>
           </div>
         </div>
       </div>

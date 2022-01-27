@@ -1,4 +1,4 @@
-en:
+tur:
   navbar:
     home: Anasayfa
     products: Ürünler
@@ -31,7 +31,7 @@ en:
     address: Chertsey | Surrey | KT16 0AW | UK
     printers: Yazıcılar
     contact_coders: Kodlayıcılar ile İrtibata Geçin
-    codaprint: Foenix Codaprint 
+    codaprint: Foenix Codaprint
     codamark: Foenix Codamark
     codapack: Foenix Codapack
     support: Destek Belgeleri
@@ -58,7 +58,7 @@ en:
 
   jobs:
     title: FOENIX CODING büyüyor
-    tagline: Sektörü daha da ileriye götürmek için her zaman vizyonumuzu paylaşan yetenekli yeni arkadaşlar arayışı içerisindeyiz 
+    tagline: Sektörü daha da ileriye götürmek için her zaman vizyonumuzu paylaşan yetenekli yeni arkadaşlar arayışı içerisindeyiz
 
   jobs_show:
     roles_at: Pozisyonlar
@@ -229,7 +229,7 @@ en:
     third_section_title: Endüstriyel baskıdaki sahip olma maliyetinin önemine odaklanıyoruz.
     third_section_text: İster kasa kodlama ya da ürün işaretleme için bir mürekkep püskürtmeli yazıcı arayışı içerisinde olun, baskıdaki yatırım artık yalnızca yazıcı fiyatıyla sınırlı değildir. Sarf malzemeleri ve bakım sahip olma maliyetinizi belirleyen ana faktörler olmuştur.
     fourth_section_text_right: Foenix Coding, sahip olma maliyetini düşüren bir yazıcı ürün yelpazesi sunmaktadır. Küçük tipteki baskılar için sıfır bakım felsefesini benimsemekteyiz. Ayrıyetten, en kullanıcı dostu endüstriyel yazıcıyı sunmak için sıkı çalışıyoruz. Foenix yazıcıları, görselli anahtarları olan basit bir Windows yazılımıyla ve/veya oldukça gelişmiş ve sezgisel bir Touch Controller ile çalışmaktadır.
-    fifth_section_title: Birleşik Krallık'ta üretilmiş olup uzun ömürlü olacak şekilde yapılandırılmıştır 
+    fifth_section_title: Birleşik Krallık'ta üretilmiş olup uzun ömürlü olacak şekilde yapılandırılmıştır
     fifth_section_text_one: "Tüm ürünlerimiz, yazıcılarımız, mürekkeplerimiz ve sarf malzemelerimiz Birleşik Krallık'ta üretilmiştir. Yazılım ve donanım sistemleri, imalat ve ambalaj sektör profesyonelleri işbirliğiyle onların son kullanma tarihi, parti kodları, 2D barkodlar, grafik logoları ve diğer baskı gereksinimlerindeki gündelik zorluklarında yardımcı olabilmek adına geliştirilmiştir."
     fifth_section_text_two: "Endüstriyel Xaar bazlı mürekkep püskürtmeli yazıcı yelpazemiz bakım gerektirmez. Bunlar özellikle gıda, içecek, otomotiv, inşaat, çevirim, tıbbi cihazlar, eczacılık, elektronik ve kimyasal gibi sektörledeki endüstriyel kullanım için tasarlanmıştır"
 
@@ -253,12 +253,12 @@ en:
     lowest_ink_title: Piyasadaki En Düşük Mürekkep kullanımı
     lowest_ink_text: Koli kodlama veya ürün markalama için bir mürekkep püskürtmeli yazıcı arıyorsanız, baskıya yapılan yatırım artık sadece yazıcı fiyatından ibaret değil. Sarf malzemeleri ve bakım, sahip olma maliyetinizi belirleyen ana faktörler haline geldi. Akıllı tasarımı sayesinde, piezo mürekkep püskürtmeli yazıcılar oldukça düşük mürekkep kullanımına sahiptir ve bu nedenle baskı başına çok düşük maliyet sunar.
     # NEW
-    standard_ink_one: Tüm uygulamalarınız için 
+    standard_ink_one: Tüm uygulamalarınız için
     standard_ink_two: Standart mürekkep yelpazemiz
     sdct_one_html: "FX 8001<br>Siyah Yağ Mürekkebi"
     sdct_text_one: Karton, kağıt, ahşap ve diğer herhangi gözenekli alt katmanlar için
     sdct_two_html: "FX8201<br>Siyah Solvent Mürekkep"
-    sdct_text_two: PVC, metal, cam, plastik ve diğer herhangi gözeneksiz yüzeyler için 
+    sdct_text_two: PVC, metal, cam, plastik ve diğer herhangi gözeneksiz yüzeyler için
     sdct_three_html: "FX8203<br>Mavi Solvent mürekkep"
     sdct_text_three: Birincil ambalajlama için FX8201 ile aynı gözeneksiz mürekkep
     sdct_four_html: "FX8308<br>Kırmızı Solvent mürekkep"
@@ -286,14 +286,14 @@ en:
     first_section_title: Global Erişim
     first_section_text: Dünyanın neresinde olursanız olun, distribütörlerimizden biri yakınınızdadır. Her kıtada varız ve sizin dilinizde ve saat diliminizde destek sunuyoruz.
     second_section_title: Foenix şu bölgelerde distribütörlere sahiptir
-    why_partner_title: Foenix Coding 
+    why_partner_title: Foenix Coding
     why_partner_title_two: ile neden partner olmalıyım
-    why_partner_text_html: 'FOENIX CODING'İ RAKİPLERİNDEN FARKLI KILAN NEDİR??
+    why_partner_text_html: "FOENIX CODING'İ RAKİPLERİNDEN FARKLI KILAN NEDİR??
                            <br>
-                           Foenix Coding, ürünleri, şirketi ve müşterileri baştan sona tanıyan insanlardan oluşan sağlam bir çekirdek tarafından yönetilen bir "İş Girişimi"dir.
+                           Foenix Coding, ürünleri, şirketi ve müşterileri baştan sona tanıyan insanlardan oluşan sağlam bir çekirdek tarafından yönetilen bir İş Girişimidir.
                            <br>
                            <br>
-                           Foenix Coding ile çalışırken aşağıdakilerin beklentisine girebilirsiniz:'
+                           Foenix Coding ile çalışırken aşağıdakilerin beklentisine girebilirsiniz:"
     first_list_one: Doğrudan rakiplere kıyasla rekabetçi fiyatlandırma
     first_list_two: Distribütörler için cazip marjlar
     first_list_three: Prosedürlerde esneklik
@@ -485,7 +485,7 @@ en:
                                 <br>
                                 Kötü koşullu ortamlara karşı daha iyi koruma:
                                 <br>
-                                Kapatıcı açma süresi 5 saniye kadar kısa olabilir. Bu, baskı sırasında kapatıcının yalnızca 5 saniye açık kalacağı anlamına gelir. Hemen ardından yazıcı kafasını kapatacak ve havadaki cereyan, nem, toz ve diğer kirliliklere karşı koruyacaktır.
+                                Kapatıcı açma süresi 5 saniye kadar kısa olabilir. Bu, baskı sırasında kapatıcının yalnızca 5 saniye açık kalacağı anlamına gelir. Hemen ardından yazıcı kafasını kapatacak ve havadaki cereyan, nem, toz ve diğer kirliliklere karşı koruyacaktır."
     grid_title_five: Mükemmel baskı için temiz mürekkep yönetimi
     grid_description_five_html: "Kolay akan yağ veya solvent bazlı mürekkep, atık, kirlilik ve pislik olmamasını sağlamak için sızdırmaz bir mürekkep kartuşu içindedir. Yazdırmaya devam ederken kartuşun değiştirilmesi birkaç saniye sürer.
                                 <br>
@@ -528,7 +528,7 @@ en:
     pop_title_two: Tüm ürün kodlama uygulamanız için
     pop_text_one: Ağ kurma ve baskı analizleri
     pop_text_two: Basit etkileşimli pencere programlama
-    pop_text_three: 'PC'de kullanılabilirlik ve 7" Dokunmatik ekran denetleyicisi'
+    pop_text_three: "PC'de kullanılabilirlik ve 7\" Dokunmatik ekran denetleyicisi"
     pop_text_four: Çoklu dil desteği
     pop_text_five: DLL'imizle tam entegrasyon
     pop_text_six: İleri düzey yazıcı yönetimi
@@ -553,7 +553,7 @@ en:
     fifth_section_right_title_one: Bağlanırlık
     fifth_section_right_one: RS232 ve RS485 için Sauven Touch controller
     fifth_section_right_two: USB-A hafıza kartı dahildir
-    fifth_section_right_three: Kablo bağlantısı için USB-B 
+    fifth_section_right_three: Kablo bağlantısı için USB-B
     fifth_section_right_four: Ethernet (opsiyonel)
     fifth_section_right_five: Metin, grafik, logo ve barkod yazdırır
     fifth_section_right_six: Enkoder, alarm işareti ve harici fotoseller için I/O portu
@@ -567,7 +567,7 @@ en:
     fifth_section_right_twelve: 90-260 VAC ila 24VDC güç kaynağı dahildir
     fifth_section_message: Foenix Coding Ltd, ürünleri ve yazılımları sürekli olarak geliştirmektedir. Özellikler değişikliğe tabidir
     build_to_last: Uzun ömürlü olması için tasarlandı
-    build_to_last_description: Karbon fiber yapı ve sağlam bir bileşen grubu, 
+    build_to_last_description: Karbon fiber yapı ve sağlam bir bileşen grubu,
     build_to_last_description_two: önümüzdeki yıllarda sizin olacağı anlamına gelir.
     discover: FX ONE ürün gamını keşfedin
     shared_tech: Paylaşımlı Teknoloji
@@ -578,13 +578,13 @@ en:
     fx_one_standard_sub: Yüksek çözünürlüklü
     fx_one_standard_sub_two: ambalaj baskısı için akıllı çözüm
     fx_one_standard_text: Pahalı önceden basılmış ambalajlara veya pahalı etiketlere
-    fx_one_standard_text_two: olan ihtiyacı ortadan kaldırmak için bir üretim hattındaki kartonlara, 
+    fx_one_standard_text_two: olan ihtiyacı ortadan kaldırmak için bir üretim hattındaki kartonlara,
     fx_one_standard_text_three: tablalara ve çuvallara doğrudan yüksek çözünürlüklü baskı.
     fx_one_plus: FX ONE Plus
     fx_one_plus_sub: Etiket baskısından tasarruf etmenin
     fx_one_plus_sub_two: akıllı yolu.
     fx_one_plus_text: 72 mm baskı yüksekliğine kadar büyük karakterli yazıcı.
-    fx_one_plus_text_two: Pahalı, karmaşık ve sınırlı etiketleme sistemlerine 
+    fx_one_plus_text_two: Pahalı, karmaşık ve sınırlı etiketleme sistemlerine
     fx_one_plus_text_three: mükemmel bir alternatif.
     sixth_section_title: Güvenilir, Güçlü, Çok yönlü
     sixth_section_left_sub_title_one: Pahalı bakım sözleşmeleri yok
@@ -599,14 +599,14 @@ en:
     sixth_section_right_sub_text_one: Teknolojisi dünya çapında başarıyla satılan binlerce yazıcıyla zaten kanıtlanmış bir Xaar yüksek çözünürlüklü baskı kafası kullanır.
     sixth_section_right_sub_title_two: Sistem entegrasyonu
     sixth_section_right_sub_text_two: Gerektiğinde bir fabrika ağ sistemine entegre edin veya endüstriyel tarayıcılara, kodlayıcılara, kontrol terazilerine veya diğer ekipmanlara entegre olun.
-    sixth_section_right_sub_title_three: %100 çalışma süresi %0 arızalı süre
+    sixth_section_right_sub_title_three: "%100 çalışma süresi %0 arızalı süre"
     sixth_section_right_sub_text_three: "7x24 Baskı yapın: Kartuş değiştirirken bile baskı yapmayı durdurmayın!"
     sixth_section_right_sub_title_four: Yenilik Otomatik Kapatıcı
     sixth_section_right_sub_text_four: "Yazıcınızın en kritik parçasını korumak için: yazıcı kafası motoru"
     seventh_section_title: Her seferinde kusursuz baskılar.
     seventh_section_text: FX ONE yazıcıları yüksek kaliteli, iyi yapılmış, yüksek hassasiyettir. Ürününüzü Yüksek Çözünürlükte kodlamanın mümkün olan en basit, en verimli yolunu sunuyoruz.
     low_ink: Piyasadaki en düşük mürekkep kullanımı
-    low_ink_text: Mürekkep kartuşları ve bakım sözleşmeleri için bir servet harcamaya son verin! 
+    low_ink_text: Mürekkep kartuşları ve bakım sözleşmeleri için bir servet harcamaya son verin!
     low_ink_text_two: Foenix yazıcıları sektörün en düşük işletme maliyeti ve baskı başına en ucuz maliyetini sunmaktadır!
 
 
@@ -639,7 +639,7 @@ en:
     fx_one_remote: FX ONE Remote
     fx_one_remote_sub: CIJ baskıya,
     fx_one_remote_sub_two: akıllı alternatif
-    fx_one_remote_text: FX ONE Remote mürekkep püskürtmeli yazıcı, 
+    fx_one_remote_text: FX ONE Remote mürekkep püskürtmeli yazıcı,
     fx_one_remote_text_two: kod başına en düşük maliyetli ve en düşük bakım gerektiren küçük karakterli yazıcılardan biridir.
     fx_one_remote_text_three: Ürünlerinizi kodlamak için gerçek bir alternatif sunar.
     second_section_title: Genel Görünüm
@@ -695,7 +695,7 @@ en:
                                Kartonların yanı sıra kağıt, ahşap, kumaş, EPS, köpük, beton vb. üzerine baskı yapabilirsiniz."
     huge_cost_savings: Etiketleri ve önceden basılmış ambalajları doğrudan kartonlara yüksek çözünürlüklü baskıyla değiştirerek büyük maliyet tasarrufu - kutular, çuvallar, tablalar, ahşap paletler ve diğerleri için ideal
     plus_newsletter_title: FOENIX HABER BÜLTENİ
-    plus_newsletter_description: FX ONE Plus'ı piyasaya sürdüğümüzde 
+    plus_newsletter_description: FX ONE Plus'ı piyasaya sürdüğümüzde
     plus_newsletter_description_two: ilk öğrenen siz olun
     placeholder: E-postanızı girin ve lansmanla ilgili güncellemeleri alın
 
@@ -759,11 +759,11 @@ en:
     grid_title_four: Foenix yerleşik yazılım
     grid_description_four: Yazıcılar zamanla daha da iyi hale gelmektedir. Her ürün yazılımı güncellemesinde performans iyileştirmeleri ve ek işlevsellik ile FX ONE yazıcınızı daha da yetenekli hale getirin.
     grid_title_five: DLL'imizle tam entegrasyon
-    grid_description_five_html: "Bir DLL nedir?
+    grid_description_five_html: \"Bir DLL nedir?
                                 <br>
                                 <br>
                                 DLL (Dinamik Bağlantı Kitaplığı), bir üçüncü taraf geliştirici tarafından kendi uygulamalarına dahil etmek için kullanılabilecek bir dizi yazılım işlevidir. Foenix DLL, FX ONE yazıcının FX APP uygulaması veya Foenix Touch Controller aracılığıyla kontrol edilmesini sağlayan bir dizi işlev sağlar.
-                                Kitaplık, kullanılan gerçek protokolle ilgilendiğinden, geliştirici için yazıcıyla iletişim sürecini çok daha basit hale getirir. Geliştirici daha sonra yazıcıları izlemek, mesajları yüklemek ve veri iletmek için nispeten basit bir mekanizma kullanır.
+                                Kitaplık, kullanılan gerçek protokolle ilgilendiğinden, geliştirici için yazıcıyla iletişim sürecini çok daha basit hale getirir. Geliştirici daha sonra yazıcıları izlemek, mesajları yüklemek ve veri iletmek için nispeten basit bir mekanizma kullanır."
     grid_title_six: Yazdırma ayarlarında kullanıcı hatalarını önleme
     grid_description_six: El tipi okuyucu aracılığıyla yazdırma ayarlarının otomatik yapılandırılması sayesinde artık hata yok. Yazdırılacak bir mesajı seçmek veya ilgili barkodları tarayarak bir mesajdaki alanları doldurmak için bir barkod tarayıcı kullanılabilir. Daha az manuel müdahale, daha az kodlama hatası anlamına gelir.
     newsletter_title: En son yazılım güncellemelerimizi alın
@@ -783,7 +783,7 @@ en:
     fourth_section_text_five: El tipi okuyucu aracılığıyla yazdırma ayarlarının otomatik yapılandırılması sayesinde artık hata yok. Yazdırılacak bir mesajı seçmek veya ilgili barkodları tarayarak bir mesajdaki alanları doldurmak için bir barkod tarayıcı kullanılabilir. Daha az manuel müdahale, daha az kodlama hatası anlamına gelir.
     button: Test edilecek canlı yazılım
     fourth_section_title_six: Foenix yerleşik yazılım
-    fourth_section_text_six: Yazıcılar zamanla daha da iyi hale gelmektedir. 
+    fourth_section_text_six: Yazıcılar zamanla daha da iyi hale gelmektedir.
     fourth_section_text_six_two: Her ürün yazılımı güncellemesinde performans iyileştirmeleri ve ek işlevsellik ile FX ONE yazıcınızı daha da yetenekli hale getirin.
     fifth_section_title_one: DLL'imizle tam entegrasyon
     fifth_section_sub_title: Bir DLL nedir?
@@ -937,7 +937,7 @@ en:
     video_text_two_cont: Koli kodlama uygulamalarınız için en uygun maliyetli çözüm olan FX ONE Standard yazıcı
     video_text_three: Kartonunuzda yüksek kaliteli, verimli kodlama nasıl elde edilir? FX ONE Standard  yazıcı ile öğrenin
     video_text_four: FX ONE Standard, tüm endüstriyel uygulamalarınız için en iyi yazıcı
-    video_text_five: FX ONE Standard yazıcı, dış kasalar, tablalar ve oluklu mukavva için ideal 
+    video_text_five: FX ONE Standard yazıcı, dış kasalar, tablalar ve oluklu mukavva için ideal
     video_text_six: "FX ONE Standardı: Tek Yazıcı, Birçok Uygulama: Barkodlar, logolar, karton kodlama ve daha fazlası"
     video_text_seven: FX ONE Standard ile etiket yazıcısını değiştirerek maliyetleri azaltın
 
@@ -967,7 +967,7 @@ en:
     codapack_sub_title: İletişim Kodlayıcılar ve Plastik Mürekkep Silindirli Yazıcılar
     codapack_text: Foenix Coding'in plastik mürekkep silindiri ve baselock kauçuk tipini kullanan kodapack kontak kodlayıcılarla karton baskı sorunlarınızı çözün
     baselock_title: Foenix Baselock
-    baselock_sub_title: Tüm kontak kodlama makineleri için 
+    baselock_sub_title: Tüm kontak kodlama makineleri için
     baselock_sub_title_two: değiştirilebilir kauçuk tipi
     baselock_text_one: HIZLI VE KOLAY BASKI DEĞİŞTİRME
     baselock_text_two: GENİŞ TİP TARZLARI YELPAZESİ
@@ -1034,7 +1034,7 @@ en:
                                  460 mm'ye kadar dört tekrarlı baskı uzunluğu mevcuttur."
     fncdm_title: Foenix Codamark'ı keşfedin
     fncdm_text: Codamark Pnömatik Pistonlu Yazıcı ile verimli ve ekonomik bir şekilde elde edilen net ve hassas ürün işaretleme.
-    fncdm_button: Daha Fazla Bilgi Edinin 
+    fncdm_button: Daha Fazla Bilgi Edinin
 
   foenix_codamark:
     first_section_title: FOENIX CODAMARK
@@ -1176,7 +1176,7 @@ en:
     whatsapp: WhatsApp üzerinden bizimle irtibata geçin
     statement: Halihazırda bizimle çalışan yüzlerce şirkete katılın
     talk_to_sales: Satış departmanıyla görüşün
-    email_us: Ayrıca bize doğrudan şu adresten e-posta gönderebilirsiniz:
+    email_us: "Ayrıca bize doğrudan şu adresten e-posta gönderebilirsiniz:"
 
 
     contact_happy: Ekibimiz tüm sorularınızı yanıtlamaktan mutluluk duyar.
