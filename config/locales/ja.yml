@@ -195,6 +195,7 @@ ja:
   about:
     title: Foenixコーディングの内部
     first_section_title_one: 私たちは誰か
+    first_section_title_two: 会社
     first_section_text_one: "Foenix Codingは、食品、飲料、製薬、産業、および電子産業向けの最新のインクジェットプリンターの、インライン製品のコーディング、マーキング、（印刷）、および識別のための大手メーカーおよびグローバルサプライヤーです。 Foenixは、5年以上にわたり、品質と創造性で世界的な評判を築いてきました。また、プリンターの設計における費用対効果とメンテナンスの手間も少なく済みます。    first_section_title_two: 会社"
     first_section_text_two: "Foenixコーディングは、メンテナンスフリーのインクジェットシステムの設計と製造を専門とする産業用インクジェットプリンターで知られています。英国のメーカーがグローバルに勝つためには、競争力のある製品を提供する以上のことをしなければなりません。 Foenixの巧妙な設計により、プリンター内の成分が大幅に削減されました。このアプローチにより、製造コストが削減され、プリンターの信頼性が向上し、Foenixは世界中のプレーヤーに刺激を与えています。"
     first_section_title_three: 市場
@@ -303,8 +304,8 @@ ja:
     third_list_one: "「技術的能力: 60か国以上にプリンターがあるということは、ほぼすべてのアプリケーションを見てきたことを意味します」"
     third_list_three:  "専門知識: 制限された製品範囲は専門知識になります"
     third_list_two: "特定の顧客のニーズに迅速に対応できる柔軟なR＆Dチーム"
-    Partnership_title: パートナーシップへの道
-    Partnership_text: 世界中でFoenix製品をマーケティングする流通パートナーネットワークが拡大していることに興奮しています。私たちは現在、新しい範囲のプリンターを新しい市場に宣伝するために、国際的な販売代理店ネットワークに参加する企業を招待しています。このフォームに記入してください。まもなくこの機会についてご連絡いたします。
+    partnership_title: パートナーシップへの道
+    partnership_text: 世界中でFoenix製品をマーケティングする流通パートナーネットワークが拡大していることに興奮しています。私たちは現在、新しい範囲のプリンターを新しい市場に宣伝するために、国際的な販売代理店ネットワークに参加する企業を招待しています。このフォームに記入してください。まもなくこの機会についてご連絡いたします。
     step_one: STEP 1
     step_one_title: 申し込む
     step_one_text: この機会についてもっと話し合いたければ、あなたの会社とその目標からもっと多くのことを聞いていただければ幸いです。
@@ -432,7 +433,7 @@ ja:
 
 
   fxone_remote:
-    first_section_title: リモート
+    first_section_title: REMOTE
     first_section_text: 新しいFX ONEインクジェットプリンターは、コードあたりのコストが最も低く、メンテナンスが最も少ない小型文字プリンターの1つです。それはあなたの製品をコーディングするための本当の代替手段を提供します。
     second_section_title: 概要
     grid_title_one: CIJ印刷の最良の代替手段
@@ -525,42 +526,42 @@ ja:
     pop_text_five: DLLとの完全な統合
     pop_text_six: 高度なプリンター管理
     pop_link: 詳細
-    four_section_title: 技術仕様
-    five_section_main_title: FX ONE Remote
-    five_section_left_title: 機能
-    five_section_left_one: 任意の方向に印刷します
-    five_section_left_two: 1〜8行の印刷
-    five_section_left_three: 2mm〜18mmの合計印刷高さ
-    five_section_left_four: 高解像度peizoプリントヘッド
-    five_section_left_five: テキスト、グラフィック、ロゴ、バーコードを印刷します
-    five_section_left_six: 時刻と複数の日付形式を出力します
-    five_section_left_seven: 連続リピート印刷機能
-    five_section_left_eight: 100m / minの印刷速度（バーコードと2mmのテキストの場合は50m / min）
-    five_section_left_nine: 単一の開始/停止印刷ボタン
-    five_section_left_ten: インク残量を含む視覚的なアラームインジケーター
-    five_section_left_eleven: メッセージ幅、遅延、印刷方向の制御
-    five_section_left_twelve: 製品検出フォトセル
-    five_section_left_thirteen: 重量1.7 Kg（インクカートリッジとブラケットを除く）
-    five_section_left_fourteen: サイズ242 x 178 x 90mm
-    five_section_right_title_one: 接続性
-    five_section_right_one: SauvenTouchコントローラー用のRS232およびRS485
-    five_section_right_two: USB-メモリスティックが含まれています
-    five_section_right_three: ケーブル接続用のUSB-B
-    five_section_right_four: イーサネット（オプション）
-    five_section_right_five: テキスト、グラフィック、ロゴ、バーコードを印刷します
-    five_section_right_six: エンコーダー、アラームビーコン、外部フォトセル用のI / Oポート
-    five_section_right_title_two: インク
-    five_section_right_seven: 密閉された交換可能なインクカートリッジ（最大1500万文字）
-    five_section_right_eight: 多孔質表面用の油性インク
-    five_section_right_nine: 非多孔質表面用の溶剤ベースのインク
-    five_section_right_ten: LEDを瞬時に硬化させるためのUVインク
-    five_section_right_eleven: さまざまな色
-    five_section_right_title_three: 電気
-    five_section_right_twelve: 90〜260VACから24VDCの電源装置が含まれています
+    fourth_section_title: 技術仕様
+    fifth_section_main_title: FX ONE Remote
+    fifth_section_left_title: 機能
+    fifth_section_left_one: 任意の方向に印刷します
+    fifth_section_left_two: 1〜8行の印刷
+    ffifth_section_left_three: 2mm〜18mmの合計印刷高さ
+    fifth_section_left_four: 高解像度peizoプリントヘッド
+    fifth_section_left_five: テキスト、グラフィック、ロゴ、バーコードを印刷します
+    fifth_section_left_six: 時刻と複数の日付形式を出力します
+    fifth_section_left_seven: 連続リピート印刷機能
+    fifth_section_left_eight: 100m / minの印刷速度（バーコードと2mmのテキストの場合は50m / min）
+    fifth_section_left_nine: 単一の開始/停止印刷ボタン
+    fifth_section_left_ten: インク残量を含む視覚的なアラームインジケーター
+    fifth_section_left_eleven: メッセージ幅、遅延、印刷方向の制御
+    fifth_section_left_twelve: 製品検出フォトセル
+    fifth_section_left_thirteen: 重量1.7 Kg（インクカートリッジとブラケットを除く）
+    fifth_section_left_fourteen: サイズ242 x 178 x 90mm
+    fifth_section_right_title_one: 接続性
+    fifth_section_right_one: SauvenTouchコントローラー用のRS232およびRS485
+    fifth_section_right_two: USB-メモリスティックが含まれています
+    fifth_section_right_three: ケーブル接続用のUSB-B
+    fifth_section_right_four: イーサネット（オプション）
+    fifth_section_right_five: テキスト、グラフィック、ロゴ、バーコードを印刷します
+    fifth_section_right_six: エンコーダー、アラームビーコン、外部フォトセル用のI / Oポート
+    fifth_section_right_title_two: インク
+    fifth_section_right_seven: 密閉された交換可能なインクカートリッジ（最大1500万文字）
+    fifth_section_right_eight: 多孔質表面用の油性インク
+    fifth_section_right_nine: 非多孔質表面用の溶剤ベースのインク
+    fifth_section_right_ten: LEDを瞬時に硬化させるためのUVインク
+    fifth_section_right_eleven: さまざまな色
+    fifth_section_right_title_three: 電気
+    fifth_section_right_twelve: 90〜260VACから24VDCの電源装置が含まれています
     fifth_section_message: "Foenix コーディング Ltdは、製品とソフトウェアを継続的に改善しています。仕様は変更される場合があります。    build_to_last: 最後に構築"
     build_to_last_description: 炭素繊維構造と固体コンポーネント
     build_to_last_description_two: グループは、これから何年もあなたのものになることを意味します
-    発見: FXONEの範囲を発見
+    discover: FXONEの範囲を発見
     shared_tech: 共有テクノロジー
     shared_tech_text_one: FX ONEプリンターは、ごくわずかなコンポーネントを使用したモジュール方式で構築されています。
     shared_tech_text_two: FX ONEパーツは100％互換性があり、同様の機械および同様のモデルで使用されています。
@@ -601,7 +602,7 @@ ja:
     low_ink_text_two: Foenixプリンターは、業界で最も低いランニングコストと最低印刷単価を実現します
 
   fxone_standard:
-    first_section_title: スタンダード
+    first_section_title: STANDARD
     full_title: FX ONE Standard
     first_section_text: 生産ラインの段ボール、トレイ、袋に直接高解像度で印刷することで、高価な事前印刷されたパッケージや高額ラベルが不要になります。
     grid_title_one: 高解像度パッケージ印刷用のスマートソリューション
@@ -776,7 +777,7 @@ ja:
     five_section_title_two: DLLはどのように機能しますか？
     five_section_text_two: DLLは、顧客がプリンターと通信するために使用します。次の図は、DLLがアプリケーションとプリンターの間にどのように配置されるかを示す基本的な概要を示しています。
 
-  業界:
+  industry:
     first_section_title: すべての業界とすべてのアプリケーションにソリューションを提供します
     first_section_text: 1つの小さな生産ラインを持つ新興企業から、最も要求の厳しいアプリケーションを持つ多国籍企業まで、すべてFX ONEプリンターを使用して、コーディングとマーキングのコストを削減し、ダウンタイムを防ぎ、手動プロセスを自動化し、高解像度コーディングで製品品質を向上させることができます。
     first_section_button_one: デモをリクエストする
@@ -926,7 +927,7 @@ ja:
     video_text_six: "「FX ONE Standard: 1台のプリンター、多くのアプリケーション: バーコード、ロゴ、カートンコーディングなど」"
     video_text_seven: FX ONE Standardを使用すると、ラベルプリンターを交換することでコストを削減できます
 
-  Legal:
+  legal:
     first_section_title: 法的
     cookie_policy: Cookieポリシー
     privacy_policy: プライバシーポリシー

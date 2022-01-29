@@ -183,7 +183,7 @@ sp:
     eight_section_title_two: Prueba Gratuita e Impresiones de Prueba
     eight_section_description_two_html: "Sí vive en el Reino Unido, puede obtener una prueba gratuita de siete días. Durante la prueba gratuita, tendrá acceso a todas las funcionalidades de las impresorase y podrá monitorear el coste por impresora y rapidamente verá cuánto dinero se puede ahorrar usando nuestra impresora.<br><br>Para una demostración de primera mano de la simplicidad y la calidad de la impresora FX ONE póngase en contacto con nosotros hoy!<br><small>*La prueba gratuita está sujeta a la disponibilidad.</small><br><br>En cualquier parte del mundo puede enviarnos una muestra de su producto y nosotros realizaremos impresiones de prueba de alta resolución"
 
-  boletín de noticias:
+  newsletter:
     card_title: Únase a nosotros, ¡estamos contratando!
     card_text: ¿Listo para un cambio de carrera y quieres trabajar en una start-up con grandes ambiciones? ¡Únase a nosotros!
     title: Reciba el último boletín de noticias
@@ -233,7 +233,7 @@ sp:
     fifth_section_text_one: "Todos nuestros productos -impresoras, tintas, consumibles- se fabrican en el Reino Unido. Los sistemas de software y hardware se han desarrollado en colaboración con los profesionales de la fabricación y el empaquetado para ayudarles en sus retos diarios para imprimir fechas de caducidad, códigos de lote, códigos de barras 2D, logotipos gráficos y otros requisitos"
     fifth_section_text_two: "Nuestra gama de impresoras industriales de inyección de tinta basadas en Xaar no necesita mantenimiento. Están diseñadas específicamente para el uso industrial en sectores como la alimentación, las bebidas, la automoción, la construcción, la conversión, los dispositivos médicos, la industria farmacéutica, la electrónica y la química..."
 
-  tintas_y_consumibles:
+  inks_and_consumables:
     first_section_text: Cartuchos de Tinta Grandes
     first_section_text_two: La impresora FX ONE es compatible con muchos tipos de tinta diferentes, lo que la convierte en la impresora más versátil del mercado. Puede imprimir en cualquier sustrato y hasta 15 millones de caracteres por cartucho. Ofrecemos la más amplia gama de fluidos de inyección de tinta para satisfacer incluso las aplicaciones más especializadas de los clientes
     inks_card_title_one_html: "Alta Adherencia<span class='text-orange'>.</span>"
@@ -282,7 +282,7 @@ sp:
     stay_informed_text: Regístrese para ser el primero en saber cuándo lanzamos una nueva tinta.
 
 
-  distribuidor:
+  distributor:
     first_section_title: Alcance Global
     first_section_text: En cualquier parte del mundo, uno de nuestros distribuidores está cerca. Estamos presentes en todos los continentes y ofrecemos asistencia en su idioma y zona horaria.
     second_section_title: Foenix tiene distribuidores en

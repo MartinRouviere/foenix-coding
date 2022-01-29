@@ -440,7 +440,7 @@ tur:
     coming_soon: ÇOK YAKINDA
 
   fxone_remote:
-    first_section_title: UZAKTAN
+    first_section_title: REMOTE
     first_section_text: Yeni FX ONE mürekkep püskürtmeli yazıcı, kod başına en düşük maliyetli ve en düşük bakım gerektiren küçük karakterli yazıcılardan biridir. Ürünlerinizi kodlamak için gerçek bir alternatif sunar.
     second_section_title: Genel Görünüm
     grid_title_one: CIJ baskıya en iyi alternatif
@@ -755,11 +755,11 @@ tur:
                                  <br>
                                  İleri Düzey Yazıcı Yönetimi:
                                  <br>
-                                 Üretimi birden fazla Foenix yazıcıda tek bir yerden yöneterek çalışma süresini en üst düzeye çıkarın. Baskı analitiği ile ilerlemeyi izleyin, hataları takip edin ve öngörüler elde edin.
+                                 Üretimi birden fazla Foenix yazıcıda tek bir yerden yöneterek çalışma süresini en üst düzeye çıkarın. Baskı analitiği ile ilerlemeyi izleyin, hataları takip edin ve öngörüler elde edin."
     grid_title_four: Foenix yerleşik yazılım
     grid_description_four: Yazıcılar zamanla daha da iyi hale gelmektedir. Her ürün yazılımı güncellemesinde performans iyileştirmeleri ve ek işlevsellik ile FX ONE yazıcınızı daha da yetenekli hale getirin.
     grid_title_five: DLL'imizle tam entegrasyon
-    grid_description_five_html: \"Bir DLL nedir?
+    grid_description_five_html: "Bir DLL nedir?
                                 <br>
                                 <br>
                                 DLL (Dinamik Bağlantı Kitaplığı), bir üçüncü taraf geliştirici tarafından kendi uygulamalarına dahil etmek için kullanılabilecek bir dizi yazılım işlevidir. Foenix DLL, FX ONE yazıcının FX APP uygulaması veya Foenix Touch Controller aracılığıyla kontrol edilmesini sağlayan bir dizi işlev sağlar.
