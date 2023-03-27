@@ -698,6 +698,57 @@ ko:
     plus_newsletter_description_two: 가장 먼저 받아보세요
     placeholder: 이메일을 입력하고 출시에 관한 새로운 소식을 받아보세요
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "FX ONE Plus 대형 문자용 잉크젯 프린트기는 사용자가 라벨 인쇄의 인쇄 당 비용을 제어할 수 있도록 해줍니다.
+                               <br>
+                               <br>
+                               Windows 기반의 소프트웨어는 인쇄당 비용을 제어가는 것이 가장 중점인 라벨링 인쇄를 염두해 특별히 설계 되었습니다. 라벨을 사용하는 대신, 판지에 직접 인쇄하므로써, 비용 효율성이 크게 증가됩니다."
+    grid_title_two: Simple
+    grid_description_two_html: "판지 및 상자 위에 인쇄할 수 있는 저 비용 코딩 및 마킹을 위해 설계된 라벨 인쇄를 위한 완벽한 대한책 입니다.
+                               복잡한 시작 및 종료 절차가 필요 없습니다. 하루가 끝나면 기계를 껐다가 다음날 다시 켜기만 하면 됩니다."
+    grid_title_three: Powerfull
+    grid_description_three_html: "FX ONE Plus는 더 나은 유연적인 통합성을 제공하고 데이터베이스와 연결 가능하며, 기존 관리 소프트웨로 전체 원격 제어를 허용하며 WiFi를 포함한 전체 네트워킹 기능을 제공합니다."
+    grid_title_four: Versatile
+    grid_description_four_html: "판지 뿐만 아니라, 종이, 목재, 천, EPS, 폼, 콘크리트 등에도 인쇄하실 수 있습니다"
+
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+    second_section_title: 개요
+    first_card_title: 고해상도 코딩 & 마킹
+    first_card_text: 1줄에서 8줄까지의 인쇄, 2-72mm의 인쇄 높이.
+    second_card_title: Pc 연결
+    second_card_text: USB 케이블, RS485 혹은 이더넷을 통해 직접 메시지 생성 혹은 공장 네트워크 시스템에 연결할 수 있습니다.
+    third_card_title: 그래픽, 로고 & 바코드
+    third_card_text: FX APP을 통해 JPEG, PNG & BMP 그래픽을 쉽게 가져올 수 있습니다.
+    fourth_card_title: 간단한 스크린 & 키보드
+    fourth_card_text: 프린트기 속도 및 방향, 메시지 지연을 위한 로컬 컨트롤.
+    fifth_card_title: 기본 제공 설치
+    fifth_card_text: 최소한의 구성품으로 최대의 신뢰성 제공.
+    sixth_card_title: 1D & 2D 바코드
+    sixth_card_text: 가변 데이터를 포함하는 고해상도 1D 및 2D 바코드 인쇄 (QR 코드 – 데이터 매트릭스)..
+    seventh_card_title: 2년 보증
+    seventh_card_text: 1년, 2년 또는 3년 더 연장합니다.
+    eigth_card_title: 터치 컨트롤러
+    eigth_card_text: FX App을 사용한 간단한 대화형 windows 프로그래밍. 한 번의 클릭으로 안정적인 인쇄..
+    ninth_card_title: 네트워킹
+    ninth_card_text: 한 곳에서 여러 프린트기들을 관리해 보세요. 인쇄 분석을 통해 진행 상황을 모니터하고 결함 추적으로 통찰력을 얻을 수 있습니다.
+    tenth_card_title: 트루타입 글꼴 & 유니코드
+    tenth_card_text: 모든 글꼴 및 모든 언어로 메시지 생성 가능
+    twelfth_card_title: 다중 포트 연결
+    twelfth_card_text: 인코더, 외부 경보 및 대체 제품 감지 장치용.
+    thirteenth_card_title: 잉크 절약 모드
+    thirteenth_card_text: 잉크 소모량 최대 75% 감소
+    seventh_section_title: 생산 다양성
+    seventh_section_text: FX ONE의 작고 혁신적인 산업적 디자인은 몇 분 안에 프린트기를 다른 위치로 옮길 수 있게 해줍니다. 코드를 뽑고 이동하시기만 하면 됩니다. 큰 터치 스크린으로 원활하게 작동하며 모든 인쇄 작동은 손 쉽게 제어 가능합니다. 인쇄 버튼을 누르고 아무거나 인쇄하세요.
+
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: FX 터치 컨트롤러
     first_section_text_one: 간단한 터치 한 번으로 프린트기를 제어하세요. 바코트, 카운터, 로고, 날짜, 시간, 시프트 등과 같은 기본적인 기능 외에도 FX ONE 프린트기는 PC 소프트웨어 및 네트워크 연결이 표준으로 제공됩니다.

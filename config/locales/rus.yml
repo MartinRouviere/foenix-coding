@@ -698,6 +698,56 @@
     plus_newsletter_description_two: мы выпустим FX ONE Plus
     placeholder: Введите ваш email и получайте новости о выпуске
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "Струйный принтер FX ONE Plus позволяет печатать большие символы при контроле стоимости печати.
+                               <br>
+                               <br>
+                               Приложение для Windows было специально разработано для печати этикеток, где стоимость печати очень важна. Прямая печать на коробках вместо использования этикет позволяет значительно снизить стоимость."
+    grid_title_two: Simple
+    grid_description_two_html: "Разработан для низкой стоимости кодировки и маркировки на картоне и коробках, это альтернатива принтеру для этикеток.
+                               Нет необходимости в сложных процедурах включения и выключения. Просто выключите в конце рабочего дня и включите в начале следующего."
+    grid_title_three: Powerfull
+    grid_description_three_html: "Принтер FX ONE Plus обеспечивает гибкую интеграцию и может подключаться к базам данных, что позволяет удаленно контролировать производственную линию по сети, включая WiFi."
+    grid_title_four: Versatile
+    grid_description_four_html: "Кроме картона вы можете печатать на бумаге, дереве, ткани, полистирольной пене, бетоне и т.д."
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+    second_section_title: Обзор
+    first_card_title: Кодировка и маркировка высокого разрешения
+    first_card_text: Печать от 1 до 8 строчек текста с высотой 2-72 мм.
+    second_card_title: Подключение к ПК
+    second_card_text: Через USB или Ethernet кабель для создания текста или подключения к сети завода.
+    third_card_title: Графика, логотипы и штриходы
+    third_card_text: Легкий импорт графики в JPEG и BMP в приложении FX.
+    fourth_card_title: Простой экран и клавиатура
+    fourth_card_text: Для управления скоростью и направлением печати, а также задержкой печати.
+    fifth_card_title: Простая установка
+    fifth_card_text: Минимальное количество компонентов для максимальной надежности.
+    sixth_card_title: 1D и 2D штрихкоды
+    sixth_card_text: Печать в высоком разрешении 1D и 2D штрихкодов (QR коды – матричные данные) с различными данными.
+    seventh_card_title: 2 года гарантии
+    seventh_card_text: Можно продлить на один, два или три года
+    eigth_card_title: Сенсорный планшет
+    eigth_card_text: Простое интерактивное программирование в приложении FX. Печать в один клик.
+    ninth_card_title: Подключение к сети
+    ninth_card_text: Управление несколькими принтерами из одного места. Управляйте прогрессом печати, отслеживайте ошибки и получайте советы в результате анализа печати.
+    tenth_card_title: Шрифты True Type и Unicode
+    tenth_card_text: Позволяют создавать текст с любым шрифтом и на любом языке
+    twelfth_card_title: Подключение к нескольким портам
+    twelfth_card_text: Для датчиков угла поворота, внешним сигнализациям и альтернативным устройствам обнаружения продукта.
+    thirteenth_card_title: Режим экономии чернил
+    thirteenth_card_text: Снижает потребление чернил до 75 %
+    seventh_section_title: Гибкость производства
+    seventh_section_text: Компактная и инновационная конструкция принтера FX ONE позволяет переместить его в другое место за минуты. Просто отключите и переставьте его. Благодаря большому сенсорному экрану все операции печати можно легко контролировать. Нажмите кнопку печати и начните печатать на любой поверхности.
+
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: Сенсорный планшет FX
     first_section_text_one: Управляйте вашим принтером всего в один клик. Кроме стандартных функций (таких как печать штрихкодов, счетчиков, логотипов, даты, времени, смены и т.д.) принтер FX ONE идет с приложением для ПК и подключением к сети в качестве стандартной опции.

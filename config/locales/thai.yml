@@ -695,6 +695,56 @@
     plus_newsletter_description_two: เราเปิดตัว FX ONE Plus
     placeholder: ป้อนอีเมลของคุณและรับข้อมูลอัปเดตเกี่ยวกับการเปิดตัว
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "เครื่องพิมพ์อิงค์เจ็ทตัวอักษรขนาดใหญ่ FX ONE Plus ให้ผู้ใช้ควบคุมต้นทุนต่อการพิมพ์สำหรับการพิมพ์ฉลาก
+    <br>
+    <br>
+    ซอฟต์แวร์ที่ทำงานบน Windows ได้รับการออกแบบมาโดยเฉพาะโดยคำนึงถึงการพิมพ์ฉลาก ซึ่งเป็นพื้นที่ที่การควบคุมต้นทุนต่อการพิมพ์เป็นสิ่งสำคัญยิ่ง โดยการพิมพ์ลงบนกล่องโดยตรงแทนการใช้ฉลาก ทำให้ประหยัดต้นทุนได้อย่างมาก"
+    grid_title_two: Simple
+    grid_description_two_html: "ออกแบบมาสำหรับการเข้ารหัสและทำเครื่องหมายบนกล่องและกล่องที่มีต้นทุนต่ำ ซึ่งเป็นทางเลือกที่แท้จริงสำหรับเครื่องพิมพ์ฉลาก
+    ไม่จำเป็นต้องมีขั้นตอนการเริ่มต้นและปิดระบบที่ซับซ้อน เพียงปิดเครื่องเมื่อสิ้นสุดวัน แล้วเปิดใหม่อีกครั้งในวันถัดไป"
+    grid_title_three: Powerfull
+    grid_description_three_html: "FX ONE Plus มอบความยืดหยุ่นในการผสานรวมเพิ่มเติม และสามารถเชื่อมโยงกับฐานข้อมูล อนุญาตให้มีการควบคุมระยะไกลโดยสมบูรณ์ด้วยซอฟต์แวร์การจัดการการผลิตที่มีอยู่ และมีความสามารถด้านเครือข่ายเต็มรูปแบบรวมถึง WiFi"
+    grid_title_four: Versatile
+    grid_description_four_html: "นอกจากกล่องแล้ว คุณยังสามารถพิมพ์ลงบนกระดาษ ไม้ ผ้า EPS โฟม คอนกรีต ฯลฯ..."
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+    second_section_title: ภาพรวม
+    first_card_title: การเข้ารหัสและการทำเครื่องหมายความละเอียดสูง
+    first_card_text: พิมพ์ 1 ถึง 8 บรรทัด พร้อมความสูงในการพิมพ์ 2-72 มม.
+    second_card_title: การเชื่อมต่อพีซี
+    second_card_text: ผ่านสาย USB หรืออีเทอร์เน็ตสำหรับการสร้างข้อความโดยตรงหรือระบบเครือข่ายจากโรงงาน
+    third_card_title: กราฟิก โลโก้ & บาร์โค้ด
+    third_card_text: นำเข้ากราฟิก JPEG & BMP ได้อย่างง่ายดายโดยใช้ FX APP
+    fourth_card_title: หน้าจอธรรมดา & คีย์บอร์ด
+    fourth_card_text: สำหรับการควบคุมความเร็วและทิศทางของเครื่องพิมพ์ในเครื่อง และการหน่วงเวลาของข้อความ
+    fifth_card_title: การติดตั้งนอกกรอบ
+    fifth_card_text: มีส่วนประกอบน้อยที่สุดเพื่อความน่าเชื่อถือสูงสุด
+    sixth_card_title: บาร์โค้ด 1D และ 2D
+    sixth_card_text: การพิมพ์บาร์โค้ด 1D และ 2D ความละเอียดสูง (QR Codes – data matrix) เพื่อรวมข้อมูลตัวแปร
+    seventh_card_title: รับประกัน 2 ปี
+    seventh_card_text: ขยายเวลาอีกหนึ่ง สอง หรือสามปี
+    eigth_card_title: Touch Controller
+    eigth_card_text: การเขียนโปรแกรม windows แบบโต้ตอบอย่างง่ายด้วย FX App การพิมพ์ที่เชื่อถือได้ในคลิกเดียว
+    ninth_card_title: ระบบเครือข่าย
+    ninth_card_text: จัดการเครื่องพิมพ์หลายเครื่องจากที่เดียว ติดตามความคืบหน้า ติดตามข้อผิดพลาด และรับข้อมูลเชิงลึกด้วยการวิเคราะห์การพิมพ์
+    tenth_card_title: แบบอักษร True Type & Unicode
+    tenth_card_text: เปิดใช้งานการสร้างข้อความในแบบอักษรใดก็ได้และในทุกภาษา
+    twelfth_card_title: การเชื่อมต่อหลายพอร์ต
+    twelfth_card_text: สำหรับตัวเข้ารหัส สัญญาณเตือนภายนอก และอุปกรณ์ตรวจจับผลิตภัณฑ์ทางเลือก
+    thirteenth_card_title: โหมดประหยัดหมึก
+    thirteenth_card_text: ลดการใช้หมึกได้ถึง 75%
+    seventh_section_title: ความเก่งกาจในการผลิต
+    seventh_section_text: การออกแบบทางอุตสาหกรรมที่กะทัดรัดและล้ำสมัยของ FX ONE ช่วยให้ย้ายเครื่องพิมพ์ไปยังตำแหน่งต่างๆ ได้ในเวลาไม่กี่นาที เพียงแค่ถอดปลั๊กและเคลื่อนย้าย ทำงานได้อย่างราบรื่นด้วยหน้าจอสัมผัสขนาดใหญ่ และสามารถควบคุมการทำงานการพิมพ์ทั้งหมดได้อย่างง่ายดาย เพียงกดปุ่มพิมพ์และเริ่มพิมพ์อะไรก็ได้
+
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: ตัวควบคุม FX TOUCH
     first_section_text_one: ควบคุมเครื่องพิมพ์ของคุณด้วยการแตะเพียงครั้งเดียว นอกจากฟังก์ชันปกติ เช่น บาร์โค้ด เคาน์เตอร์ โลโก้ วันที่ เวลา กะ ฯลฯ เครื่องพิมพ์ FX ONE ยังมาพร้อมกับซอฟต์แวร์พีซีและการเชื่อมต่อเครือข่ายเป็นมาตรฐาน

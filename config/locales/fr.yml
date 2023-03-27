@@ -679,6 +679,55 @@ fr:
     plus_newsletter_description_two: nous lançons la FX ONE Plus
     placeholder: Entrez votre adresse e-mail
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "L'imprimante jet d'encre grands caractères FX ONE Plus permet à l'utilisateur de contrôler le coût par impression pour l'impression d'étiquettes.
+                               <br>
+                               <br>
+                                Ce logiciel disponible sur Windows a été spécialement conçu pour l'impression d'étiquettes, un domaine où le contrôle du coût par impression est primordial. En imprimant directement sur les cartons au lieu d'utiliser des étiquettes, la rentabilité augmente de façon spectaculaire."
+    grid_title_two: Simple
+    grid_description_two_html: "Conçu pour le codage et le marquage à faible coût sur les cartons, elle offre une véritable alternative aux étiqueteuses.
+                                Pas besoin de procédures compliquées de démarrage et d'arrêt. Il suffit d'éteindre la machine à la fin de la journée et de la remettre en marche le lendemain."
+    grid_title_three: Powerfull
+    grid_description_three_html: "Le FX ONE Plus offre une plus grande souplesse d'intégration et peut être relié à des bases de données, permet un contrôle à distance complet par les logiciels de gestion de production existants et offre une capacité de mise en réseau complète, y compris le WiFi."
+    grid_title_four: Versatile
+    grid_description_four_html: "Outre les cartons, vous pouvez imprimer sur du papier, du bois, du tissu, du EPS, de la mousse, du béton, etc..."
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+    second_section_title: Vue d'ensemble
+    first_card_title: Codage et marquage haute résolution
+    first_card_text: 1 à 8 lignes d'impression, avec une hauteur d'impression de 2 à 72 mm.
+    second_card_title: Connexion PC
+    second_card_text: Via un câble USB, RS485 ou Ethernet pour la création directe de messages ou la mise en réseau.
+    third_card_title: Graphiques, logos et codes-barres
+    third_card_text: Importez facilement des graphiques JPEG et BMP en utilisant FX App.
+    fourth_card_title: Écran et clavier simples
+    fourth_card_text:  Pour le contrôle local de la vitesse et de la direction de l'imprimante, ainsi que du retard des messages.
+    fifth_card_title: Installation prête à l'emploi**
+    fifth_card_text: Avec un minimum de composants pour une fiabilité maximale.
+    sixth_card_title: Codes-barres 1D et 2D
+    sixth_card_text: Impression haute résolution de codes-barres 1D et 2D (QR Codes - matrice de données) pour inclure des données variables.
+    seventh_card_title:  2 ans de garantie
+    seventh_card_text: Prolonger pour une, deux ou trois années supplémentaires
+    eigth_card_title: Contrôle tactile
+    eigth_card_text: Programmation interactive simple sous Windows avec FX App. Impression fiable en un clic.
+    ninth_card_title: Mise en réseau
+    ninth_card_text: Gérez plusieurs imprimantes à partir d'un seul endroit. Surveillez la progression, suivez les pannes et obtenez des informations grâce aux analyses d'impression.
+    tenth_card_title: Police True Type et Unicode
+    tenth_card_text: Permet la création de messages dans n'importe quelle police et dans n'importe quelle langue
+    twelfth_card_title: Connexion multiport
+    twelfth_card_text: Pour les encodeurs, les alarmes externes et les autres dispositifs de détection de produits.
+    thirteenth_card_title: Mode économie d'encre
+    thirteenth_card_text: Réduisez votre consommation d'encre jusqu'à 75 %.
+    seventh_section_title: Polyvalence de la production
+    seventh_section_text: Le design industriel compact et innovant de la FX ONE facilite le déplacement de l'imprimante vers différents endroits en quelques minutes. Il suffit de la débrancher et de la déplacer. Elle fonctionne de manière transparente avec son grand écran tactile, et toutes les opérations d'impression peuvent être contrôlées facilement. Il suffit d'appuyer sur le bouton d'impression et de commencer à imprimer sur n'importe quel support.
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: Contrôleur FX TOUCH
     first_section_text_one: Contrôlez votre imprimante d'un simple clic. Outre les fonctions habituelles telles que les codes-barres, les compteurs, les logos, la date, l'heure, l'équipe, etc., l'imprimante FX ONE est livrée avec un logiciel PC et une connectivité réseau en standard.

@@ -686,6 +686,51 @@ ja:
     plus_newsletter_description_two: FX ONE Plusを起動します
     placeholder: メールアドレスを入力して、リリースに関する最新情報を入手してください
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "FX ONE Plus大型文字インクジェットプリンタを使用すると、ラベル印刷の印刷あたりのコストをユーザーが管理できます。
+                               <br>
+                               <br>
+                               Windowsベースのソフトウェアは、印刷あたりのコストを管理することが最も重要な領域であるラベル印刷を念頭に置いて特別に設計されました。ラベルを使用せずにボックスに直接印刷することで、コスト効率が大幅に向上します。"
+    grid_title_two: Simple
+    grid_description_two_html: "ラベルプリンターの真の代替品である、段ボールやボックスへの低コストのコーディングとマーキング用に設計されています。
+                               複雑な起動およびシャットダウン手順は必要ありません。 1日の終わりに機械の電源を切り、次の日にもう一度電源を入れます。"
+    grid_title_three: Powerfull
+    grid_description_three_html: "FX ONE Plusは、統合の柔軟性をさらに高め、データベースとリンクでき、既存の生産管理ソフトウェアによる完全なリモート制御を可能にし、WiFiを含む完全なネットワーク機能を提供します。"
+    grid_title_four: Versatile
+    grid_description_four_html: "段ボールに加えて、紙、木、布、EPS、フォーム、コンクリートなどに印刷できます...」"
+    second_section_title: Overview
+    first_card_title: High Resolution Coding & Marking
+    first_card_text: 1 to 8 lines of print, with 2-72mm print height.
+    second_card_title: Pc Connectivity
+    second_card_text: Via USB cable or Ethernet for direct message creation or factory network system.
+    third_card_title: Graphics, Logos & Barcodes
+    third_card_text: Easily import JPEG & BMP graphics using FX App.
+    fourth_card_title: Simple Screen & Keyboard
+    fourth_card_text: For local control of printer speed and direction, and message delay.
+    fifth_card_title: Out of the Box Installation
+    fifth_card_text: With minimal components for maximum reliability.
+    sixth_card_title: 1D & 2D Barcodes
+    sixth_card_text: High resolution printing of 1D and 2D barcodes (QR Codes – data matrix) to include variable data.
+    seventh_card_title: 2 Years Warranty
+    seventh_card_text: Extend it for one, two or three more years
+    eigth_card_title: Touch Controller
+    eigth_card_text: Simple interactive windows programming with FX App. Reliable printing in one click.
+    ninth_card_title: Networking
+    ninth_card_text: Manage multiple printers from one place. Monitor progress, track faults and gain insights with print analytics.
+    tenth_card_title: True Type Font & Unicode
+    tenth_card_text: Enables message creation in any font and in any language
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    twelfth_card_title: Multi Port Connection
+    twelfth_card_text: For encoders, external alarms and alternative product detection devices.
+    thirteenth_card_title: Ink Saver Mode
+    thirteenth_card_text: Reduce ink consumption by up to 75%
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: FXTOUCHコントローラー
     first_section_text_one: タッチするだけでプリンターを制御します。バーコード、カウンター、ロゴ、日付、時刻、シフトなどの通常の機能に加えて、FXONEプリンターにはPCソフトウェアとネットワーク接続が標準で付属しています。

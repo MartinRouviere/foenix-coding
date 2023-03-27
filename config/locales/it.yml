@@ -699,6 +699,56 @@ it:
     plus_newsletter_description_two: lanceremo la FX ONE Plus
     placeholder: Inserisci la tua email e riceverai aggiornamenti sul lancio
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "La stampante a getto d'inchiostro a grandi caratteri FX ONE Plus permette all'utente di controllare il costo per stampa nella stampa di etichette.
+                               <br>
+                               <br>
+                               Il software basato su Windows è stato appositamente progettato pensando alla stampa di etichette, un'area in cui il controllo del costo per stampa è fondamentale. Stampando direttamente sulle scatole invece di utilizzare etichette, l'efficienza dei costi aumenta notevolmente."
+    grid_title_two: Simple
+    grid_description_two_html: "Progettata per la codifica e la marcatura a basso costo su cartonei e scatole, una vera alternativa alla stampante per etichette.
+                               Non sono necessarie complicate procedure di avvio e spegnimento. Basta spegnere la macchina a fine giornata e riaccenderla la successiva."
+    grid_title_three: Powerfull
+    grid_description_three_html: "La FX ONE Plus offre un'ulteriore flessibilità d'integrazione e può collegarsi con i database, consente il controllo remoto completo tramite il software di gestione della produzione esistente e offre funzionalità di rete complete, incluso il Wi-Fi."
+    grid_title_four: Versatile
+    grid_description_four_html: "Oltre ai cartonei, puoi stampare su carta, legno, tessuto, EPS, gommapiuma, cemento, ecc..."
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+    second_section_title: Panoramica
+    first_card_title: Codifica e marcatura ad alta risoluzione
+    first_card_text: Da 1 a 8 righe di stampa, con altezza di stampa da 2 a 72 mm.
+    second_card_title: Connettività PC
+    second_card_text: Via cavo USB o Ethernet per la creazione di messaggi diretti o il sistema di rete di fabbrica.
+    third_card_title: Grafica, Loghi e Codici a Barre
+    third_card_text: Importa facilmente grafica JPEG e BMP utilizzando FX APP.
+    fourth_card_title: Schermo semplice e tastiera
+    fourth_card_text: Per il controllo locale della velocità e della direzione della stampante e del ritardo dei messaggi.
+    fifth_card_title: Installazione pronta all'uso
+    fifth_card_text: Con componenti minimi per la massima affidabilità.
+    sixth_card_title: Codici a barre 1D e 2D
+    sixth_card_text: Stampa ad alta risoluzione di codici a barre 1D e 2D (QR Codes - data matrix) per includere dati variabili.
+    seventh_card_title: 2 anni di garanzia
+    seventh_card_text: Estendilo per uno, due o tre anni in più
+    eigth_card_title: Touch Controller
+    eigth_card_text: Semplice programmazione interattiva di Windows con FX APP. Stampa affidabile in un clic.
+    ninth_card_title: Rete
+    ninth_card_text: Gestisci più stampanti da un'unica posizione. Monitora i progressi, tieni traccia degli errori e ottieni informazioni dettagliate con l'analisi di stampa.
+    tenth_card_title: Font True Type e Unicode
+    tenth_card_text: Consente la creazione di messaggi in qualsiasi tipo di carattere e in qualsiasi lingua
+    twelfth_card_title: Connessione multiporta
+    twelfth_card_text: Per encoder, allarmi esterni e dispositivi di rilevamento prodotti alternativi.
+    thirteenth_card_title: Modalità risparmio inchiostro
+    thirteenth_card_text: Riduci il consumo d'inchiostro fino al 75%
+    seventh_section_title: Versatilità di produzione
+    seventh_section_text: Il design industriale compatto e innovativo della FX ONE facilita lo spostamento della stampante in diversi luoghi in pochi minuti. Basta scollegarla e spostarla. Funziona perfettamente con il suo grande touch screen, e tutte le operazioni di stampa possono essere controllate facilmente. Basta premere il pulsante di stampa e iniziare a stampare su qualsiasi cosa.
+
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: Controller FX TOUCH
     first_section_text_one: Controlla la tua stampante con un semplice tocco. Oltre alle normali funzioni come codici a barre, contatori, loghi, data, ora, turno ecc., la stampante FX ONE è dotata di software per PC e connettività di rete di serie.

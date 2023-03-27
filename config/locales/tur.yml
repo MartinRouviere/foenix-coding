@@ -699,6 +699,56 @@ tur:
     plus_newsletter_description_two: ilk öğrenen siz olun
     placeholder: E-postanızı girin ve lansmanla ilgili güncellemeleri alın
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "FX ONE Plus büyük karakterli mürekkep püskürtmeli yazıcı, etiket baskısı için baskı başına maliyetin kontrolünü kullanıcıya verir.
+                               <br>
+                               <br>
+                               Windows tabanlı yazılım, özellikle, baskı başına maliyeti kontrol etmenin çok önemli olduğu bir alan olan etiket baskısı düşünülerek tasarlanmıştır. Etiket kullanmak yerine doğrudan kutulara baskı yaparak maliyet verimliliği önemli ölçüde artar."
+    grid_title_two: Simple
+    grid_description_two_html: "Düşük maliyetli kodlama ve de kartonlara ve kutulara markalama için tasarlanmış olup, bir etiket yazıcısına gerçek bir alternatiftir.
+                               Karmaşık başlatma ve kapatma prosedürlerine gerek yok. Günün sonunda makineyi kapatıp ertesi gün tekrar açmanız yeterlidir."
+    grid_title_three: Powerfull
+    grid_description_three_html: "FX ONE Plus, daha fazla entegrasyon esnekliği sunar ve veri tabanlarına bağlanabilir, mevcut üretim yönetimi yazılımı ile tam uzaktan kontrole izin verir ve WiFi dahil tam ağ oluşturma yeteneği sunar."
+    grid_title_four: Versatile
+    grid_description_four_html: "Kartonların yanı sıra kağıt, ahşap, kumaş, EPS, köpük, beton vb. üzerine baskı yapabilirsiniz."
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+    second_section_title: Genel Görünüm
+    first_card_title: Yüksek Çözünürlüklü Kodlama ve İşaretleme
+    first_card_text: 2-72mm baskı yüksekliğinde 1 ila 8 satır baskı.
+    second_card_title: Pc Bağlanabilirliği
+    second_card_text: Doğrudan mesaj oluşturma veya fabrika ağ sistemi için USB kablosu veya Ethernet aracılığıyla.
+    third_card_title: Grafik, Logo ve Barkodlar
+    third_card_text: FX Uygulamasını kullanarak JPEG ve BMP grafiklerini kolayca içe aktarın.
+    fourth_card_title: Basit Ekran ve Klavye
+    fourth_card_text: Yazıcı hızı ve yönünün yerel kontrolü ve mesaj gecikmesi için.
+    fifth_card_title: Kutu Dışı Kurulum
+    fifth_card_text: Maksimum güvenilirlik için minimum bileşenli.
+    sixth_card_title: 1D & 2D Barkodlar
+    sixth_card_text: Değişken verileri dahil etmek için 1D ve 2D barkodların (QR Kodları – veri matrisi) yüksek çözünürlüklü yazdırılması.
+    seventh_card_title: 2 Yıl Garanti
+    seventh_card_text: Bir, iki veya üç yıl daha uzatın
+    eigth_card_title: Touch Controller
+    eigth_card_text: FX App ile basit etkileşimli pencere programlama. Tek tıklamayla güvenilir baskı.
+    ninth_card_title: Ağa Bağlama
+    ninth_card_text: Birden fazla yazıcıyı tek bir yerden yönetin. Baskı analitiği ile ilerlemeyi izleyin, hataları takip edin ve öngörüler elde edin.
+    tenth_card_title: True Type Font ve Unicode
+    tenth_card_text: Herhangi bir yazı tipinde ve herhangi bir dilde mesaj oluşturmayı sağlar
+    twelfth_card_title: Çoklu Port Bağlantısı
+    twelfth_card_text: Enkoderler, harici alarmlar ve alternatif ürün algılama cihazları için.
+    thirteenth_card_title: Mürekkep Tasarruf Modu
+    thirteenth_card_text: Mürekkep tüketimini %75'e kadar azaltın
+    seventh_section_title: Üretim Çok Yönlülüğü
+    seventh_section_text: FX ONE'ın kompakt ve yenilikçi endüstriyel tasarımı, yazıcının dakikalar içinde farklı konumlara taşınmasını kolaylaştırır. Sadece fişini çekin ve hareket ettirin. Geniş dokunmatik ekranı ile sorunsuz çalışır ve tüm baskı işlemleri kolaylıkla kontrol edilebilir. Sadece yazdır düğmesine basın ve herhangi bir şeye yazdırmaya başlayın.
+
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: FX TOUCH Controller
     first_section_text_one: Yazıcınızı tek dokunuşla kontrol edin. Barkodlar, sayaçlar, logolar, tarih, saat, vardiya vb. gibi olağan işlevlerin yanı sıra FX ONE yazıcı, standart olarak PC yazılımı ve ağ bağlantısı ile birlikte gelir.

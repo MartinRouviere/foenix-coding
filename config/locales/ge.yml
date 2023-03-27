@@ -699,6 +699,56 @@ ge:
     plus_newsletter_description_two: wir die FX ONE Plus einführen
     placeholder: Tragen Sie Ihre E-Mail ein und erhalten Sie aktuelle Informationen zur Markteinführung
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "Mit dem FX ONE Plus Großschrift-Tintenstrahldrucker hat der Benutzer die Kontrolle über die Kosten pro Druck beim Etikettendruck.
+                               <br>
+                               <br>
+                               Die Windows-basierte Programm wurde speziell für den Etikettendruck entwickelt, ein Bereich, in dem die Kontrolle der Kosten pro Druck von größter Bedeutung ist. Durch den direkten Druck auf Kartons anstelle von Etiketten wird die Kosteneffizienz drastisch erhöht."
+    grid_title_two: Simple
+    grid_description_two_html: "Entwickelt für die kostengünstige Kodierung und Kennzeichnung von Kartons und Schachteln, eine echte Alternative zu einem Etikettendrucker.
+                               Es sind keine komplizierten Start- und Abschaltprozeduren erforderlich. Schalten Sie das Gerät einfach am Ende des Tages aus und am nächsten Tag wieder ein."
+    grid_title_three: Powerfull
+    grid_description_three_html: "FX ONE Plus bietet weitere Integrationsflexibilität und kann mit Datenbanken verknüpft werden, ermöglicht die vollständige Fernsteuerung durch vorhandene Produktionsverwaltungssoftware und bietet volle Netzwerkfähigkeit einschließlich WiFi."
+    grid_title_four: Versatile
+    grid_description_four_html: "Außer auf Kartons kann man auch auf Papier, Holz, Stoff, EPS, Schaumstoff, Beton usw. drucken..."
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+
+    second_section_title: Überblick
+    first_card_title: Hochauflösende Kodierung & Markierung
+    first_card_text: 1 bis 8 Druckzeilen, mit 2-72mm Druckhöhe.
+    second_card_title: PC-Anschlussmöglichkeiten
+    second_card_text: Über USB-Kabel oder Netzwerk zur direkten Nachrichtenerstellung oder Werksnetzsystem.
+    third_card_title: Grafiken, Logos & Strichkodes
+    third_card_text: Einfacher Import von JPEG- und BMP-Grafiken mit der FX App.
+    fourth_card_title: Einfacher Bildschirm & Tastatur
+    fourth_card_text: Zur lokalen Steuerung der Druckgeschwindigkeit und -richtung sowie der Nachrichtenverzögerung.
+    fifth_card_title: Sofort einsatzbereite Installation
+    fifth_card_text: Mit minimalen Komponenten für maximale Zuverlässigkeit.
+    sixth_card_title: 1D- und 2D-Strichkodes
+    sixth_card_text: Hochauflösender Druck von 1D- und 2D-Strichkodes (QR-Kodes - Datamatrix) zur Aufnahme variabler Daten.
+    seventh_card_title: 2 Jahre Gewährleistung
+    seventh_card_text: Verlängern Sie sie um ein, zwei oder drei weitere Jahre
+    eigth_card_title: Steuerung durch Berührung
+    eigth_card_text: Einfache interaktive Windows-Programmierung mit FX App. Zuverlässiges Drucken mit einem Klick.
+    ninth_card_title: Vernetzung
+    ninth_card_text: Verwalten Sie mehrere Drucker von einem Ort aus. Überwachen Sie den Fortschritt, verfolgen Sie Fehler und gewinnen Sie Erkenntnisse mit Druckanalysen.
+    tenth_card_title: Originalschriftart & Unicode
+    tenth_card_text: Ermöglicht die Erstellung von Nachrichten in jeder Schriftart und in jeder Sprache
+    twelfth_card_title: Mehrfachanschluss
+    twelfth_card_text: Für Kodierer, externe Alarme und alternative Produkterkennungsgeräte.
+    thirteenth_card_title: Tintensparmodus
+    thirteenth_card_text: Reduzieren Sie den Tintenverbrauch um bis zu 75%
+    seventh_section_title: Vielseitigkeit in der Produktion
+    seventh_section_text: Das kompakte und innovative Industriedesign des FX ONE ermöglicht es, den Drucker in wenigen Minuten an einen anderen Ort zu bringen. Einfach den Stecker ausstecken und mitnehmen. Mit seinem großen Berührungsbildschirm lassen sich alle Druckvorgänge mühelos steuern. Drücken Sie einfach die Drucktaste und beginnen Sie mit dem Druck auf alles.
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
   software:
     first_section_title_one: FX TOUCH Controller
     first_section_text_one: Steuern Sie Ihren Drucker mit nur einer Berührung. Neben den üblichen Funktionen wie Strichkodes, Zähler, Logos, Datum, Uhrzeit, Schicht usw. ist der FX ONE Drucker standardmäßig mit einem PC-Programm und Netzwerkanschluss ausgestattet.

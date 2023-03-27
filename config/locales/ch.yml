@@ -677,7 +677,7 @@ ch:
     first_section_title: FX ONE PLUS
     first_section_text: 高达72毫米打印高度的大型字符打印机。是昂贵、复杂和有限的标签系统的完美替代品。
     first_section_text_two: “是昂贵、复杂和有限的标签系统的完美替代品。”
-    coming_soon: 即将推出
+    mid_section_title: "Think Outside the Box"
     grid_title_one: 节省标签打印的聪明方法
     grid_description_one_html: “FX ONE Plus大字符喷墨打印机使用户可以控制标签打印的每次打印成本。
                                <br>
@@ -693,11 +693,58 @@ ch:
                                <br>
                                <br>
                                除纸箱外，您还可以在纸张、木材、织物、EPS、泡沫、混凝土等上打印..."
+
+    grid_description_one_html: "FX ONE Plus大字符喷墨打印机使用户可以控制标签打印的每次打印成本。
+                               <br>
+                               <br>
+                               基于Windows的软件在设计时特别考虑了标签打印，这是一个控制每次打印成本至关重要的领域。通过直接打印到盒子上而不是使用标签，成本效率显著提高。"
+    grid_title_two: Simple
+    grid_description_two_html: "专为低成本编码和纸箱上的标签而设计，是标签打印机的真正替代品。
+                               无需复杂的启动和关闭程序。只需在一天结束时关掉机器，第二天再开机即可。"
+    grid_title_three: Powerfull
+    grid_description_three_html: "FX ONE Plus提供了进一步的集成灵活性，可以与数据库连接，允许通过现有生产管理软件进行完全远程控制，并提供包括WiFi在内的完整网络功能。"
+    grid_title_four: Versatile
+    grid_description_four_html: "除纸箱外，您还可以在纸张、木材、织物、EPS、泡沫、混凝土等上打印..."
+
     huge_cost_savings: 通过直接在箱子上进行高分辨率打印，取代标签和预打印包装，节省了大量成本，非常适合于箱子、麻袋、托盘、木制托盘和其他物品
     plus_newsletter_title: FOENIX 新闻
     plus_newsletter_description: 第一个知道
     plus_newsletter_description_two: 我们何时推出FX ONE Plus
     placeholder: 输入您的电子邮件并获取有关发布的更新
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    second_section_title: 概览
+    first_card_title: 高分辨率编码与打标
+    first_card_text: 1至8行打印，打印高度为2-72mm。
+    second_card_title: Pc连接
+    second_card_text: 通过USB电缆或以太网直接创建信息或从工厂网络系统创建信息。
+    third_card_title: 图形、徽标和条形码
+    third_card_text: 使用FX APP轻松导入JPEG和BMP图形。
+    fourth_card_title: 简单的屏幕和键盘
+    fourth_card_text: 用于本地控制打印机速度和方向，以及信息延迟。
+    fifth_card_title: 开箱即用安装
+    fifth_card_text: 具有最小的组件以获得最大的可靠性。
+    sixth_card_title: 一维和二维条码
+    sixth_card_text: 高分辨率打印1D和2D条形码（QR码-数据矩阵），包括可变数据。
+    seventh_card_title: 2年保修期
+    seventh_card_text: 保修期再延长一年、两年或三年
+    eigth_card_title: 触摸控制器
+    eigth_card_text: 使用FX APP进行简单的交互式windows编程。一键式可靠打印。
+    ninth_card_title: 网络
+    ninth_card_text: 在一个位置管理多台打印机。监控进度、跟踪故障并通过打印分析获得见解。
+    tenth_card_title: True Type字体和Unicode
+    tenth_card_text: 支持以任何字体和语言创建信息
+    twelfth_card_title: 多端口连接
+    twelfth_card_text: 用于喷码器、外部报警器和替代产品检测设备。
+    thirteenth_card_title: 节省墨水模式
+    thirteenth_card_text: 减少墨水消耗达75%
+    seventh_section_title: 生产通用性
+    seventh_section_text: FX ONE紧凑而创新的工业设计使您能够在几分钟内将打印机移动到不同的位置。只需拔下并移动打印机即可。它与大型触摸屏无缝配合，所有打印功能都可以轻松控制。只需点击打印按钮，即可开始打印任何内容。
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
 
   software:
     first_section_title_one: FX 触摸控制器

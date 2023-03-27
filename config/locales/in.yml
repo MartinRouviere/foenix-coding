@@ -699,6 +699,56 @@ in:
     plus_newsletter_description_two: kami meluncurkan FX ONE Plus
     placeholder: Masukkan email Anda & dapatkan pembaruan tentang peluncuran
 
+    mid_section_title: "Think Outside the Box"
+    grid_description_one_html: "Printer inkjet karakter besar FX ONE Plus membuat pengguna mengendalikan biaya per cetakan untuk pencetakan label.
+                               <br>
+                               <br>
+                               Perangkat lunak berbasis Windows dirancang khusus dengan mempertimbangkan pencetakan label, area di mana pengendalian biaya per cetak adalah yang terpenting. Dengan mencetak langsung ke karton daripada menggunakan label, efisiensi biaya meningkat secara dramatis."
+    grid_title_two: Simple
+    grid_description_two_html: "Dirancang untuk pengkodean dan penandaan berbiaya rendah pada karton dan karton, alternatif yang benar untuk printer label.
+                               Tidak perlu prosedur startup dan shutdown yang rumit. Cukup matikan mesin di penghujung hari dan nyalakan lagi keesokan harinya."
+    grid_title_three: Powerfull
+    grid_description_three_html: "FX ONE Plus menawarkan fleksibilitas integrasi lebih lanjut dan dapat terhubung dengan database, memungkinkan kendali jarak jauh penuh dengan perangkat lunak manajemen produksi yang ada dan menawarkan kemampuan jaringan penuh termasuk WiFi."
+    grid_title_four: Versatile
+    grid_description_four_html: "Selain karton, Anda dapat mencetak di atas kertas, kayu, kain, EPS, busa, beton, dll..."
+
+    eleventh_card_title: Large Ink Cartridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+
+    second_section_title: Ikhtisar
+    first_card_title: Pengodean & Penandaan Resolusi Tinggi
+    first_card_text: 1 hingga 8 baris cetakan, dengan tinggi cetakan 2-72mm.
+    second_card_title: Konektivitas Pc
+    second_card_text: Melalui kabel USB atau Ethernet untuk pembuatan pesan langsung atau sistem jaringan pabrik.
+    third_card_title: Grafik, Logo & Barcode
+    third_card_text: Impor grafik JPEG & BMP dengan mudah menggunakan FX APP.
+    fourth_card_title: Layar & Keyboard Sederhana
+    fourth_card_text: Untuk kontrol lokal kecepatan dan arah printer, dan penundaan pesan.
+    fifth_card_title: Instalasi Out of the Box
+    fifth_card_text: Dengan komponen minimal untuk keandalan maksimum.
+    sixth_card_title: 1D & 2D Barcodes
+    sixth_card_text: Pencetakan resolusi tinggi dari barcode 1D dan 2D (Kode QR – matriks data) untuk memasukkan data variabel.
+    seventh_card_title: Garansi 2 Tahun
+    seventh_card_text: Perpanjang untuk satu, dua atau tiga tahun lagi
+    eigth_card_title: Touch Controller
+    eigth_card_text: Pemrograman windows interaktif sederhana dengan FX APP. Pencetakan yang andal dalam satu klik.
+    ninth_card_title: Jaringan
+    ninth_card_text: Kelola beberapa printer dari satu tempat. Pantau kemajuan, lacak kesalahan, dan dapatkan wawasan dengan analitik cetak.
+    tenth_card_title: True Type Font & Unicode
+    tenth_card_text: Memungkinkan pembuatan pesan dalam font apa pun dan dalam bahasa apa pun
+    twelfth_card_title: Koneksi Multi Port
+    twelfth_card_text: Untuk pembuat enkode, alarm eksternal, dan perangkat pendeteksi produk alternatif.
+    thirteenth_card_title: Mode Penghemat Tinta
+    thirteenth_card_text: Mengurangi konsumsi tinta hingga 75%
+    seventh_section_title: Keserbagunaan Produksi
+    seventh_section_text: Desain industri yang ringkas dan inovatif dari FX ONE memfasilitasi pemindahan printer ke lokasi yang berbeda dalam hitungan menit. Cabut saja dan pindahkan. Dapat bekerja dengan mulus dengan layar sentuhnya yang besar, dan semua operasi pencetakan dapat dikontrol dengan mudah. Tekan saja tombol cetak dan mulai mencetak apa saja.
+
+    fifth_section_left_two: 1 to 30 lines of print
+    fifth_section_left_three: 2mm - 72mm total print height
+    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
+    fifth_section_left_eight: 60m/min print speed
+
+
   software:
     first_section_title_one: FX TOUCH Controller
     first_section_text_one: Kontrol printer Anda hanya dengan satu sentuhan. Selain fungsi biasa seperti barcode, counter, logo, tanggal, waktu, shift dll, printer FX ONE dilengkapi dengan perangkat lunak PC dan konektivitas jaringan sebagai standar.
