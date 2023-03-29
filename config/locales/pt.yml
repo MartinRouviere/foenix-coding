@@ -703,20 +703,20 @@ pt:
                                <br>
                                <br>
                                O software baseado em Windows foi especialmente desenvolvido com a impressão de etiquetas em mente, uma área onde o controle do custo por impressão é primordial. Ao imprimir diretamente em caixas em vez de usar etiquetas, a eficiência de custos aumenta drasticamente."
-    grid_title_two: Simple
+    grid_title_two: Prosty
     grid_description_two_html: "Projetado para codificação e marcação de baixo custo em caixas e caixas, uma verdadeira alternativa a uma impressora de etiquetas.
                                Não há necessidade de procedimentos complicados de inicialização e desligamento. Basta desligar a máquina no final do dia e ligá-la novamente no dia seguinte."
-    grid_title_three: Powerfull
+    grid_title_three: Potężny
     grid_description_three_html: "O FX ONE Plus oferece maior flexibilidade de integração e pode se conectar a bancos de dados, permite controle remoto total pelo software de gerenciamento de produção existente e oferece capacidade total de rede, incluindo WiFi."
-    grid_title_four: Versatile
+    grid_title_four: Wszechstronny
     grid_description_four_html: "Além de caixas, você pode imprimir em papéis, madeira, tecido, EPS, espuma, concreto, etc..."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Duży wkład atramentowy
+    eleventh_card_text: Niedrogi system znakowania i czystego atramentu, idealny do drukowania na porowatych powierzchniach.
 
     second_section_title: Visão geral
     first_card_title: codificação e marcação de alta resolução
-    first_card_text: 1 a 8 linhas de impressão, com altura de impressão de 2-72mm.
+    first_card_text: 1 a 30 linhas de impressão, com altura de impressão de 2-72mm.
     second_card_title: Conectividade do PC
     second_card_text: Via cabo USB ou Ethernet para criação de mensagem direta ou sistema de rede de fábrica.
     third_card_title: Gráficos, logotipos e códigos de barras
@@ -744,10 +744,10 @@ pt:
     seventh_section_text: O design industrial compacto e inovador da FX ONE facilita a movimentação da impressora para diferentes locais em minutos. Basta desconectá-lo e movê-lo. Funciona perfeitamente com sua grande tela sensível ao toque e todas as operações de impressão podem ser controladas facilmente. Basta apertar o botão de impressão e começar a imprimir em qualquer coisa.
 
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: Od 1 do 30 linii druku
+    fifth_section_left_three: Całkowita wysokość nadruku 2 mm - 72 mm
+    fifth_section_left_thirteen: Waga 1,9 kg (bez wkładu atramentowego i wsporników)
+    fifth_section_left_eight: Prędkość druku 60m/min
 
   software:
     first_section_title_one: FX TOUCH Controller
@@ -981,6 +981,8 @@ pt:
     first_section_text: Veja as impressoras Foenix imprimirem em qualquer item e em qualquer material.
     first_section_text_two: Mais vídeos serão adicionados regularmente, certifique-se de verificar regularmente esta página e nossa página do youtube
     more_videos: Mais vídeos em breve
+    video_text_zero: Impressora de caracteres grandes até 72 mm de altura de impressão.
+    video_text_zero_cont: A impressora FX ONE Plus, a alternativa perfeita para sistemas de etiquetagem caros, complexos e limitados.
     video_text_one: Solução de codificação de embalagem primária
     video_text_one_cont: A impressora FX ONE Remote, a solução mais econômica para marcar seus produtos
     video_text_two: Solução de codificação de embalagem secundária

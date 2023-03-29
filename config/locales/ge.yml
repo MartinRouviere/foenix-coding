@@ -704,21 +704,21 @@ ge:
                                <br>
                                <br>
                                Die Windows-basierte Programm wurde speziell für den Etikettendruck entwickelt, ein Bereich, in dem die Kontrolle der Kosten pro Druck von größter Bedeutung ist. Durch den direkten Druck auf Kartons anstelle von Etiketten wird die Kosteneffizienz drastisch erhöht."
-    grid_title_two: Simple
+    grid_title_two: Einfach
     grid_description_two_html: "Entwickelt für die kostengünstige Kodierung und Kennzeichnung von Kartons und Schachteln, eine echte Alternative zu einem Etikettendrucker.
                                Es sind keine komplizierten Start- und Abschaltprozeduren erforderlich. Schalten Sie das Gerät einfach am Ende des Tages aus und am nächsten Tag wieder ein."
     grid_title_three: Powerfull
     grid_description_three_html: "FX ONE Plus bietet weitere Integrationsflexibilität und kann mit Datenbanken verknüpft werden, ermöglicht die vollständige Fernsteuerung durch vorhandene Produktionsverwaltungssoftware und bietet volle Netzwerkfähigkeit einschließlich WiFi."
-    grid_title_four: Versatile
+    grid_title_four: Leistungsstark
     grid_description_four_html: "Außer auf Kartons kann man auch auf Papier, Holz, Stoff, EPS, Schaumstoff, Beton usw. drucken..."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Große Tintenpatrone
+    eleventh_card_text: Kostengünstige Codierung und sauberes Farbsystem, ideal zum Bedrucken von porösen Oberflächen.
 
 
     second_section_title: Überblick
     first_card_title: Hochauflösende Kodierung & Markierung
-    first_card_text: 1 bis 8 Druckzeilen, mit 2-72mm Druckhöhe.
+    first_card_text: 1 bis 30 Druckzeilen, mit 2-72mm Druckhöhe.
     second_card_title: PC-Anschlussmöglichkeiten
     second_card_text: Über USB-Kabel oder Netzwerk zur direkten Nachrichtenerstellung oder Werksnetzsystem.
     third_card_title: Grafiken, Logos & Strichkodes
@@ -744,10 +744,10 @@ ge:
     seventh_section_title: Vielseitigkeit in der Produktion
     seventh_section_text: Das kompakte und innovative Industriedesign des FX ONE ermöglicht es, den Drucker in wenigen Minuten an einen anderen Ort zu bringen. Einfach den Stecker ausstecken und mitnehmen. Mit seinem großen Berührungsbildschirm lassen sich alle Druckvorgänge mühelos steuern. Drücken Sie einfach die Drucktaste und beginnen Sie mit dem Druck auf alles.
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: 1 bis 30 Druckzeilen
+    fifth_section_left_three: 2 mm - 72 mm Gesamtdruckhöhe
+    fifth_section_left_thirteen: Gewicht 1,9 kg (ohne Tintenpatrone und Halterungen)
+    fifth_section_left_eight: 60 m/min Druckgeschwindigkeit
 
   software:
     first_section_title_one: FX TOUCH Controller
@@ -981,6 +981,8 @@ ge:
     first_section_text: Sehen Sie, wie Foenix-Drucker auf beliebige Gegenstände und Materialien drucken.
     first_section_text_two: Weitere Videos werden regelmäßig hinzugefügt, schauen Sie regelmäßig auf dieser Seite und auf unserer Youtube-Seite nach.
     mehr_videos: Weitere Videos folgen in Kürze
+    video_text_zero: Großschriftdrucker bis 72 mm Druckhöhe.
+    video_text_zero_cont: Der FX ONE Plus Drucker, die perfekte Alternative zu teuren, komplexen und limitierten Etikettiersystemen.
     video_text_one: Kodierungslösung für Primärverpackungen
     video_text_one_cont: Der FX ONE Remote-Drucker, die kostengünstigste Lösung zur Kennzeichnung Ihrer Produkt
     video_text_two: Lösung für die sekundäre Kodierung von Verpackungen

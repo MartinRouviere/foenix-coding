@@ -704,20 +704,20 @@ tur:
                                <br>
                                <br>
                                Windows tabanlı yazılım, özellikle, baskı başına maliyeti kontrol etmenin çok önemli olduğu bir alan olan etiket baskısı düşünülerek tasarlanmıştır. Etiket kullanmak yerine doğrudan kutulara baskı yaparak maliyet verimliliği önemli ölçüde artar."
-    grid_title_two: Simple
+    grid_title_two: Basit
     grid_description_two_html: "Düşük maliyetli kodlama ve de kartonlara ve kutulara markalama için tasarlanmış olup, bir etiket yazıcısına gerçek bir alternatiftir.
                                Karmaşık başlatma ve kapatma prosedürlerine gerek yok. Günün sonunda makineyi kapatıp ertesi gün tekrar açmanız yeterlidir."
-    grid_title_three: Powerfull
+    grid_title_three: Güçlü
     grid_description_three_html: "FX ONE Plus, daha fazla entegrasyon esnekliği sunar ve veri tabanlarına bağlanabilir, mevcut üretim yönetimi yazılımı ile tam uzaktan kontrole izin verir ve WiFi dahil tam ağ oluşturma yeteneği sunar."
-    grid_title_four: Versatile
+    grid_title_four: Çok yönlü
     grid_description_four_html: "Kartonların yanı sıra kağıt, ahşap, kumaş, EPS, köpük, beton vb. üzerine baskı yapabilirsiniz."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Büyük Mürekkep Kartuşu
+    eleventh_card_text: Gözenekli yüzeylere baskı yapmak için ideal, düşük maliyetli kodlama ve temiz mürekkep sistemi.
 
     second_section_title: Genel Görünüm
     first_card_title: Yüksek Çözünürlüklü Kodlama ve İşaretleme
-    first_card_text: 2-72mm baskı yüksekliğinde 1 ila 8 satır baskı.
+    first_card_text: 2-72mm baskı yüksekliğinde 1 ila 30 satır baskı.
     second_card_title: Pc Bağlanabilirliği
     second_card_text: Doğrudan mesaj oluşturma veya fabrika ağ sistemi için USB kablosu veya Ethernet aracılığıyla.
     third_card_title: Grafik, Logo ve Barkodlar
@@ -744,10 +744,10 @@ tur:
     seventh_section_text: FX ONE'ın kompakt ve yenilikçi endüstriyel tasarımı, yazıcının dakikalar içinde farklı konumlara taşınmasını kolaylaştırır. Sadece fişini çekin ve hareket ettirin. Geniş dokunmatik ekranı ile sorunsuz çalışır ve tüm baskı işlemleri kolaylıkla kontrol edilebilir. Sadece yazdır düğmesine basın ve herhangi bir şeye yazdırmaya başlayın.
 
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: 1 ila 30 satırlık baskı
+    fifth_section_left_three: 2mm - 72mm toplam baskı yüksekliği
+    fifth_section_left_thirteen: Ağırlık 1,9 Kg (mürekkep kartuşu ve braketler hariç)
+    fifth_section_left_eight: 60m/dk baskı hızı
 
   software:
     first_section_title_one: FX TOUCH Controller
@@ -981,6 +981,8 @@ tur:
     first_section_text: Foenix yazıcılarının herhangi bir öğeye ve herhangi bir malzemeye baskı yapmasını izleyin.
     first_section_text_two: Düzenli olarak daha fazla video eklenecektir, bu sayfayı ve youtube sayfamızı düzenli olarak kontrol ettiğinizden emin olun.
     more_videos: Daha fazla video çok yakında
+    video_text_zero: 72 mm baskı yüksekliğine kadar geniş karakterli yazıcı.
+    video_text_zero_cont: FX ONE Plus yazıcı, pahalı, karmaşık ve sınırlı etiketleme sistemlerine mükemmel bir alternatif.
     video_text_one: Birincil Ambalajlama Kodlama Çözümü
     video_text_one_cont: FX ONE Remote yazıcı, ürünlerinizi işaretlemek için en uygun maliyetli çözüm
     video_text_two: İkincil Ambalajlama Kodlama Çözümü

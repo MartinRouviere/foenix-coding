@@ -703,21 +703,21 @@ ko:
                                <br>
                                <br>
                                Windows 기반의 소프트웨어는 인쇄당 비용을 제어가는 것이 가장 중점인 라벨링 인쇄를 염두해 특별히 설계 되었습니다. 라벨을 사용하는 대신, 판지에 직접 인쇄하므로써, 비용 효율성이 크게 증가됩니다."
-    grid_title_two: Simple
+    grid_title_two: 단순한
     grid_description_two_html: "판지 및 상자 위에 인쇄할 수 있는 저 비용 코딩 및 마킹을 위해 설계된 라벨 인쇄를 위한 완벽한 대한책 입니다.
                                복잡한 시작 및 종료 절차가 필요 없습니다. 하루가 끝나면 기계를 껐다가 다음날 다시 켜기만 하면 됩니다."
-    grid_title_three: Powerfull
+    grid_title_three: 강력한
     grid_description_three_html: "FX ONE Plus는 더 나은 유연적인 통합성을 제공하고 데이터베이스와 연결 가능하며, 기존 관리 소프트웨로 전체 원격 제어를 허용하며 WiFi를 포함한 전체 네트워킹 기능을 제공합니다."
-    grid_title_four: Versatile
+    grid_title_four: 변하기 쉬운
     grid_description_four_html: "판지 뿐만 아니라, 종이, 목재, 천, EPS, 폼, 콘크리트 등에도 인쇄하실 수 있습니다"
 
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: 대형 잉크 카트리지
+    eleventh_card_text: 저비용 코딩 및 깨끗한 잉크 시스템으로 다공성 표면에 인쇄하는 데 이상적입니다.
 
     second_section_title: 개요
     first_card_title: 고해상도 코딩 & 마킹
-    first_card_text: 1줄에서 8줄까지의 인쇄, 2-72mm의 인쇄 높이.
+    first_card_text: 1줄에서 30줄까지의 인쇄, 2-72mm의 인쇄 높이.
     second_card_title: Pc 연결
     second_card_text: USB 케이블, RS485 혹은 이더넷을 통해 직접 메시지 생성 혹은 공장 네트워크 시스템에 연결할 수 있습니다.
     third_card_title: 그래픽, 로고 & 바코드
@@ -744,10 +744,10 @@ ko:
     seventh_section_text: FX ONE의 작고 혁신적인 산업적 디자인은 몇 분 안에 프린트기를 다른 위치로 옮길 수 있게 해줍니다. 코드를 뽑고 이동하시기만 하면 됩니다. 큰 터치 스크린으로 원활하게 작동하며 모든 인쇄 작동은 손 쉽게 제어 가능합니다. 인쇄 버튼을 누르고 아무거나 인쇄하세요.
 
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: 1 ~ 30줄 인쇄
+    fifth_section_left_three: 2mm - 72mm 총 인쇄 높이
+    fifth_section_left_thirteen: 무게 1.9Kg(잉크 카트리지 및 브래킷 제외)
+    fifth_section_left_eight: 60m/분 인쇄 속도
 
   software:
     first_section_title_one: FX 터치 컨트롤러
@@ -981,6 +981,8 @@ ko:
     first_section_text: Foenix 프린트기가 모든 항목과 재료에 인쇄하는 것을 영상으로 확인 해 보세요.
     first_section_text_two: 더 많은 영상이 주기적으로 업로드 될 예정이니, 이 페이지와 저희의 유튜브 채널을 정기적으로 확인 해주세요
     more_videos: 더 많은 동영상이 곧 제공될 예정입니다
+    video_text_zero: 최대 72mm 인쇄 높이의 대문자 프린터.
+    video_text_zero_cont: FX ONE Plus 프린터는 비싸고 복잡하며 제한적인 라벨링 시스템에 대한 완벽한 대안입니다.
     video_text_one: 1차 포장 코딩 솔루션
     video_text_one_cont: FX ONE Remote 프린트기는 귀하의 제품 마킹을 위한 가장 비용 효과적인 솔루션입니다
     video_text_two: 2차 포장 코딩 솔루션

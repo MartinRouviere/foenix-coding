@@ -704,20 +704,20 @@ sp:
                                <br>
                                <br>
                                El software basado en Windows se ha diseñado especialmente pensando en la impresión de etiquetas, un área en la que el control del coste por impresión es primordial. Al imprimir directamente en las cajas en lugar de utilizar etiquetas, la eficiencia de los costes aumenta considerablemente."
-    grid_title_two: Simple
+    grid_title_two: Sencillo
     grid_description_two_html: "Diseñada para la codificación y el marcado de bajo coste en cartones y cajas, una verdadera alternativa a una impresora de etiquetas.
                                No es necesario realizar complicados procedimientos de puesta en marcha y apagado. Simplemente apague la máquina al final del día y vuelva a encenderla al siguiente."
-    grid_title_three: Powerfull
+    grid_title_three: Poder total
     grid_description_three_html: "La FX ONE Plus ofrece una mayor flexibilidad de integración y puede vincularse con bases de datos, permite un control remoto completo mediante el software de gestión de la producción existente y ofrece una capacidad de red completa, incluida la WiFi."
-    grid_title_four: Versatile
+    grid_title_four: Versátil
     grid_description_four_html: "Además de en cartones, puede imprimir en papeles, madera, tela, EPS, espuma, hormigón, etc..."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Cartucho de tinta grande
+    eleventh_card_text: Sistema de codificación y entintado limpio de bajo costo, ideal para imprimir sobre superficies porosas.
 
     second_section_title: Descripción
     first_card_title: Codificación y Etiquetado de Alta Resolución
-    first_card_text: De 1 a 8 líneas de impresión, con una altura de impresión de 2 a 72 mm.
+    first_card_text: De 1 a 30 líneas de impresión, con una altura de impresión de 2 a 72 mm.
     second_card_title: Conectividad Pc
     second_card_text: A través de cable USB o Ethernet para la creación directa de mensajes o sistema de red de fábrica.
     third_card_title: Gráficos, logotipos y códigos de barras
@@ -744,10 +744,10 @@ sp:
     seventh_section_text: El diseño industrial compacto e innovador de la FX ONE facilita el traslado de la impresora a diferentes lugares en cuestión de minutos. Sólo hay que desenchufarla y moverla. Funciona a la perfección con su gran pantalla táctil, y todas las operaciones de impresión se pueden controlar fácilmente. Basta con pulsar el botón de impresión y empezar a imprimir sobre cualquier cosa.
 
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: 1 a 30 líneas de impresión
+    fifth_section_left_three: Altura total de impresión de 2 mm - 72 mm
+    fifth_section_left_thirteen: Peso 1,9 kg (sin incluir el cartucho de tinta ni los soportes)
+    fifth_section_left_eight: Velocidad de impresión de 60 m/min.
 
   software:
     first_section_title_one: FX Touch Controller
@@ -981,6 +981,8 @@ sp:
     first_section_text: Vea cómo las impresoras Foenix imprimen en cualquier artículo y en cualquier material.
     first_section_text_two: Se añadirán regularmente más vídeos, asegúrese de consultar regularmente esta página y nuestra página de youtube
     more_videos: Más vídeos próximamente
+    video_text_zero: Impresora de caracteres grandes de hasta 72 mm de altura de impresión.
+    video_text_zero_cont: La impresora FX ONE Plus, la alternativa perfecta a los costosos, complejos y limitados sistemas de etiquetado.
     video_text_one: Solución de Codificación de Envases Primarios
     video_text_one_cont: La impresora FX ONE Remote, la solución más rentable para etiquetar sus productos
     video_text_two: Solución de Codificación de Envases Secundarios

@@ -664,11 +664,11 @@ ar:
                                <br>
                                <br>
                                تم تصميم البرامج المستندة إلى Windows خصيصًا لطباعة الملصقات ، وهي منطقة يكون فيها التحكم في التكلفة أمرًا بالغ الأهمية عن طريق الطباعة مباشرة إلى الكراتين بدلاً من الملصقات ، تزداد فعالية التكلفة بشكل كبير."
-    grid_title_two: Simple
+    grid_title_two: بسيط
     grid_description_two_html: "مُصممة للترميز والوسم بتكلفة رخيصة على الكراتين والصناديق ، وهي بديل حقيقي لطابعة الملصقات."
-    grid_title_three: Powerfull
+    grid_title_three: قوي
     grid_description_three_html: "يوفر FX ONE Plus مزيدًا من المرونة في التكامل ويمكنه الاتصال بقواعد البيانات ، ويسمح بالتحكم الكامل عن بعد عبر برامج إدارة الإنتاج الحالية ويوفر إمكانات شبكة كاملة بما في ذلك WiFi."
-    grid_title_four: Versatile
+    grid_title_four: متنوع القدرات
     grid_description_four_html: "بالإضافة إلى الصناديق الكرتونية ، يمكنك الطباعة على الورق مصنوع من خشب ، قماش ، EPS ، رغوة ، خرسانة ، إلخ. "
 
     huge_cost_savings: توفير كبير في التكلفة عن طريق استبدال الملصقات والعبوات المطبوعة مسبقًا بطباعة عالية الدقة مباشرة على الكراتين - مثالية للصناديق والحقائب والصواني والمنصات الخشبية والمزيد
@@ -678,7 +678,7 @@ ar:
     placeholder: أدخل عنوان بريدك الإلكتروني واستقبل إشعارات حول العرض الأول
     second_section_title: نظرة عامة
     first_card_title: ترميز عالي الدقة ووضع العلامات
-    first_card_text: من 1 إلى 8 أسطر طباعة ، بارتفاع 2-72 مم.
+    first_card_text: من 1 إلى 30 أسطر طباعة ، بارتفاع 2-72 مم.
     second_card_title: اتصال الكمبيوتر
     second_card_text: عبر كبل USB أو إيثرنت للتكوين المباشر أو نظام شبكة المصنع.
     third_card_title: الرسومات والشعارات والباركود
@@ -697,8 +697,8 @@ ar:
     ninth_card_text: إدارة طابعات متعددة من مكان واحد. راقب التقدم وتتبع الأخطاء واكتسب نظرة ثاقبة باستخدام تحليلات الطباعة.
     tenth_card_title: نوع True وخط Unicode
     tenth_card_text: يسمح لك بإنشاء رسالة بأي خط وبأي لغة
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: خرطوشة حبر كبيرة
+    eleventh_card_text: ترميز منخفض التكلفة ونظام حبر نظيف ، مثالي للطباعة على الأسطح المسامية.
     twelfth_card_title: اتصال متعدد المنافذ
     twelfth_card_text: لأجهزة التشفير وأجهزة الإنذار الخارجية وأجهزة الكشف عن المنتجات البديلة.
     thirteenth_card_title: وضع توفير الحبر
@@ -706,10 +706,10 @@ ar:
     seventh_section_title: براعة الإنتاج
     seventh_section_text: التصميم الصناعي المدمج والمبتكر لجهاز FX ONE يجعل من السهل نقل الطابعة إلى مواقع مختلفة في غضون دقائق. فقط افصله وحركه. بفضل شاشة اللمس الكبيرة ، يمكنك التحكم بسهولة في جميع عمليات الطباعة. فقط اضغط على زر الطباعة وابدأ في الطباعة على أي شيء.
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: من 1 إلى 30 سطرًا للطباعة
+    fifth_section_left_three: 2 مم - 72 مم إجمالي ارتفاع الطباعة
+    fifth_section_left_thirteen: الوزن 1.9 كجم (باستثناء خرطوشة الحبر والأقواس)
+    fifth_section_left_eight: سرعة طباعة 60 م / دقيقة
 
   software:
     first_section_title_one: وحدة تحكم FX TOUCH
@@ -942,6 +942,8 @@ ar:
     first_section_text: شاهد طابعات Foenix وهي تطبع على أي عنصر وأي مادة.
     first_section_text_two: المزيد من مقاطع الفيديو قريبًا ، تأكد من مراجعة هذه الصفحة وصفحة youtube الخاصة بنا بانتظام.
     more_videos: المزيد من مقاطع الفيديو قريبًا
+    video_text_zero: طابعة كبيرة الحجم يصل ارتفاع الطباعة إلى 72 مم.
+    video_text_zero_cont: طابعة FX ONE Plus هي البديل المثالي لأنظمة الملصقات الباهظة الثمن والمعقدة والمحدودة.
     video_text_one: حل ترميز التغليف الأساسي
     video_text_one_cont: طابعة FX ONE Remote ، حل ترميز المنتج الأكثر اقتصادا
     video_text_two: إعادة تدوير حل التشفير

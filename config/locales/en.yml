@@ -698,7 +698,7 @@ en:
 
     second_section_title: Overview
     first_card_title: High Resolution Coding & Marking
-    first_card_text: 1 to 8 lines of print, with 2-72mm print height.
+    first_card_text: 1 to 30 lines of print, with 2-72mm print height.
     second_card_title: Pc Connectivity
     second_card_text: Via USB cable or Ethernet for direct message creation or factory network system.
     third_card_title: Graphics, Logos & Barcodes
@@ -962,6 +962,8 @@ en:
     first_section_text: Watch Foenix printers print on any items and any materials.
     first_section_text_two: More videos will regularly be added, make sure to regularly check this page and our youtube page
     more_videos: More videos coming soon
+    video_text_zero: Large character printer up to 72mm print height.
+    video_text_zero_cont: The FX ONE Plus printer, the perfect alternative to expensive, complex and limited labelling systems.
     video_text_one: Primary Packaging Coding Solution
     video_text_one_cont: The FX ONE Remote printer, the most cost-effective solution to mark your products
     video_text_two: Secondary Packaging Coding Solution

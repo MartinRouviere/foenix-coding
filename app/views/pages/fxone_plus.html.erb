@@ -9,15 +9,30 @@
       <h1 class="w-100"><%= t("fxone_plus.first_section_title") %></h1>
       <p class="mb-4" style="width: 90%;"><%= t("fxone_plus.first_section_text") %></p>
       <p class="btn primary-button bold text-white mb-3 mb-sm-0 mr-3" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fas fa-play mr-2"></i><%= t("home.play") %></p>
-      <%= link_to "#{ t("home.download") }", "/fxone_remote_brochure.pdf", target: "_blank", class: "btn secondary-button mb-3 mb-sm-0" %>
+      <%= link_to "#{ t("home.download") }", "/plus-brochure.pdf", target: "_blank", class: "btn secondary-button mb-3 mb-sm-0" %>
     </div>
     <div class="product-carousel dark-carousel">
-      <div id="" class="carousel slide" data-ride="carousel" data-interval="false">
+      <div id="carouselExampleCaptions" class="carousel slide mb-5" data-ride="carousel" data-interval="false">
+         <div class="carousel-controls">
+          <div class="">
+            <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+              <i class="fas fa-angle-left"></i>
+            </a>
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+            </ol>
+            <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </div>
+        </div>
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="no-padding-mobile" style="position: relative; display: flex; justify-content: center; align-items: center">
-              <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1679949576/2eff9ea9f18606a65b4f309332e35236557924c3_qvg4hc.png", class: "first-section-image fxone-plus-graphic", style: "max-width: 800px;", alt: "The FX ONE Plus") %>
-            </div>
+          <div class="carousel-item active pb-0">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1680171118/FX_ONE_PLUS_3_kqyrqv.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE Plus") %>
+          </div>
+          <div class="carousel-item pb-0">
+            <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1680171118/FX_ONE_PLUS_9_k9psqa.png", class: "first-section-image", style: "max-width: 800px;", alt: "The FX ONE Remote printer image two") %>
           </div>
         </div>
       </div>
@@ -44,11 +59,11 @@
   <div class="first-section pb-0 max-width">
     <div class="">
       <div class="row m-0 py-5 column-reverse">
-        <div class="col-12 col-md-5">
+        <div class="col-12 col-md-5 d-flex flex-direction-column justify-content-center">
           <h2 class=""><%= t("fxone_plus.grid_title_one") %></h2>
           <p class="mb-4"><%= t("fxone_plus.grid_description_one_html") %></p>
           <%= link_to contact_path, class: 'link-orange' do %>
-            <p class="text-orange bold mb-0 ml-4"><%= t("fxone_standard.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <p class="text-orange bold mb-0"><%= t("fxone_standard.grid_link_one") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
         <div class="col-12 col-md-7">
@@ -64,11 +79,11 @@
         <div class="col-12 col-md-7">
           <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1679950057/b54b8d0747b6e490ea101d5abac8da4b80f5d192_sslhz2.png", class: "w-100", alt: "72 mm print height diagram") %>
         </div>
-        <div class="col-12 col-md-5">
+        <div class="col-12 col-md-5 d-flex flex-direction-column justify-content-center">
           <h2 class=""><%= t("fxone_plus.grid_title_two") %></h2>
           <p class="mb-4"><%= t("fxone_plus.grid_description_two_html") %></p>
           <%= link_to contact_path, class: 'link-orange' do %>
-            <p class="text-orange bold mb-0 ml-4"><%= t("fxone_standard.grid_link_two") %> <i class="fas fa-arrow-right ml-2"></i></p>
+            <p class="text-orange bold mb-0 "><%= t("fxone_standard.grid_link_two") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
       </div>
@@ -78,7 +93,7 @@
   <div class="first-section pb-0 max-width">
     <div class="">
       <div class="row m-0 py-5 column-reverse">
-        <div class="col-12 col-md-5">
+        <div class="col-12 col-md-5  d-flex flex-direction-column justify-content-center">
           <h2 class=""><%= t("fxone_plus.grid_title_three") %></h2>
           <p class="mb-4"><%= t("fxone_plus.grid_description_three_html") %></p>
           <%= link_to software_path, class: 'link-orange' do %>
@@ -96,12 +111,12 @@
     <div class="">
       <div class="row m-0 py-5 column-reverse">
         <div class="col-12 col-md-7">
-          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1679950141/aedd1fb3b5e1cbfd7147c6e5023d26064c8c2259_btgaov.png", class: "w-100", alt: "72 mm print height diagram") %>
+          <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1680114321/FX_ONE_PLUS_12_jucpe2.png", class: "w-100", alt: "72 mm print height diagram") %>
         </div>
-        <div class="col-12 col-md-5">
+        <div class="col-12 col-md-5  d-flex flex-direction-column justify-content-center">
           <h2 class=""><%= t("fxone_plus.grid_title_four") %></h2>
           <p class="mb-4"><%= t("fxone_plus.grid_description_four_html") %></p>
-          <%= link_to software_path, class: 'link-orange' do %>
+          <%= link_to industry_path, class: 'link-orange' do %>
             <p class="text-orange bold"><%= t("fxone_standard.grid_link_four") %> <i class="fas fa-arrow-right ml-2"></i></p>
           <% end %>
         </div>
@@ -350,7 +365,7 @@
   </div>
   <div class="plus-bg pb-5">
     <div class="max-width py-5 px-3 px-md-5">
-      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1679950141/aedd1fb3b5e1cbfd7147c6e5023d26064c8c2259_btgaov.png", class: "w-100", style: 'border-radius: 6px;', alt: "build to last") %>
+      <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1680114321/FX_ONE_PLUS_12_jucpe2.png", class: "w-100", style: 'border-radius: 6px;', alt: "build to last") %>
     </div>
   </div>
 
@@ -407,7 +422,7 @@
   <div id="modal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-cont" id="modal-cont">
-        <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/oMW-QEs1zmc?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="embed-player" src="https://www.youtube-nocookie.com/embed/_YLPq2gTCw0?controls=0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </div>

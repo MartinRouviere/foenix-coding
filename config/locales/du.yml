@@ -698,12 +698,12 @@ du:
                                <br>
                                <br>
                                De op Windows gebaseerde software werd speciaal ontworpen met het oog op het printen van etiketten, een toepassing waarbij het beheersen van de kosten per print van het grootste belang is. Door rechtstreeks op dozen te drukken in plaats van etiketten te gebruiken, neemt de kostenefficiëntie drastisch toe."
-    grid_title_two: Simple
+    grid_title_two: Enkel
     grid_description_two_html: "Ontworpen voor goedkoop coderen en markeren op dozen en kratten, een echt alternatief voor een labelprinter.
                                Geen ingewikkelde procedures voor opstarten en uitschakelen. Gewoon de machine aan het eind van de dag uitzetten en de volgende dag weer aan."
-    grid_title_three: Powerfull
+    grid_title_three: Kraftig
     grid_description_three_html: "The FX ONE Plus biedt verdere integratieflexibiliteit en kan worden gekoppeld aan databases, maakt volledige bediening op afstand mogelijk met bestaande productiebeheersoftware en biedt volledige netwerkmogelijkheden, inclusief WiFi."
-    grid_title_four: Versatile
+    grid_title_four: Alsidig
     grid_description_four_html: "Behalve op karton kunt u ook drukken op papier, hout, stof, EPS, schuim, beton, enz..."
 
 
@@ -713,12 +713,12 @@ du:
     plus_newsletter_description_two: wanneer we de FX ONE Plus lanceren
     placeholder: Voer uw e-mailadres in en ontvang updates over de lancering
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Stor blækpatron
+    eleventh_card_text: Lavpris kodning og rent blæksystem, ideelt til udskrivning på porøse overflader.
 
     second_section_title: Overzicht
     first_card_title: Coderen en markeren met hoge resolutie
-    first_card_text: 1 tot 8 regels print, met een printhoogte van 2-72 mm.
+    first_card_text: 1 tot 30 regels print, met een printhoogte van 2-72 mm.
     second_card_title: Pc-connectiviteit
     second_card_text: Via USB-kabel, RS485 of Ethernet voor het maken van directe berichten of fabrieksnetwerksysteem.
     third_card_title: Afbeeldingen, logo's en streepjescodes
@@ -744,10 +744,10 @@ du:
     seventh_section_title: Productieveelzijdigheid
     seventh_section_text: Dankzij het compacte en innovatieve industriële ontwerp van de FX ONE kan de printer binnen enkele minuten naar verschillende locaties worden verplaatst. Gewoon loskoppelen en verplaatsen. Hij werkt naadloos samen met zijn grote touchscreen en alle printbewerkingen kunnen eenvoudig worden gecontroleerd. Druk gewoon op de afdrukknop en begin met afdrukken op alles.
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: 1 til 30 linjer print
+    fifth_section_left_three: 2 mm - 72 mm samlet printhøjde
+    fifth_section_left_thirteen: Vægt 1,9 kg (ekskl. blækpatron og beslag)
+    fifth_section_left_eight: 60m/min printhastighed
 
   software:
     first_section_title_one: FX TOUCH-controller
@@ -981,6 +981,8 @@ du:
     first_section_text: Kijk hoe Foenix-printers op alle items en materialen afdrukken.
     first_section_text_two: Er zullen regelmatig meer video's worden toegevoegd, dus kijk regelmatig op deze pagina en op onze Youtube pagina
     more_videos: Meer video's zijn onderweg
+    video_text_zero: Stor karakterprinter op til 72 mm printhøjde.
+    video_text_zero_cont: FX ONE Plus-printeren, det perfekte alternativ til dyre, komplekse og begrænsede etiketsystemer.
     video_text_one: Primaire oplossing voor verpakkingscodering
     video_text_one_cont: De FX ONE Remote-printer, de meest kosteneffectieve oplossing om uw producten te markeren
     video_text_two: Secundaire oplossing voor verpakkingscodering

@@ -704,20 +704,20 @@ it:
                                <br>
                                <br>
                                Il software basato su Windows è stato appositamente progettato pensando alla stampa di etichette, un'area in cui il controllo del costo per stampa è fondamentale. Stampando direttamente sulle scatole invece di utilizzare etichette, l'efficienza dei costi aumenta notevolmente."
-    grid_title_two: Simple
+    grid_title_two: Semplice
     grid_description_two_html: "Progettata per la codifica e la marcatura a basso costo su cartonei e scatole, una vera alternativa alla stampante per etichette.
                                Non sono necessarie complicate procedure di avvio e spegnimento. Basta spegnere la macchina a fine giornata e riaccenderla la successiva."
-    grid_title_three: Powerfull
+    grid_title_three: Potente
     grid_description_three_html: "La FX ONE Plus offre un'ulteriore flessibilità d'integrazione e può collegarsi con i database, consente il controllo remoto completo tramite il software di gestione della produzione esistente e offre funzionalità di rete complete, incluso il Wi-Fi."
     grid_title_four: Versatile
     grid_description_four_html: "Oltre ai cartonei, puoi stampare su carta, legno, tessuto, EPS, gommapiuma, cemento, ecc..."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Cartuccia d'inchiostro grande
+    eleventh_card_text: Codifica a basso costo e sistema di inchiostrazione pulito, ideale per la stampa su superfici porose.
 
     second_section_title: Panoramica
     first_card_title: Codifica e marcatura ad alta risoluzione
-    first_card_text: Da 1 a 8 righe di stampa, con altezza di stampa da 2 a 72 mm.
+    first_card_text: Da 1 a 30 righe di stampa, con altezza di stampa da 2 a 72 mm.
     second_card_title: Connettività PC
     second_card_text: Via cavo USB o Ethernet per la creazione di messaggi diretti o il sistema di rete di fabbrica.
     third_card_title: Grafica, Loghi e Codici a Barre
@@ -744,10 +744,10 @@ it:
     seventh_section_text: Il design industriale compatto e innovativo della FX ONE facilita lo spostamento della stampante in diversi luoghi in pochi minuti. Basta scollegarla e spostarla. Funziona perfettamente con il suo grande touch screen, e tutte le operazioni di stampa possono essere controllate facilmente. Basta premere il pulsante di stampa e iniziare a stampare su qualsiasi cosa.
 
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: Da 1 a 30 righe di stampa
+    fifth_section_left_three: Altezza di stampa totale da 2 mm a 72 mm
+    fifth_section_left_thirteen: Peso 1,9 Kg (esclusi cartuccia inchiostro e staffe)
+    fifth_section_left_eight: Velocità di stampa 60 m/min
 
   software:
     first_section_title_one: Controller FX TOUCH
@@ -981,6 +981,8 @@ it:
     first_section_text: Guarda le stampanti Foenix stampare su qualsiasi oggetto e qualsiasi materiale.
     first_section_text_two: Altri video saranno aggiunti periodicamente, assicurati di controllare spesso questa pagina e la nostra pagina di You Tube
     more_videos: Altri video sono in arrivo
+    video_text_zero: Stampante per caratteri grandi fino a 72 mm di altezza di stampa.
+    video_text_zero_cont: La stampante FX ONE Plus, l'alternativa perfetta a sistemi di etichettatura costosi, complessi e limitati.
     video_text_one: Soluzione di codifica dell'imballaggio primario
     video_text_one_cont: La stampante FX ONE Remote, la soluzione più economica per la marcatura dei tuoi prodotti
     video_text_two: Soluzione di codifica dell'imballaggio secondario

@@ -691,45 +691,45 @@ ja:
                                <br>
                                <br>
                                Windowsベースのソフトウェアは、印刷あたりのコストを管理することが最も重要な領域であるラベル印刷を念頭に置いて特別に設計されました。ラベルを使用せずにボックスに直接印刷することで、コスト効率が大幅に向上します。"
-    grid_title_two: Simple
+    grid_title_two: 単純
     grid_description_two_html: "ラベルプリンターの真の代替品である、段ボールやボックスへの低コストのコーディングとマーキング用に設計されています。
                                複雑な起動およびシャットダウン手順は必要ありません。 1日の終わりに機械の電源を切り、次の日にもう一度電源を入れます。"
-    grid_title_three: Powerfull
+    grid_title_three: パワフル
     grid_description_three_html: "FX ONE Plusは、統合の柔軟性をさらに高め、データベースとリンクでき、既存の生産管理ソフトウェアによる完全なリモート制御を可能にし、WiFiを含む完全なネットワーク機能を提供します。"
-    grid_title_four: Versatile
+    grid_title_four: 多用途
     grid_description_four_html: "段ボールに加えて、紙、木、布、EPS、フォーム、コンクリートなどに印刷できます...」"
-    second_section_title: Overview
-    first_card_title: High Resolution Coding & Marking
-    first_card_text: 1 to 8 lines of print, with 2-72mm print height.
-    second_card_title: Pc Connectivity
-    second_card_text: Via USB cable or Ethernet for direct message creation or factory network system.
-    third_card_title: Graphics, Logos & Barcodes
-    third_card_text: Easily import JPEG & BMP graphics using FX App.
-    fourth_card_title: Simple Screen & Keyboard
-    fourth_card_text: For local control of printer speed and direction, and message delay.
-    fifth_card_title: Out of the Box Installation
-    fifth_card_text: With minimal components for maximum reliability.
-    sixth_card_title: 1D & 2D Barcodes
-    sixth_card_text: High resolution printing of 1D and 2D barcodes (QR Codes – data matrix) to include variable data.
-    seventh_card_title: 2 Years Warranty
-    seventh_card_text: Extend it for one, two or three more years
-    eigth_card_title: Touch Controller
-    eigth_card_text: Simple interactive windows programming with FX App. Reliable printing in one click.
-    ninth_card_title: Networking
-    ninth_card_text: Manage multiple printers from one place. Monitor progress, track faults and gain insights with print analytics.
-    tenth_card_title: True Type Font & Unicode
-    tenth_card_text: Enables message creation in any font and in any language
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
-    twelfth_card_title: Multi Port Connection
-    twelfth_card_text: For encoders, external alarms and alternative product detection devices.
-    thirteenth_card_title: Ink Saver Mode
-    thirteenth_card_text: Reduce ink consumption by up to 75%
+    second_section_title: 概要
+    first_card_title: 高解像度のコーディングとマーキング
+    first_card_text: 1 ～ 30 行の印字、印字高さ 2 ～ 72mm。
+    second_card_title: パソコン接続
+    second_card_text: 直接メッセージの作成または工場ネットワーク システム用の USB ケーブルまたはイーサネット経由。
+    third_card_title: グラフィック、ロゴ、バーコード
+    third_card_text: FX アプリを使用して、JPEG および BMP グラフィックを簡単にインポートします。
+    fourth_card_title: シンプルな画面とキーボード
+    fourth_card_text: プリンターの速度と方向、およびメッセージの遅延をローカルで制御します。
+    fifth_card_title: すぐに使えるインストール
+    fifth_card_text: 最小限のコンポーネントで最大限の信頼性を実現。
+    sixth_card_title: 1D & 2D バーコード
+    sixth_card_text: 可変データを含む 1D および 2D バーコード (QR コード – データマトリックス) の高解像度印刷。
+    seventh_card_title: 2年保証
+    seventh_card_text: さらに1年、2年、3年延長する
+    eigth_card_title: タッチコントローラー
+    eigth_card_text: FX アプリを使用したシンプルなインタラクティブな Windows プログラミング。ワンクリックで確実に印刷。
+    ninth_card_title: ネットワーキング
+    ninth_card_text: 複数のプリンターを 1 か所から管理します。進行状況を監視し、障害を追跡し、印刷分析で洞察を得ることができます。
+    tenth_card_title: True Type フォントと Unicode
+    tenth_card_text: 任意のフォントと任意の言語でメッセージを作成できます
+    eleventh_card_title: 大容量インクカートリッジ
+    eleventh_card_text: 低コストのコーディングとクリーンなインキング システムで、多孔質の表面への印刷に最適です。
+    twelfth_card_title: マルチポート接続
+    twelfth_card_text: エンコーダ、外部アラーム、および代替製品検出デバイス用。
+    thirteenth_card_title: インクセーバーモード
+    thirteenth_card_text: インク消費量を最大 75% 削減
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: 1 ～ 30 行の印刷
+    fifth_section_left_three: 2mm～72mmの総印刷高さ
+    fifth_section_left_thirteen: 重量 1.9 kg (インクカートリッジとブラケットを除く)
+    fifth_section_left_eight: 60m/分の印刷速度
 
   software:
     first_section_title_one: FXTOUCHコントローラー
@@ -962,6 +962,8 @@ ja:
     first_section_text: Foenixプリンターがあらゆるアイテムや素材に印刷するのをご覧ください。
     first_section_text_two: 定期的に動画が追加されますので、このページとYouTubeページを定期的に確認してください。
     more_videos: 他の動画も近日公開予定
+    video_text_zero: 印字高さ72mmまでの大型文字プリンター。
+    video_text_zero_cont: FX ONE Plus プリンターは、高価で複雑で限定的なラベリング システムの完全な代替品です。
     video_text_one: プライマリパッケージコーディングソリューション
     video_text_one_cont: FX ONE Remoteプリンター、製品にマークを付けるための最も費用効果の高いソリューション
     video_text_two: 二次パッケージコーディングソリューション

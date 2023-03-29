@@ -703,20 +703,20 @@
                                <br>
                                <br>
                                Приложение для Windows было специально разработано для печати этикеток, где стоимость печати очень важна. Прямая печать на коробках вместо использования этикет позволяет значительно снизить стоимость."
-    grid_title_two: Simple
+    grid_title_two: Простой
     grid_description_two_html: "Разработан для низкой стоимости кодировки и маркировки на картоне и коробках, это альтернатива принтеру для этикеток.
                                Нет необходимости в сложных процедурах включения и выключения. Просто выключите в конце рабочего дня и включите в начале следующего."
-    grid_title_three: Powerfull
+    grid_title_three: Мощный
     grid_description_three_html: "Принтер FX ONE Plus обеспечивает гибкую интеграцию и может подключаться к базам данных, что позволяет удаленно контролировать производственную линию по сети, включая WiFi."
-    grid_title_four: Versatile
+    grid_title_four: Универсальный
     grid_description_four_html: "Кроме картона вы можете печатать на бумаге, дереве, ткани, полистирольной пене, бетоне и т.д."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Большой чернильный картридж
+    eleventh_card_text: Недорогая маркировка и чистая система подачи краски, идеально подходящая для печати на пористых поверхностях.
 
     second_section_title: Обзор
     first_card_title: Кодировка и маркировка высокого разрешения
-    first_card_text: Печать от 1 до 8 строчек текста с высотой 2-72 мм.
+    first_card_text: Печать от 1 до 30 строчек текста с высотой 2-72 мм.
     second_card_title: Подключение к ПК
     second_card_text: Через USB или Ethernet кабель для создания текста или подключения к сети завода.
     third_card_title: Графика, логотипы и штриходы
@@ -743,10 +743,10 @@
     seventh_section_text: Компактная и инновационная конструкция принтера FX ONE позволяет переместить его в другое место за минуты. Просто отключите и переставьте его. Благодаря большому сенсорному экрану все операции печати можно легко контролировать. Нажмите кнопку печати и начните печатать на любой поверхности.
 
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: от 1 до 30 строк печати
+    fifth_section_left_three: 2 мм - 72 мм общая высота печати
+    fifth_section_left_thirteen: Вес 1,9 кг (без чернильного картриджа и кронштейнов)
+    fifth_section_left_eight: скорость печати 60 м/мин
 
   software:
     first_section_title_one: Сенсорный планшет FX
@@ -980,6 +980,8 @@
     first_section_text: Смотрите как принтеры Foenix печатают на любых изделиях и материалах.
     first_section_text_two: Видео будут регулярно добавляться, регулярно проверяйте эту страницу и нашу страницу на Youtube
     more_videos: Больше видео будут доступны скоро
+    video_text_zero: Крупносимвольный принтер с высотой печати до 72 мм.
+    video_text_zero_cont: Принтер FX ONE Plus — идеальная альтернатива дорогим, сложным и ограниченным системам этикетирования.
     video_text_one: Решение для кодировки на первичной упаковке
     video_text_one_cont: Принтер FX ONE Remote - наиболее экономичное решение для маркировки ваших продуктов
     video_text_two: Решение для кодировки на вторичной упаковке

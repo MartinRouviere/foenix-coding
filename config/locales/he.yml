@@ -701,20 +701,20 @@ he:
     <br>
     <br>
     התוכנה מבוססת Windows תוכננה במיוחד עם מחשבה על הדפסת תוויות, תחום שבו השליטה בעלות להדפסה היא חשובה ביותר. על ידי הדפסה ישירות על קופסאות במקום שימוש בתוויות, יעילות העלות עולה באופן דרמטי."
-    grid_title_two: Simple
+    grid_title_two: פָּשׁוּט
     grid_description_two_html: "מיועד לקידוד וסימון בעלות נמוכה על קרטונים וקופסאות, חלופה אמיתית למדפסת מדבקות.
     אין צורך בהליכי הפעלה וכיבוי מסובכים. כל שעליך לעשות הוא לכבות את המכונה בסוף היום ולהדליק שוב למחרת."
-    grid_title_three: Powerfull
+    grid_title_three: עוצמה מלאה
     grid_description_three_html: "ה-FX ONE Plus מציע גמישות אינטגרציה נוספת ויכול לקשר עם מסדי נתונים, מאפשר שליטה מרחוק מלאה על ידי תוכנת ניהול ייצור קיימת ומציע יכולת רשת מלאה כולל WiFi."
-    grid_title_four: Versatile
+    grid_title_four: מגוון
     grid_description_four_html: "בנוסף לקרטונים ניתן להדפיס על ניירות, עץ, בד, EPS, קצף, בטון וכו'..."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: מחסנית דיו גדולה
+    eleventh_card_text: קידוד בעלות נמוכה ומערכת דיו נקייה, אידיאלית להדפסה על משטחים נקבוביים.
 
     second_section_title: סקירה כללית
     first_card_title: קידוד וסימון ברזולוציה גבוהה
-    first_card_text: 1 עד 8 שורות הדפסה, עם גובה הדפסה של 2-72 ממ.
+    first_card_text: 1 עד 30 שורות הדפסה, עם גובה הדפסה של 2-72 ממ.
     second_card_title: קישוריות למחשב
     second_card_text: באמצעות כבל USB או Ethernet ליצירת הודעות ישירה או מערכת רשת במפעל.
     third_card_title: גרפיקה, לוגו וברקודים
@@ -740,10 +740,10 @@ he:
     seventh_section_title: רבגוניות הפקה
     seventh_section_text: העיצוב התעשייתי הקומפקטי והחדשני של ה-FX ONE מאפשר להעביר את המדפסת למיקומים שונים תוך דקות. פשוט נתק אותו מהחשמל והזיז אותו. זה עובד בצורה חלקה עם מסך המגע הגדול שלו, וניתן לשלוט בכל פעולות ההדפסה בקלות. פשוט לחץ על כפתור ההדפסה והתחל להדפיס על כל דבר.
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: 1 עד 30 שורות הדפסה
+    fifth_section_left_three: גובה הדפסה כולל של 2 מ"מ - 72 מ"מ
+    fifth_section_left_thirteen: משקל 1.9 ק"ג (לא כולל מחסנית דיו וסוגריים)
+    fifth_section_left_eight: מהירות הדפסה של 60 מטר לדקה
 
   software:
     first_section_title_one: בקר FX TOUCH
@@ -977,6 +977,8 @@ he:
     first_section_text: צפו במדפסות Foenix מדפיסות על כל פריט וכל חומר.
     first_section_text_two: סרטונים נוספים יתווספו באופן קבוע, הקפד לבדוק באופן קבוע את הדף הזה ואת דף היוטיוב שלנו
     more_videos: סרטונים נוספים בקרוב
+    video_text_zero: מדפסת תווים גדולה עד גובה הדפסה של 72 מ"מ.
+    video_text_zero_cont: מדפסת FX ONE Plus, החלופה המושלמת למערכות תיוג יקרות, מורכבות ומוגבלות.
     video_text_one: פתרון קידוד אריזה ראשי
     video_text_one_cont: מדפסת FX ONE Remote, הפתרון החסכוני ביותר לסימון המוצרים שלך
     video_text_two: פתרון קידוד אריזה משני

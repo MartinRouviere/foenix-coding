@@ -588,19 +588,19 @@ pl:
 
     mid_section_title: "Think Outside the Box"
     grid_description_one_html: "Drukarka atramentowa FX ONE Plus do druku dużych znaków daje użytkownikowi kontrolę nad kosztem wydruku etykiet. <br> <br> Oprogramowanie oparte na systemie Windows zostało zaprojektowane specjalnie z myślą o druku etykiet, czyli obszarze, w którym kontrola kosztów wydruku jest najważniejsza. Dzięki drukowaniu bezpośrednio na kartonach, zamiast na etykietach, efektywność kosztowa wzrasta znacząco. "
-    grid_title_two: Simple
+    grid_title_two: Prosty
     grid_description_two_html: "Zaprojektowana do taniego kodowania i znakowania na kartonach i pudełkach, prawdziwa alternatywa dla drukarki etykiet. Nie ma potrzeby stosowania skomplikowanych procedur uruchamiania i wyłączania. Wystarczy wyłączyć maszynę na koniec dnia i włączyć ją ponownie następnego."
-    grid_title_three: Powerfull
+    grid_title_three: Potężny
     grid_description_three_html: "FX ONE Plus oferuje dalszą elastyczność integracji i może łączyć się z bazami danych, pozwala na pełne zdalne sterowanie przez istniejące oprogramowanie do zarządzania produkcją i oferuje pełne możliwości sieciowe, w tym WiFi."
-    grid_title_four: Versatile
+    grid_title_four: Wszechstronny
     grid_description_four_html: "Oprócz kartonów można drukować na papierze, drewnie, tkaninie, EPS, piance, betonie itd."
 
-    eleventh_card_title: Large Ink Cartridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
+    eleventh_card_title: Duży wkład atramentowy
+    eleventh_card_text: Niedrogi system znakowania i czystego atramentu, idealny do drukowania na porowatych powierzchniach.
 
     second_section_title: Przegląd
     first_card_title: Kodowanie i znakowanie w wysokiej rozdzielczości
-    first_card_text: Od 1 do 8 linii nadruku o wysokości 2-72 mm.
+    first_card_text: Od 1 do 30 linii nadruku o wysokości 2-72 mm.
     second_card_title: Łączność Pc
     second_card_text: Przez kabel USB lub Ethernet do bezpośredniego tworzenia wiadomości lub system sieci fabrycznej.
     third_card_title: Grafika, loga i kody kreskowe
@@ -626,10 +626,10 @@ pl:
     seventh_section_title: Wszechstronność produkcji
     seventh_section_text: Kompaktowa i innowacyjna konstrukcja przemysłowa FX ONE ułatwia przenoszenie drukarki w różne miejsca w ciągu kilku minut. Wystarczy ją odłączyć i przenieść. Dzięki dużemu ekranowi dotykowemu można bezproblemowo kontrolować wszystkie operacje drukowania. Wystarczy nacisnąć przycisk drukowania i rozpocząć drukowanie na czymkolwiek.
 
-    fifth_section_left_two: 1 to 30 lines of print
-    fifth_section_left_three: 2mm - 72mm total print height
-    fifth_section_left_thirteen: Weight 1.9 Kg (excluding ink catridge and brackets)
-    fifth_section_left_eight: 60m/min print speed
+    fifth_section_left_two: Od 1 do 30 linii druku
+    fifth_section_left_three: Całkowita wysokość nadruku 2 mm - 72 mm
+    fifth_section_left_thirteen: Waga 1,9 kg (bez wkładu atramentowego i wsporników)
+    fifth_section_left_eight: Prędkość druku 60m/min
 
   software:
     first_section_title_one: Kontroler FX TOUCH
@@ -848,6 +848,8 @@ pl:
     first_section_text: Obejrzyj drukarki Foenix drukujące na dowolnych przedmiotach i dowolnych materiałach.
     first_section_text_two: Więcej filmów już wkrótce, upewnij się, że regularnie sprawdzasz tę stronę i naszą stronę youtube.
     more_videos: Więcej filmów już wkrótce
+    video_text_zero: Drukarka dużych znaków o wysokości druku do 72 mm.
+    video_text_zero_cont: Drukarka FX ONE Plus, idealna alternatywa dla drogich, skomplikowanych i ograniczonych systemów etykietowania.
     video_text_one: Rozwiązanie do kodowania opakowań podstawowych
     video_text_one_cont: Drukarka FX ONE Remote, najbardziej ekonomiczne rozwiązanie do znakowania produktów
     video_text_two: Rozwiązanie do kodowania opakowań wtórnych
