@@ -518,8 +518,8 @@ en:
     ninth_card_text: Manage multiple printers from one place. Monitor progress, track faults and gain insights with print analytics.
     tenth_card_title: True Type Font & Unicode
     tenth_card_text: Enables message creation in any font and in any language
-    eleventh_card_title: Large Solvent Based Ink Catridge
-    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous and non-porous surfaces.
+    eleventh_card_title: Large Oil Based Ink Catridge
+    eleventh_card_text: Low cost coding and clean inking system, ideal for printing on to porous surfaces.
     twelfth_card_title: Multi Port Connection
     twelfth_card_text: For encoders, external alarms and alternative product detection devices.
     thirteenth_card_title: Ink Saver Mode
@@ -560,7 +560,7 @@ en:
     fifth_section_right_title_two: Ink
     fifth_section_right_seven: Sealed replaceable ink catridge (up to 15 million characters)
     fifth_section_right_eight: oil based inks for porous surfaces
-    fifth_section_right_nine: Solvent based inks for non-porous surfaces
+    fifth_section_right_nine: Mineral Oil Free ink available
     fifth_section_right_ten: UV inks for instant LED curing
     fifth_section_right_eleven: Various colours
     fifth_section_right_title_three: Electrical
@@ -1159,7 +1159,7 @@ en:
     sds_card_title_one: FX8001
     sds_card_text_one: Black Oil based ink
     sds_card_title_two: FX8201
-    sds_card_text_two: breakfast cereals, pasta...
+    sds_card_text_two: Black Solvent based ink
     sds_card_title_three: CP111
     sds_card_text_three: Black Marking ink
     sds_card_title_four: FX8008/FX8009
