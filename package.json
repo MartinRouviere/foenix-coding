@@ -1,6 +1,9 @@
 {
   "name": "foenix",
   "private": true,
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "@rails/webpacker": "^5.4.3",
     "aos": "^2.3.4",
