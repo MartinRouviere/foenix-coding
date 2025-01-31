@@ -52,6 +52,21 @@
     <%= stylesheet_pack_tag 'application', media: 'all' %> <!-- Uncomment if you import CSS in app/javascript/packs/application.js -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css">
 
+    <% if Rails.env.production? %>
+      <script type="text/javascript">
+        var $zoho=$zoho || {};
+        $zoho.salesiq = $zoho.salesiq || {widgetcode:"siq3fc1719d9bfc3934c631fd7e8d93ffca0faaf23a35dd26d8eef949c3793a3aa7", values:{},ready:function(){}};
+        var d=document;
+        s=d.createElement("script");
+        s.type="text/javascript";
+        s.id="zsiqscript";
+        s.defer=true;
+        s.src="https://salesiq.zoho.eu/widget";
+        t=d.getElementsByTagName("script")[0];
+        t.parentNode.insertBefore(s,t);
+      </script>
+    <% end %>
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
