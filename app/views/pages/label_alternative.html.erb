@@ -1,0 +1,303 @@
+<% content_for :meta_title, "#{t('seo.label_alternative.title')}" %>
+<% content_for :meta_description, "#{t('seo.label_alternative.description')}" %>
+<% content_for :meta_keywords, "#{t('seo.label_alternative.keywords')}" %>
+
+<div class="distributor-wrapper label-alternative">
+  <div class="first-section mobile-column max-width">
+      <div class="first-section-text m-0 pl-0" style="max-width: 450px;">
+        <h1 class="w-100"><%= t('label_alternative.title') %></h1>
+        <p class=""><%= t('label_alternative.subtitle') %></p>
+      </div>
+      <div class="flex-grow-1">
+        <%= image_tag 'label_alternative/label_gif_en.gif', class: 'first-section-image map-gif', alt: 'highlighted cities' %>
+      </div>
+  </div>
+  <div class="generic-block max-width mb-5">
+    <h2 style="d-flex align-items-center">
+      <i class="fas fa-times-circle mr-2 text-danger"></i>
+      <%= t('label_alternative.problem_title') %>
+    </h2>
+    <p><%= t('label_alternative.problem_description') %></p>
+    <div class="overflow-hidden" id="problemsContainer">
+      <div class="d-flex justify-content-between">
+        <div class="card">
+          <h4><%= t('label_alternative.problem_1.title') %></h4>
+          <p><%= t('label_alternative.problem_1.description_html') %></p>
+        </div>
+        <div class="card">
+          <h4><%= t('label_alternative.problem_2.title') %></h4>
+          <p><%= t('label_alternative.problem_2.description_html') %></p>
+        </div>
+        <div class="card">
+          <h4><%= t('label_alternative.problem_3.title') %></h4>
+          <p><%= t('label_alternative.problem_3.description_html') %></p>
+        </div>
+        <div class="card">
+          <h4><%= t('label_alternative.problem_4.title') %></h4>
+          <p><%= t('label_alternative.problem_4.description_html') %></p>
+        </div>
+        <div class="card">
+          <h4><%= t('label_alternative.problem_5.title') %></h4>
+          <p><%= t('label_alternative.problem_5.description_html') %></p>
+        </div>
+      </div>
+    </div>
+    <div class="block-selector">
+      <div class="arrow" onclick="scrollProblems('left')">
+        <i class="fas fa-chevron-left"></i>
+      </div>
+      <div class="arrow" onclick="scrollProblems('right')">
+        <i class="fas fa-chevron-right"></i>
+      </div>
+    </div>
+  </div>
+  <div class="generic-block max-width mb-5" style="z-index: 10; position: relative;">
+    <h2 style="d-flex align-items-center">
+      <i class="fas fa-check-circle text-success"></i>
+      <%= t('label_alternative.solution_title') %>
+    </h2>
+    <p><%= t('label_alternative.solution_description') %></p>
+    <div class="overflow-hidden" id="solutionsContainer">
+      <div class="d-flex justify-content-between">
+        <div class="card cardboard">
+          <h4><%= t('label_alternative.solution_1.title') %></h4>
+          <p><%= t('label_alternative.solution_1.description_html') %></p>
+        </div>
+        <div class="card cardboard">
+          <h4><%= t('label_alternative.solution_2.title') %></h4>
+          <p><%= t('label_alternative.solution_2.description_html') %></p>
+        </div>
+        <div class="card cardboard">
+          <h4><%= t('label_alternative.solution_3.title') %></h4>
+          <p><%= t('label_alternative.solution_3.description_html') %></p>
+        </div>
+        <div class="card cardboard">
+          <h4><%= t('label_alternative.solution_4.title') %></h4>
+          <p><%= t('label_alternative.solution_4.description_html') %></p>
+        </div>
+        <div class="card cardboard ">
+          <h4><%= t('label_alternative.solution_5.title') %></h4>
+          <p><%= t('label_alternative.solution_5.description_html') %></p>
+        </div>
+      </div>
+    </div>
+    <div class="block-selector">
+      <div class="arrow" onclick="scrollSolutions('left')">
+        <i class="fas fa-chevron-left"></i>
+      </div>
+      <div class="arrow" onclick="scrollSolutions('right')">
+        <i class="fas fa-chevron-right"></i>
+      </div>
+    </div>
+  </div>
+  <div class="generic-block max-width mb-5">
+    <%= cl_image_tag("https://res.cloudinary.com/foenix-coding/image/upload/v1679949939/2606f2548d3a38adb4e9661619eab378871a283a_ydoqvr.png", class: "w-100", style: 'border-radius: 6px; margin-top: -10rem', alt: "build to last") %>
+    <div class="d-flex align-items-center justify-content-center mt-2">
+      <%= image_tag 'uk.png', class: 'home-uk mr-2', alt: 'UK flag' %>
+      <h5 class="text-center mb-0"><%= t('label_alternative.made_in_uk') %></h5>
+    </div>
+  </div>
+  <div class="generic-block max-width mb-5">
+    <h2 style="d-flex align-items-center">
+      <%= t('label_alternative.benefits_title') %>
+    </h2>
+    <div>
+      <div class="d-flex justify-content-between flex-wrap">
+        <div class="card sm">
+          <h4><%= t('label_alternative.benefit_1.title') %></h4>
+          <p><%= t('label_alternative.benefit_1.description_html') %></p>
+        </div>
+        <div class="card sm">
+          <h4><%= t('label_alternative.benefit_2.title') %></h4>
+          <p><%= t('label_alternative.benefit_2.description_html') %></p>
+        </div>
+        <div class="card sm">
+          <h4><%= t('label_alternative.benefit_3.title') %></h4>
+          <p><%= t('label_alternative.benefit_3.description_html') %></p>
+        </div>
+        <div class="card sm">
+          <h4><%= t('label_alternative.benefit_4.title') %></h4>
+          <p><%= t('label_alternative.benefit_4.description_html') %></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="generic-block max-width mb-5">
+    <h2 class="w-100 d-block text-center">
+      <%= t('label_alternative.switch_title') %>
+    </h2>
+    <p class="w-100 d-block text-center">
+      <%= t('label_alternative.switch_description_html') %>
+    </p>
+    <div class="d-flex justify-content-between flex-wrap">
+      <div class="graph-block-container">
+        <div class="graph-block">
+          <h4 class="w-100 text-center mb-1"><%= t('label_alternative.small_label') %></h4>
+          <div class="w-100 text-center subtitle">
+            <%= t('label_alternative.legend_html') %>
+          </div>
+          <div class="bar-legend">
+            <div class="fx pill">1.5” x 1”</div>
+            <div class="label pill"><%= t('label_alternative.label') %></div>
+          </div>
+          <div class="legend">
+            <%= t('label_alternative.legend_x_html') %>
+          </div>
+          <div class="graph-axis">
+            <div class="element">
+              <div class="bar black" style="height: 2px"></div>
+              <div class=label>FX ONE Plus</div>
+            </div>
+            <div class="element">
+              <div class="bar" style="height: 30px"></div>
+              <div class=label><%= t('label_alternative.labels') %></div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center mt-3">
+          <h4><%= t('label_alternative.cheaper_1_html') %></h4>
+        </div>
+      </div>
+      <div class="graph-block-container">
+        <div class="graph-block">
+          <h4 class="w-100 text-center mb-1"><%= t('label_alternative.medium_label') %></h4>
+          <div class="w-100 text-center subtitle">
+            <%= t('label_alternative.legend_html') %>
+          </div>
+          <div class="bar-legend">
+            <div class="fx pill">2” x 4”</div>
+            <div class="label pill"><%= t('label_alternative.label') %></div>
+          </div>
+          <div class="legend">
+            <%= t('label_alternative.legend_x_html') %>
+          </div>
+          <div class="graph-axis">
+            <div class="element">
+              <div class="bar black" style="height: 30px"></div>
+              <div class=label>FX ONE Plus</div>
+            </div>
+            <div class="element">
+              <div class="bar" style="height: 100px"></div>
+              <div class=label><%= t('label_alternative.labels') %></div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center mt-3">
+          <h4><%= t('label_alternative.cheaper_2_html') %></h4>
+        </div>
+      </div>
+      <div class="graph-block-container">
+        <div class="graph-block">
+          <h4 class="w-100 text-center mb-1"><%= t('label_alternative.large_label') %></h4>
+          <div class="w-100 text-center subtitle">
+            <%= t('label_alternative.legend_html') %>
+          </div>
+          <div class="bar-legend">
+            <div class="fx pill">4” x 6”</div>
+            <div class="label pill"><%= t('label_alternative.label') %></div>
+          </div>
+          <div class="legend">
+            <%= t('label_alternative.legend_x_html') %>
+          </div>
+          <div class="graph-axis">
+            <div class="element">
+              <div class="bar black" style="height: 60px"></div>
+              <div class=label>FX ONE Plus</div>
+            </div>
+            <div class="element">
+              <div class="bar" style="height: 200px"></div>
+              <div class=label><%= t('label_alternative.labels') %></div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center mt-3">
+          <h4><%= t('label_alternative.cheaper_3_html') %></h4>
+        </div>
+      </div>
+    </div>
+    <p class="text-center mt-3">
+      <%= t('label_alternative.switch_disclaimer_html') %>
+    </p>
+  </div>
+  <div class="generic-block max-width mb-5">
+    <div class="white-block d-flex">
+      <div class="block">
+        <%= image_tag 'label_alternative/description_image_1.png', class: "width-100", id: "descImage1" %>
+        <%= image_tag 'label_alternative/description_image_2.png', class: "width-100 d-none", id: "descImage2" %>
+      </div>
+      <div class="block">
+        <section>
+          <div class="d-flex align-items-center mb-4" onclick="toggleDescriptionBlock()" style="cursor: pointer;">
+            <h4 class="mb-0 mr-2"><%= t('label_alternative.p1_title') %></h4>
+            <i class="fas fa-chevron-up" id="descrHandler1" style="font-size: 28px; margin-left: auto; cursor: pointer;"></i>
+          </div>
+          <div id="descBlock1" class="animated-block" style="height: 200px;">
+            <p><%= t('label_alternative.p1_desc_html') %></p>
+            <a href="<%= contact_path %>">
+              <p class="text-orange bold mb-0 s-medium-tex"><%= t('label_alternative.contact_us') %></p>
+            </a>
+          </div>
+        <section>
+        <hr class="mt-4 mb-4">
+        <section>
+          <div class="d-flex align-items-center mb-4" onclick="toggleDescriptionBlock()" style="cursor: pointer;">
+            <h4 class="mb-0 mr-2"><%= t('label_alternative.p2_title') %></h4>
+            <i class="fas fa-chevron-up" id="descrHandler2" style="font-size: 28px; margin-left: auto; cursor: pointer; transform: rotate(180deg)"></i>
+          </div>
+          <div id="descBlock2" class="animated-block" style="height: 0px;">
+            <p><%= t('label_alternative.p2_desc_html') %></p>
+            <a href="<%= contact_path %>">
+              <p class="text-orange bold mb-0 s-medium-tex"><%= t('label_alternative.learn_more') %></p>
+            </a>
+          </div>
+        <section>
+      </div>
+    <div>
+  </div>
+</div>
+
+<script>
+  function scrollProblems(direction) {
+    const container = document.getElementById('problemsContainer');
+    const scrollAmount = 320;
+    if (direction === 'left') {
+      container.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+    } else {
+      container.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+    }
+  }
+
+  function scrollSolutions(direction) {
+    const container = document.getElementById('solutionsContainer');
+    const scrollAmount = 320;
+    if (direction === 'left') {
+      container.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+    } else {
+      container.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+    }
+  }
+
+  function toggleDescriptionBlock() {
+    const descBlock1 = document.getElementById('descBlock1');
+    const descBlock2 = document.getElementById('descBlock2');
+    const descImage1 = document.getElementById('descImage1');
+    const descImage2 = document.getElementById('descImage2');
+    const handler1 = document.getElementById('descrHandler1');
+    const handler2 = document.getElementById('descrHandler2');
+    if (descBlock1.style.height === '0px') {
+      descBlock1.style.height = '170px';
+      descBlock2.style.height = '0px';
+      descImage1.classList.remove('d-none');
+      descImage2.classList.add('d-none');
+      handler1.style.transform = 'rotate(0deg)';
+      handler2.style.transform = 'rotate(180deg)';
+    } else {
+      descBlock1.style.height = '0px';
+      descBlock2.style.height = '420px';
+      descImage1.classList.add('d-none');
+      descImage2.classList.remove('d-none');
+      handler1.style.transform = 'rotate(180deg)';
+      handler2.style.transform = 'rotate(0deg)';
+    }
+  }
+</script>
