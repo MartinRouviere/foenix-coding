@@ -258,8 +258,9 @@
           </div>
           <div id="descBlock1" class="animated-block" style="height: 200px;">
             <p><%= t('label_alternative.p1_desc_html') %></p>
-            <a href="<%= contact_path %>">
+            <a href="<%= contact_path %>" class="link-orange d-flex align-items-center">
               <p class="text-orange bold mb-0 s-medium-tex"><%= t('label_alternative.contact_us') %></p>
+              <i class="fas fa-arrow-right ml-2"></i>
             </a>
           </div>
         <section>
@@ -271,8 +272,9 @@
           </div>
           <div id="descBlock2" class="animated-block" style="height: 0px;">
             <p><%= t('label_alternative.p2_desc_html') %></p>
-            <a href="<%= contact_path %>">
+            <a href="<%= contact_path %>" class="link-orange d-flex align-items-center">
               <p class="text-orange bold mb-0 s-medium-tex"><%= t('label_alternative.learn_more') %></p>
+              <i class="fas fa-arrow-right ml-2"></i>
             </a>
           </div>
         <section>
@@ -318,7 +320,7 @@
       handler2.style.transform = 'rotate(180deg)';
     } else {
       descBlock1.style.height = '0px';
-      descBlock2.style.height = '420px';
+      descBlock2.style.height = '450px';
       descImage1.classList.add('d-none');
       descImage2.classList.remove('d-none');
       handler1.style.transform = 'rotate(180deg)';
