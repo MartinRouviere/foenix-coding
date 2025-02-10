@@ -1,13 +1,42 @@
 .label-alternative {
+  .scroll-container {
+    width: 100%;
+    position: absolute;
+    left: 0;
+
+    @include for-medium-devices-down {
+      margin-left: -16px;
+      width: calc(100% + 32px);
+    }
+  }
+  .fake-card {
+    width: calc((100vw - 1180px) / 2);
+    height: 310px;
+    flex-shrink: 0;
+
+    @include for-medium-devices-down {
+      width: 32px;
+    }
+  }
   .card {
+    border: 0;
     background-color: white;
     border-radius: 2rem;
     padding: 2rem;
     flex-shrink: 0;
     width: 300px;
     margin-right: 20px;
-    height: 270px;
+    height: 310px;
     margin-bottom: .5rem;
+    padding-top: 5rem;
+
+    .card-icon {
+      top: 2rem;
+      position: absolute;
+      max-width: 32px;
+      object-fit: contain;
+      margin-bottom: .5rem;
+    }
 
     h4 {
       font-size: 16px;
@@ -22,11 +51,17 @@
     }
 
     &.sm {
-      width: 260px;
+      padding-top: 2rem;
+      flex-shrink: 1;
+      width: unset;
+      min-width: 150px;
+      max-width: 265px;
+      margin-bottom: 1rem;
 
       @media screen and (max-width: 600px) {
         width: 100%;
         height: auto;
+        max-width: unset;
       }
     }
   }
