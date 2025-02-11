@@ -18,7 +18,7 @@
       <%= t('label_alternative.problem_title') %>
     </h2>
     <p><%= t('label_alternative.problem_description') %></p>
-    <div class="overflow-hidden scroll-container" id="problemsContainer">
+    <div class="scroll-container" id="problemsContainer">
       <div class="d-flex justify-content-between">
         <div class="fake-card"></div>
         <div class="card">
@@ -65,7 +65,7 @@
       <%= t('label_alternative.solution_title') %>
     </h2>
     <p><%= t('label_alternative.solution_description') %></p>
-    <div class="overflow-hidden scroll-container" id="solutionsContainer">
+    <div class="scroll-container" id="solutionsContainer">
       <div class="d-flex justify-content-between">
         <div class="fake-card"></div>
         <div class="card cardboard">
@@ -272,7 +272,7 @@
           </div>
           <div id="descBlock2" class="animated-block" style="height: 0px;">
             <p><%= t('label_alternative.p2_desc_html') %></p>
-            <a href="<%= contact_path %>" class="link-orange d-flex align-items-center">
+            <a href="/<%= locale %>/fxone_plus" class="link-orange d-flex align-items-center">
               <p class="text-orange bold mb-0 s-medium-tex"><%= t('label_alternative.learn_more') %></p>
               <i class="fas fa-arrow-right ml-2"></i>
             </a>
