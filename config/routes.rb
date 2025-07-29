@@ -27,6 +27,7 @@ Rails.application.routes.draw do
     get '/fxone_standard', to: 'pages#fxone_standard'
     get '/fxone_plus', to: 'pages#fxone_plus'
     get '/faq', to: 'pages#faq'
+    get '/label_alternative', to: 'pages#label_alternative'
     get '/software', to: 'pages#software'
     get '/industry', to: 'pages#industry'
     get '/video', to: 'pages#video'

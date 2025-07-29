@@ -54,6 +54,9 @@ class PagesController < ApplicationController
   def contact_coders
   end
 
+  def label_alternative
+  end
+
   def foenix_codaprint
   end
 

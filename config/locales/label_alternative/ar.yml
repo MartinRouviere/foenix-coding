@@ -1,0 +1,79 @@
+ar:
+  navbar:
+    label_alternative: "Label Alternative"
+  seo:
+    label_alternative:
+      title: "Cost-Effective and Eco-Friendly Label Alternative with the FX ONE PLus Printer"
+      description: "Discover how Foenix Coding's FX ONE Printers offer a sustainable and economical alternative to traditional labeling methods. Eliminate expensive labels and reduce environmental impact by printing directly onto packaging with high-resolution, durable, and eco-friendly ink solutions."
+      keywords: "label alternative, direct box printing, FX ONE Printer, eco-friendly packaging, cost-effective labeling, industrial inkjet printer, sustainable printing solutions, eliminate labels, packaging printing technology, Foenix Coding"
+  label_alternative:
+    title: "Are you still using  LABELS in 2025?"
+    subtitle: "Not great for the environment and that's an extremely expensive and complex solution."
+    problem_title: "The problem: the labels"
+    problem_description: "Manufacturers are starting to move away from traditional, wasteful, expensive and complex \"print and apply\" systems"
+    problem_1:
+      title: "High Costs"
+      description_html: "Expensive paper labels & ribbons<br><br>High costs of the labelling machine<br><br>High operational costs"
+    problem_2:
+      title: "Environmental Concern"
+      description_html: "Labels generate non-recyclable waste, including backing paper going to landfill<br><br>Partial rolls or unused labels often go to waste."
+    problem_3:
+      title: "Operational Inefficiencies"
+      description_html: "Time consuming and has significant downtime due to labels and ribbon jams and mechanical adjustments/failures<br><br>Label size restrictions limit the flexibility of design and messaging.<br><br>Supply chain shortages of paper/adhesives"
+    problem_4:
+      title: "Storage Issues"
+      description_html: "Valuable storage space taken up with rolls and rolls of labels<br><br>Ribbons are sensitive to storage conditions and manipulations"
+    problem_5:
+      title: "Durability Problems"
+      description_html: "Labels may not adhere properly to certain surfaces, especially porous or recycled materials<br><br>Labels can fall off, fade, or smudge, reducing their reliability"
+    solution_title: "The solution: the FX ONE Printer"
+    solution_description: "Print all the necessary information directly on generic cartons in-line. Save money and gives you more flexibility"
+    solution_1:
+      title: "Cost Savings"
+      description_html: "Print directly onto the box and reduce costs by up to 80% by eliminating expensive labels,  pre-printed packaging and staff requirements<br><br>Ink is the only consumable, with significantly lower cost per print<br><br>Lower Overall Capital Equipment Cost"
+    solution_2:
+      title: "Eco-Friendly"
+      description_html: "Uses vegetable non-toxic inks<br><br>Keeps the boxes fully recyclable<br><br>No factory air needed<br><br>Produces no label or backing waste"
+    solution_3:
+      title: "Unmatched Efficiency"
+      description_html: "Plug & Play Solution<br><br>Eliminates downtime:<br>No need to stop your production line even when changing cartridges<br><br>Simplifies operations with centralized design management<br>Change message size instantly<br>Print up to 1.5 meters long messages"
+    solution_4:
+      title: "Space Optimization"
+      description_html: "One small cartridge is the equivalent of thousands and thousands of labels.<br><br>No need for large label & ribbons inventories, freeing up storage space.<br><br>Reducing box inventory by up to 10 times"
+    solution_5:
+      title: "Versatility and Quality"
+      description_html: "Ink is absorbed by the box, making it permanent and resistant to abrasion, moisture, and UV light<br><br>Prints on any surface, including porous and recycled materials"
+    made_in_uk: "MADE IN UK"
+    benefits_title: "Why now? It's time to get rid of billions of labels"
+    benefit_1:
+      title: "Market Timing"
+      description_html: "Convergence of consumer demand, technological maturity, and corporate commitments driving adoption.<br>Our printers are already used by the some of the largest manufacturers in the world."
+    benefit_2:
+      title: "Technical Maturity"
+      description_html: "10 years of R&D culminating in a market-ready printer offering the best solution to print directly onto your boxes.<br>Everything we do is designed and manufactured in the UK"
+    benefit_3:
+      title: "Future-proof"
+      description_html: "Be ready for the GS1 Sunrise 2027 and the transition to 2D Barcodes.<br>Always get Grade-A barcode readability with our printers."
+    benefit_4:
+      title: "Global presence"
+      description_html: "Wherever you are in the world, one of our distributors are close by.<br>We are present on every continent and have satisfied customers in over 60 countries worldwide."
+    switch_title: "Just make the switch"
+    switch_description_html: "Worried about costs?<br>Let' s compare direct carton marking with the FX ONE Plus vs. direct thermal label printing"
+    label: "Label"
+    labels: "Labels"
+    legend_html: "FX ONE Plus vs<br>Thermal Label Printing"
+    legend_x_html: "Cost per<br>print/label"
+    cheaper_1_html: "20x Cheaper<br>on average"
+    cheaper_2_html: "3x Cheaper<br>on average"
+    cheaper_3_html: "3.3x Cheaper<br>on average"
+    small_label: "Small Label"
+    medium_label: "Medium Label"
+    large_label: "Large Label"
+    switch_disclaimer_html: "when printing a typical label with barcodes, use by dates, batch codes and fixed text.<br>And that’s only the cost per print! When you factor in the high price of a labeling machine, operational costs, downtime, and maintenance, the savings become even greater!"
+    contact_us: "Contact us"
+    learn_more: "Learn more"
+    p1_title: "Instant Label Cost Calculation"
+    p1_desc_html: "Our FX APP software lets you calculate your label printing cost in just one click!<br>Checking how much you could save has never been easier.<br>Contact us now to download our free software!"
+    p2_title: "Ditch labels & pre-printed box"
+    p2_desc_html: "Get rid of the inefficiencies of labels, including high costs, frequent downtime for roll changes, and significant waste from consumables like backing paper.<br><br>Direct carton marking with the high-resolution FX ONE PLUS printers offers a cost-effective, sustainable alternative by eliminating the need for labels, reducing environmental impact, and enabling flexible, durable, and high-speed printing directly onto cartons.<br><br>This approach enhances operational efficiency, lowers costs, and minimizes storage requirements while providing robust, customizable, and eco-friendly solutions for secondary packaging.<br><br>We offer Free Trial & Test prints."
+

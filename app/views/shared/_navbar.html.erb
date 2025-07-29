@@ -155,9 +155,14 @@
               </ul>
             </div>
           </div>
-          <div class="navbar-item hidden">
+          <div class="navbar-item hidden mr-4">
             <%= link_to video_path, class: "#{params[:action] == 'video' ? 'navbar-title nav-left navbar-title-underline' : 'navbar-title nav-left'}" do %>
               <%= t("navbar.video") %>
+            <% end %>
+          </div>
+          <div class="navbar-item hidden">
+            <%= link_to label_alternative_path, class: "#{params[:action] == 'label_alternative' ? 'navbar-title nav-left navbar-title-underline' : 'navbar-title nav-left'}" do %>
+              <%= t("navbar.label_alternative") %>
             <% end %>
           </div>
         </div>
@@ -221,6 +226,11 @@
           <% end %>
           <%= link_to fxone_plus_path, class: 'printers-text-container' do %>
             <span class="printers-text"><%= t("navbar.printer_three") %></span>
+          <% end %>
+        </li>
+        <li class="each-mobile-link">
+          <%= link_to label_alternative_path do %>
+            <%= t("navbar.label_alternative") %>
           <% end %>
         </li>
         <li class="each-mobile-link"><a href="/software"><%= t('navbar.software') %></a></li>
