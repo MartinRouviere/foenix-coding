@@ -1,14 +1,16 @@
-// import "trix";
+import "trix";
 import "bootstrap";
 import "./cookie_bar"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import simpleParallax from 'simple-parallax-js';
 import { initMapbox } from '../plugins/init_mapbox';
+import Rails from '@rails/ujs';
 
 
 initMapbox();
 AOS.init();
+Rails.start();
 
 document.querySelector('.bar-close').addEventListener('click', () => {
   document.querySelector('.top-bar').remove();
